@@ -1,0 +1,390 @@
+[
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "DeepSeek 发布更快、更精简的新模型，直接对标 OpenAI 和 Anthropic，是过去 24 小时 AI 相关互动最高的快讯之一。",
+  "author": "@Kalshi_Finance",
+  "url": "https://x.com/Kalshi_Finance/status/2111834690168705355",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 632,
+   "reposts": 39,
+   "replies": 32,
+   "views": 30498
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "模型选型总结：复杂任务看 Claude Opus 5.5，专项任务看 GPT-6 Astra，性价比和事实可靠性看 Gemini 4 Argon，低成本开源权重看 DeepSeek V4.1 Flash。",
+  "author": "@MrOnsase",
+  "url": "https://x.com/MrOnsase/status/2111856346328916314",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 90,
+   "reposts": 29,
+   "replies": 10,
+   "views": 20663
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "四个模型在浏览器里生成海洋泻湖场景对比，Claude Opus 5.5 视觉效果最好，但每次只要 2.8 美元的 GPT-6.1 Sol 性价比突出。",
+  "author": "@vib3coded",
+  "url": "https://x.com/vib3coded/status/2111888587360792982",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 91,
+   "reposts": 12,
+   "replies": 20,
+   "views": 3768
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "一项在 11 个陌生代码库上测编码智能体的基准：GPT-6 Astra 0.422 居首，GPT-6.1 Sol 0.383，Claude Opus 5.5 0.312，Gemini 4 Argon 0.202 排第五。",
+  "author": "@anya_yfa7",
+  "url": "https://x.com/anya_yfa7/status/2111785209670897998",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 31,
+   "reposts": 0,
+   "replies": 18,
+   "views": 1084
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "用户吐槽 Gemini 4 Argon 每周用量上限太紧，帖子比较各家额度：Opus 5.5 约 17 倍、GPT-6 Astra 约 7 倍、Gemini 4 Argon 为 1 倍基准。",
+  "author": "@itsvishaltwt",
+  "url": "https://x.com/itsvishaltwt/status/2111776863114977515",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 57,
+   "reposts": 1,
+   "replies": 35,
+   "views": 1356
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "25 岁以色列创始人把成立仅一年、零外部融资的 AI 安全初创 Ventris 以 3000 万至 3500 万美元卖给 Hex-Rays，6 名员工全部并入。",
+  "author": "@two3pro",
+  "url": "https://x.com/two3pro/status/2111763585240309903",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 25,
+   "reposts": 0,
+   "replies": 22,
+   "views": 1808
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "AI",
+  "summary": "本周 AI 回顾：AI 模型跑在 15 台 55 美元的电视盒子上、四个 AI 智能体通关 Minecraft、埃森哲把员工 Claude 费用限制在每人每月 29 美元等。",
+  "author": "@reet_batra",
+  "url": "https://x.com/reet_batra/status/2111741071453716760",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 17,
+   "reposts": 1,
+   "replies": 7,
+   "views": 582
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "周日 BTC 在 8.13 万美元附近横盘，24 小时波动有限，ETH 再度承压。",
+  "author": "@ZTXEX_Global",
+  "url": "https://x.com/ZTXEX_Global/status/2111782314350887201",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 20,
+   "reposts": 15,
+   "replies": 6,
+   "views": 157
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "美国 9 月 CPI 高于预期（3.7%），叠加大规模期货爆仓，加密市场在下跌后进入盘整。",
+  "author": "@Agek1d",
+  "url": "https://x.com/Agek1d/status/2111722896821289451",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 18,
+   "reposts": 3,
+   "replies": 8,
+   "views": 303
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "上周现货 ETF 全线净流出：BTC -2.29 亿、ETH -3.20 亿、SOL -2,552 万、XRP -184 万美元，ETH 流出最多。",
+  "author": "@BitcoinWorldN",
+  "url": "https://x.com/BitcoinWorldN/status/2112064644550463628",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2,
+   "reposts": 1,
+   "replies": 1,
+   "views": 371
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "Cysic 跨链桥被攻击：攻击者据称增发 1000 万枚未授权 CYS，卖出约 720 万枚，并转走约 306.6 ETH。",
+  "author": "@APEXMedia2017",
+  "url": "https://x.com/APEXMedia2017/status/2111886305252487436",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 1,
+   "views": 145
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "德意志银行计划几周内上线 BTC 和 ETH 托管服务，2027 年扩展到亚洲市场。",
+  "author": "@cryptoquesthub1",
+  "url": "https://x.com/cryptoquesthub1/status/2111816510020702612",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2,
+   "reposts": 0,
+   "replies": 0,
+   "views": 28
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "孙宇晨高位砍掉九成以太坊换仓美股，一边看多 AI 一边看空纳指，引发对“卖铲子到应用变现”周期的讨论。",
+  "author": "@charles12388",
+  "url": "https://x.com/charles12388/status/2111725605054242865",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 7,
+   "reposts": 1,
+   "replies": 6,
+   "views": 574
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "Crypto",
+  "summary": "币安日报 10/19：恐贪指数 49（中性），BTC 约 8.21 万美元，加密总市值超 2.74 万亿美元，BTC 市占率 60.2%。",
+  "author": "@PUU60K1V",
+  "url": "https://x.com/PUU60K1V/status/2112018683463926066",
+  "extra_urls": [
+   "https://x.com/GateFutures/status/2112015909288132833"
+  ],
+  "metrics": {
+   "likes": 4,
+   "reposts": 0,
+   "replies": 2,
+   "views": 140
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "统计局公布：三季度 GDP 同比增长 4.5%（二季度 4.3%，预期 4.4%），前三季度 4.6%；但投资仍大幅下滑，消费依旧低迷。",
+  "author": "@resoundnews",
+  "url": "https://x.com/resoundnews/status/2112011957763272964",
+  "extra_urls": [
+   "https://x.com/i/trending/2112003183275090362"
+  ],
+  "metrics": {
+   "likes": 4,
+   "reposts": 0,
+   "replies": 0,
+   "views": 442
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "评论：三季度增长主要靠外贸，内需疲弱；数据超预期反而降低了短期出台超预期刺激的可能，对股市未必是好事。",
+  "author": "@andyz8818576155",
+  "url": "https://x.com/andyz8818576155/status/2112017975951999308",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 18,
+   "reposts": 0,
+   "replies": 2,
+   "views": 2338
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "商务部称太阳能技术越来越多用于航空航天和国防，因此纳入出口管制；此次修订还涉及人工智能和生物科技。",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2111813297179865285",
+  "extra_urls": [
+   "https://x.com/xiaoyuhaoda/status/2111983243952275896"
+  ],
+  "metrics": {
+   "likes": 38,
+   "reposts": 15,
+   "replies": 21,
+   "views": 21027
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "周末国常会听取“人工智能+”行动进展汇报，强调技术攻关和算法创新，被认为可能刺激 A 股 AI 板块短期情绪。",
+  "author": "@ixyue29",
+  "url": "https://x.com/ixyue29/status/2111798507854237963",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 15,
+   "reposts": 0,
+   "replies": 9,
+   "views": 4014
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "2026 金融街论坛年会 10 月 19 日至 22 日在北京举行，潘功胜、丁向群、吴清、朱鹤新四位金融监管负责人将发表演讲。",
+  "author": "@xu159411209",
+  "url": "https://x.com/xu159411209/status/2111955496794263636",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 0,
+   "reposts": 0,
+   "replies": 0,
+   "views": 316
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国内形势",
+  "summary": "转述 CNBC 报道：经济放缓背景下，北京加快银行业整合，已关闭约四分之一的银行，以提升资本实力。",
+  "author": "@Logs_importer",
+  "url": "https://x.com/Logs_importer/status/2111875251906761152",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2,
+   "reposts": 0,
+   "replies": 1,
+   "views": 626
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "批评特朗普称泽连斯基“不在乎”结束战争，并指出俄罗斯低价柴油是美国解除制裁后在特朗普与普京的协议下出售的。",
+  "author": "@YourAnonCentral",
+  "url": "https://x.com/YourAnonCentral/status/2112053207870681504",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 867,
+   "reposts": 201,
+   "replies": 24,
+   "views": 22598
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "华尔街日报：普京提议与特朗普、习近平举行三方峰会谈判结束乌克兰战争，据称中方表示若特朗普同意则持开放态度。",
+  "author": "@DropSiteNews",
+  "url": "https://x.com/DropSiteNews/status/2112069707859677406",
+  "extra_urls": [
+   "https://x.com/ME_Observer_/status/2111960042995941879"
+  ],
+  "metrics": {
+   "likes": 26,
+   "reposts": 7,
+   "replies": 1,
+   "views": 5347
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "特朗普致信以色列民众，全力支持内塔尼亚胡在 10 月 27 日大选中连任，并称若换了“错误的领导人”，美国就得自己对付伊朗。",
+  "author": "@trumpchinese1",
+  "url": "https://x.com/trumpchinese1/status/2111843220154089640",
+  "extra_urls": [
+   "https://x.com/Fang_yuanyi/status/2112054116860207105"
+  ],
+  "metrics": {
+   "likes": 73,
+   "reposts": 5,
+   "replies": 3,
+   "views": 11138
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "世界简报：伊朗称已经通过卡塔尔向美国递交重开霍尔木兹海峡的 7 天方案，特朗普称伊朗战争会“很快”结束、油价将回落。",
+  "author": "@kurpan_t",
+  "url": "https://x.com/kurpan_t/status/2111759201374703791",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 183
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "反驳“美国能拉拢俄罗斯、拆散中俄同盟”的观点，认为这一思路不现实。",
+  "author": "@LJS527",
+  "url": "https://x.com/LJS527/status/2111897493990420722",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 65,
+   "reposts": 11,
+   "replies": 8,
+   "views": 1436
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "马尼拉与北京紧张升级，作者推荐菲律宾专栏作家 Rigoberto Tiglao 的分析，讨论最终由谁买单。",
+  "author": "@angeloinchina",
+  "url": "https://x.com/angeloinchina/status/2112009635985289333",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 34,
+   "reposts": 7,
+   "replies": 1,
+   "views": 2237
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "category": "国际形势",
+  "summary": "金十数据汇总：日本高市内阁支持率首次跌破 50%；泽连斯基称特朗普在逼乌克兰向俄罗斯投降。",
+  "author": "@Bouza11Juan",
+  "url": "https://x.com/Bouza11Juan/status/2111948387314532566",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 454
+  }
+ }
+]
