@@ -1,0 +1,42 @@
+:root{--fg:#111;--muted:#666;--accent:#F4C542;--link:#A66F00;--bg:#fff;--card:#fafafa;--line:#eee}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;color:var(--fg);background:var(--bg)}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+a{color:var(--link);font-weight:600;text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:2px;text-underline-offset:3px}
+a:hover{background:var(--accent);color:var(--fg)}
+.hd{position:sticky;top:0;background:#fff;border-bottom:3px solid var(--accent);z-index:10}
+.hd-in{display:flex;align-items:center;gap:12px;padding-top:10px;padding-bottom:6px;flex-wrap:wrap}
+.logo{font-size:1.15rem;font-weight:800;color:var(--fg);text-decoration:none;white-space:nowrap}
+.logo:hover{background:none}
+.search{flex:1;min-width:180px}
+.search input{width:100%;padding:7px 12px;border:2px solid var(--line);border-radius:20px;font-size:15px;outline:none;background:#fff}
+.search input:focus{border-color:var(--accent)}
+.tabs{display:flex;gap:4px;overflow-x:auto;padding-bottom:6px;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;padding:3px 12px;border-radius:14px;color:var(--fg);text-decoration:none;font-size:.9rem;font-weight:600;border:2px solid transparent}
+.tab:hover{background:#fff7dc}
+.tab.on{border-color:var(--accent);background:var(--accent)}
+h1{font-size:1.5rem;margin:22px 0 6px}
+h2{font-size:1.15rem;border-left:4px solid var(--accent);padding-left:.5em;margin:26px 0 10px}
+.muted{color:var(--muted)}
+.small{font-size:.85rem}
+.days{list-style:none;padding:0;margin:0}
+.days li{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:11px 0;border-bottom:1px solid var(--line)}
+.days .d{font-weight:700;font-variant-numeric:tabular-nums}
+.tag{display:inline-block;padding:0 8px;border-radius:10px;font-size:.78rem;font-weight:700;line-height:1.7;background:#f1f1f1;color:#333;text-decoration:none;white-space:nowrap}
+a.tag:hover{filter:brightness(.95)}
+.c-AI{background:#e6f0ff;color:#1d4ed8}
+.c-Crypto{background:#fff4d1;color:#8a5a00}
+.c-国内形势{background:#ffe6e6;color:#b42318}
+.c-国际形势{background:#e5f7ec;color:#16794a}
+.item{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:12px 14px;margin:10px 0}
+.item .sum{margin:6px 0;white-space:pre-wrap;word-break:break-word}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:.85rem;color:var(--muted);align-items:center}
+.meta a{font-weight:600}
+.links{margin:4px 0 0;padding-left:18px;font-size:.85rem;word-break:break-all}
+mark{background:#ffe58a;padding:0 1px}
+.nav{display:flex;justify-content:space-between;gap:8px;margin:20px 0;font-size:.95rem}
+.empty{text-align:center;padding:48px 12px;color:var(--muted)}
+.empty .big{font-size:2.4rem}
+.ft{border-top:3px solid var(--accent);margin-top:40px;padding:14px 16px 30px;color:var(--muted);font-size:.85rem}
+@media (max-width:520px){body{font-size:15px}h1{font-size:1.3rem}.item{padding:10px 11px}}

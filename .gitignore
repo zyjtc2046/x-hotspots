@@ -1,0 +1,4 @@
+data/index.json.tmp
+__pycache__/
+*.pyc
+.DS_Store
