@@ -143,7 +143,7 @@
     var days = index.days.filter(function (d) { return !cat || (d.categories || {})[cat]; });
     var h = "<h1>每日 X 热点</h1><p class=\"muted\">AI、加密货币、国内形势、国际形势，北京时间每天 5:30 更新。</p>";
     h += "<h2>" + (cat ? label(cat) + " · " : "") + "历史报告</h2>";
-    if (!index.days.length) return empty("还没有数据", "第一份报告生成后会自动出现在这里。");
+    if (!index.days.length) return h + empty("还没有数据", "第一份报告生成后会自动出现在这里。");
     if (!days.length) return h + empty("该分类暂无报告");
     h += '<ul class="days">' + days.map(function (d) {
       var cats = d.categories || {};
