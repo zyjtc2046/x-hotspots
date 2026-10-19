@@ -48,6 +48,14 @@ def main():
             cats[k] = cats.get(k, 0) + 1
         days.append({"date": m.group(1), "file": name, "total": len(items), "categories": cats})
     days.sort(key=lambda d: d["date"], reverse=True)
+    idx_path = os.path.join(DATA, "index.json")
+    try:
+        with open(idx_path, encoding="utf-8") as f:
+            if json.load(f).get("days") == days:
+                print(f"[build_index] data/index.json 无变化（{len(days)} 天）")
+                return 0
+    except Exception:
+        pass
     out = {
         "generated_at": datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds"),
         "days": days,

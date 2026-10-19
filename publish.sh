@@ -55,7 +55,7 @@ fi
 # 4. 同步并推送
 git remote get-url origin >/dev/null 2>&1 || die "没有配置远程 origin"
 if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
-  git pull -q --rebase origin "$BRANCH" || { git rebase --abort >/dev/null 2>&1; die "git pull --rebase 失败（可能有冲突或网络问题），已中止 rebase，本地提交保留"; }
+  git pull -q --rebase --autostash origin "$BRANCH" || { git rebase --abort >/dev/null 2>&1; die "git pull --rebase 失败（可能有冲突或网络问题），已中止 rebase，本地提交保留"; }
 fi
 git push -q origin "HEAD:$BRANCH" || die "git push 失败（检查网络或 GitHub 登录：gh auth status）"
 info "✅ 已发布 $DATE，1-2 分钟后网站更新：https://zyjtc2046.github.io/x-hotspots/#/day/$DATE"
