@@ -1,0 +1,446 @@
+[
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "The Information 爆料：Anthropic 正在准备一款新模型，能在用户指令含糊时更好地推断真实意图，推理和创造性解题能力也更强（消息来自一位试用者，官方未确认）。",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2112212326795362560",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 237,
+   "reposts": 14,
+   "replies": 13,
+   "views": 24731,
+   "bookmarks": 45
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "据 The Information，DeepSeek 正与华为合作设计新的 AI 芯片挑战英伟达，以减少对美国芯片的依赖（转述报道，尚未有官方确认）。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2112287169381294235",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 236,
+   "reposts": 33,
+   "replies": 62,
+   "views": 60169,
+   "bookmarks": 22
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "路透社报道、AI 安全公司 NorForge 发布报告：一名用中文下指令的黑客让 AI 智能体尝试攻击 1200 多个网站，攻入 100 多家公司的相关网站（涉及约翰迪尔、SharkNinja、康明斯），总共花了约 5000 美元 token，摊下来每次成功入侵约 50 美元。",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2112198777348268271",
+  "extra_urls": [
+   "https://x.com/_FORAB/status/2112167325957067088"
+  ],
+  "metrics": {
+   "likes": 111,
+   "reposts": 13,
+   "replies": 17,
+   "views": 16745,
+   "bookmarks": 76
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "美国国土安全部的一份命令显示，禁止联邦民用政府机构采购 DeepSeek 模型及基于它开发的第三方产品；文件 10 月 19 日在《联邦公报》预公开、10 月 20 日正式刊登（据作者阅读原文，标价值观察）。",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2112205089482174749",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 92,
+   "reposts": 7,
+   "replies": 10,
+   "views": 18098,
+   "bookmarks": 34
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "沃顿教授 Ethan Mollick 批评 MIT CSAIL 又在用“计算机不能被问责，所以不能做管理决策”那张老幻灯片，指出交易、物流、客服、保险里自动化系统早就在做管理决策，假装没有反而是在推卸责任。",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2112030115752456456",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 977,
+   "reposts": 70,
+   "replies": 224,
+   "views": 42791,
+   "bookmarks": 108
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "宝玉转发一段讽刺视频：两个 AI 一个审代码、一个按审查意见改代码，来回折腾了 50 多轮；更讽刺的是视频下面两个 AI 账号还在互相评论停不下来。",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2111974893676060990",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 502,
+   "reposts": 13,
+   "replies": 214,
+   "views": 119622,
+   "bookmarks": 122
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "网易 LobsterAI 发布《中国办公 Agent 用户行为报告》：微信是最大的办公 Agent 入口，最大场景仍是泛编程，73.6% 的普通用户只用一个模型；9 月单次任务 token 规模已是 3 月的 3.2 倍。",
+  "author": "@vista8",
+  "url": "https://x.com/vista8/status/2112029104060948920",
+  "extra_urls": [
+   "https://x.com/xiaohu/status/2112002646303445402"
+  ],
+  "metrics": {
+   "likes": 167,
+   "reposts": 15,
+   "replies": 105,
+   "views": 30803,
+   "bookmarks": 147
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "AI",
+  "summary": "turingou 分享用 Grok bot 找日本宫古岛、安昙野房源的体验：它把公开房产平台、本地中介网站和 Instagram 信息整合起来，作者认为几年内人们可能不再找人类中介。",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2112176072234037279",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 162,
+   "reposts": 14,
+   "replies": 9,
+   "views": 29049,
+   "bookmarks": 115
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "据彭博，摩根大通把存款代币 JPM Coin 搬到以太坊上，面向机构客户和加密公司，可 7×24 小时秒级转移美元存款，用于链上支付和贸易结算。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2112090594763763946",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2112137353338773880",
+   "https://x.com/Polymarket/status/2112277739939991921"
+  ],
+  "metrics": {
+   "likes": 708,
+   "reposts": 80,
+   "replies": 85,
+   "views": 69175,
+   "bookmarks": 18
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "XRP 开通官方 X 账号，由 Ripple 和 XRP Ledger 基金会共同管理。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2112234889130979357",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2008,
+   "reposts": 208,
+   "replies": 81,
+   "views": 49510,
+   "bookmarks": 32
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "XRP Ledger 将于周五激活一项漏洞修复升级，修补即将上线的借贷系统；但 Ripple 向银行推销、用于跨境结算的借贷协议本身还差 10 张验证者票（共需 29 票）才能上线。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2112111920232698235",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 963,
+   "reposts": 168,
+   "replies": 69,
+   "views": 68106,
+   "bookmarks": 37
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "万事达推出 Stablecoin Security 工具，帮助银行在资金上链前识别稳定币支付中的欺诈、诈骗和制裁风险，先在北美上线，2027 年全球可用。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2112217361185182100",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 388,
+   "reposts": 61,
+   "replies": 50,
+   "views": 20482,
+   "bookmarks": 31
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "Lookonchain 监测：一个新钱包（0xb15b）过去 10 小时被多次清算，累计 8,163 枚 ETH（约 1978 万美元）爆仓。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2112120696285671906",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 179,
+   "reposts": 12,
+   "replies": 61,
+   "views": 52158,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "Crypto",
+  "summary": "Phyrex 看币安数据：BTC 和 ETH 合约做多意愿回升，价格还没明显走高，但合约持仓和多头资金费已在增加，有资金提前押注反弹。",
+  "author": "@PhyrexNi",
+  "url": "https://x.com/PhyrexNi/status/2112139516618350638",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 47,
+   "reposts": 2,
+   "replies": 28,
+   "views": 12213,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "湖北一家高空江景酒店被住客发现房间挂画后面藏着楼梯，酒店称通往热水器设备间，承诺免房费但要求删帖。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112171910297735574",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1141,
+   "reposts": 62,
+   "replies": 115,
+   "views": 280888,
+   "bookmarks": 198
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "湖北网友拍到一名外卖员骑行途中疑似猝死在路边，仍保持坐姿伏在围栏上，路人称已无气息；有网友称他的电瓶车还是租的（未核实）。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112166879317897536",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 851,
+   "reposts": 87,
+   "replies": 57,
+   "views": 86931,
+   "bookmarks": 129
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "华为尊界 V800 刹车踏板断裂争议发酵、“速成车”质疑升温之际，特斯拉中国官方和高管陶琳先后发文强调“没有速成车”，并提到全球有 1000 万车主，被视为借势喊话。",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2112137690913415268",
+  "extra_urls": [
+   "https://x.com/bbcchinese/status/2112108617688072262"
+  ],
+  "metrics": {
+   "likes": 801,
+   "reposts": 15,
+   "replies": 167,
+   "views": 342488,
+   "bookmarks": 70
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "网传星巴克中国将像美加门店一样放提示牌，引导顾客购买后才能落座；官方晚间辟谣，但有员工称已收到通知次日实施（说法冲突，未核实）。",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2112142536559263971",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 138,
+   "reposts": 6,
+   "replies": 35,
+   "views": 54887,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "2025 年诺贝尔经济学奖得主阿吉翁接受德媒采访称，欧洲在汽车领域可以用市场换取中国的技术。",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2112134664593023461",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 89,
+   "reposts": 12,
+   "replies": 83,
+   "views": 30435,
+   "bookmarks": 35
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国内形势",
+  "summary": "台湾 11 月底举行地方选举（直辖市长、县市长和县市议员），蓝绿地方执政版图消长受关注，国民党基本盘偏北、民进党偏南。",
+  "author": "@bbcchinese",
+  "url": "https://x.com/bbcchinese/status/2112166876789027257",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 45,
+   "reposts": 3,
+   "replies": 9,
+   "views": 39161,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "欧洲示威潮演变为骚乱：法国数周的学生抗议扩大为反油价物价运动（10/17 约 50 万人上街），巴黎、里昂、雷恩等地出现抢劫，总理勒科尔尼提议局部宵禁；意大利梅洛尼周末冲突后召开紧急会议；特朗普称法国问题根源是移民。热度最高的是立场账号 @visegrad24 发的右翼团体在里昂上街“制止抢劫”视频。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2112278591870226569",
+  "extra_urls": [
+   "https://x.com/AP/status/2112137146400215172",
+   "https://x.com/BBCWorld/status/2112142883083976754",
+   "https://x.com/dw_chinese/status/2112124094996943015",
+   "https://x.com/visegrad24/status/2112281847648473331"
+  ],
+  "metrics": {
+   "likes": 7111,
+   "reposts": 948,
+   "replies": 310,
+   "views": 114319,
+   "bookmarks": 387
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "马斯克宣布明年通过“特朗普账户”给每个美国孩子送一股 SpaceX 股票，特朗普发帖致谢；具体怎么发、谁有资格、何时开始都还不清楚。按美国 7200 万名 18 岁以下儿童估算，约占马斯克所持 SpaceX 股份的 0.8% 到 1.5%（qinbafrank 估算）。",
+  "author": "@realDonaldTrump",
+  "url": "https://x.com/realDonaldTrump/status/2112293785472225568",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2112145727077900410",
+   "https://x.com/Cointelegraph/status/2112102508487184608",
+   "https://x.com/ChineseWSJ/status/2112150620127834563",
+   "https://x.com/qinbafrank/status/2112117842237919687"
+  ],
+  "metrics": {
+   "likes": 4635,
+   "reposts": 797,
+   "replies": 527,
+   "views": 343318,
+   "bookmarks": 114
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "立场账号 @visegrad24 称乌克兰首次用空中无人机把受伤士兵从前线后送，附视频；暂未见其他来源核实。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2112138468365070600",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 11006,
+   "reposts": 1339,
+   "replies": 95,
+   "views": 705916,
+   "bookmarks": 991
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "美国国务卿卢比奥证实，美中俄三方就结束乌克兰战争举行峰会的讨论正在进行（接昨日普京提议三方峰会的消息）。",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2112140206195548196",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 49,
+   "reposts": 10,
+   "replies": 19,
+   "views": 46247,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "泽连斯基称美国已恢复与乌克兰的情报共享，美方则说从未中断；乌方另称俄军再次导弹袭击时第一波没收到伙伴国预警，卢比奥否认，美乌关系持续紧张。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2112139230373679451",
+  "extra_urls": [
+   "https://x.com/dw_chinese/status/2112196033862058158"
+  ],
+  "metrics": {
+   "likes": 173,
+   "reposts": 40,
+   "replies": 33,
+   "views": 45498,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "据路透，特朗普政府将逐案审批，允许私人投资者收购并翻新受制裁的“影子船队”油轮，用于合法运输非受制裁石油。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2112278111677215166",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 596,
+   "reposts": 83,
+   "replies": 55,
+   "views": 120907,
+   "bookmarks": 58
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "美国中期选举提前投票在得州、内华达开启，特朗普连发帖号召投共和党；《华尔街日报》称特朗普幕僚已纷纷咨询律所，防备民主党拿下国会后的调查。",
+  "author": "@realDonaldTrump",
+  "url": "https://x.com/realDonaldTrump/status/2112294609980198977",
+  "extra_urls": [
+   "https://x.com/realDonaldTrump/status/2112294730247627212",
+   "https://x.com/ChineseWSJ/status/2112129165633769751"
+  ],
+  "metrics": {
+   "likes": 1129,
+   "reposts": 237,
+   "replies": 176,
+   "views": 256530,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "category": "国际形势",
+  "summary": "日本首相高市早苗首次表态，若国会不反对将出席 11 月在深圳举行的 APEC 峰会，外界关注中日关系能否借此缓和。",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2112142891602542838",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 53,
+   "reposts": 5,
+   "replies": 47,
+   "views": 31897,
+   "bookmarks": 3
+  }
+ }
+]
