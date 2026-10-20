@@ -1,0 +1,444 @@
+[
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "DeepSeek 用 Apache 2.0 协议开源了自家线上服务在用的推理框架 DeepInfer（支撑 V4.1 Flash 低价 API），中文 AI 圈刷屏，普遍认为会推动模型降价",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2112486001184850341",
+  "extra_urls": [
+   "https://x.com/MaxForAI/status/2112501497674235913",
+   "https://x.com/AYi_AInotes/status/2112506608357953604",
+   "https://x.com/op7418/status/2112477307550183920",
+   "https://x.com/vista8/status/2112517407390756997",
+   "https://x.com/qinbafrank/status/2112530708480848051"
+  ],
+  "metrics": {
+   "likes": 420,
+   "reposts": 15,
+   "replies": 38,
+   "views": 44055,
+   "bookmarks": 61
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "OpenAI 官宣收购药物研发协调平台 Orchestra Bio，团队和技术并入其生命科学模型和工具系列 Rosalind，金额未公开",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2112607347688583586",
+  "extra_urls": [
+   "https://x.com/dotey/status/2112626457541595476",
+   "https://x.com/TechCrunch/status/2112644795235443149"
+  ],
+  "metrics": {
+   "likes": 4337,
+   "reposts": 345,
+   "replies": 276,
+   "views": 320979,
+   "bookmarks": 755
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "Sam Altman 称 Aleksander 已接受邀请负责 OpenAI 面对超级智能的安全与安保工作（帖中只写了名字）；The Information 同日报道 Altman 曾对员工提出合并头部 AI 实验室、以及给自我改进型 AI 设限的“pacing 2.0”构想（媒体报道，未经官方确认）",
+  "author": "@sama",
+  "url": "https://x.com/sama/status/2112652656602923366",
+  "extra_urls": [
+   "https://x.com/theinformation/status/2112597246042603587",
+   "https://x.com/theinformation/status/2112612337932812694"
+  ],
+  "metrics": {
+   "likes": 724,
+   "reposts": 24,
+   "replies": 110,
+   "views": 68021,
+   "bookmarks": 52
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "宝玉谈 Claude Design：前沿模型默认就会用 shadcn/ui 一套，不必刻意提示，反倒让 AI 做的界面千篇一律",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2112598829870575718",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 89,
+   "reposts": 13,
+   "replies": 13,
+   "views": 10358,
+   "bookmarks": 105
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "AYi 实测同一条 Three.js 指令：Claude Opus 5.5 对比 MiniMax 新发的 M3.1 Flash，结果让她觉得“反直觉”（个人实测）",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2112521204791918675",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 54,
+   "reposts": 5,
+   "replies": 49,
+   "views": 15771,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "lxfater 分享自建 Personal Agent 的思路：把微信数据库、飞书 CLI、X API、Gmail 接入 Codex，自动化日常杂活",
+  "author": "@lxfater",
+  "url": "https://x.com/lxfater/status/2112507719986880682",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 25,
+   "reposts": 5,
+   "replies": 32,
+   "views": 27168,
+   "bookmarks": 21
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "AI",
+  "summary": "AlchainHust 发布浏览器操控工具 huashu-chrome，称比常见 browser-use 方案快 50% 以上（作者自述），收藏数高",
+  "author": "@AlchainHust",
+  "url": "https://x.com/AlchainHust/status/2112521689116365121",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 70,
+   "reposts": 9,
+   "replies": 11,
+   "views": 7206,
+   "bookmarks": 99
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "Lookonchain：传说丢了私钥的爱尔兰毒贩 Clifton Collins 名下 6000 枚 BTC 钱包沉睡 10 年后异动，500 BTC（约 4152 万美元）转入 Coinbase Prime",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2112552957803897339",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 452,
+   "reposts": 36,
+   "replies": 47,
+   "views": 83147,
+   "bookmarks": 48
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "瑞士批准首只面向散户的现货比特币 ETF/基金（FINMA 批准），普通投资者可直接投资 BTC",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2112537085659709492",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2112593766548725903"
+  ],
+  "metrics": {
+   "likes": 301,
+   "reposts": 32,
+   "replies": 64,
+   "views": 38863,
+   "bookmarks": 6
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "NEAR 推出 NEAR Business：保密多签金库平台，团队可跨 35+ 条链发工资、付供应商款而不公开交易细节",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2112576477162279325",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 272,
+   "reposts": 38,
+   "replies": 31,
+   "views": 27428,
+   "bookmarks": 19
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "被标普全球收购的 OpenZeppelin 把 Chainlink CCIP 和合规工具原生集成进智能合约平台，面向机构链上业务",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2112562353816719860",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 280,
+   "reposts": 38,
+   "replies": 18,
+   "views": 27823,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "ZachXBT 调查：Hyperliquid 上的洗钱服务 FreedomXMR 超过 87% 的流入资金与非法活动相关",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2112518218057392519",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 201,
+   "reposts": 29,
+   "replies": 31,
+   "views": 31263,
+   "bookmarks": 49
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "【价值观察】10 月 20 日 ETF 资金流：比特币 ETF 单日净流入 7103 BTC（+5.78 亿美元），以太坊 ETF 单日净流出 42349 ETH（-1.01 亿美元）",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2112537818212012539",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 83,
+   "reposts": 6,
+   "replies": 33,
+   "views": 41794,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "【价值观察】4 月盗走 Drift Protocol 2.85 亿美元的黑客，又通过 Tornado 洗走 25710 枚 ETH（约 6124 万美元）",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2112523543892074964",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 23,
+   "reposts": 0,
+   "replies": 12,
+   "views": 9290,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "Crypto",
+  "summary": "Phyrex 与 @yahbtc 公开互撕，否认“发盘割韭菜”“刷粉”指控，要求对方发誓（圈内口水战，各执一词）",
+  "author": "@PhyrexNi",
+  "url": "https://x.com/PhyrexNi/status/2112545564495880218",
+  "extra_urls": [
+   "https://x.com/PhyrexNi/status/2112557647937564719"
+  ],
+  "metrics": {
+   "likes": 76,
+   "reposts": 3,
+   "replies": 54,
+   "views": 34206,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国内形势",
+  "summary": "【立场账号】就业难话题集中发酵：深圳 14 元一晚八人间“奋斗者旅社”住满求职者；路透报道失业者瞒着家人“假装上班”；退伍兵进电子厂一月就离职；69 岁老人私信求职",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112544375599149451",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2112549397603012629",
+   "https://x.com/whyyoutouzhele/status/2112559468147851413",
+   "https://x.com/whyyoutouzhele/status/2112554430432461186"
+  ],
+  "metrics": {
+   "likes": 284,
+   "reposts": 23,
+   "replies": 31,
+   "views": 63253,
+   "bookmarks": 94
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国内形势",
+  "summary": "【立场账号】问界 M9 车主自述 8 月一天内两次失去动力、一次停在高速行车道，称关键录像缺失、索要行车日志未果（车主单方说法，未核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112539330967457851",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 383,
+   "reposts": 29,
+   "replies": 49,
+   "views": 58302,
+   "bookmarks": 45
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国内形势",
+  "summary": "印尼中加里曼丹省棕榈园发现一块汽车大小的金属物体，当局初步认为是中国火箭残骸",
+  "author": "@zaobaosg",
+  "url": "https://x.com/zaobaosg/status/2112567792176099737",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 26,
+   "reposts": 7,
+   "replies": 11,
+   "views": 27929,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国内形势",
+  "summary": "【价值观察】北京出台技术出口管制新规，德国媒体评论认为除国家安全外，也可能是为对西方谈判增加筹码",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2112559469532213318",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 24,
+   "reposts": 7,
+   "replies": 12,
+   "views": 8344,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "泽连斯基称在奥斯陆与美欧伙伴会谈，特使 Witkoff 到场、库什纳线上参加；乌方立即支持美方“能源停火”提议，俄方回应内容帖中未完整显示",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2112611598108119398",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 6582,
+   "reposts": 955,
+   "replies": 421,
+   "views": 183218,
+   "bookmarks": 106
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "美伊博弈：路透称伊朗告诉巴基斯坦陆军参谋长，诉求满足前不与美国谈；此前有消息称巴方方案获美批准、伊方初步同意（未核实）；伊朗称一艘油轮在霍尔木兹触雷；布伦特油价已到 109.2 美元（年初 60 美元）",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2112616141826687129",
+  "extra_urls": [
+   "https://x.com/qinbafrank/status/2112552581503524900",
+   "https://x.com/visegrad24/status/2112615948528287933",
+   "https://x.com/spectatorindex/status/2112625308658729208"
+  ],
+  "metrics": {
+   "likes": 322,
+   "reposts": 80,
+   "replies": 21,
+   "views": 42339,
+   "bookmarks": 18
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "据《华尔街日报》，马斯克上周下令给乌克兰依赖的军用版星链限速",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2112646971815252064",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2112647458576564580"
+  ],
+  "metrics": {
+   "likes": 907,
+   "reposts": 128,
+   "replies": 75,
+   "views": 75038,
+   "bookmarks": 28
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "SpaceX 第三季度营收 145.8 亿美元，超出预期（约 128.7 亿到 130 亿），股价大涨，永续合约冲上 150 美元",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2112645808273359162",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2112637226173472826",
+   "https://x.com/unusual_whales/status/2112639141678547419",
+   "https://x.com/Polymarket/status/2112648490161725487"
+  ],
+  "metrics": {
+   "likes": 382,
+   "reposts": 23,
+   "replies": 18,
+   "views": 86941,
+   "bookmarks": 11
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "特朗普称美国正遭受欺诈“可怕的瘟疫”，并推出 2500 万美元举报计划，举报促成起诉最高奖 3 万美元",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2112610813987131649",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2112618655309861293"
+  ],
+  "metrics": {
+   "likes": 4753,
+   "reposts": 315,
+   "replies": 287,
+   "views": 105619,
+   "bookmarks": 73
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "副总统万斯为中期选举拉票：“投给能降低油价的人，别投给制造问题的人”，播放近 40 万",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2112614073351467518",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2112649557213368542"
+  ],
+  "metrics": {
+   "likes": 2887,
+   "reposts": 166,
+   "replies": 446,
+   "views": 396013,
+   "bookmarks": 127
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "欧洲骚乱后续：法国警方逮捕一名 34 岁“极左”活动人士，涉嫌纵火焚烧利摩日历史市政厅；特朗普称法国动荡“不是因为教育”；意大利梅洛尼批准更严的反骚乱法",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2112638995494588833",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2112621042057318842",
+   "https://x.com/Reuters/status/2112612366785425792"
+  ],
+  "metrics": {
+   "likes": 1149,
+   "reposts": 137,
+   "replies": 103,
+   "views": 56927,
+   "bookmarks": 48
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "category": "国际形势",
+  "summary": "尼日利亚确认一例与东非有关的埃博拉病例",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2112623382554448284",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 226,
+   "reposts": 93,
+   "replies": 29,
+   "views": 69503,
+   "bookmarks": 21
+  }
+ }
+]
