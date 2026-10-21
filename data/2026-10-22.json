@@ -1,0 +1,419 @@
+[
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "OpenAI 宣布前沿模型和 Codex 智能体工作流登陆 Google Cloud 的 Model Garden，企业可以直接在谷歌云上用 OpenAI 模型",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2112988118471295323",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1904,
+   "reposts": 120,
+   "replies": 173,
+   "views": 132964,
+   "bookmarks": 145
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "上海 AI 实验室发布 35B MoE 智能体模型 Sage-A1.5（仅 3B 激活），主打长程执行和科学探索，称多项指标压过 Kimi-K3、GLM-5.3（跑分为发布方口径，未独立核实）",
+  "author": "@NFT_Chen",
+  "url": "https://x.com/NFT_Chen/status/2112825844305682477",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1638,
+   "reposts": 160,
+   "replies": 94,
+   "views": 105001,
+   "bookmarks": 1502
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "Meta 三季报：营收 646 亿美元超预期，但 EPS 远低于预期，十多年来首次自由现金流为负；计划 2026 年资本开支最高 1450 亿美元，并拟发行无投票权股（配合 1 拆 2）为 AI 融资、不稀释扎克伯格控制权",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2112999612504223941",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2113008989126697382",
+   "https://x.com/unusual_whales/status/2113002869666492730",
+   "https://x.com/Polymarket/status/2113002244974985345"
+  ],
+  "metrics": {
+   "likes": 359,
+   "reposts": 17,
+   "replies": 42,
+   "views": 172045,
+   "bookmarks": 20
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "PHP 曝出两个 CVSS 9.2 的超高危漏洞（合称 PHP2Shell），由研究员借助 AI 发现；多国政府和安全机构紧急发文，有国家临时下线政府网站，PHP 官方已发布修复（「多国下线网站」为博主说法，未逐一核实）",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2112921626300031323",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2113017510572224997",
+   "https://x.com/MaxForAI/status/2112902601402404944",
+   "https://x.com/WuBlockchain/status/2112939023421620717"
+  ],
+  "metrics": {
+   "likes": 536,
+   "reposts": 56,
+   "replies": 76,
+   "views": 125424,
+   "bookmarks": 213
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "Google DeepMind 演示 Gemini 4 Argon：自动整合三个开源数据集，生成可交互的人体解剖 3D 可视化",
+  "author": "@GoogleDeepMind",
+  "url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1018,
+   "reposts": 72,
+   "replies": 107,
+   "views": 42226,
+   "bookmarks": 287
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "IBM 财报超预期、AI 业务拉动，盘后股价涨超 6%",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2113000485464793205",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 834,
+   "reposts": 79,
+   "replies": 46,
+   "views": 93045,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "AYi 转述马斯克最新访谈：H100 现在的租赁价比当年新出厂时还贵，明年算力硬件回本周期可能缩到 6 个月",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2112752283477794966",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 159,
+   "reposts": 30,
+   "replies": 16,
+   "views": 39643,
+   "bookmarks": 106
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "AI",
+  "summary": "宝玉：Codex 和 Work 登录用户的缓存改为永久保留，回到几小时前的旧会话也能命中缓存；OpenAI API 的提示缓存保留时间也延长",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2112775224236077393",
+  "extra_urls": [
+   "https://x.com/dotey/status/2112751585671409696"
+  ],
+  "metrics": {
+   "likes": 86,
+   "reposts": 5,
+   "replies": 82,
+   "views": 29782,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "Crypto",
+  "summary": "美国财长贝森特称，OCC 发布的 GENIUS 法案最终规则为稳定币创新和美国数字资产领导地位打下基础",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2112944711887425536",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 266,
+   "reposts": 42,
+   "replies": 31,
+   "views": 33174,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "Crypto",
+  "summary": "Solana 主网上线 Alpenglow，这是该网络史上最大的一次共识升级",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2112939780388401208",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 214,
+   "reposts": 39,
+   "replies": 35,
+   "views": 33196,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "Crypto",
+  "summary": "【价值观察】比特币随美股反弹，一度升至约 84,600 美元，SpaceX 三季报超预期提振风险偏好；衍生品未平仓量同步回升",
+  "author": "@qinbafrank",
+  "url": "https://x.com/qinbafrank/status/2112927736058847430",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2112982417543746028",
+   "https://x.com/Cointelegraph/status/2112994999851712590"
+  ],
+  "metrics": {
+   "likes": 23,
+   "reposts": 0,
+   "replies": 8,
+   "views": 10387,
+   "bookmarks": 7
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "Crypto",
+  "summary": "【价值观察】Grayscale 推出实物申赎投资服务，覆盖 BTC、ETH、SOL、XRP、DOGE 等 10 种资产",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2112939023421620717",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 24,
+   "reposts": 3,
+   "replies": 13,
+   "views": 13014,
+   "bookmarks": 7
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "Crypto",
+  "summary": "【价值观察】Solana 财库公司 SkyAI 在重申 SOL 财库策略后一个月内卖出超 200 万枚 SOL，距年度股东会仅四天",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2112926468305227784",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 30,
+   "reposts": 3,
+   "replies": 19,
+   "views": 4095,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "【立场账号】台湾新北地检署起诉五人：检方称一名大陆人士因不满相声演员黄逸豪批评中共，出价 45 万新台币买凶制造假车祸致其受伤，还嫌伤势太轻拒付尾款",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112916818423943485",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1533,
+   "reposts": 154,
+   "replies": 64,
+   "views": 165078,
+   "bookmarks": 309
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "据 Polymarket 转述，美国 FDA 检查员在一家为司美格鲁肽（Ozempic）等减肥药生产原料的中国工厂发现黑霉、昆虫和「肮脏条件」（未见 FDA 原文，待核实）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2112982752949907676",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 748,
+   "reposts": 147,
+   "replies": 50,
+   "views": 50838,
+   "bookmarks": 46
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "【立场账号】抖音剪辑视频《劳动者的眼睛》获赞 11.7 万，评论区「人肉电池」「疲惫和麻木」等留言引发共鸣",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2112944503673729503",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 346,
+   "reposts": 35,
+   "replies": 16,
+   "views": 29362,
+   "bookmarks": 70
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "【价值观察】德国之声：习近平与特朗普预计 11 月 18-19 日在深圳 APEC 期间会晤，双方正敲定协议，并讨论中国可投资的美国非敏感领域项目清单（电动车、储能、电力设备等）",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2112911785904709686",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 28,
+   "reposts": 2,
+   "replies": 2,
+   "views": 10483,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "【价值观察】普京会见中国国务院总理李强，请其向习近平转达问候",
+  "author": "@SputnikInt",
+  "url": "https://x.com/SputnikInt/status/2112888235286224921",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 224,
+   "reposts": 34,
+   "replies": 4,
+   "views": 5159,
+   "bookmarks": 13
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国内形势",
+  "summary": "【价值观察】Mario Nawfal 称特朗普政府下令把 DeepSeek 清出联邦政府系统（单一来源，措辞夸张，待核实）",
+  "author": "@MarioNawfal",
+  "url": "https://x.com/MarioNawfal/status/2112665168719352152",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 252,
+   "reposts": 48,
+   "replies": 40,
+   "views": 56926,
+   "bookmarks": 32
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "美国下令驻沙特使馆人员及家属撤离，阿联酋、约旦、卡塔尔、巴林使馆家属也被要求离开；路透独家称国务院准备对整个海湾地区使馆实施「下令撤离」",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2112987728392617997",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2113000368666030230",
+   "https://x.com/Reuters/status/2112983431546126545",
+   "https://x.com/DeItaone/status/2112980363609887067"
+  ],
+  "metrics": {
+   "likes": 5921,
+   "reposts": 1018,
+   "replies": 121,
+   "views": 661930,
+   "bookmarks": 583
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "沙特东部一处阿美石油油田遇袭，2 人死亡（AFP 等早期报道，细节未核实）；特朗普同日称对伊朗的战争是「我们做过最伟大的事之一」",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2112982969271165367",
+  "extra_urls": [
+   "https://x.com/spectatorindex/status/2113005311737098618"
+  ],
+  "metrics": {
+   "likes": 3462,
+   "reposts": 570,
+   "replies": 41,
+   "views": 296031,
+   "bookmarks": 165
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "【立场账号】萨尔瓦多总统布克莱宣布对海地帮派发起军事行动，目标是解救 4 名被绑架的萨尔瓦多航空技术人员",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2113004231502520761",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2113005352631615652"
+  ],
+  "metrics": {
+   "likes": 2477,
+   "reposts": 257,
+   "replies": 61,
+   "views": 55804,
+   "bookmarks": 120
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "【立场账号】欧洲左翼示威持续：希腊数千名青年共产党人游行，西班牙拉科鲁尼亚有人冲击 Vox 党竞选集会，法国出现迪奥门店被洗劫的视频",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2112982912153116713",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2113001018510217683",
+   "https://x.com/visegrad24/status/2112984767205359721"
+  ],
+  "metrics": {
+   "likes": 1425,
+   "reposts": 397,
+   "replies": 225,
+   "views": 59587,
+   "bookmarks": 169
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "WSJ 报道马斯克限制乌克兰使用星链后，两党议员呼吁调查马斯克（昨日早报事件的后续）",
+  "author": "@WSJ",
+  "url": "https://x.com/WSJ/status/2113014030235234780",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 288,
+   "reposts": 116,
+   "replies": 47,
+   "views": 21696,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "特斯拉三季报：营收 280.4 亿美元略低于预期，EPS 0.48 美元超预期，现金流大超预期；Optimus、AI 和自动驾驶投入推高费用",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2113005575910940765",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2112999452017643841",
+   "https://x.com/TechCrunch/status/2113020989366059074"
+  ],
+  "metrics": {
+   "likes": 398,
+   "reposts": 46,
+   "replies": 58,
+   "views": 81391,
+   "bookmarks": 19
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "category": "国际形势",
+  "summary": "据 Polymarket，新墨西哥州陪审团认定 Meta 在隐私和仇恨内容上反复欺骗用户，Meta 被判赔创纪录的 250 亿美元（待核实）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2112984262651605027",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 490,
+   "reposts": 53,
+   "replies": 54,
+   "views": 48800,
+   "bookmarks": 21
+  }
+ }
+]
