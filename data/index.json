@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-23T05:41:11+08:00",
+ "generated_at": "2026-10-23T05:41:27+08:00",
  "days": [
   {
    "date": "2026-10-23",
    "file": "2026-10-23.json",
-   "total": 26,
+   "total": 24,
    "categories": {
     "AI": 8,
-    "Crypto": 6,
+    "Crypto": 4,
     "国内形势": 5,
     "国际形势": 7
    }

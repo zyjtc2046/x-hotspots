@@ -143,21 +143,6 @@
  {
   "date": "2026-10-23",
   "category": "Crypto",
-  "summary": "【价值观察】CoinDesk 研究：2025 年稳定币链上结算约 35 万亿美元，超过 Visa 和万事达之和，但真正的支付只有约 3900 亿美元",
-  "author": "@CoinDesk",
-  "url": "https://x.com/CoinDesk/status/2113254133968859639",
-  "extra_urls": [],
-  "metrics": {
-   "likes": 104,
-   "reposts": 16,
-   "replies": 53,
-   "views": 36744,
-   "bookmarks": 23
-  }
- },
- {
-  "date": "2026-10-23",
-  "category": "Crypto",
   "summary": "【价值观察】SoFi 推出 SoFi Earn，号称首个美国国民银行直接面向散户的代币化存款，年化 4.40%、有 FDIC 保险",
   "author": "@CoinDesk",
   "url": "https://x.com/CoinDesk/status/2113314444726169880",
@@ -174,17 +159,17 @@
   "date": "2026-10-23",
   "category": "Crypto",
   "summary": "【价值观察】据 The Information，a16z 旗舰区块链基金去掉「crypto」字样，更名 a16z Frontier，投资范围扩到加密以外",
-  "author": "@CoinDesk",
-  "url": "https://x.com/CoinDesk/status/2113288725677617624",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2113332231187857776",
   "extra_urls": [
-   "https://x.com/Cointelegraph/status/2113332231187857776"
+   "https://x.com/CoinDesk/status/2113288725677617624"
   ],
   "metrics": {
-   "likes": 85,
-   "reposts": 8,
-   "replies": 38,
-   "views": 26695,
-   "bookmarks": 6
+   "likes": 51,
+   "reposts": 6,
+   "replies": 39,
+   "views": 27393,
+   "bookmarks": 1
   }
  },
  {
@@ -202,21 +187,6 @@
    "replies": 34,
    "views": 28162,
    "bookmarks": 2
-  }
- },
- {
-  "date": "2026-10-23",
-  "category": "Crypto",
-  "summary": "【价值观察】Uniswap 在以太坊、Base 和 Robinhood Chain 上线聚合器 Hooks，把外部流动性接入 v4 池，协议费用于销毁 UNI",
-  "author": "@Cointelegraph",
-  "url": "https://x.com/Cointelegraph/status/2113312102962073624",
-  "extra_urls": [],
-  "metrics": {
-   "likes": 82,
-   "reposts": 11,
-   "replies": 32,
-   "views": 30290,
-   "bookmarks": 3
   }
  },
  {
