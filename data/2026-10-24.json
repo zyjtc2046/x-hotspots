@@ -1,0 +1,447 @@
+[
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "OpenAI 称过去几个月大幅加固研究训练环境安全：所有前沿模型训练时都断开实时联网，改用一个缓存版的离线互联网环境",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2113718797505036665",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3577,
+   "reposts": 246,
+   "replies": 355,
+   "views": 388819,
+   "bookmarks": 780
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "得州总检察长帕克斯顿起诉 OpenAI 和奥特曼，指控其在聊天机器人安全性上误导消费者、未能保护用户",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2113733225424224553",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 496,
+   "reposts": 55,
+   "replies": 63,
+   "views": 108205,
+   "bookmarks": 36
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "Ethan Mollick：实验室内部模型和公开发布模型的差距越拉越大，OpenAI、Anthropic 会越来越想直接用这种优势进入新市场",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2113681838611087572",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 493,
+   "reposts": 23,
+   "replies": 110,
+   "views": 22696,
+   "bookmarks": 62
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "9 月 AI token 支出环比只增长 0.2%，是 2025 年 11 月以来最低；连续两个月增速不超过 1%，为至少 18 个月来最弱（数据来源帖中未写明，未核实）",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2113734106546573722",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 336,
+   "reposts": 36,
+   "replies": 58,
+   "views": 66562,
+   "bookmarks": 46
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "月之暗面 10 月 23 日发布 Kimi K3.1 Pro：约 2.8 万亿参数、100 万上下文，号称最强开放权重模型，完整权重 11 月 4 日前放出；价格每百万 token 输入 2 美元、输出 10 美元。博主称其 SWE Marathon 51.7 分超过 Opus 5.5 和 GPT-6 Astra（跑分说法未核实），也有实测认为整体仍略逊 GPT-6",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2113655592153919658",
+  "extra_urls": [
+   "https://x.com/dotey/status/2113689823311524225",
+   "https://x.com/MaxForAI/status/2113687507955327187",
+   "https://x.com/AYi_AInotes/status/2113694086687596947",
+   "https://x.com/MaxForAI/status/2113695658289053892"
+  ],
+  "metrics": {
+   "likes": 165,
+   "reposts": 5,
+   "replies": 22,
+   "views": 18468,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "橘子（oran_ge）：历史上科技带来的基建狂热一般持续 4 到 6 年，明年是 AI 的第 5 年",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2113648638182498505",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 46,
+   "reposts": 1,
+   "replies": 33,
+   "views": 17337,
+   "bookmarks": 14
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "向阳乔木推荐个人用 AI 编程做出的网页游戏 Poke Bonk，据虎嗅介绍营收已过 2 亿（未核实）",
+  "author": "@vista8",
+  "url": "https://x.com/vista8/status/2113656514510807297",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 45,
+   "reposts": 9,
+   "replies": 15,
+   "views": 7420,
+   "bookmarks": 74
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "AI",
+  "summary": "【价值观察】The Information：Anthropic 员工普遍相信 2030 年前 AI 会做出诺奖级突破，华尔街远没那么乐观；Anthropic 正准备下个月上市",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2113729700707053710",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 10,
+   "reposts": 0,
+   "replies": 5,
+   "views": 2333,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "CZ：「比特币已死」以前被说过很多很多次，而那些时候恰恰是买比特币的最好时机",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2113699694245556532",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2113709183296020864"
+  ],
+  "metrics": {
+   "likes": 5680,
+   "reposts": 528,
+   "replies": 864,
+   "views": 415961,
+   "bookmarks": 121
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "以色列总理内塔尼亚胡称已要求制定方案，把加密货币作为绕开潜在银行制裁的手段之一",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2113675169025716444",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 212,
+   "reposts": 45,
+   "replies": 32,
+   "views": 38003,
+   "bookmarks": 20
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "余烬（EmberCN）：FTX 出事 4 年来大所普遍发布默克尔树资产证明，能持续发布的交易所更安全，这 4 年也没有大所再出事",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2113597498426048658",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 20,
+   "reposts": 0,
+   "replies": 20,
+   "views": 24461,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "【价值观察】中国「十五五」规划提出 2030 年建成全国区块链网络，在贸易、金融、制造、农业推广区块链，同时继续禁止加密货币交易",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2113673052034633832",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 98,
+   "reposts": 17,
+   "replies": 34,
+   "views": 25255,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "【价值观察】据 CryptoQuant 分析师，超过 23 万枚 BTC（逾 210 亿美元）发生今年最大一笔链上转移，大概率是地址间搬动而不是转入交易所",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2113684514987819476",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 152,
+   "reposts": 23,
+   "replies": 70,
+   "views": 31766,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "【价值观察】阿根廷撤销对总统米莱推广 LIBRA 迷因币（推广后暴跌 95%）的刑事调查",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2113726897209139339",
+  "extra_urls": [
+   "https://x.com/BBCWorld/status/2113737811060793355"
+  ],
+  "metrics": {
+   "likes": 209,
+   "reposts": 24,
+   "replies": 35,
+   "views": 20954,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "Crypto",
+  "summary": "【价值观察】Initia 因安全事件暂停 L1 和所有 Rollup，有研究员报告出现未经授权的代币增发，团队仍在调查影响范围",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2113666739674513912",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 31,
+   "reposts": 2,
+   "replies": 25,
+   "views": 4624,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "【立场账号】中国和土耳其网民在 X 上爆发大规模骂战：起因是土耳其网民谈维吾尔族的推文，之后土耳其网友要求中国网友「证明自己不是官方宣传号」、批评习近平",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2113631540844412947",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 892,
+   "reposts": 40,
+   "replies": 129,
+   "views": 200103,
+   "bookmarks": 125
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "【立场账号】经济学家姚洋称中国实际缴个税的人约占总人口 7%（约 1 亿人），「年入 10 万基本进入缴税人群前 10%」引发讨论",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2113636561187221739",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 219,
+   "reposts": 28,
+   "replies": 25,
+   "views": 42768,
+   "bookmarks": 82
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "新台币换版不再印孙中山像，北京批评是「去中国化」，台湾方面发言人回应引发转发（帖子立场明显，具体回应内容未核实）",
+  "author": "@zhihui999",
+  "url": "https://x.com/zhihui999/status/2113589817472647423",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 252,
+   "reposts": 50,
+   "replies": 8,
+   "views": 19149,
+   "bookmarks": 40
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "德国之声：「中国热」席卷德国社会，有德国经济学家建议效仿中国做法提振经济；《法兰克福汇报》《明镜》评论认为这是误读和西方迷茫的反映",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2113646638166401125",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 38,
+   "reposts": 6,
+   "replies": 31,
+   "views": 11513,
+   "bookmarks": 14
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "【价值观察】据路透社，北京要求 10 月 22 日前申报离岸信托收益并按 20% 征个税，部分中国富豪正在解散离岸信托、卖股票，甚至换国籍",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2113634825773162953",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 38,
+   "reposts": 8,
+   "replies": 0,
+   "views": 12095,
+   "bookmarks": 6
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "【价值观察】美国驻日大使格拉斯批评中国把关键矿产当「政治武器」，称北京对日本的稀土出口限制也殃及美国公司",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2113680825585963172",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 15,
+   "reposts": 5,
+   "replies": 32,
+   "views": 6300,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国内形势",
+  "summary": "【价值观察】FT：习近平召集中共高层干部开会，重点强调纪律（仅标题，细节未核实）",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2113745564965769325",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 3962,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "特朗普：「从伊朗回来的路上我们会顺手处理古巴」；鲁比奥同日呼吁想要政治变革的古巴人秘密与 CIA 合作",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2113720025723158996",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2113722412823122368",
+   "https://x.com/Polymarket/status/2113738269808644114"
+  ],
+  "metrics": {
+   "likes": 1855,
+   "reposts": 211,
+   "replies": 84,
+   "views": 225737,
+   "bookmarks": 75
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "特朗普称可能对伊朗再发动一次行动，还说美国愿意的话可以拿走伊朗全部石油；伊朗革命卫队称两艘巨型油轮在霍尔木兹走未经许可航线时触雷起火，WTI 超 103 美元、布伦特超 116 美元",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2113722512177541567",
+  "extra_urls": [
+   "https://x.com/PhyrexNi/status/2113656182779060543",
+   "https://x.com/PhyrexNi/status/2113719542287573018",
+   "https://x.com/PhyrexNi/status/2113718289264414755",
+   "https://x.com/WSJ/status/2113741751810728417"
+  ],
+  "metrics": {
+   "likes": 431,
+   "reposts": 42,
+   "replies": 56,
+   "views": 128858,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "【立场账号】巴黎附近特拉普发生致命枪击，马克龙称是针对移民的「种族主义恐怖袭击」；visegrad24 反驳称法国此前已有多起类似袭击",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2113729852494778831",
+  "extra_urls": [
+   "https://x.com/SCMPNews/status/2113725597155316127"
+  ],
+  "metrics": {
+   "likes": 2589,
+   "reposts": 528,
+   "replies": 223,
+   "views": 66618,
+   "bookmarks": 192
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "【立场账号】法国周末将有大规模抗议，巴黎店主钉板封店防抢，比利时、意大利也有类似情况；当局已发布示威禁令",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2113719051159732485",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2113739514095292504",
+   "https://x.com/zaobaosg/status/2113647358453989874"
+  ],
+  "metrics": {
+   "likes": 1353,
+   "reposts": 269,
+   "replies": 108,
+   "views": 64375,
+   "bookmarks": 110
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "美国联邦上诉法院裁定，ICE 可以在部分无证移民整个驱逐程序期间羁押他们，无需保释听证",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2113724296270864403",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 387,
+   "reposts": 34,
+   "replies": 18,
+   "views": 22477,
+   "bookmarks": 7
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "category": "国际形势",
+  "summary": "【价值观察】白宫宣布第一夫人梅拉尼娅促成俄乌在奥列什基局部停火，10 月 29 日起运送人道援助并疏散平民，乌方已确认",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2113690325688422518",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2113718962286465429",
+   "https://x.com/VOAChinese/status/2113694685860356318"
+  ],
+  "metrics": {
+   "likes": 9,
+   "reposts": 0,
+   "replies": 1,
+   "views": 4162,
+   "bookmarks": 2
+  }
+ }
+]
