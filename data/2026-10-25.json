@@ -1,0 +1,473 @@
+[
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "OpenAI：红队演练中还发现压缩库 Brotli 存在未认证远程代码执行漏洞，该库被 Node.js、Bun、Envoy 等大量软件采用，攻击者可借此在目标系统上执行任意代码",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2113766354386084338",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 6110,
+   "reposts": 857,
+   "replies": 434,
+   "views": 1727512,
+   "bookmarks": 2050
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "MaxForAI 调侃「果然，中国人最恨的模型是 Claude！」配图互动极高（个案观察，非严谨民调）",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2113886655606411271",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 9632,
+   "reposts": 164,
+   "replies": 379,
+   "views": 1188652,
+   "bookmarks": 1473
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "向阳乔木：现在越狱 Kindle 很方便，连上 Mac 让任意大模型处理即可；越狱后打算用 AI 改造成阅读器（相关帖还提到 KOReader、Obsidian 插件发书到 Kindle）",
+  "author": "@vista8",
+  "url": "https://x.com/vista8/status/2113918788018262446",
+  "extra_urls": [
+   "https://x.com/vista8/status/2113997354655465727"
+  ],
+  "metrics": {
+   "likes": 463,
+   "reposts": 50,
+   "replies": 99,
+   "views": 104946,
+   "bookmarks": 523
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "MaxForAI：山东聊城 90 后小伙用豆包根据父亲「三高」与突发下肢无力等症状询问挂什么科，豆包提示可能是吉兰-巴雷综合征需急诊，家属连夜就医；帖称确认为该病并及时治疗（个案未核实）",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2113992325395546256",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 410,
+   "reposts": 33,
+   "replies": 50,
+   "views": 59860,
+   "bookmarks": 78
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "Ethan Mollick：不必过于轻信，但应更认真对待实验室提出的「听起来很超前」的 AI 网络安全观点；举例 Anthropic 曾因称 Mythos 级 AI 改变网络攻防而被嘲",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2114001653879672877",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 327,
+   "reposts": 28,
+   "replies": 160,
+   "views": 24632,
+   "bookmarks": 54
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "橘子（oran_ge）：有价值播客太多听不完，可用 AI 精细转写成文章约十分钟看完一小时内容，感兴趣再听原音频；并整理了常听的 8 个播客",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2113996510287585493",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 224,
+   "reposts": 43,
+   "replies": 16,
+   "views": 14433,
+   "bookmarks": 336
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "TechCrunch：Block 称其语音模型可在 MacBook M4 Max 本地运行",
+  "author": "@TechCrunch",
+  "url": "https://x.com/TechCrunch/status/2114025395125117359",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 197,
+   "reposts": 24,
+   "replies": 22,
+   "views": 47272,
+   "bookmarks": 48
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "AI",
+  "summary": "【价值观察】The Information：奥特曼对员工称业界需要更好办法放缓可能危险的 AI 发展，提出路径包括国际监管、合并头部实验室、或由一家公司主导算力资源",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2114061876841562505",
+  "extra_urls": [
+   "https://x.com/theinformation/status/2114076974406684722"
+  ],
+  "metrics": {
+   "likes": 15,
+   "reposts": 1,
+   "replies": 10,
+   "views": 6674,
+   "bookmarks": 7
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "KobeissiLetter：比特币与 ETH 急跌，约 60 分钟内 2 亿美元杠杆仓位被清算，比特币重返 8 万美元下方；Cointelegraph 称一小时清算约 1.86 亿美元、24 小时合计约 8.38 亿美元",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2114006499248816421",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2114018156390084687",
+   "https://x.com/PhyrexNi/status/2114067192178508192"
+  ],
+  "metrics": {
+   "likes": 5043,
+   "reposts": 472,
+   "replies": 309,
+   "views": 407600,
+   "bookmarks": 172
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "CZ 引用相关帖调侃：很多 iPhone 会被币圈「战壕」玩家「搞松铰链」（unhinged）😂",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2113973979191087401",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1916,
+   "reposts": 146,
+   "replies": 422,
+   "views": 456457,
+   "bookmarks": 66
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "CZ：「Stay SAFU！是我的错觉，还是这世界越来越疯了？」",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2114075702106673237",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1538,
+   "reposts": 121,
+   "replies": 295,
+   "views": 262613,
+   "bookmarks": 78
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "lookonchain：Arthur Hayes 抛售约 2228 万美元代币（含 ETH、ENA、UNI、ETHFI 等）；EmberCN 同步报道约 2608 万美元减仓",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2113876807393083697",
+  "extra_urls": [
+   "https://x.com/EmberCN/status/2113915752801800312",
+   "https://x.com/WuBlockchain/status/2113885237679964486"
+  ],
+  "metrics": {
+   "likes": 783,
+   "reposts": 76,
+   "replies": 204,
+   "views": 308296,
+   "bookmarks": 124
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "lookonchain：Machi（@machibigbrother）1 小时内被清算 5 次，账户仅剩约 5000 美元",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2114016142855720989",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2114018277538357561"
+  ],
+  "metrics": {
+   "likes": 666,
+   "reposts": 31,
+   "replies": 142,
+   "views": 106344,
+   "bookmarks": 30
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "余弦（evilcos）：提醒及时更新 iPhone/iPad 系统，警惕已安装 App 被投毒 DarkSword；主要针对币圈用户钱包，利用 iOS 漏洞突破沙盒窃取 Keychain、钱包私钥与备忘录等",
+  "author": "@evilcos",
+  "url": "https://x.com/evilcos/status/2113799052576125152",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 230,
+   "reposts": 53,
+   "replies": 12,
+   "views": 101223,
+   "bookmarks": 133
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "Cointelegraph：超过三分之一的 ETH 已质押，约达供应的 36% 创纪录；「持有者不在卖，而在锁仓」",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2114046980213051683",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 208,
+   "reposts": 24,
+   "replies": 104,
+   "views": 35036,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "Crypto",
+  "summary": "【价值观察】FT：以色列央行拒绝内塔尼亚胡用加密货币规避潜在制裁的方案",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2114076089504936235",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 137,
+   "reposts": 38,
+   "replies": 10,
+   "views": 28121,
+   "bookmarks": 20
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国内形势",
+  "summary": "纽约时报：朝鲜领导人金正恩逾一年后再访中国，可能显示双方关系加深；联合早报称王沪宁陪同其访问辽宁丹东，参观抗美援朝纪念馆与汽车工厂",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2113984129926603161",
+  "extra_urls": [
+   "https://x.com/zaobaosg/status/2113999456110592288",
+   "https://x.com/dw_chinese/status/2113973154154488003"
+  ],
+  "metrics": {
+   "likes": 1213,
+   "reposts": 312,
+   "replies": 117,
+   "views": 788778,
+   "bookmarks": 106
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国内形势",
+  "summary": "【立场账号】「我的社保在歌唱我的祖国」：网友拍下一群旅游退休老人唱《祝福祖国》，评论区刷屏「我爸妈种地交公粮养他们，现在我交社保养他们」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2113941071633990125",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1160,
+   "reposts": 105,
+   "replies": 82,
+   "views": 128083,
+   "bookmarks": 162
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国内形势",
+  "summary": "【立场账号】福州长乐公交事故致一年级学生死亡；网友投稿内部续报两提「舆情管控」，现场有警察撑黑色遮挡物",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2113971270840627495",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 546,
+   "reposts": 37,
+   "replies": 53,
+   "views": 136981,
+   "bookmarks": 110
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国内形势",
+  "summary": "【价值观察】华尔街日报中文网：美官员与知情人士称马斯克下令对乌克兰依赖的军用级星链服务限速，令基辅恐慌、也让特朗普政府内部困惑",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2113979248926941377",
+  "extra_urls": [
+   "https://x.com/TechCrunch/status/2114096870427418850"
+  ],
+  "metrics": {
+   "likes": 47,
+   "reposts": 11,
+   "replies": 11,
+   "views": 21526,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国内形势",
+  "summary": "【价值观察】德国之声评论「中南海听床师」：墙外中文圈有人把猜想、传言当事实传播，或真假混杂吸睛",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2113988458293100742",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 40,
+   "reposts": 6,
+   "replies": 31,
+   "views": 14967,
+   "bookmarks": 8
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "马斯克：用民用商业服务 Starlink 发动攻击性无人机打击杀人从未被允许、也不应该被允许；军用级 Starshield 由美国政府控制；称乌军违反了相关规定。泽连斯基随后称 Starlink/Starshield 速度已恢复到限速前水平",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2114063986744275011",
+  "extra_urls": [
+   "https://x.com/ZelenskyyUa/status/2113990281322221932",
+   "https://x.com/spectatorindex/status/2113907608365285580",
+   "https://x.com/BBCWorld/status/2113953442083254767"
+  ],
+  "metrics": {
+   "likes": 62070,
+   "reposts": 10291,
+   "replies": 4191,
+   "views": 2341225,
+   "bookmarks": 4428
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "【立场账号】希特勒阿尔卑斯山「鹰巢」昨晚疑似纵火后被彻底烧毁（德国之声亦报道山顶建筑起火；纵火结论未核实）",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2113978799339549077",
+  "extra_urls": [
+   "https://x.com/dw_chinese/status/2113946017347273086"
+  ],
+  "metrics": {
+   "likes": 21414,
+   "reposts": 1652,
+   "replies": 988,
+   "views": 2821333,
+   "bookmarks": 3111
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "【立场账号】尼斯：法国右翼与足球球迷冲击 Antifa 示威者，称多名极左人士被殴打（立场账号报道，细节未核实）",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2114060627190993249",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2114052566803943665"
+  ],
+  "metrics": {
+   "likes": 6845,
+   "reposts": 682,
+   "replies": 358,
+   "views": 181376,
+   "bookmarks": 402
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "BBC：法国各地抗议大体和平后，巴黎爆发冲突",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2114077337985679656",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 370,
+   "reposts": 85,
+   "replies": 1050,
+   "views": 265785,
+   "bookmarks": 78
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "spectatorindex：欧洲天然气自年初涨约 233%，英国天然气涨约 212%，取暖油、布伦特原油等能源价格普遍大幅上行",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2114057951430529259",
+  "extra_urls": [
+   "https://x.com/spectatorindex/status/2114071115790495983"
+  ],
+  "metrics": {
+   "likes": 1286,
+   "reposts": 295,
+   "replies": 46,
+   "views": 196087,
+   "bookmarks": 106
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "【立场账号】巴塞罗那今晚爆发骚乱与大规模抢劫；visegrad24 称示威与抢劫已从法国蔓延至意大利、比利时并波及西班牙，有购物中心为防抢匪冲入将顾客锁在店内（细节未核实）",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2114092619982942637",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2114092390751334727",
+   "https://x.com/visegrad24/status/2114094531389919673",
+   "https://x.com/BBCWorld/status/2114077337985679656"
+  ],
+  "metrics": {
+   "likes": 1530,
+   "reposts": 414,
+   "replies": 61,
+   "views": 61341,
+   "bookmarks": 128
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "特朗普称「可能得把对伊朗的活干完，要么就达成协议」；DeItaone 同步引述「存在攻击伊朗的可能」「不管怎样我们都赢」",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2114092077500043547",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2114091547763585258",
+   "https://x.com/DeItaone/status/2114090697406271754"
+  ],
+  "metrics": {
+   "likes": 1321,
+   "reposts": 92,
+   "replies": 103,
+   "views": 161757,
+   "bookmarks": 38
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "category": "国际形势",
+  "summary": "纽约时报：奥巴马在中期选举造势会上猛烈批评特朗普，指责其在华盛顿创下「无能」的历史纪录",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2114099130813272308",
+  "extra_urls": [
+   "https://x.com/BBCWorld/status/2114103382172459279"
+  ],
+  "metrics": {
+   "likes": 502,
+   "reposts": 105,
+   "replies": 176,
+   "views": 72012,
+   "bookmarks": 24
+  }
+ }
+]
