@@ -1,0 +1,389 @@
+[
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "OpenAI Codex 负责人 Tibo 发帖「Day 20/ Rest and reset」，Codex 额度重置连续第 20 天；随后又说「已全部生效，明天尽情 codex，下周也很有意思」",
+  "author": "@thsottiaux",
+  "url": "https://x.com/thsottiaux/status/2114200152701575656",
+  "extra_urls": [
+   "https://x.com/thsottiaux/status/2114237083652882932"
+  ],
+  "metrics": {
+   "likes": 11090,
+   "reposts": 463,
+   "replies": 1175,
+   "views": 1180717,
+   "bookmarks": 261
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "Apollo 首席经济学家 Torsten Slok：AI 巨额投入在大型科技公司之外对美国企业「零回报」，人均营收与利润率只在七巨头身上上升；TechCrunch 也引述了同一说法",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2114301898060611618",
+  "extra_urls": [
+   "https://x.com/TechCrunch/status/2114401374465073653"
+  ],
+  "metrics": {
+   "likes": 1356,
+   "reposts": 242,
+   "replies": 255,
+   "views": 247299,
+   "bookmarks": 423
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "Ethan Mollick：用 Opus 5.5 重做了新书网站，之前 Opus 4.8 版需要大量人工调整，现在基本由模型独立完成，设计不再千篇一律",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2114404221021778347",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 307,
+   "reposts": 17,
+   "replies": 121,
+   "views": 16950,
+   "bookmarks": 87
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "宝玉转介：有人用 Anthropic Opus 5.5 加 Three.js 做了 3D 可视化物理课本《Every Joule》，十课讲完英国 GCSE「能量」单元，免费在线看",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2114402733629268468",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 94,
+   "reposts": 12,
+   "replies": 25,
+   "views": 8470,
+   "bookmarks": 130
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "MaxForAI 称 RTX 20/30/40 三代显卡被民间解锁隐藏 Tensor Core 算力，部分吞吐翻倍且无需刷 BIOS 或改驱动（未核实，以原项目实测为准）",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2114402686821159108",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 116,
+   "reposts": 14,
+   "replies": 12,
+   "views": 19580,
+   "bookmarks": 131
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "turingou：终于用上 Meta 的 Muse，称接下来两天会在 Grok bot 和 Muse 上线一批新产品；另帖称赞 Muse「灵感」页的设计很适合普通人",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2114375292135604323",
+  "extra_urls": [
+   "https://x.com/turingou/status/2114416008069091674"
+  ],
+  "metrics": {
+   "likes": 96,
+   "reposts": 2,
+   "replies": 6,
+   "views": 14305,
+   "bookmarks": 14
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "AI",
+  "summary": "【价值观察】The Information：Anthropic 员工普遍相信 2030 年前 AI 会做出诺奖级突破，华尔街没那么相信；报道称 Anthropic 准备下个月上市",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2114394064829214897",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 18,
+   "reposts": 0,
+   "replies": 4,
+   "views": 4800,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "Cointelegraph：Peter Schiff 称比特币「终于破位」，下一站 7.5 万美元；但 BTC 已重回 8 万美元上方",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2114274163229667431",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2114287850879365471"
+  ],
+  "metrics": {
+   "likes": 673,
+   "reposts": 72,
+   "replies": 162,
+   "views": 65782,
+   "bookmarks": 8
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "大宇（BTCdayu）：Paradigm、MC、a16z 相继离开，币圈对 BTC 的信仰远不如 2017、2020 年；ETF 通过了、美国支持了，信仰反而更稀薄（相关帖：币圈正变成美股大池子里的一个分支）",
+  "author": "@BTCdayu",
+  "url": "https://x.com/BTCdayu/status/2114281469543948785",
+  "extra_urls": [
+   "https://x.com/BTCdayu/status/2114282002652573818"
+  ],
+  "metrics": {
+   "likes": 310,
+   "reposts": 15,
+   "replies": 112,
+   "views": 79839,
+   "bookmarks": 48
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "lookonchain：聪明钱 0xe813 在下跌后开了 26,974 枚 ETH（约 6388 万美元）多单，浮盈约 84 万美元；此前在 NEAR 上赚了 330 万美元",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2114220826174402783",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 419,
+   "reposts": 20,
+   "replies": 104,
+   "views": 70887,
+   "bookmarks": 93
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "Cointelegraph：印度交易所 CoinDCX 确认损失 1599 万美元，来自其声称去年被黑后已弃用的旧钱包",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2114349198992617863",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 244,
+   "reposts": 41,
+   "replies": 91,
+   "views": 50004,
+   "bookmarks": 21
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "Phyrex：近一个月 USDC 存量减少 37 亿美元、USDT 减少 11.94 亿美元，USDC 进出与 BTC 价格走势高度相关",
+  "author": "@PhyrexNi",
+  "url": "https://x.com/PhyrexNi/status/2114240692902052225",
+  "extra_urls": [
+   "https://x.com/PhyrexNi/status/2114342669216530475"
+  ],
+  "metrics": {
+   "likes": 66,
+   "reposts": 2,
+   "replies": 44,
+   "views": 44072,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "Crypto",
+  "summary": "余烬（EmberCN）：ETH 周六晚最低跌到 2282 美元，一个超大 ETH 多仓巨鲸差 30 美元被清算，凌晨补了 921 万 USDC 保证金，持有约 3.965 亿美元的 BTC 和 ETH 多单",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2114157583338787130",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 96,
+   "reposts": 9,
+   "replies": 55,
+   "views": 30002,
+   "bookmarks": 7
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国内形势",
+  "summary": "【立场账号】小红书网友感慨「老板 6 万块就能买普通人一年最好的时间」，月薪 5 千、年入 6 万的算法引发强烈共鸣",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2114348755453378637",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1013,
+   "reposts": 85,
+   "replies": 70,
+   "views": 132122,
+   "bookmarks": 270
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国内形势",
+  "summary": "【立场账号】小红书网友晒苹果地图标注「台湾省」称已更名；引 RFA 查核称只有大陆用户看到「台湾省」，其他地区仍显示「台湾」，属旧说法（一果两制）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2114341208185020770",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 399,
+   "reposts": 27,
+   "replies": 59,
+   "views": 86365,
+   "bookmarks": 30
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国内形势",
+  "summary": "中国与土耳其网民互骂：国内网络一片「捷报」，作者调侃百度贴吧何时成了战斗力代名词",
+  "author": "@yingxuewan",
+  "url": "https://x.com/yingxuewan/status/2114262041204777374",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 489,
+   "reposts": 11,
+   "replies": 183,
+   "views": 55466,
+   "bookmarks": 42
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "塞尔维亚总统武契奇在提前选举中意外认输，学生主导的抗议运动获胜，彭博称其得票超 200 万",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2114463465037234672",
+  "extra_urls": [
+   "https://x.com/business/status/2114460777583194518",
+   "https://x.com/spectatorindex/status/2114459675865563534",
+   "https://x.com/disclosetv/status/2114456384754548990",
+   "https://x.com/FT/status/2114465723774882081"
+  ],
+  "metrics": {
+   "likes": 639,
+   "reposts": 133,
+   "replies": 24,
+   "views": 80037,
+   "bookmarks": 22
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "泽连斯基：仅过去一周俄罗斯就向乌克兰发射约 1600 枚制导航弹、48 枚各型导弹和近 2300 架攻击无人机，几乎每天都有伤亡",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2114283145579086268",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 8778,
+   "reposts": 2758,
+   "replies": 878,
+   "views": 223731,
+   "bookmarks": 128
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "马斯克：纽约州和加州投票不需要身份证件（中期选举前的选举规则争议）；另帖称得州参选人 Talarico 是「极左极端分子」",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2114455152136745221",
+  "extra_urls": [
+   "https://x.com/elonmusk/status/2114461409811816467"
+  ],
+  "metrics": {
+   "likes": 7830,
+   "reposts": 1045,
+   "replies": 1172,
+   "views": 729834,
+   "bookmarks": 130
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "spectatorindex：特朗普称挪威「很烂」，是「粪坑国家」（原话转述，具体语境未核实）",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2114453665880895820",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 4470,
+   "reposts": 415,
+   "replies": 336,
+   "views": 456973,
+   "bookmarks": 594
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "巴西大选：最高法院法官以恶劣天气和公共交通延误为由，应卢拉请求将全国投票延长 2 小时；卢拉与小博索纳罗对决（visegrad24 称该法官曾是卢拉私人律师，立场账号）",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2114453291753242867",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2114459404422595058",
+   "https://x.com/Reuters/status/2114458275584397357",
+   "https://x.com/visegrad24/status/2114468062346825869"
+  ],
+  "metrics": {
+   "likes": 3234,
+   "reposts": 331,
+   "replies": 204,
+   "views": 234301,
+   "bookmarks": 76
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "路透：意大利罗马、都灵、博洛尼亚周六反战和反生活成本上涨的全国集会中，示威者与警察冲突；法国抗议团体也号召继续游行",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2114348753926717631",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2114344979308875799"
+  ],
+  "metrics": {
+   "likes": 1347,
+   "reposts": 505,
+   "replies": 105,
+   "views": 462551,
+   "bookmarks": 140
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "路透报道：卡塔尔调解人员已到德黑兰，与美国协调为地区局势降温；同日伊朗军方称在阿巴斯港上空击落一架美国无人机（据 Tasnim）",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2114350098888998985",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2114321109856182286"
+  ],
+  "metrics": {
+   "likes": 1233,
+   "reposts": 130,
+   "replies": 115,
+   "views": 293374,
+   "bookmarks": 75
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "category": "国际形势",
+  "summary": "KobeissiLetter：美国 CCC 及以下垃圾债有效收益率升至 18%，为 2020 年疫情以来最高，6 个月上升 500 个基点",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2114455149670228337",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 549,
+   "reposts": 60,
+   "replies": 83,
+   "views": 92841,
+   "bookmarks": 70
+  }
+ }
+]
