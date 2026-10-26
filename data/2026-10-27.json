@@ -1,0 +1,388 @@
+[
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "OpenAI 发布 GPT-6.1 Terra，主打更快更便宜的电脑操作（Computer Use）：能看屏幕、跨应用操作、写作更自然；宝玉解读称 Plus 及以上直接可用、API 降价一半，操作电脑追平 GPT-6 Astra",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2114780711664398349",
+  "extra_urls": [
+   "https://x.com/sama/status/2114818620782248024",
+   "https://x.com/dotey/status/2114790675279413738",
+   "https://x.com/Polymarket/status/2114823381115691038"
+  ],
+  "metrics": {
+   "likes": 16554,
+   "reposts": 1237,
+   "replies": 907,
+   "views": 1539275,
+   "bookmarks": 2519
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "Anthropic 正式递交 S-1 招股书，拟在纳斯达克上市、代码 $ANT；披露上半年营收 163 亿美元（去年同期 12 亿）、净亏损 807 亿美元，算力承诺约 6570 亿美元，七位联合创始人各持约 1.4%",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2114710153417118191",
+  "extra_urls": [
+   "https://x.com/qinbafrank/status/2114707122227474897",
+   "https://x.com/Cointelegraph/status/2114794474438013426",
+   "https://x.com/unusual_whales/status/2114813566310367363",
+   "https://x.com/theinformation/status/2114832128185684247"
+  ],
+  "metrics": {
+   "likes": 6407,
+   "reposts": 558,
+   "replies": 297,
+   "views": 763124,
+   "bookmarks": 1177
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "宝玉：微软向美加英印部分团队约 6 万名员工（约四分之一）发出自愿离职补偿邀约，12 月初前决定",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2114763608856956970",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 103,
+   "reposts": 16,
+   "replies": 57,
+   "views": 79702,
+   "bookmarks": 60
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "unusual_whales 转述路透：「在中国，AI 泡沫已经破裂」（仅标题转述，原文细节未核实）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2114818851116298652",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 657,
+   "reposts": 61,
+   "replies": 82,
+   "views": 91733,
+   "bookmarks": 42
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "Polymarket 转彭博：英特尔将收购以色列量子计算初创公司 Classiq",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2114813975229784464",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 441,
+   "reposts": 34,
+   "replies": 41,
+   "views": 35379,
+   "bookmarks": 30
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "AI",
+  "summary": "余弦（evilcos）分享安全玩法：用 DeepSeek Harness 等 AI 代理分析所在网络里的设备与风险，可能发现盲区问题，附第一步提示词",
+  "author": "@evilcos",
+  "url": "https://x.com/evilcos/status/2114722213408719241",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 117,
+   "reposts": 12,
+   "replies": 4,
+   "views": 19714,
+   "bookmarks": 88
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "Crypto",
+  "summary": "CZ 发帖「BNB Standard」；CoinDesk 称 CZ 当天与 BNB Standard 管理层一起敲响纳斯达克开市钟",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2114826672457527684",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2114770933093405018"
+  ],
+  "metrics": {
+   "likes": 409,
+   "reposts": 44,
+   "replies": 140,
+   "views": 102451,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "Crypto",
+  "summary": "Kraken 母公司 Payward 计划通过受 CFTC 监管的 Bitnomial 向美国客户提供 Hyperliquid 上的永续合约，尚待批准",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2114777119121342588",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 223,
+   "reposts": 24,
+   "replies": 57,
+   "views": 30754,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "Crypto",
+  "summary": "Ripple 推出 24/7 AI 驱动的企业资金管理服务，让企业客户闲置的 RLUSD 余额获得收益",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2114751897957437882",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 613,
+   "reposts": 108,
+   "replies": 31,
+   "views": 30213,
+   "bookmarks": 26
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "Crypto",
+  "summary": "美国 OCC 呼吁社区银行进入稳定币市场，在 2027 年 1 月 18 日 GENIUS 法案监管截止日前申请成为合规发行方",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2114794192928964697",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 262,
+   "reposts": 56,
+   "replies": 42,
+   "views": 23673,
+   "bookmarks": 33
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "Crypto",
+  "summary": "【价值观察】Whale Alert：USDC 财库约 1 小时内连续增发两笔各 2.5 亿美元 USDC（共约 5 亿）",
+  "author": "@whale_alert",
+  "url": "https://x.com/whale_alert/status/2114793573077983438",
+  "extra_urls": [
+   "https://x.com/whale_alert/status/2114788875340042431"
+  ],
+  "metrics": {
+   "likes": 77,
+   "reposts": 6,
+   "replies": 13,
+   "views": 43870,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国内形势",
+  "summary": "【立场账号】姆巴佩在采访中被问到最让他发笑的自己的表情包时，提到一张与毛泽东相关的梗图（原帖措辞带强烈立场，具体语境以视频为准）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2114753901102817758",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2781,
+   "reposts": 179,
+   "replies": 405,
+   "views": 713698,
+   "bookmarks": 692
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国内形势",
+  "summary": "【立场账号】此前因朋友圈发「习惯了近来平平淡淡的日子」被永久封禁朋友圈的网友称，同一手机号关联的小红书、抖音也相继被永封（当事人自述，未核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2114731315769843840",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 646,
+   "reposts": 50,
+   "replies": 76,
+   "views": 139754,
+   "bookmarks": 100
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国内形势",
+  "summary": "自由亚洲电台：一篇自称多所高校学生联署的「公开信」10 月 26 日出现在「思源湖 BBS」，呼吁恢复国家主席任期限制、民主修宪（真实性未核实）",
+  "author": "@RFA_Chinese",
+  "url": "https://x.com/RFA_Chinese/status/2114757248073523638",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 181,
+   "reposts": 24,
+   "replies": 24,
+   "views": 38954,
+   "bookmarks": 59
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国内形势",
+  "summary": "BBC 中文：日本前首相福田康夫相关报道，北京赞扬其对中日关系「作出积极贡献」",
+  "author": "@bbcchinese",
+  "url": "https://x.com/bbcchinese/status/2114736456027488655",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 28,
+   "reposts": 1,
+   "replies": 18,
+   "views": 33283,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国内形势",
+  "summary": "【价值观察】新华社：中共二十届五中全会 10 月 26 日在北京开幕，会期四天，聚焦加强党的自身建设",
+  "author": "@XHNews",
+  "url": "https://x.com/XHNews/status/2114727578804347051",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2114759963184890135"
+  ],
+  "metrics": {
+   "likes": 22,
+   "reposts": 11,
+   "replies": 3,
+   "views": 5895,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "巴西卢拉意外连任后，Kobeissi 称巴西股市暴跌近 30%、雷亚尔贬值 10%；Cointelegraph 估算 1000 美元投巴西股市现剩约 740 美元（跌幅说法不一，未核实）",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2114716174764372298",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2114708625725747567",
+   "https://x.com/Cointelegraph/status/2114771805323817085"
+  ],
+  "metrics": {
+   "likes": 14869,
+   "reposts": 2210,
+   "replies": 619,
+   "views": 1219828,
+   "bookmarks": 1116
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "【立场账号】特朗普评巴西大选：「看起来很糟，像又一次被操纵的选举」；另据报道小博索纳罗（Flávio）被联邦警察要求上交护照",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2114819222828421561",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2114814696893125046",
+   "https://x.com/unusual_whales/status/2114827348684185722",
+   "https://x.com/disclosetv/status/2114827126142902586"
+  ],
+  "metrics": {
+   "likes": 1056,
+   "reposts": 97,
+   "replies": 41,
+   "views": 30529,
+   "bookmarks": 22
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "泽连斯基：俄罗斯弹道导弹击中基辅一所大学校园及周边，包括京都公园、地铁站附近和居民楼",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2114827667145187712",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 779,
+   "reposts": 309,
+   "replies": 72,
+   "views": 45569,
+   "bookmarks": 17
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "美国司法部以 2016 年泄露国防信息罪名起诉前 FBI 局长詹姆斯·科米",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2114829666712473904",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2114831187667828996"
+  ],
+  "metrics": {
+   "likes": 364,
+   "reposts": 62,
+   "replies": 28,
+   "views": 50835,
+   "bookmarks": 27
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "BBC：阿尔及利亚将向尼日尔派兵，为 1973 年以来首次海外部署",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2114709277419971026",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1112,
+   "reposts": 179,
+   "replies": 49,
+   "views": 417854,
+   "bookmarks": 179
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "【立场账号】委内瑞拉反对派领袖马查多突然现身加拉加斯，民众涌上街头；Polymarket 称美国公布路线图，计划 6 个月内改组最高法院和选举体系后举行新总统选举",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2114710546591412334",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2114828132830089394"
+  ],
+  "metrics": {
+   "likes": 2275,
+   "reposts": 408,
+   "replies": 27,
+   "views": 47831,
+   "bookmarks": 62
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "据 CNN（经 TrumpTruthOnX 转述）：特朗普拒绝了内塔尼亚胡在周二大选前美以联合打击伊朗的请求（二手转述，未核实）",
+  "author": "@TrumpTruthOnX",
+  "url": "https://x.com/TrumpTruthOnX/status/2114654746158174409",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 386,
+   "reposts": 51,
+   "replies": 56,
+   "views": 98567,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "category": "国际形势",
+  "summary": "路透：埃及批准向沙特提供军事支持，因胡塞武装袭击升级",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2114708696668189127",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 201,
+   "reposts": 47,
+   "replies": 24,
+   "views": 55751,
+   "bookmarks": 17
+  }
+ }
+]
