@@ -1,0 +1,457 @@
+[
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "Google DeepMind 发布世界模型 Genie 4：可实时生成可交互环境，场景会响应操作、自带环境音，人物能动作和说话；中文圈 op7418、AYi_AInotes 等跟进解读，Mollick 演示「一切都在跑 DOOM」",
+  "author": "@GoogleDeepMind",
+  "url": "https://x.com/GoogleDeepMind/status/2115114028338962672",
+  "extra_urls": [
+   "https://x.com/op7418/status/2115128743408828720",
+   "https://x.com/emollick/status/2115127527241085010"
+  ],
+  "metrics": {
+   "likes": 12109,
+   "reposts": 1290,
+   "replies": 550,
+   "views": 1176929,
+   "bookmarks": 4812
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "马斯克发帖展示「Grok @Bot」新功能（视频形式，具体功能以原帖为准），单帖浏览近 1700 万",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2115119252785303813",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 11450,
+   "reposts": 819,
+   "replies": 926,
+   "views": 16876167,
+   "bookmarks": 1984
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "Anthropic 公布 Claude 参与新药研发进展：与 6 家药物研发机构深度合作，并启动自有药物发现项目；宝玉解读称最快 2028 年底进入人体临床试验",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2115178675050307942",
+  "extra_urls": [
+   "https://x.com/dotey/status/2115183164905906513"
+  ],
+  "metrics": {
+   "likes": 2616,
+   "reposts": 230,
+   "replies": 232,
+   "views": 205165,
+   "bookmarks": 547
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "小互：纽约大学与得州大学奥斯汀分校研究对比 14 个主流大模型与人类文本，发现 AI 回答让人「读着心累」的元凶是前沿模型系统性过度使用某些表达方式",
+  "author": "@xiaohu",
+  "url": "https://x.com/xiaohu/status/2115056354771763247",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 542,
+   "reposts": 72,
+   "replies": 55,
+   "views": 40313,
+   "bookmarks": 456
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "Guizang（turingou）推荐一款带 MCP 的工具，称可直接在 Grok Bot 里使用，免费版也能让 Grok Bot 连 1Password 后用 Google 登录（具体产品见原帖）",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2115030226531143803",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 416,
+   "reposts": 31,
+   "replies": 5,
+   "views": 47850,
+   "bookmarks": 522
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "OpenAI Devs：代码审查公司 CodeRabbit 用 GPT-6.1 Sol 帮开发者在复杂代码库里找安全风险",
+  "author": "@OpenAIDevs",
+  "url": "https://x.com/OpenAIDevs/status/2114837274550747603",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 597,
+   "reposts": 47,
+   "replies": 65,
+   "views": 53133,
+   "bookmarks": 56
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "上海 AI Lab 开源 744B 参数智能体模型 Atria Dawn（512K 上下文、MIT 协议），帖称多项 Agent 评测超过 Claude Opus 5（团队自测数据，未经独立核实）",
+  "author": "@NFT_Chen",
+  "url": "https://x.com/NFT_Chen/status/2115030449093497128",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 135,
+   "reposts": 13,
+   "replies": 33,
+   "views": 13165,
+   "bookmarks": 67
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "AI",
+  "summary": "【价值观察】宝玉：AI 数学公司 Axiom 用几十个 AI agent 花 24 天，让计算机核对完长达 1.5 万页、散落在 500 多篇论文里的数学史上最长证明，定理成立，其中一篇论文的漏洞由 AI 换证法补上",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2115145479222665228",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 24,
+   "reposts": 4,
+   "replies": 18,
+   "views": 7189,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "Polymarket 美国 App 上线加密货币「5 分钟涨跌」预测市场",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2115178847905984734",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2115181512111047014"
+  ],
+  "metrics": {
+   "likes": 114,
+   "reposts": 28,
+   "replies": 43,
+   "views": 147246,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "Lookonchain：麻吉大哥（Machi）在 papertrade 上亏光全部资金，Hyperliquid 仅剩约 4,518 美元，一小时前又亏本卖出一只 Mutant Ape 补仓",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2114916681638395915",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 528,
+   "reposts": 26,
+   "replies": 132,
+   "views": 106668,
+   "bookmarks": 44
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "Ripple 与 Robinhood 宣布战略合作：RLUSD 上线 Robinhood 零售和机构平台，Robinhood 内部接入 Ripple Treasury；同日 Robinhood 公布 Q3 营收约 14 亿美元创纪录，但加密业务收入下降 55%",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2115145251824570459",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2115178419054956954",
+   "https://x.com/WuBlockchain/status/2115185708629725346"
+  ],
+  "metrics": {
+   "likes": 429,
+   "reposts": 73,
+   "replies": 35,
+   "views": 23913,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "据路透，美国 CFTC 再次调查 Polymarket 是否违反 2022 年和解协议、让美国用户使用其离岸平台",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2115159291225063598",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2115138099206611017"
+  ],
+  "metrics": {
+   "likes": 364,
+   "reposts": 5,
+   "replies": 23,
+   "views": 30478,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "Lookonchain：两个沉睡 3 年的巨鲸向 Coinbase Prime 存入 2,571 枚 BTC（约 2.07 亿美元）",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2114910006432972940",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 239,
+   "reposts": 19,
+   "replies": 58,
+   "views": 53064,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "Lookonchain 10 月 27 日 ETF 数据：BTC ETF 单日净流入 1,359 枚（+1.09 亿美元），ETH ETF 单日净流出 38,303 枚（-8,907 万美元），两者 7 日均为净流出",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2115073152162365478",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 116,
+   "reposts": 9,
+   "replies": 62,
+   "views": 43471,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "CryptoQuant CEO Ki Young Ju 警告：BTC 若跌破 8 万美元，多头连环爆仓可能把价格拖到 7.3 万美元",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2115176908430127299",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 77,
+   "reposts": 9,
+   "replies": 44,
+   "views": 23520,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "Crypto",
+  "summary": "【价值观察】吴说：币安在 10 月 30 日截止前向巴西央行申请加密牌照，同时在巴西限制 8 项服务、下架 22 个代币",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2115026850997223608",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 53,
+   "reposts": 7,
+   "replies": 35,
+   "views": 17370,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国内形势",
+  "summary": "【立场账号】姆巴佩「中国独裁者」梗图风波持续发酵：上海徐家汇地铁站姆巴佩广告被遮脸，央视自 26 日晚叫停涉及西甲和姆巴佩的赛事转播、下架相关广告，便利店收回其代言饮料；姆巴佩道歉后总台称「听其言观其行」，法国 BFMTV 跟进报道；美国国会中国问题特别委员会称「毛泽东的确是独裁者」，他不应道歉",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2115073538055102573",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2115076046332576164",
+   "https://x.com/whyyoutouzhele/status/2115086112473690566",
+   "https://x.com/whyyoutouzhele/status/2115106244843512077",
+   "https://x.com/VOAChinese/status/2115143507962986713",
+   "https://x.com/Reuters/status/2115189331274916177"
+  ],
+  "metrics": {
+   "likes": 1495,
+   "reposts": 124,
+   "replies": 144,
+   "views": 130817,
+   "bookmarks": 155
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国内形势",
+  "summary": "五中全会期间，自称北大、人大、同济等 14 所高校学生联署的「公开信」继续在 X 上刷屏（要求恢复国家主席任期限制等）；RFA 称发布网站周二已无法打开，Wayback Machine 存档也消失（公开信来源和真实性未核实，前一天早报已报首发）",
+  "author": "@LittleLee_x",
+  "url": "https://x.com/LittleLee_x/status/2114850632708567405",
+  "extra_urls": [
+   "https://x.com/RFA_Chinese/status/2115118867832082919"
+  ],
+  "metrics": {
+   "likes": 1717,
+   "reposts": 106,
+   "replies": 345,
+   "views": 980095,
+   "bookmarks": 289
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国内形势",
+  "summary": "【立场账号】网传多地医院拖欠医护工资，有的拖欠半年以上；另有河北遵化教师到教育局堵门讨薪的视频流传（网友投稿，未核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2115126379096478170",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2115156584191959203"
+  ],
+  "metrics": {
+   "likes": 231,
+   "reposts": 28,
+   "replies": 43,
+   "views": 35724,
+   "bookmarks": 52
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国内形势",
+  "summary": "【价值观察】中纪委国家监委通报：今年前 9 个月全国纪检监察机关立案 80 万件、处分 68 万人，其中省部级及以上干部 105 人",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2115096183118966796",
+  "extra_urls": [
+   "https://x.com/RFA_Chinese/status/2115119371219865853"
+  ],
+  "metrics": {
+   "likes": 13,
+   "reposts": 4,
+   "replies": 5,
+   "views": 6853,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国内形势",
+  "summary": "【价值观察】财新：9 月规模以上工业企业利润增速加快至 14.4%，电子和原材料制造业贡献显著，应收账款增速创三年多新高",
+  "author": "@NewsCaixin",
+  "url": "https://x.com/NewsCaixin/status/2114996216392241266",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1,
+   "reposts": 0,
+   "replies": 0,
+   "views": 2666,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "Unusual Whales 称普京邀请泽连斯基赴莫斯科直接谈判、承诺提供安全保障（未注明来源，未核实）；Polymarket 另称在梅拉尼娅和教宗利奥十四世斡旋下，俄乌停火扩大到赫尔松全州（同样未核实）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2115175702798516316",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2115183390295208384"
+  ],
+  "metrics": {
+   "likes": 3816,
+   "reposts": 253,
+   "replies": 381,
+   "views": 326106,
+   "bookmarks": 161
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "以色列大选出口民调：内塔尼亚胡的利库德有望成为第一大党，但艾森科特阵营总席位可能多于内塔尼亚胡阵营，双方都不过半；艾森科特已宣称胜利",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2115179606378684727",
+  "extra_urls": [
+   "https://x.com/spectatorindex/status/2115173052485124419",
+   "https://x.com/spectatorindex/status/2115178489116754064",
+   "https://x.com/disclosetv/status/2115176470905749617"
+  ],
+  "metrics": {
+   "likes": 1200,
+   "reposts": 156,
+   "replies": 25,
+   "views": 220536,
+   "bookmarks": 116
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "泽连斯基：今年乌军前线态势是开战以来少有的强，若伙伴在爱国者等防空上继续支持，乌克兰会处于更有利的位置",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2115176710731960376",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3391,
+   "reposts": 591,
+   "replies": 319,
+   "views": 96654,
+   "bookmarks": 44
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "特朗普称委内瑞拉可能成为美国「第 51 个州」，并把美国干预委内瑞拉称作「史上最伟大的石油胜利」",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2115174006676484173",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1900,
+   "reposts": 133,
+   "replies": 114,
+   "views": 191565,
+   "bookmarks": 111
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "【立场账号】特朗普称攻打伊朗是「我做过最棒的事情之一」，还称对伊停火是「浪费时间」",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2115191182431334750",
+  "extra_urls": [
+   "https://x.com/VOAChinese/status/2115135290306076719"
+  ],
+  "metrics": {
+   "likes": 366,
+   "reposts": 47,
+   "replies": 80,
+   "views": 40537,
+   "bookmarks": 35
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "弗拉维奥·博索纳罗离开巴西前往美国，美方表示将向他及家人发放签证（美联社、南华早报也有报道）",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2115193229092233403",
+  "extra_urls": [
+   "https://x.com/AP/status/2115195767518367853",
+   "https://x.com/SCMPNews/status/2115178599313498339"
+  ],
+  "metrics": {
+   "likes": 577,
+   "reposts": 75,
+   "replies": 53,
+   "views": 52276,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "category": "国际形势",
+  "summary": "Kobeissi：中国 8 月持有美债减少 270 亿美元至 5,910 亿，为 2008 年 8 月以来最低；同月加拿大持仓大增 380 亿，引发「中国是否在隐藏真实美债敞口」的讨论",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2115189569331318817",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 273,
+   "reposts": 32,
+   "replies": 36,
+   "views": 59981,
+   "bookmarks": 29
+  }
+ }
+]
