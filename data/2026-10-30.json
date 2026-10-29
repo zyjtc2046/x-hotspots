@@ -1,0 +1,502 @@
+[
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "Anthropic 公布「自我评估」机制：Claude 每次回复后会立即给出对话的初步安全评估，标记潜在滥用请求以便进一步审查",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2115871889549865429",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2115908755057475953"
+  ],
+  "metrics": {
+   "likes": 1827,
+   "reposts": 124,
+   "replies": 524,
+   "views": 227366,
+   "bookmarks": 505
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "OpenAI 公开扩展后的前沿模型监控体系，称 9 月曾借此发现一个模型在训练中试图访问真实互联网",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2115896329645723836",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1741,
+   "reposts": 108,
+   "replies": 283,
+   "views": 175148,
+   "bookmarks": 314
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "Polymarket 转引彭博：Anthropic 成为 SpaceX 最大客户，超过美国政府，贡献其三分之一以上收入（转述，未见原始报道）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2115904259548213720",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1390,
+   "reposts": 110,
+   "replies": 50,
+   "views": 62930,
+   "bookmarks": 70
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "Ethan Mollick：用 Opus 5.5 这类模型干活时，最好设置检查点让模型阶段性汇报思路或原型，而不是一次跑到底",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2115875693120676157",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 315,
+   "reposts": 14,
+   "replies": 110,
+   "views": 23887,
+   "bookmarks": 274
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "AYi：马斯克在与 OpenAI 的诉讼中败诉当晚于福布斯晚宴称，AI 全面超越人类大概只剩一两年（败诉说法未核实）",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2115754246956056724",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 213,
+   "reposts": 42,
+   "replies": 24,
+   "views": 63219,
+   "bookmarks": 143
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "_FORAB 转述百度内部员工爆料：百度在 AI 上掉队源于内部斗争，「用 AI 盘活搜索」的方案被压下（爆料未核实）",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2115820440115650706",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 135,
+   "reposts": 7,
+   "replies": 37,
+   "views": 93602,
+   "bookmarks": 59
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "宝玉：OpenAI 即日起把 ChatGPT Pro 各档及 Business Premium 用量上限翻倍，原定的 Pro 200 降额取消，Plus 不在其列",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2115856411439575386",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 44,
+   "reposts": 1,
+   "replies": 29,
+   "views": 16590,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "AI",
+  "summary": "【价值观察】The Information 独家：DeepSeek 和月之暗面最新模型大量使用 OpenAI GPT-6 Astra 的输出做训练，同时 Anthropic 正打击中国实验室蒸馏能力",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2115901320397775243",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 8,
+   "reposts": 0,
+   "replies": 2,
+   "views": 2588,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "币安疑似遭黑客攻击：多条链钱包约 27.7 亿美元异常流出（部分流入 Tornado）。CZ 称「看起来是被黑了」但用户资金安全、应会全额覆盖；币安称正在调查。Tether 冻结约 9.71 亿 USDT（Ardoino 称已超 15.67 亿），Circle 冻结约 8.23 亿 USDC（被盗规模和是否确认被黑尚未有官方定论）",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2115915423174853077",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2115907093572297178",
+   "https://x.com/Cointelegraph/status/2115914944696689147",
+   "https://x.com/whale_alert/status/2115914421281095967",
+   "https://x.com/whale_alert/status/2115915008634663274",
+   "https://x.com/KobeissiLetter/status/2115916653212885382",
+   "https://x.com/Cointelegraph/status/2115920221265416238",
+   "https://x.com/PhyrexNi/status/2115919727302422726"
+  ],
+  "metrics": {
+   "likes": 9863,
+   "reposts": 1878,
+   "replies": 2115,
+   "views": 571186,
+   "bookmarks": 474
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "受币安疑似被盗和科技股抛售拖累，BTC 跌破 7.9 万美元、ETH 跌破 2,250 美元，一小时内爆仓超 5.9 亿美元（多单约 5.7 亿）",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2115910521086247267",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2115913681720525197"
+  ],
+  "metrics": {
+   "likes": 1106,
+   "reposts": 110,
+   "replies": 109,
+   "views": 97722,
+   "bookmarks": 38
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "「宏观之神」德鲁肯米勒首条 X 帖宣布投资 Trade xyz（Hyperliquid 生态），纽交所母公司 ICE 拟与其合作在美国推出永续合约，马斯克转发互动，HYPE 一度涨超 17%",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2115832379969536034",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2115891171557867739",
+   "https://x.com/WuBlockchain/status/2115760462856171756",
+   "https://x.com/WuBlockchain/status/2115834512622100833",
+   "https://x.com/lookonchain/status/2115784804432318598"
+  ],
+  "metrics": {
+   "likes": 133,
+   "reposts": 8,
+   "replies": 19,
+   "views": 29257,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "Chainlink 推出 7×24 小时股票与大宗商品报价，休市期间也能衔接永续合约报价，Aave 机构版首个接入",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2115843967333916835",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 327,
+   "reposts": 44,
+   "replies": 53,
+   "views": 26254,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "印尼最大交易所 Indodax 因网络攻击尝试增多，暂停充提",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2115773202211467657",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 246,
+   "reposts": 43,
+   "replies": 36,
+   "views": 41729,
+   "bookmarks": 37
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "【价值观察】多名 Polymarket 用户报告资金被盗，平台限制交易并启动调查",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2115874323806519631",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 45,
+   "reposts": 11,
+   "replies": 24,
+   "views": 17685,
+   "bookmarks": 6
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "【价值观察】Coinbase Q3 净利润 7.19 亿美元，预测市场年化收入超 2 亿美元（PhyrexNi 称财报不及预期，两种说法并存）",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2115914191580086681",
+  "extra_urls": [
+   "https://x.com/PhyrexNi/status/2115913756752671082"
+  ],
+  "metrics": {
+   "likes": 70,
+   "reposts": 10,
+   "replies": 16,
+   "views": 20492,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "Crypto",
+  "summary": "秦八：美国财政部 TGA 余额已达 8 月设定的 10 月底 1.05 万亿美元目标，或是近期加密的流动性拐点",
+  "author": "@qinbafrank",
+  "url": "https://x.com/qinbafrank/status/2115837630961316001",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 74,
+   "reposts": 11,
+   "replies": 17,
+   "views": 13929,
+   "bookmarks": 30
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "中共二十届五中全会闭幕：通过全面从严治党决定，习近平党建思想写入公报，确定 2027 年下半年召开二十一大；确认张又侠、马兴瑞等 33 人被开除党籍，缺席率创后毛时代纪录；央视画面显示胡春华出席",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2115818891720917411",
+  "extra_urls": [
+   "https://x.com/angel71911/status/2115748095913050519",
+   "https://x.com/VOAChinese/status/2115804039871082693",
+   "https://x.com/zaobaosg/status/2115829499115757769",
+   "https://x.com/nexta_tv/status/2115857825016545403",
+   "https://x.com/resoundnews/status/2115754713618817241",
+   "https://x.com/Reuters/status/2115919168893546891"
+  ],
+  "metrics": {
+   "likes": 40,
+   "reposts": 7,
+   "replies": 7,
+   "views": 19218,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "【立场账号】广东河源龙川县实验中学因供电故障停水停电数小时，学生要求离校未获放行，集体喊「回家」后翻墙离校",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2115842771357716668",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2115839828571140454"
+  ],
+  "metrics": {
+   "likes": 202,
+   "reposts": 15,
+   "replies": 17,
+   "views": 30284,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "【立场账号】意大利米兰检方完成「李老师」被跟踪威胁案调查，10 名涉统战人员进入拟起诉阶段（转引保护卫士和意媒）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2115858704444592327",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 239,
+   "reposts": 17,
+   "replies": 9,
+   "views": 18535,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "三丽鸥因中国网民不满，终止与日剧《VIVANT》的联名合作，先后在微博和日本官网致歉；这是几天内第二起外企在华「触线」事件",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2115902074395205963",
+  "extra_urls": [
+   "https://x.com/dw_chinese/status/2115825278849028398",
+   "https://x.com/whyyoutouzhele/status/2115825988017987932"
+  ],
+  "metrics": {
+   "likes": 3,
+   "reposts": 2,
+   "replies": 2,
+   "views": 2271,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "【价值观察】香港宏福苑大火独立调查报告公布，揭露维修行业监管失误、围标和腐败；李家超鞠躬道歉，房屋局局长何永贤请辞",
+  "author": "@zaobaosg",
+  "url": "https://x.com/zaobaosg/status/2115844492771090749",
+  "extra_urls": [
+   "https://x.com/SCMPNews/status/2115845654534562302",
+   "https://x.com/VOAChinese/status/2115885837632123042"
+  ],
+  "metrics": {
+   "likes": 7,
+   "reposts": 1,
+   "replies": 3,
+   "views": 8764,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国内形势",
+  "summary": "德国总统施泰因迈尔访华，在北大演讲批评中欧经济关系失衡，称中国追求自主不应以加深他国依赖为代价；还与波尔打了场乒乓「表演赛」",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2115843524365111339",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2115911561684664509"
+  ],
+  "metrics": {
+   "likes": 24,
+   "reposts": 1,
+   "replies": 3,
+   "views": 13137,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "俄军无人机袭击第聂伯罗火车站站台，通勤列车和客车遇袭，泽连斯基称死亡已升至 14 人；当天俄方袭击共致 19 死 71 伤，基辅凌晨也遭弹道导弹袭击",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2115750768099668087",
+  "extra_urls": [
+   "https://x.com/ZelenskyyUa/status/2115787384277061937",
+   "https://x.com/ZelenskyyUa/status/2115843008717377997",
+   "https://x.com/DeItaone/status/2115908541202743665"
+  ],
+  "metrics": {
+   "likes": 19963,
+   "reposts": 6419,
+   "replies": 1089,
+   "views": 620534,
+   "bookmarks": 447
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "泽连斯基：乌军两次导弹打击摧毁两架俄 Su-34 并击中一部伊斯坎德尔发射车",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2115883000101757436",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 8487,
+   "reposts": 1308,
+   "replies": 395,
+   "views": 144289,
+   "bookmarks": 79
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "【价值观察】以色列大选计票完成：内塔尼亚胡阵营 53 席、艾森科特阵营 48 席、阿拉伯政党创纪录拿下 19 席，双方都不到 61 席多数，议会悬峙",
+  "author": "@business",
+  "url": "https://x.com/business/status/2115914105806541213",
+  "extra_urls": [
+   "https://x.com/i/trending/2115917926045716891"
+  ],
+  "metrics": {
+   "likes": 6,
+   "reposts": 0,
+   "replies": 1,
+   "views": 11842,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "伊朗收到一份核协议提议以换取美以不恢复轰炸；美方已提醒海湾盟友为中期选举后可能的「短而猛」对伊打击做准备，以色列请求美方批准打击伊朗能源设施（多方转述，未核实）",
+  "author": "@ItsRealAlec",
+  "url": "https://x.com/ItsRealAlec/status/2115598132486529302",
+  "extra_urls": [
+   "https://x.com/i/trending/2115914876618936655"
+  ],
+  "metrics": {
+   "likes": 226,
+   "reposts": 45,
+   "replies": 13,
+   "views": 115697,
+   "bookmarks": 63
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "美国中期选举 11 月 3 日前冲刺：特朗普连发多帖为众议院候选人背书、催促肯塔基选民投票；全美提前投票已超 4,300 万人",
+  "author": "@realDonaldTrump",
+  "url": "https://x.com/realDonaldTrump/status/2115814087963644305",
+  "extra_urls": [
+   "https://x.com/realDonaldTrump/status/2115820387921809821",
+   "https://x.com/Polymarket/status/2115915829556752413"
+  ],
+  "metrics": {
+   "likes": 11165,
+   "reposts": 1883,
+   "replies": 1016,
+   "views": 1222412,
+   "bookmarks": 133
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "Reddit 日活和 Q4 指引不及预期，股价跌超 12%；CEO 称 Reddit 将变成「仅登录可浏览」，结束近 20 年开放浏览",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2115903350818673145",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2115907833384608238",
+   "https://x.com/Polymarket/status/2115913711785537862"
+  ],
+  "metrics": {
+   "likes": 955,
+   "reposts": 91,
+   "replies": 75,
+   "views": 114640,
+   "bookmarks": 40
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "据路透，芬兰对谷歌数据中心选址涉嫌环境破坏展开刑事调查",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2115904254217007588",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1418,
+   "reposts": 164,
+   "replies": 36,
+   "views": 91491,
+   "bookmarks": 36
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "category": "国际形势",
+  "summary": "【价值观察】南华早报：特朗普与习近平会面前，美国禁止中国实验室为电子产品做检测",
+  "author": "@SCMPNews",
+  "url": "https://x.com/SCMPNews/status/2115839474961674591",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2,
+   "reposts": 2,
+   "replies": 0,
+   "views": 3205,
+   "bookmarks": 1
+  }
+ }
+]
