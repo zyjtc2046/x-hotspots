@@ -1,0 +1,500 @@
+[
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "Altman 称个人电脑配 RAM 是对全球紧缺 DRAM 的低效使用，应更多分给数据中心（转引 Tom's Hardware，原话语境未核实）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2116248483892277526",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 8454,
+   "reposts": 534,
+   "replies": 1357,
+   "views": 1033150,
+   "bookmarks": 1218
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "Blackstone 提醒投资者：Anthropic 大规模 IPO 后可能只拿到垃圾级信用评级，与此前预期相反（据 FT）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2116245250079342709",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1283,
+   "reposts": 106,
+   "replies": 76,
+   "views": 154196,
+   "bookmarks": 93
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "【价值观察】Anthropic 把 Claude 两档 Max 改名：100 美元档叫 Max、200 美元档叫 Ultra，价格和周额度不变，已验证账号的 Ultra 取消 5 小时限额",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2116233564823974005",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 16,
+   "reposts": 2,
+   "replies": 11,
+   "views": 7623,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "思科总裁给一名 27 岁员工不限量用 AI，目标两年内重写公司 98% 的老代码",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2116218545906319826",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 64,
+   "reposts": 5,
+   "replies": 36,
+   "views": 24489,
+   "bookmarks": 50
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "turingou 分享用 Grok Bot 上网找菜谱、再调节烤箱复杂温控程序做叉烧",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2116111184068059429",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 811,
+   "reposts": 9,
+   "replies": 87,
+   "views": 155271,
+   "bookmarks": 231
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "Ethan Mollick 吐槽自己每条帖子下都是大量 AI 灌水回复，真人回复反而被算法压下去",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2115983936195297639",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 655,
+   "reposts": 25,
+   "replies": 157,
+   "views": 39511,
+   "bookmarks": 39
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "Mollick 用 Opus 做了个小游戏：把真实项目的 JIRA 工单变成 2000 年代太空站恐怖游戏的音频日志剧情，附可玩 demo 和 GitHub",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2115981377652822479",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 438,
+   "reposts": 34,
+   "replies": 85,
+   "views": 43621,
+   "bookmarks": 188
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "AI",
+  "summary": "夸克网盘上线 Skill，AI 可直接读取网盘里的图片、视频和资料，生成的文件也能自动回传网盘",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2116119701487337890",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 101,
+   "reposts": 7,
+   "replies": 66,
+   "views": 17554,
+   "bookmarks": 134
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "币安被盗 63 亿美元后续：拿出 63.4 亿美元自有资金覆盖全部损失（其中 50 亿已有对应代币资产，其余通过场外和市场买入），正与 FBI、特勤局追踪尚未追回的 33 亿美元；特朗普称在关注此事、币安已控制住局面",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2116215227704283235",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2116261854175777058",
+   "https://x.com/Cointelegraph/status/2116271268177613152"
+  ],
+  "metrics": {
+   "likes": 494,
+   "reposts": 74,
+   "replies": 89,
+   "views": 114677,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "攻击细节：以太坊部分利用了 EIP-7702 委托绕过热钱包审批，4 分钟内从单个钱包转走约 25 亿美元；币安还发现了更多入侵点，联席 CEO Richard Teng 称攻击不止涉及单个工程师的权限",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2116154418986918115",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2116251389928067218"
+  ],
+  "metrics": {
+   "likes": 166,
+   "reposts": 29,
+   "replies": 77,
+   "views": 34300,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "Cantor、TD Cowen、Compass Point 三家华尔街机构认为币安被盗不会让加密市场脱轨，称抛售是买入机会",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2116186372927377687",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 267,
+   "reposts": 46,
+   "replies": 79,
+   "views": 62951,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "ZachXBT 指币安被盗幕后大概率是朝鲜 Lazarus（归因尚未官方确认）；Chainalysis 称 2026 年疑似朝鲜相关黑客占加密被盗损失近 89%",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2116150987152933365",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2116276551729684798",
+   "https://x.com/Reuters/status/2116282785425998034"
+  ],
+  "metrics": {
+   "likes": 47,
+   "reposts": 16,
+   "replies": 9,
+   "views": 23767,
+   "bookmarks": 35
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "CZ 喊话马斯克别再阴阳、拿出支持，称币安当年投给推特收购的 5 亿美元如今已值超 10 亿；大宇评两人「本质不是一类人」",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2116236309417152923",
+  "extra_urls": [
+   "https://x.com/BTCdayu/status/2116165045671575558"
+  ],
+  "metrics": {
+   "likes": 364,
+   "reposts": 38,
+   "replies": 52,
+   "views": 44819,
+   "bookmarks": 9
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "Internet Computer（ICP）上线 Claude 连接器，可直接用 AI 提示词在该网络上开发",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2116241324877725758",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 761,
+   "reposts": 142,
+   "replies": 62,
+   "views": 51478,
+   "bookmarks": 55
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "币安黑客误把 18 种、价值 332 万美元的代币转进 NEWT 合约地址，因合约权限已放弃，这笔钱永久无法取回",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2116177695776411659",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 28,
+   "reposts": 2,
+   "replies": 20,
+   "views": 22385,
+   "bookmarks": 6
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "Crypto",
+  "summary": "【价值观察】Tether 三季度利润 15 亿美元，前九个月共 45 亿；超额储备翻倍到 79.5 亿，持有美债 1324 亿美元",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2116260117439992202",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 54,
+   "reposts": 10,
+   "replies": 21,
+   "views": 17258,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "三丽鸥联名风波后续：新京报批其「不能失守历史底线」，网友却借机追问双休和学生作息；连同姆巴佩事件被调侃为「大道歉时代」",
+  "author": "@zaobaosg",
+  "url": "https://x.com/zaobaosg/status/2116206709588861347",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2116168255794766082"
+  ],
+  "metrics": {
+   "likes": 75,
+   "reposts": 10,
+   "replies": 20,
+   "views": 23815,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【立场账号】微博热搜「姆巴佩道歉没发 IG」，网友反讽「发了我们也上不了 IG」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116173276213043244",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 316,
+   "reposts": 13,
+   "replies": 20,
+   "views": 54865,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【立场账号】万圣节前上海巨鹿路、淮海中路、复兴公园等地加强管控，复兴公园以灯光设备检修为由，10 月 30 日至 11 月 3 日夜间暂停部分游乐设施",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116205993830846488",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 376,
+   "reposts": 37,
+   "replies": 26,
+   "views": 40942,
+   "bookmarks": 39
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【价值观察】习近平敦促德国保持务实的对华政策，北京寻求稳定对欧关系；瑞士联邦主席 Parmelin 同日在北京会见习近平",
+  "author": "@business",
+  "url": "https://x.com/business/status/2116213687396556897",
+  "extra_urls": [
+   "https://x.com/SwissGov/status/2116167039882596440"
+  ],
+  "metrics": {
+   "likes": 30,
+   "reposts": 8,
+   "replies": 4,
+   "views": 23320,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【价值观察】全国人大常委会将审议刑诉法修订，「指定居所监视居住」存废成法学界焦点",
+  "author": "@zaobaosg",
+  "url": "https://x.com/zaobaosg/status/2116199183732326546",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 8,
+   "reposts": 2,
+   "replies": 0,
+   "views": 21496,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【价值观察】华尔街日报：中国加快测绘台湾附近海域，派出数十艘船收集潜艇和水下无人器作战所需数据",
+  "author": "@WSJ",
+  "url": "https://x.com/WSJ/status/2116277155965419883",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 7,
+   "reposts": 7,
+   "replies": 6,
+   "views": 17066,
+   "bookmarks": 1
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国内形势",
+  "summary": "【价值观察】美国拟禁止中国电信企业直接获取美国电话号码，理由是国家安全和打击诈骗电话",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2116192003667153062",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 48,
+   "reposts": 10,
+   "replies": 3,
+   "views": 10996,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "美股暴跌：纳指 100 一度跌近 5%，较 10 月 6 日高点回撤 10% 进入技术性回调；英特尔单日跌约 31%，创 1971 年上市以来最大跌幅；美股单日蒸发约 1.7 万亿美元",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2116243866718523645",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2116240066142154894",
+   "https://x.com/spectatorindex/status/2116265351398957126",
+   "https://x.com/unusual_whales/status/2116252799792992667"
+  ],
+  "metrics": {
+   "likes": 2217,
+   "reposts": 309,
+   "replies": 137,
+   "views": 168239,
+   "bookmarks": 148
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "中期选举（11 月 3 日）冲刺：马斯克连发帖称民主党人 Talarico 会「终结美国民主」；Polymarket 上民主党横扫两院概率升至 70% 新高；提前投票已破纪录达 4790 万",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2116240704393351411",
+  "extra_urls": [
+   "https://x.com/elonmusk/status/2116242885376974965",
+   "https://x.com/Polymarket/status/2116240243372573062",
+   "https://x.com/unusual_whales/status/2116272932330537256"
+  ],
+  "metrics": {
+   "likes": 8694,
+   "reposts": 1756,
+   "replies": 1197,
+   "views": 1207404,
+   "bookmarks": 156
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "应特勤局要求，特朗普的海湖庄园及空军一号停靠机场附近部署了配备毒刺导弹的「复仇者」防空系统（部分在庄园旁的驳船上，据《棕榈滩邮报》）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2116256751473639920",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2116258219253195184"
+  ],
+  "metrics": {
+   "likes": 3223,
+   "reposts": 311,
+   "replies": 130,
+   "views": 464441,
+   "bookmarks": 284
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "【未核实】Polymarket 称波兰「据报正发生政变」，总统取消出访赶回华沙；BBC 报道的是围绕最高法院控制权的对峙、警方已部署，「政变」说法尚无权威确认",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2116272932431519957",
+  "extra_urls": [
+   "https://x.com/BBCWorld/status/2116272499960713281"
+  ],
+  "metrics": {
+   "likes": 3125,
+   "reposts": 318,
+   "replies": 92,
+   "views": 125788,
+   "bookmarks": 178
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "泽连斯基：俄罗斯持续打击乌克兰能源设施，昨夜发射 17 枚弹道导弹，部分击中炼油设施",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2116244850383429678",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 4684,
+   "reposts": 937,
+   "replies": 732,
+   "views": 141360,
+   "bookmarks": 71
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "美国国务院批准向乌克兰出售 21 亿美元爱国者导弹及设备，由伙伴国出资",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2116266989278925167",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2116252526190469630"
+  ],
+  "metrics": {
+   "likes": 382,
+   "reposts": 56,
+   "replies": 18,
+   "views": 71768,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "通胀回升，市场预计美联储 12 月再加息概率 75%；圣路易斯联储主席 Musalem 也称还需继续加息",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2116261977559544282",
+  "extra_urls": [
+   "https://x.com/business/status/2116280267195248859"
+  ],
+  "metrics": {
+   "likes": 726,
+   "reposts": 84,
+   "replies": 87,
+   "views": 98787,
+   "bookmarks": 49
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "category": "国际形势",
+  "summary": "布伦特原油从年初 60 美元涨到约 117.6 美元；巴基斯坦军方称对美伊几周内达成停火「谨慎乐观」",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2116242462482235778",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2116244713074524639",
+   "https://x.com/PhyrexNi/status/2116227736201211943"
+  ],
+  "metrics": {
+   "likes": 617,
+   "reposts": 136,
+   "replies": 48,
+   "views": 78630,
+   "bookmarks": 23
+  }
+ }
+]
