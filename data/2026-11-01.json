@@ -1,0 +1,432 @@
+[
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "Codex 负责人 Tibo 第 26 天更新：手机端可以在多个账号间切换（桌面端即将支持），并预告接下来两天会有额度重置（原话 \"resets… banked…\"）",
+  "author": "@thsottiaux",
+  "url": "https://x.com/thsottiaux/status/2116405414921384099",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 13427,
+   "reposts": 612,
+   "replies": 2417,
+   "views": 2203024,
+   "bookmarks": 1020
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "Gemini App 发布新一期 Gemini Drops：Gemini 4 Argon 处理复杂项目、连接常用应用、为重复提示词创建自定义技能",
+  "author": "@GeminiApp",
+  "url": "https://x.com/GeminiApp/status/2116304609383710988",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1318,
+   "reposts": 107,
+   "replies": 99,
+   "views": 134244,
+   "bookmarks": 326
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "Google DeepMind 用 Gemini 为英国政府做了 PlanAssist，帮规划官员审核住房改建申请，审核用时最多缩短 58%，正推广给更多地方政府",
+  "author": "@GoogleDeepMind",
+  "url": "https://x.com/GoogleDeepMind/status/2116524000977285321",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 799,
+   "reposts": 81,
+   "replies": 219,
+   "views": 64896,
+   "bookmarks": 192
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "Ethan Mollick：遗留系统迁移市场过去每年只有约 300 亿美元，因为太贵；和老牌企业聊下来，一批被搁置的迁移项目正被 AI 以意想不到的速度解锁",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2116526543346483419",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 473,
+   "reposts": 29,
+   "replies": 240,
+   "views": 26376,
+   "bookmarks": 80
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "【价值观察】OpenAI 开发者账号汇总本周 Agents API 的更新内容",
+  "author": "@OpenAIDevs",
+  "url": "https://x.com/OpenAIDevs/status/2116306164375863343",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 591,
+   "reposts": 30,
+   "replies": 90,
+   "views": 88890,
+   "bookmarks": 158
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "黄仁勋在 CNN 专访中说自己每天大量用 AI，但觉得大脑更聪明了；他的用法是把同一问题丢给多个模型互相对质，而不是直接信现成答案",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2116454731363106916",
+  "extra_urls": [
+   "https://x.com/AYi_AInotes/status/2116505950156636589"
+  ],
+  "metrics": {
+   "likes": 327,
+   "reposts": 62,
+   "replies": 33,
+   "views": 40474,
+   "bookmarks": 296
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "法国国民议会以 11 比 10 通过 2027 预算修正案，拟对向法国用户传输数据的内容服务商按每 GB 0.055 欧元征「互联网流量税」，预计年收 100 亿欧元（仍是修正案阶段）",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2116430476353351753",
+  "extra_urls": [
+   "https://x.com/oran_ge/status/2116507282028871693"
+  ],
+  "metrics": {
+   "likes": 115,
+   "reposts": 6,
+   "replies": 33,
+   "views": 31479,
+   "bookmarks": 26
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "AI",
+  "summary": "【未核实】暗网帖子声称因 Amazon Bedrock 关联的 S3 存储桶配置错误，拿到了 Claude Fable 5 的模型权重并兜售，Anthropic 未见回应",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2116419531988251131",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 91,
+   "reposts": 8,
+   "replies": 15,
+   "views": 26261,
+   "bookmarks": 34
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "币安被盗后续：CZ 发布详细 FAQ；币安宣布被盗资产已补回 90%；CZ 澄清从没说过要卖 SpaceX 股份，只是作为资金证明提及",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2116565758058885138",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2116553282982203523",
+   "https://x.com/Cointelegraph/status/2116568589863952590"
+  ],
+  "metrics": {
+   "likes": 2750,
+   "reposts": 308,
+   "replies": 512,
+   "views": 459380,
+   "bookmarks": 142
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "币安 SAFU 基金把 7,499 枚 BTC（约 5.8 亿美元）转到新钱包，用途未公布",
+  "author": "@whale_alert",
+  "url": "https://x.com/whale_alert/status/2116545084904661351",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2116558971352027299"
+  ],
+  "metrics": {
+   "likes": 857,
+   "reposts": 51,
+   "replies": 66,
+   "views": 234610,
+   "bookmarks": 63
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "纽交所母公司 ICE 此前要求美国监管约束 Hyperliquid，如今却计划通过 Trade[XYZ] 向美国散户提供基于 Hyperliquid 的永续合约",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2116511415251218927",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 797,
+   "reposts": 80,
+   "replies": 84,
+   "views": 49166,
+   "bookmarks": 42
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "纳斯达克上市公司 Next Technology 董事会批准出售或质押所持全部 5,833 枚 BTC，理由是币安被盗和量子计算风险",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2116543088961196481",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 308,
+   "reposts": 44,
+   "replies": 117,
+   "views": 55870,
+   "bookmarks": 22
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "大宇调侃 CZ 这几年不顺：先被「白道」拿走 40 亿美元（美国罚款），再被「黑道」拿走 60 亿美元（这次被盗）",
+  "author": "@BTCdayu",
+  "url": "https://x.com/BTCdayu/status/2116489679986192764",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 375,
+   "reposts": 5,
+   "replies": 181,
+   "views": 102926,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "Vitalik 抵达孟买，接下来一周参加以太坊社区活动",
+  "author": "@VitalikButerin",
+  "url": "https://x.com/VitalikButerin/status/2116619251440341276",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1428,
+   "reposts": 63,
+   "replies": 253,
+   "views": 105030,
+   "bookmarks": 39
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "Crypto",
+  "summary": "【价值观察】Ethena 两小时内向币安存入 1.286 亿枚 ENA（约 2433 万美元），EmberCN 推测可能是币安场外买回被盗资产以补储备证明（推测，未核实）",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2116324554494898307",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 50,
+   "reposts": 1,
+   "replies": 31,
+   "views": 23100,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国内形势",
+  "summary": "【立场账号】万圣节多地管控：上海静安寺两名穿「奇装异服」的女子被警察带走，民众围住警车要求放人；杭州网红峰哥在湖滨银泰被带走；北京三里屯、苏州十全街也有 coser 被要求卸装或驱离（多为网友投稿，未逐一核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116575708600586633",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2116577694066549162",
+   "https://x.com/whyyoutouzhele/status/2116582975588422121",
+   "https://x.com/anblk984/status/2116554639063851318",
+   "https://x.com/whyyoutouzhele/status/2116535664258814247",
+   "https://x.com/whyyoutouzhele/status/2116557351226638444"
+  ],
+  "metrics": {
+   "likes": 2525,
+   "reposts": 113,
+   "replies": 179,
+   "views": 489038,
+   "bookmarks": 957
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国内形势",
+  "summary": "台北同志游行 31 日举行，主办方称约 17 万人参加，台北市长蒋万安和民进党候选人沈伯洋都到场；此前警方突袭同志酒吧引发争议",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2116526368116875306",
+  "extra_urls": [
+   "https://x.com/VOAChinese/status/2116556345340027029"
+  ],
+  "metrics": {
+   "likes": 868,
+   "reposts": 71,
+   "replies": 68,
+   "views": 142511,
+   "bookmarks": 171
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国内形势",
+  "summary": "【价值观察】德国总统施泰因迈尔访华：李强称愿进口更多德国优质产品；据路透社，施泰因迈尔当面促习近平维护以《联合国宪章》为基础的国际秩序",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2116469508114141240",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2116485342660288926"
+  ],
+  "metrics": {
+   "likes": 28,
+   "reposts": 5,
+   "replies": 13,
+   "views": 19824,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国内形势",
+  "summary": "【立场账号】网友发现微信内置翻译把「毛泽东是独裁者」译成「伟大的革命家」，原意被反转",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116591035421950229",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 247,
+   "reposts": 16,
+   "replies": 25,
+   "views": 44541,
+   "bookmarks": 40
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "美国中期选举（11 月 3 日）前最后冲刺：特朗普为密歇根、纽约连开电话集会；佐治亚州提前投票超 250 万张，创中期选举纪录",
+  "author": "@realDonaldTrump",
+  "url": "https://x.com/realDonaldTrump/status/2116626384743551369",
+  "extra_urls": [
+   "https://x.com/realDonaldTrump/status/2116624317857542192",
+   "https://x.com/Polymarket/status/2116624953835671708"
+  ],
+  "metrics": {
+   "likes": 4733,
+   "reposts": 1052,
+   "replies": 628,
+   "views": 721683,
+   "bookmarks": 55
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "【未核实】Axios 援引一名美国官员：如果共和党中期选举惨败，特朗普可能因「难堪」更倾向对伊朗发动大规模军事行动",
+  "author": "@HormuzLetter",
+  "url": "https://x.com/HormuzLetter/status/2116559246519054776",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1757,
+   "reposts": 201,
+   "replies": 97,
+   "views": 183482,
+   "bookmarks": 188
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "联邦法官驳回特朗普起诉《华尔街日报》和默多克的数十亿美元诉讼，该案涉及报道他与爱泼斯坦的关系",
+  "author": "@AP",
+  "url": "https://x.com/AP/status/2116625507290603605",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 738,
+   "reposts": 234,
+   "replies": 50,
+   "views": 62469,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "【立场账号】法国全国性抗议升级：马赛有人纵火、设路障，La Plaine 街区一度被占、警察后撤；阿尔比一座教堂被破坏（立场账号说法，细节待核实）",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2116614303705190911",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2116616676569686180",
+   "https://x.com/visegrad24/status/2116610406630248762"
+  ],
+  "metrics": {
+   "likes": 823,
+   "reposts": 252,
+   "replies": 34,
+   "views": 32249,
+   "bookmarks": 41
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "美国财政部公布新一期 I 系列储蓄债券利率：11 月 1 日至明年 4 月 30 日新购年化 5.51%，高于此前的 4.26%",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2116610657856393527",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1369,
+   "reposts": 114,
+   "replies": 113,
+   "views": 265653,
+   "bookmarks": 205
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "泽连斯基：约 120 名神职人员被俄军蓄意杀害，约 800 处宗教场所被毁或受损",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2116628855587012673",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1346,
+   "reposts": 332,
+   "replies": 88,
+   "views": 54527,
+   "bookmarks": 21
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "今年以来大宗农产品涨幅：大米 +81%、橡胶 +39%、菜籽 +33%、棉花 +21%、小麦 +19%、大豆 +18%",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2116612508014592101",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 444,
+   "reposts": 84,
+   "replies": 35,
+   "views": 112589,
+   "bookmarks": 46
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "category": "国际形势",
+  "summary": "美国 9 月个人储蓄率降到 4.2%，为 2022 年 10 月以来最低，自 2024 年初累计下降 3.4 个百分点",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2116630555135517067",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 261,
+   "reposts": 27,
+   "replies": 77,
+   "views": 65495,
+   "bookmarks": 20
+  }
+ }
+]
