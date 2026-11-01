@@ -1,0 +1,463 @@
+[
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "Codex 负责人 Tibo 发了一句「Banked 1/2」，结合他前一天预告「两天内会有额度重置」，可能指第一次重置已经落地（推测，未核实）",
+  "author": "@thsottiaux",
+  "url": "https://x.com/thsottiaux/status/2116692529970311254",
+  "extra_urls": [
+   "https://x.com/thsottiaux/status/2116405414921384099"
+  ],
+  "metrics": {
+   "likes": 9614,
+   "reposts": 226,
+   "replies": 1588,
+   "views": 1238222,
+   "bookmarks": 211
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "Karpathy 周末小项目 HackerTube：让 Claude 把 HN 20 年 4300 万条评论筛成 6454 个被反复推荐的 YouTube 视频，用 Opus 5.5 约 2 小时做完",
+  "author": "@karpathy",
+  "url": "https://x.com/karpathy/status/2116957135661945283",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 19988,
+   "reposts": 1552,
+   "replies": 913,
+   "views": 1111046,
+   "bookmarks": 16389
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "马斯克称其他超算项目达不到目标，而 SpaceX 已经在实现自己的超算目标",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2116991729660575998",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 4086,
+   "reposts": 467,
+   "replies": 548,
+   "views": 683615,
+   "bookmarks": 157
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "马斯克推广 Grok Bot：可以帮你调研亲友会喜欢的礼物并直接下单购买",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2116989604104392969",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1225,
+   "reposts": 168,
+   "replies": 322,
+   "views": 554776,
+   "bookmarks": 58
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "美国三季度信息处理设备和软件私人固定投资年化增长 7.3%，达创纪录的 1.77 万亿美元，是 1983 年四季度以来最大季度增幅",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2116996835621621916",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 328,
+   "reposts": 37,
+   "replies": 73,
+   "views": 69244,
+   "bookmarks": 35
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "DeepSeek 发布 1.4 万字 Super-agent 技术长文：Agent 做不好往往不是模型不够强，而是人一般只能同时跟进 3–5 个会话，提出用主 Agent 统一管理",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2116906987438973053",
+  "extra_urls": [
+   "https://x.com/vista8/status/2116918131067351427"
+  ],
+  "metrics": {
+   "likes": 133,
+   "reposts": 25,
+   "replies": 22,
+   "views": 13127,
+   "bookmarks": 138
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "橘子转述赫拉利演讲《AI 已经破解了人类文明底层代码》：语言是人类合作与信任的基础，AI 掌握语言就能动摇政治、经济、法律等信任系统",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2116873991432667494",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 376,
+   "reposts": 57,
+   "replies": 67,
+   "views": 33641,
+   "bookmarks": 278
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "AI",
+  "summary": "【价值观察】The Information：英伟达正洽谈为 Nscale 的 450 亿美元 Anthropic 数据中心项目提供数十亿美元信用担保，以锁定芯片需求",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2117006273912643642",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0,
+   "views": 923,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "币安恢复提币 12 小时：CZ 称净流出仅 2.1%、98% 用户留下；Cointelegraph 引 DefiLlama 称流出 35.3 亿美元、约占资产 2.7%（两边口径不同）",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2116954044988354798",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2116946151198892222",
+   "https://x.com/cz_binance/status/2116946265422573686"
+  ],
+  "metrics": {
+   "likes": 7410,
+   "reposts": 669,
+   "replies": 936,
+   "views": 425125,
+   "bookmarks": 186
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "CZ 公开感谢美国特勤局等机构在几分钟内协助追踪并冻结币安被盗资金，称追查仍在继续",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2116977683393618404",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2419,
+   "reposts": 213,
+   "replies": 368,
+   "views": 250016,
+   "bookmarks": 94
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "FBI 要求 THORChain 拦截币安被盗资金的洗钱交易；EmberCN 指黑客偏爱 THORChain 是因为它不拒绝被盗资金。FBI 已将本次 63 亿美元攻击归于朝鲜 TraderTraitor",
+  "author": "@EmberCN",
+  "url": "https://x.com/EmberCN/status/2116689644142403590",
+  "extra_urls": [
+   "https://x.com/PhyrexNi/status/2116659716151746886",
+   "https://x.com/PhyrexNi/status/2116782756898504918"
+  ],
+  "metrics": {
+   "likes": 212,
+   "reposts": 18,
+   "replies": 105,
+   "views": 88727,
+   "bookmarks": 41
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "币安大额转出：3000 枚 BTC（约 2.34 亿美元）、200 万枚 SOL（约 1.9 亿美元）、5000 万枚 XRP 转到未知钱包",
+  "author": "@whale_alert",
+  "url": "https://x.com/whale_alert/status/2116957338762449001",
+  "extra_urls": [
+   "https://x.com/whale_alert/status/2116913875136168094",
+   "https://x.com/whale_alert/status/2116909152911884356"
+  ],
+  "metrics": {
+   "likes": 147,
+   "reposts": 5,
+   "replies": 29,
+   "views": 105900,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "比特币 10 月收于 77,430 美元，月线 RSI 连续第三个月站在 50 上方",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2116931022998622599",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 260,
+   "reposts": 35,
+   "replies": 78,
+   "views": 39273,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "Crypto",
+  "summary": "大宇调侃：连黑客都知道要把所有山寨币换成 BTC",
+  "author": "@BTCdayu",
+  "url": "https://x.com/BTCdayu/status/2116842291839262876",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 242,
+   "reposts": 3,
+   "replies": 66,
+   "views": 47466,
+   "bookmarks": 13
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "【立场账号】蔡英文现身沈伯洋台北市长竞选造势晚会：投票不是为了仇恨或教训谁，而是选择接近我们想要的生活方式",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116922873919238347",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1680,
+   "reposts": 128,
+   "replies": 76,
+   "views": 81516,
+   "bookmarks": 125
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "方程式新闻创始人 Vida 称上周五已买入中际旭创、中国科技 ETF、腾讯，若周一 A 股恐慌加剧会考虑重仓，判断可能像韩国股市 7–8 月那样超跌后快速反弹",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2116889535410024601",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 365,
+   "reposts": 20,
+   "replies": 81,
+   "views": 100439,
+   "bookmarks": 154
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "德国总统施泰因迈尔透露曾当面向习近平求证「中美俄三方峰会」传闻，习近平面露困惑并反问消息来源",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2116908535619432606",
+  "extra_urls": [
+   "https://x.com/SavchenkoReview/status/2116909943055937828"
+  ],
+  "metrics": {
+   "likes": 212,
+   "reposts": 17,
+   "replies": 42,
+   "views": 88280,
+   "bookmarks": 55
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "【立场账号】姆巴佩风波：新快报发「皇马没道歉还发了姆巴佩集锦」短视频，评论区没有附和，反被网友刷「社保能不能降一点」「油价啥时候降」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2116908132119003235",
+  "extra_urls": [
+   "https://x.com/ChineseWSJ/status/2116863256736231605"
+  ],
+  "metrics": {
+   "likes": 626,
+   "reposts": 25,
+   "replies": 43,
+   "views": 76965,
+   "bookmarks": 57
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "华尔街日报：本届中央委员会任期开始时共 376 名委员，约四分之一没有出席上周四闭幕的中央全会",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2116878465223873021",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 25,
+   "reposts": 0,
+   "replies": 7,
+   "views": 29169,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国内形势",
+  "summary": "【价值观察】阿曼苏丹海塞姆抵达北京开始对华国事访问",
+  "author": "@Frontlinestory",
+  "url": "https://x.com/Frontlinestory/status/2116895633181413591",
+  "extra_urls": [
+   "https://x.com/implmaterial/status/2116936671635906938"
+  ],
+  "metrics": {
+   "likes": 180,
+   "reposts": 50,
+   "replies": 14,
+   "views": 12456,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "【未核实】据 Axios：内塔尼亚胡施压特朗普在周二中期选举后立即打击伊朗，以方称通话「艰难」，美方称「直接」",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2116973496253505755",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2116975383077904829"
+  ],
+  "metrics": {
+   "likes": 3368,
+   "reposts": 464,
+   "replies": 105,
+   "views": 378825,
+   "bookmarks": 188
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "【未核实】伊朗官方媒体：两艘油轮在霍尔木兹海峡沿「未经授权航线」航行时触雷",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2116985225024504163",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 293,
+   "reposts": 25,
+   "replies": 35,
+   "views": 90682,
+   "bookmarks": 8
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "泽连斯基称与盟友讨论未来几周外交安排，强调乌、美、俄三方技术团队会谈的重要性；同时 BBC 报道俄军空袭致乌克兰数千户断电，赫尔松停火将在数小时内结束",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2116982811072594158",
+  "extra_urls": [
+   "https://x.com/BBCWorld/status/2116981708721463666"
+  ],
+  "metrics": {
+   "likes": 2934,
+   "reposts": 319,
+   "replies": 114,
+   "views": 86060,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "中期选举前两天密歇根变局：民主党人 Haley Stevens 转而支持共和党参议员候选人 Mike Rogers，舒默斥为「卑劣的背叛」，特朗普则公开称赞她",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2116981984878584142",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2116991362365304874",
+   "https://x.com/Polymarket/status/2116972786275016734"
+  ],
+  "metrics": {
+   "likes": 752,
+   "reposts": 56,
+   "replies": 123,
+   "views": 46518,
+   "bookmarks": 27
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "佛罗里达州西棕榈滩附近发生坠机，9 人遇难",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2116997543527903596",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1559,
+   "reposts": 154,
+   "replies": 33,
+   "views": 155584,
+   "bookmarks": 55
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "【立场账号】意大利取消「公民收入」福利、收紧救济后，失业率降到二十年来最低，南部也同步改善",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2116979085809467642",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1952,
+   "reposts": 286,
+   "replies": 40,
+   "views": 56405,
+   "bookmarks": 115
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "【立场账号】法国骚乱延续：马赛附近一名消防员赶到车辆起火现场后中枪，正在医院抢救",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2116998172568613225",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 517,
+   "reposts": 125,
+   "replies": 22,
+   "views": 21583,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "特朗普称前律师 Alina Habba Mildon 在司法部任职期间为自己拿到 5000 万美元合同「不可接受」",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2116981098744025509",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 143,
+   "reposts": 35,
+   "replies": 39,
+   "views": 127515,
+   "bookmarks": 12
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "category": "国际形势",
+  "summary": "美联储 2025 消费者财务调查：35 岁以下家庭净资产中位数仅 3.3 万美元，75 岁以上为 50.5 万美元，代际财富差距悬殊",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2116998966764318891",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 358,
+   "reposts": 42,
+   "replies": 68,
+   "views": 92073,
+   "bookmarks": 61
+  }
+ }
+]
