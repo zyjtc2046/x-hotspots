@@ -1,0 +1,508 @@
+[
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "Anthropic 开放 Anthropic Residency 申请：面向学者、技术创始人和资深工程师的带薪定期研究项目，转做 AI 安全，不要求机器学习背景，11 月 22 日截止（宝玉补充年薪折合 35 万到 50 万美元）",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2117343929960112486",
+  "extra_urls": [
+   "https://x.com/dotey/status/2117361528504496318"
+  ],
+  "metrics": {
+   "likes": 5226,
+   "reposts": 282,
+   "replies": 254,
+   "views": 473278,
+   "bookmarks": 4333
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "OpenAI 发布新基准 LifeVal，依据数千名 ChatGPT 用户反馈，测 AI 在找托儿、做预算、办政务等日常任务上的表现；据 Cointelegraph，GPT-6 Astra 得分 80.6%，前代为 49.3%",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2117307611338997846",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2117345872123973815"
+  ],
+  "metrics": {
+   "likes": 4244,
+   "reposts": 270,
+   "replies": 459,
+   "views": 363944,
+   "bookmarks": 952
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "Anthropic 披露前九个月净亏损 1040 亿美元，其中 943 亿是可转债升值带来的非现金费用；另有约 8954 亿美元采购和租赁承诺，大部分用于算力。同期它的人均营收约 660 万美元，仅次于英伟达；Polymarket 已上线 Anthropic 上市前永续合约",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2117325367249920390",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2117350281528705190",
+   "https://x.com/Cointelegraph/status/2117340837537361977"
+  ],
+  "metrics": {
+   "likes": 1162,
+   "reposts": 91,
+   "replies": 113,
+   "views": 204036,
+   "bookmarks": 89
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "Ethan Mollick：AI 实验室做软件常常突然改动、沟通很差，原因之一是他们相信这些产品只是为了融资而过渡几年的东西，等真正的 AGI 出来就会让所有产品过时",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2117279363175739630",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 504,
+   "reposts": 23,
+   "replies": 195,
+   "views": 24803,
+   "bookmarks": 65
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "【未核实】粉丝账号称 Anthropic 已确认下一代模型 Claude Fable 5.5 会更强，橘子也说 Fable 5.5 要来了、亮点是用代码做动画；另有网友问 GPT-6.2-Astra 是否已灰度（均非官方消息）",
+  "author": "@fanofaliens",
+  "url": "https://x.com/fanofaliens/status/2117237710108950972",
+  "extra_urls": [
+   "https://x.com/oran_ge/status/2117249401534160933",
+   "https://x.com/lxfater/status/2117246549038383282"
+  ],
+  "metrics": {
+   "likes": 556,
+   "reposts": 13,
+   "replies": 23,
+   "views": 53799,
+   "bookmarks": 71
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "歸藏称 Grok Bot 路由到 Opus 5.5 的比例越来越低，不少人发现使用额度一下跳了 20% 到 30%，认为补贴难以持续（个人观察，未核实）",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2117092326690726075",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 125,
+   "reposts": 7,
+   "replies": 154,
+   "views": 49293,
+   "bookmarks": 20
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "AI",
+  "summary": "橘子：「扣子的故事结束了」，同时结束的还有字节的好几条 AI 产品线，大厂产品寿命可能还不如创业公司（原帖未给出官方来源）",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2117025598375870876",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 132,
+   "reposts": 7,
+   "replies": 83,
+   "views": 43473,
+   "bookmarks": 43
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "CZ 称币安被盗的 63 亿美元损失全部用自有资产负债表覆盖，没有借款、卖资产或外部融资",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117325993501241374",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 671,
+   "reposts": 72,
+   "replies": 86,
+   "views": 43719,
+   "bookmarks": 20
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "币安挤兑降温：DeFiLlama 显示 24 小时净流出从峰值约 70 亿美元降到 32.9 亿；BBC 称重开首日用户提走 36 亿；Cointelegraph 统计近一周净流出 141 亿，OKX 净流入 4.99 亿。韩国已要求本国交易所提高冷钱包比例",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2117286587730170046",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2117335181896057172",
+   "https://x.com/Cointelegraph/status/2117351157274206345",
+   "https://x.com/Cointelegraph/status/2117217818114470050"
+  ],
+  "metrics": {
+   "likes": 59,
+   "reposts": 6,
+   "replies": 25,
+   "views": 14094,
+   "bookmarks": 6
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "朝鲜称「币安盗窃案是朝鲜所为」的说法是捏造；Elliptic 称被盗约 64.3 亿美元已有 44%（约 28.5 亿）被冻结，黑客首次使用 CoinJoin 混币，涉及 11 条链、约 1.2 万个钱包",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2117364679894839777",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2117221564827746502"
+  ],
+  "metrics": {
+   "likes": 217,
+   "reposts": 22,
+   "replies": 31,
+   "views": 61206,
+   "bookmarks": 14
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "ZachXBT 警报：一家欧盟实体在多家中心化交易所的账户疑被盗超 1.06 亿美元，黑客把稳定币换成约 2.76 万枚 ETH 后跨平台洗钱",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2117246398664163663",
+  "extra_urls": [
+   "https://x.com/EmberCN/status/2117237239482908897",
+   "https://x.com/WuBlockchain/status/2117233673749831965"
+  ],
+  "metrics": {
+   "likes": 297,
+   "reposts": 28,
+   "replies": 49,
+   "views": 83179,
+   "bookmarks": 34
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "巴西最大交易所 Mercado Bitcoin 确认遭网络攻击，Hypernative 估计损失超 4000 万美元，横跨至少 10 条链，充提已暂停",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117330558514765946",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2117255057280204824"
+  ],
+  "metrics": {
+   "likes": 1410,
+   "reposts": 192,
+   "replies": 73,
+   "views": 96500,
+   "bookmarks": 87
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "11 月 2 日 ETF 资金：比特币 ETF 单日净流出约 6.14 亿美元，以太坊 ETF 净流出约 1.02 亿；上周 BTC、ETH、SOL 现货 ETF 均净流出，只有 XRP 小幅净流入",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2117250038053360029",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2117149913419018506"
+  ],
+  "metrics": {
+   "likes": 116,
+   "reposts": 11,
+   "replies": 57,
+   "views": 45332,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "汇丰的港元稳定币 RedCoin 上线一周多就吸引了 5 万名用户",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117180114240778482",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 378,
+   "reposts": 54,
+   "replies": 85,
+   "views": 54190,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "Crypto",
+  "summary": "Phyrex 分析币安 USDC 10% 理财怎么参加：没有 USDC 可以用 USDT 换，但当前汇率 1.00125，20 万 USDC 要多付约 250 USDT，到期若汇率回到 1 会有损失",
+  "author": "@PhyrexNi",
+  "url": "https://x.com/PhyrexNi/status/2117263778173915330",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 58,
+   "reposts": 6,
+   "replies": 19,
+   "views": 24536,
+   "bookmarks": 15
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "【立场账号】10 月 31 日晚武汉江汉路商圈一辆网约车被人流困住，有人砸挡风玻璃，司机下车理论遭推搡辱骂；武汉警方随后通报称车身未受损、一人被治安处罚",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117235273910108355",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2117280572867477548"
+  ],
+  "metrics": {
+   "likes": 820,
+   "reposts": 42,
+   "replies": 119,
+   "views": 174050,
+   "bookmarks": 124
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "【立场账号】《人民日报》2014 年旧文再流传：称公务员养老待遇差了「队伍可不好带」，引发热议",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117250373295464626",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 406,
+   "reposts": 35,
+   "replies": 49,
+   "views": 84740,
+   "bookmarks": 97
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "纽约时报中文网刊文，作者回忆报道天安门事件时学到「受害者也会说谎或记错」：当时数千甚至数万学生被屠杀、坦克碾过帐篷等说法不属实，并称曾在医院和停尸房找信源估算死亡人数",
+  "author": "@nytchinese",
+  "url": "https://x.com/nytchinese/status/2117240306978746500",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 260,
+   "reposts": 42,
+   "replies": 73,
+   "views": 72693,
+   "bookmarks": 111
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "姆巴佩风波后续：BBC 中文梳理事件经过，赞助商切割、官媒停播西甲，球员、皇马和西甲先后道歉；网上又有闲鱼账号因相关商品被封、央视重播姆巴佩进球后无法回看等后续（后两条来自立场账号）",
+  "author": "@bbcchinese",
+  "url": "https://x.com/bbcchinese/status/2117263307044483240",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2117230240909160698",
+   "https://x.com/whyyoutouzhele/status/2117308254501937486"
+  ],
+  "metrics": {
+   "likes": 121,
+   "reposts": 7,
+   "replies": 42,
+   "views": 72631,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "台湾外长林佳龙称，深圳 APEC 峰会主办方只用电子邮件而不是正式信函邀请台湾，台方已正式抗议，但不会放弃参与",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2117229881092362490",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 79,
+   "reposts": 13,
+   "replies": 45,
+   "views": 40431,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "华尔街日报：官方担忧年轻人躺平，但不少中国青年其实已经厌倦无所事事，想回大城市重返职场",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2117240695115125075",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 109,
+   "reposts": 15,
+   "replies": 13,
+   "views": 43579,
+   "bookmarks": 45
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "南华早报：巴基斯坦军方是否从中国买了 30 架直-10ME 武装直升机？",
+  "author": "@SCMPNews",
+  "url": "https://x.com/SCMPNews/status/2117244135329391095",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 316,
+   "reposts": 60,
+   "replies": 9,
+   "views": 18379,
+   "bookmarks": 41
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国内形势",
+  "summary": "The Weeknd 新歌《Hong Kong》登顶 Apple Music 中国区和 Spotify 香港榜，也是今年首支登上网易云热歌榜第一的英文歌，只在亚洲发行",
+  "author": "@CultureCrave",
+  "url": "https://x.com/CultureCrave/status/2117318400141906273",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 970,
+   "reposts": 58,
+   "replies": 12,
+   "views": 39571,
+   "bookmarks": 59
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "美伊出现缓和信号：特朗普称油价「暴跌」，因为大家觉得不会和伊朗开战，「伊朗想要和解」，自己不急着恢复打击；此前美联社报道伊朗提议若美方满足条件，两天内重开霍尔木兹海峡并恢复核谈",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2117358718044057797",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2117226839668134204",
+   "https://x.com/Cointelegraph/status/2117356192330621054"
+  ],
+  "metrics": {
+   "likes": 1063,
+   "reposts": 72,
+   "replies": 126,
+   "views": 108202,
+   "bookmarks": 58
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "据路透社，伊朗威胁若特朗普下令新一轮打击，就攻击美国在欧洲的基地；内塔尼亚胡正施压恢复打击。另有【未核实】消息称伊朗南部格什姆岛传出爆炸",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2117330400284741913",
+  "extra_urls": [
+   "https://x.com/spectatorindex/status/2117364597904818249"
+  ],
+  "metrics": {
+   "likes": 1935,
+   "reposts": 169,
+   "replies": 61,
+   "views": 224818,
+   "bookmarks": 105
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "美股午后急跌：纳指 100 由涨转跌，5 小时内蒸发约 1 万亿美元市值；英特尔单日跌近 10%，三个交易日累计跌 37%；甲骨文为 AI 融资 200 亿美元后跌约 9%",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2117353553228337385",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2117360347753652434",
+   "https://x.com/unusual_whales/status/2117350687806001380"
+  ],
+  "metrics": {
+   "likes": 2451,
+   "reposts": 219,
+   "replies": 162,
+   "views": 169261,
+   "bookmarks": 102
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "【立场账号】法国拟对住房、汽车和企业保险合同征收 0.8% 的全国性附加费，用于骚乱损失赔偿基金，最早 2027 年 1 月 1 日生效，每年约 4 亿欧元",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2117347764916908480",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 873,
+   "reposts": 224,
+   "replies": 107,
+   "views": 42903,
+   "bookmarks": 106
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "德国总理默茨表态：德国下一任总统「必须是女性」",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117332468327907710",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 660,
+   "reposts": 48,
+   "replies": 169,
+   "views": 88234,
+   "bookmarks": 71
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "欧洲超市冷柜再遭网络攻击：从瑞典到比利时多国门店的冷柜温度被黑客调高，上个月法国刚发生过类似事件",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2117334224613294182",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2117329905298067853"
+  ],
+  "metrics": {
+   "likes": 290,
+   "reposts": 121,
+   "replies": 31,
+   "views": 132252,
+   "bookmarks": 50
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "乌克兰东南部一村庄遭俄军轰炸，24 人遇难",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2117325931446472914",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 179,
+   "reposts": 48,
+   "replies": 49,
+   "views": 42439,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "category": "国际形势",
+  "summary": "【价值观察】美国中期选举今天投票，BBC 称本次选举竞选开支打破纪录、成史上最贵；俄亥俄州长选战进入最后冲刺，Polymarket 显示艾奥瓦参议员选举已成五五开",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2117360382381625635",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2117333382933934378",
+   "https://x.com/visegrad24/status/2117354250212647175"
+  ],
+  "metrics": {
+   "likes": 19,
+   "reposts": 3,
+   "replies": 7,
+   "views": 32165,
+   "bookmarks": 0
+  }
+ }
+]
