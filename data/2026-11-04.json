@@ -1,0 +1,451 @@
+[
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "OpenAI 分享 ChatGPT 和 Codex 用于机械设计、电子工程和仿真的进展：帮自家硬件团队加速迭代，并和行业伙伴测试新工作流",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2117692475775258785",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3162,
+   "reposts": 236,
+   "replies": 301,
+   "views": 289563,
+   "bookmarks": 878
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "Anthropic 发布新研究 FlashProve：基于密码学技术做「可证明推理」，让开发者验证某条回复是否确实出自某个 AI 模型",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2117710942826123294",
+  "extra_urls": [
+   "https://x.com/AnthropicAI/status/2117707052948898271"
+  ],
+  "metrics": {
+   "likes": 1835,
+   "reposts": 142,
+   "replies": 203,
+   "views": 106242,
+   "bookmarks": 588
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "马斯克喊大家试试让 Grok 帮忙打电话（推广 Grok 代打电话功能）",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2117722703738310713",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1798,
+   "reposts": 240,
+   "replies": 622,
+   "views": 548393,
+   "bookmarks": 196
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "AMD 三季报好于预期，AI 需求是主因，盘后涨超 6%、市值增约 500 亿美元；超微电脑 SMCI 财报后也涨超 6%",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2117728009134506332",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2117728538694439310"
+  ],
+  "metrics": {
+   "likes": 714,
+   "reposts": 68,
+   "replies": 45,
+   "views": 67662,
+   "bookmarks": 23
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "纽约市长曼达尼指责谷歌试图「把 AI 强行塞进公立学校」",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117715706527850730",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 293,
+   "reposts": 24,
+   "replies": 46,
+   "views": 37937,
+   "bookmarks": 25
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "@oran_ge 转述：有人发现只要关闭 Qwen 的思考模式，数学能力就能提升 6 倍，不用改权重（第三方发现，未核实）",
+  "author": "@oran_ge",
+  "url": "https://x.com/oran_ge/status/2117626509095837948",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 186,
+   "reposts": 5,
+   "replies": 23,
+   "views": 25533,
+   "bookmarks": 35
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "@AYi_AInotes 称字节 Seedance 视频生成价格大降，15 秒跳舞短视频成本不到 0.1 美元，并开源提示词；@lxfater 另称腾讯、B 站都在规模采购 Seedance（据微信报道，未核实）",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2117618227064783078",
+  "extra_urls": [
+   "https://x.com/lxfater/status/2117627005617242423"
+  ],
+  "metrics": {
+   "likes": 85,
+   "reposts": 24,
+   "replies": 14,
+   "views": 10240,
+   "bookmarks": 136
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "summary": "@turingou 的 Tuwa 支持内测用户借用云手机，AI Agent 可通过微信语音/视频给亲友打电话、代参加 Zoom 会议",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2117600442607919364",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 72,
+   "reposts": 1,
+   "replies": 8,
+   "views": 16646,
+   "bookmarks": 34
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "币安发布被盗初步调查报告：朝鲜黑客冒充招聘方，对挂简历的币安工程师做真人视频「面试」作为突破口，最终盗走 60 多亿美元",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2117631211506172104",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 7037,
+   "reposts": 941,
+   "replies": 433,
+   "views": 990151,
+   "bookmarks": 2664
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "CZ 称币安「挤兑没有到来」：提现流出约 36 亿美元、约占资产 2%，远低于他预期的 10%–30%；CZ 当天还在牛津辩论社演讲，自嘲「最近的事让我觉得不够格」，并称 AI 让银行和加密的安全风险趋同",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2117604484519973101",
+  "extra_urls": [
+   "https://x.com/cz_binance/status/2117674473763860599",
+   "https://x.com/CoinDesk/status/2117619595875934530"
+  ],
+  "metrics": {
+   "likes": 941,
+   "reposts": 117,
+   "replies": 130,
+   "views": 89921,
+   "bookmarks": 83
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "@PhyrexNi：币安恢复提现以来累计处理约 109.7 亿美元提现、收到约 56.95 亿充值，净流出约 52.76 亿（约占资产 3.1%），最近 24 小时转为净流入约 13.64 亿",
+  "author": "@PhyrexNi",
+  "url": "https://x.com/PhyrexNi/status/2117607485469258216",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 52,
+   "reposts": 0,
+   "replies": 33,
+   "views": 17170,
+   "bookmarks": 0
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "【价值观察】CFTC 首次批准美国受监管交易所上线个股永续合约，在 CFTC 和 SEC 联合监管下把加密圈流行的永续模式带进华尔街",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2117652328409133501",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 136,
+   "reposts": 23,
+   "replies": 54,
+   "views": 26240,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "【价值观察】Tether CEO 称公司持有约 15 万枚比特币（约 115 亿美元），比最新储备报告多约 5 万枚，多出部分不作 USDT 储备、属自营投资",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2117624597184905711",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 78,
+   "reposts": 12,
+   "replies": 38,
+   "views": 29095,
+   "bookmarks": 3
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "summary": "【价值观察】Vitalik 在 Devcon 8 警告 AI 正带来新的安全和隐私威胁，同时也能帮忙发现漏洞；他质疑硬件钱包的安全性，并提醒别凭社交媒体做加密投资",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117683348675952651",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 193,
+   "reposts": 30,
+   "replies": 40,
+   "views": 30298,
+   "bookmarks": 17
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "【立场账号】姆巴佩毛泽东表情包风波延烧：西班牙作家 Juan del Val 在电视节目上称毛泽东「不只是独裁者，还是杀人者」，「取消我在中国的合同也无所谓」；南京有餐馆贴出「姆巴佩及相关衍生品禁止入内」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117632908538347766",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2117627860328608159"
+  ],
+  "metrics": {
+   "likes": 995,
+   "reposts": 109,
+   "replies": 34,
+   "views": 68062,
+   "bookmarks": 97
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "【立场账号】据自由亚洲报道，曾任《法律与生活》主编的媒体人程万军，此前因评论「亡国之君」入狱六年，11 月 2 日从泰国飞抵台湾桃园机场寻求人道保护",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117617798235263344",
+  "extra_urls": [
+   "https://x.com/QuanLujun/status/2117723714771206465"
+  ],
+  "metrics": {
+   "likes": 664,
+   "reposts": 68,
+   "replies": 45,
+   "views": 93934,
+   "bookmarks": 104
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "易建联旧瓜有后续：当年被指与其开房的「京城乔姐」用小号发文称确有其事、照片是自己炫耀外流而非敲诈，该推文已删除（未核实）",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2117619110981038281",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 114,
+   "reposts": 6,
+   "replies": 24,
+   "views": 106260,
+   "bookmarks": 50
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "欧盟附条件批准京东收购德国电子零售商 Ceconomy，此前曾因担心京东获中国政府补贴展开调查，交易将在几天内完成",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2117640339917828280",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 41,
+   "reposts": 14,
+   "replies": 19,
+   "views": 10493,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "【价值观察】中央军委副主席张升民在北京会见俄罗斯防长别洛乌索夫，强调军事互信；VOA 称这是在军方高层持续被整肃之际",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2117653150215880946",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 18,
+   "reposts": 2,
+   "replies": 9,
+   "views": 11895,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "summary": "【价值观察】德媒分析：从习近平与德国总统施泰因迈尔的会谈看，中方无意主办乌克兰问题中美俄峰会，也不想因此惹恼欧洲",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2117658059375853989",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 20,
+   "reposts": 0,
+   "replies": 4,
+   "views": 6792,
+   "bookmarks": 4
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "美国中期选举投票日：Polymarket 显示民主党拿下参议院概率升到 74%，7 个关键州里领先 6 个；佐治亚州 Ossoff 连任概率 96%；UBS 估计民主党横扫两院概率约 50%",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117720228985553360",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2117709339217604927",
+   "https://x.com/Cointelegraph/status/2117683093788078166",
+   "https://x.com/AP/status/2117730912490095089"
+  ],
+  "metrics": {
+   "likes": 2136,
+   "reposts": 349,
+   "replies": 245,
+   "views": 306218,
+   "bookmarks": 187
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "据称堪萨斯州一处投票站因「文书错误」只订了 100 张选票（应为 10 万张），早上 8 点就用完、投票一度中断（报道称，未核实）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117710732993192201",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 5094,
+   "reposts": 872,
+   "replies": 367,
+   "views": 322235,
+   "bookmarks": 357
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "特朗普选举日连发多帖为共和党候选人站台：力挺纽约众议员 Mike Lawler，并为德州副州长 Dan Patrick、佛州总检察长 Uthmeier 等背书，号召选民去投票",
+  "author": "@realDonaldTrump",
+  "url": "https://x.com/realDonaldTrump/status/2117703424963703252",
+  "extra_urls": [
+   "https://x.com/realDonaldTrump/status/2117691855907209429",
+   "https://x.com/realDonaldTrump/status/2117697505270100335"
+  ],
+  "metrics": {
+   "likes": 15297,
+   "reposts": 2254,
+   "replies": 1373,
+   "views": 1197566,
+   "bookmarks": 288
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "纽约时报：美国司法部在投票关键时刻升级对阿拉斯加参议院选举的调查，向约 20 名民主党人发信称其可能是调查对象，此举极不寻常",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2117700721898353074",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 368,
+   "reposts": 125,
+   "replies": 162,
+   "views": 138212,
+   "bookmarks": 41
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "西班牙交通部长 Óscar Puente 因高铁事故致 69 人死亡而辞职",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2117713140981092665",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2117712630886371331",
+   "https://x.com/business/status/2117727297989922882"
+  ],
+  "metrics": {
+   "likes": 4074,
+   "reposts": 463,
+   "replies": 67,
+   "views": 237240,
+   "bookmarks": 119
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "泽连斯基会见德国总统施泰因迈尔，感谢德国援助，谈与美国一起推动和平；他还呼吁欧洲尤其德国承担更大的全球角色，称美国的世界角色可能在缩小",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2117714517618540668",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2117724505208750535"
+  ],
+  "metrics": {
+   "likes": 1244,
+   "reposts": 189,
+   "replies": 126,
+   "views": 61632,
+   "bookmarks": 16
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "比尔·阿克曼称股市已经「坏掉了」（据 CNBC）；同期资金涌入美债，纳指 100 与 TLT 比值降至 7 月 31 日以来最低",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2117712121589023167",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2117715904947429856"
+  ],
+  "metrics": {
+   "likes": 687,
+   "reposts": 49,
+   "replies": 121,
+   "views": 167598,
+   "bookmarks": 32
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "summary": "【价值观察】纽约时报：以色列称伊朗可能准备使用化学武器，美国官员对此分歧，有人指内塔尼亚胡想把特朗普拉回军事行动；另据南华早报，特朗普称将取消每年 38 亿美元对以军援，因为「他们不再需要了」",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117698439341285588",
+  "extra_urls": [
+   "https://x.com/SCMPNews/status/2117642169511219402"
+  ],
+  "metrics": {
+   "likes": 111,
+   "reposts": 18,
+   "replies": 9,
+   "views": 31648,
+   "bookmarks": 2
+  }
+ }
+]
