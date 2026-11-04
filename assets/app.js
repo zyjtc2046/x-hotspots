@@ -19,6 +19,13 @@
     var s = String(c).trim();
     return ALIAS[s.toLowerCase()] || ALIAS[s] || s;
   }
+  var EDS = ["早报", "午报", "晚报"];
+  function normEd(e) {
+    var s = e === null || e === undefined ? "" : String(e).trim();
+    if (!s) return "早报";
+    var m = { morning: "早报", noon: "午报", midday: "午报", evening: "晚报", night: "晚报" };
+    return m[s.toLowerCase()] || s;
+  }
   function label(c) { return LABEL[c] || c; }
   function esc(s) {
     return String(s === null || s === undefined ? "" : s).replace(/[&<>"']/g, function (ch) {
@@ -53,7 +60,7 @@
   function loadDay(date) {
     if (cache[date]) return Promise.resolve(cache[date]);
     return fetchJSON("data/" + date + ".json").then(function (j) {
-      var list = items(j).map(function (it) { it._cat = normCat(it.category); it._date = it.date || date; return it; });
+      var list = items(j).map(function (it) { it._cat = normCat(it.category); it._date = it.date || date; it._ed = normEd(it.edition); return it; });
       cache[date] = list;
       return list;
     });
@@ -148,7 +155,7 @@
     }).join("");
     return '<article class="item">' +
       '<div class="meta">' + tag(it._cat) +
-      (showDate ? '<a href="' + esc(link(["day", it._date])) + '">' + esc(it._date) + "</a>" : "") +
+      (showDate ? '<a href="' + esc(link(["day", it._date])) + '">' + esc(it._date) + "</a>" + (it._ed !== "早报" ? '<span class="badge">' + esc(it._ed) + "</span>" : "") : "") +
       "<span>" + authorHtml + "</span>" +
       (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">原帖 ↗</a>' : "") + "</div>" +
       '<div class="sum">' + (it.summary ? hl(it.summary, q) : '<span class="muted">（无摘要）</span>') + "</div>" +
@@ -185,13 +192,28 @@
       var list = res[0], meta = res[1];
       var shown = list.filter(function (it) { return !cat || it._cat === cat; });
       var h = "<h1>" + esc(date) + " 热点</h1><p class=\"muted\">共 " + list.length + " 条" +
-        (cat ? "，当前筛选「" + esc(label(cat)) + "」" + shown.length + " 条" : "") + "</p>" + metaLine(meta);
-      var groups = cat ? [cat] : CATS.concat(shown.map(function (x) { return x._cat; }).filter(function (c, k, a) { return CATS.indexOf(c) < 0 && a.indexOf(c) === k; }));
-      groups.forEach(function (g) {
-        var arr = shown.filter(function (it) { return it._cat === g; });
-        if (!arr.length) return;
-        h += "<h2>" + esc(label(g)) + ' <span class="muted small">' + arr.length + "</span></h2>" +
-          arr.map(function (it) { return renderItem(it, "", false); }).join("");
+        (cat ? "，当前筛选「" + esc(label(cat)) + "」" + shown.length + " 条" : "") + "</p>";
+      var eds = EDS.concat(list.map(function (x) { return x._ed; }).filter(function (e, k, a) { return EDS.indexOf(e) < 0 && a.indexOf(e) === k; }));
+      var present = eds.filter(function (e) { return list.some(function (it) { return it._ed === e; }); });
+      var edMeta = meta && meta.editions && typeof meta.editions === "object" ? meta.editions : {};
+      var multi = present.length > 1 || (present.length === 1 && present[0] !== "早报");
+      if (!multi) h += metaLine(meta);
+      else h += '<p class="small">' + present.map(function (e) { return '<a href="#ed-' + esc(e) + '" onclick="document.getElementById(\'ed-' + esc(e) + '\').scrollIntoView();return false;">' + esc(e) + "</a>"; }).join(" · ") + "</p>";
+      present.forEach(function (e) {
+        var inEd = shown.filter(function (it) { return it._ed === e; });
+        if (multi) {
+          h += '<section class="edition" id="ed-' + esc(e) + '"><h2 class="ed-title">' + esc(e) + ' <span class="muted small">' + inEd.length + "</span></h2>" +
+            metaLine(edMeta[e] || (e === "早报" ? meta : null));
+        }
+        var groups = cat ? [cat] : CATS.concat(inEd.map(function (x) { return x._cat; }).filter(function (c, k, a) { return CATS.indexOf(c) < 0 && a.indexOf(c) === k; }));
+        groups.forEach(function (g) {
+          var arr = inEd.filter(function (it) { return it._cat === g; });
+          if (!arr.length) return;
+          h += (multi ? "<h3>" : "<h2>") + esc(label(g)) + ' <span class="muted small">' + arr.length + "</span>" + (multi ? "</h3>" : "</h2>") +
+            arr.map(function (it) { return renderItem(it, "", false); }).join("");
+        });
+        if (multi && !inEd.length) h += '<p class="muted small">该版次此分类没有内容</p>';
+        if (multi) h += "</section>";
       });
       if (!shown.length) h += empty(cat ? "当天该分类没有内容" : "当天没有内容");
       var newer = i > 0 ? dates[i - 1] : null, older = i >= 0 && i < dates.length - 1 ? dates[i + 1] : null;

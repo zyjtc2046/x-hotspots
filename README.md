@@ -53,6 +53,10 @@ bash /workspace/x-hotspots/publish.sh 2026-10-18
 | `extra_urls` | 额外链接数组，可为空 `[]` |
 | `metrics` | 互动数据对象；`likes` 赞、`reposts` 转、`replies` 评、`views` 阅，其他键原样显示 |
 
+可选字段 `edition`：`早报` / `午报` / `晚报`，缺省按 `早报`。同一天含多个版次时，单日页按版次分节显示（只显示存在的版次）；搜索和分类筛选覆盖所有版次。
+
+可选 `data/YYYY-MM-DD.meta.json` 里可加 `"editions": {"午报": {"window": "...", "queries": 12, "ok": 12, "failed": []}, "晚报": {...}}`，作为各版次的覆盖说明；顶层的 window/queries/ok/failed 仍对应早报。
+
 字段缺失不会让网页崩溃，只是那一项不显示。文件用 UTF-8 编码。
 
 ### 分类取值
