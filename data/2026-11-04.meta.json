@@ -3,5 +3,14 @@
  "queries": null,
  "ok": null,
  "failed": [],
- "note": "retroactive：补写，当日查询组数与成功数未记录"
+ "note": "retroactive：补写，当日查询组数与成功数未记录",
+ "editions": {
+  "午报": {
+   "window": "11/4 05:30 至 11/4 12:30 北京时间",
+   "queries": 12,
+   "ok": 12,
+   "failed": [],
+   "note": "轻量午报；热度门槛约早报一半；与早报事件去重后保留实质新进展（以中期选举开票为主）"
+  }
+ }
 }

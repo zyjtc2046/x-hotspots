@@ -483,5 +483,239 @@
    "views": 31648,
    "bookmarks": 2
   }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "美国中期选举开票：多家媒体预测民主党拿下众议院，并赢得参议院控制权，从而掌握国会两院；NBC 称选民在 rebuke 特朗普政策",
+  "author": "@NBCNews",
+  "url": "https://x.com/NBCNews/status/2117836016308404353",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2117816418368635108",
+   "https://x.com/unusual_whales/status/2117835397980147748",
+   "https://x.com/spectatorindex/status/2117834268806451602"
+  ],
+  "metrics": {
+   "likes": 842,
+   "reposts": 323,
+   "replies": 25,
+   "views": 24163,
+   "bookmarks": 30
+  },
+  "why": "国会两院易手会立刻改变立法、调查与拨款格局，是中期选举最核心的权力结果。",
+  "verify": "已核对 NBC 原帖称民主党赢得参议院并拿下国会全面控制（projection）；unusual_whales 较早报众议院已由民主党控制，另报民主党现控制参议院；spectatorindex 显示众议院已计席位民主党领先。均为媒体预测/即时计票，非正式认证结果。"
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "德州历史性翻蓝：Gina Hinojosa 击败州长 Greg Abbott（约 1990 年以来首位民主党州长、首位西裔州长）；James Talarico 击败 Ken Paxton，民主党自 1988 年以来首次拿下德州联邦参议员席位",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117823189271347382",
+  "extra_urls": [
+   "https://x.com/AP/status/2117835586845176248",
+   "https://x.com/nytimes/status/2117836149221622143",
+   "https://x.com/WSJ/status/2117831130023907432",
+   "https://x.com/spectatorindex/status/2117836531658580062"
+  ],
+  "metrics": {
+   "likes": 7923,
+   "reposts": 1285,
+   "replies": 156,
+   "views": 483338,
+   "bookmarks": 298
+  },
+  "why": "美国人口最多的红州同时丢掉州长与联邦参议员席位，是本轮中期选举象征意义最强的州级翻盘。",
+  "verify": "已核对 Polymarket 对 Hinojosa 击败 Abbott 的 99% 预测帖；AP、纽约时报同步预测 Hinojosa 胜选；WSJ 预测 Talarico 击败 Paxton；spectatorindex 汇总德州州长与参议员皆为民主党自约 1988/1990 年来首次获胜。均为媒体/预测市场投影。"
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "Polymarket 预测 Abdul El-Sayed 赢得密歇根州联邦参议员选举，将成为美国首位穆斯林参议员（约 1.07 万赞）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117810809480925343",
+  "extra_urls": [
+   "https://x.com/bbcchinese/status/2117817745777565720"
+  ],
+  "metrics": {
+   "likes": 10686,
+   "reposts": 1486,
+   "replies": 274,
+   "views": 513691,
+   "bookmarks": 311
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "【立场账号】特朗普就中期选举结果撇清：称「我不在选票上，如果我在，我们会以压倒性优势获胜」；白宫此前同日发「America is for Americans」等动员帖",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2117824924446548278",
+  "extra_urls": [
+   "https://x.com/WSJ/status/2117828951313723728",
+   "https://x.com/WhiteHouse/status/2117736263377981516"
+  ],
+  "metrics": {
+   "likes": 1218,
+   "reposts": 55,
+   "replies": 227,
+   "views": 230482,
+   "bookmarks": 66
+  },
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "民主党众议员 Robert Garcia 在民主党翻转众议院后警告特朗普与政府「lawyer up」（律师准备好）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2117830179766849994",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2117832477884416335"
+  ],
+  "metrics": {
+   "likes": 2253,
+   "reposts": 158,
+   "replies": 59,
+   "views": 176386,
+   "bookmarks": 70
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "午报",
+  "summary": "【价值观察】长期批评加密的民主党人 Sherrod Brown 赢回俄亥俄州联邦参议员席位；Cointelegraph 称尽管加密行业（含 Fairshake）砸约 6300 万美元试图击败他，仍未能阻止",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117835622043812229",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2117829217492808143",
+   "https://x.com/unusual_whales/status/2117832220878815321"
+  ],
+  "metrics": {
+   "likes": 22,
+   "reposts": 5,
+   "replies": 4,
+   "views": 13980,
+   "bookmarks": 1
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "午报",
+  "summary": "亲加密共和党 Byron Donalds 赢得佛州州长，将成为该州首位非裔州长；他曾推动把战略比特币储备行政令写入法律的 Reserve and Stockpile Act",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117819120745918645",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 425,
+   "reposts": 49,
+   "replies": 18,
+   "views": 30481,
+   "bookmarks": 22
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "午报",
+  "summary": "@_FORAB：市场恐慌主因是民主党中期大幅领先、横扫两院；众议院民主党领袖 Jeffries 可能成新议长，并放话要查特朗普家族利益输送、ICE 与爱泼斯坦档案",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2117825330752999551",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 87,
+   "reposts": 9,
+   "replies": 18,
+   "views": 19064,
+   "bookmarks": 8
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "Sam Altman：人类应始终掌控未来；OpenAI 反对把人降格为「做 AI 系统认为值得奖励的事」；不应把未来控制权交给超智能，这一要求最终应约束 AI 进展",
+  "author": "@sama",
+  "url": "https://x.com/sama/status/2117794005165748448",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 7066,
+   "reposts": 383,
+   "replies": 1555,
+   "views": 1906105,
+   "bookmarks": 1186
+  },
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "@op7418：苹果发布 App Intents 更新，开发者可将 App 功能接入 Siri AI，由开发者决定开放哪些能力；称叠加 iPhone Duo 适配，给大厂超级应用带来新挑战",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2117804545829171299",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 48,
+   "reposts": 1,
+   "replies": 52,
+   "views": 9127,
+   "bookmarks": 28
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "edition": "午报",
+  "summary": "【立场账号】称珠海兰埔路 11 月 2 日晚幼童遭严重伤害：网传大人带小孩上街、小孩碰到路人后遭泄愤伤害，周边街区有荷枪实弹警察（网友转述，未核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117778855381659797",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1117,
+   "reposts": 85,
+   "replies": 107,
+   "views": 224629,
+   "bookmarks": 227
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "edition": "午报",
+  "summary": "【立场账号】金融时报援引知情人士：证监会近日以窗口指导要求暂停 IPO，并暂时叫停现有股东大规模减持，以救股市",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117773822325596557",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 156,
+   "reposts": 16,
+   "replies": 33,
+   "views": 40104,
+   "bookmarks": 28
+  },
+  "tags": [
+   "立场账号"
+  ]
  }
 ]
