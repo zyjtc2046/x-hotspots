@@ -717,5 +717,245 @@
   "tags": [
    "立场账号"
   ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "晚报",
+  "summary": "中方确认正与美俄就本月深圳 APEC 期间可能举行的首次特朗普、习近平、普京三方会晤保持沟通；外交部发言人毛宁称「中方就中俄美元首会晤同相关方保持着沟通」",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117923297702597108",
+  "extra_urls": [
+   "https://x.com/dw_chinese/status/2117919612750758368"
+  ],
+  "metrics": {
+   "likes": 128,
+   "reposts": 18,
+   "replies": 13,
+   "views": 28394,
+   "bookmarks": 3
+  },
+  "tags": [
+   "价值观察"
+  ],
+  "why": "若成行将是中美俄元首首次三方会面，直接牵动乌克兰、关税和 APEC 议程；早报德媒还分析中方无意主办，这是官方口径的新进展。",
+  "verify": "Cointelegraph 原帖称 China confirms talks；德国之声中文转述外交部 11 月 4 日例行记者会毛宁原话，只确认「保持沟通」，未确认会晤一定举行。"
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "晚报",
+  "summary": "民主党拿下国会两院后，金价银价大涨，两者市值合计一天增加约 1 万亿美元；Cointelegraph 称美元同日录得一个月来最差单日表现",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2117926578818810086",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2117889850456121501"
+  ],
+  "metrics": {
+   "likes": 2275,
+   "reposts": 317,
+   "replies": 98,
+   "views": 173137,
+   "bookmarks": 118
+  },
+  "tags": [],
+  "why": "选举结果正在被市场定价为政策不确定性上升，资金流向贵金属、美元走弱，对美股、美债和比特币都有连锁影响。",
+  "verify": "两条均为大号快讯，未附具体涨幅数据；市值数字出自 KobeissiLetter 自己的估算，建议看行情软件核对。"
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "晚报",
+  "summary": "中期选举计票更新：spectatorindex 统计众议院民主党已拿 226 席、共和党 137 席，参议院民主党 54 席；Keisha Lance Bottoms 赢得佐治亚州长，成为美国首位黑人女性州长；Polymarket 预测民主党 Kreiss-Tomkins 拿下阿拉斯加州长",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2117873343559012822",
+  "extra_urls": [
+   "https://x.com/spectatorindex/status/2117867102501834802",
+   "https://x.com/Reuters/status/2117873227166834705",
+   "https://x.com/Polymarket/status/2117880127598277084"
+  ],
+  "metrics": {
+   "likes": 8672,
+   "reposts": 1405,
+   "replies": 73,
+   "views": 418879,
+   "bookmarks": 568
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "晚报",
+  "summary": "Polymarket 预测民主社会主义者 Nithya Raman 击败现任市长 Karen Bass，当选洛杉矶市长（99% 概率，非官方结果）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117925537515487263",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 326,
+   "reposts": 51,
+   "replies": 12,
+   "views": 24723,
+   "bookmarks": 25
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国际形势",
+  "edition": "晚报",
+  "summary": "据纽约时报，越来越多伊朗官员和教士呼吁国家发展核武器，担心与美国再起冲突（Polymarket 转述）",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2117930605258150381",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 158,
+   "reposts": 22,
+   "replies": 14,
+   "views": 22737,
+   "bookmarks": 13
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "edition": "晚报",
+  "summary": "马斯克在中期选举结果出炉后连发两帖：「太空数据中心现在看起来很有吸引力」，并自嘲「看来我干预选举的太空激光这次没起作用」，两帖合计约 28 万赞",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2117862462976594112",
+  "extra_urls": [
+   "https://x.com/elonmusk/status/2117862767831159287"
+  ],
+  "metrics": {
+   "likes": 98811,
+   "reposts": 6615,
+   "replies": 8495,
+   "views": 4069241,
+   "bookmarks": 2606
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-04",
+  "category": "AI",
+  "edition": "晚报",
+  "summary": "据金融时报，甲骨文在特朗普政府施压下放弃与腾讯约 70 亿美元的 AI 合作（路透转述）",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2117874636805333266",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 32,
+   "reposts": 10,
+   "replies": 10,
+   "views": 36797,
+   "bookmarks": 6
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "晚报",
+  "summary": "摩根士丹利确认成为首批使用 DTCC 代币化服务的银行之一，与摩根大通、花旗、美银、富达等一起把美股、ETF 和美债放上区块链",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117916073521455364",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2117920127106912392"
+  ],
+  "metrics": {
+   "likes": 409,
+   "reposts": 61,
+   "replies": 35,
+   "views": 35163,
+   "bookmarks": 21
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "晚报",
+  "summary": "币安被盗事件后续：朝鲜金与正称 FBI 指控朝鲜盗取币安 60 亿美元体现了美国的「敌视政策」，目前没必要与华盛顿谈判；CZ 则表示这次被盗暴露出严重的安全漏洞，作为股东希望币安保持透明、承担责任",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2117867132910260600",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2117873602750267499"
+  ],
+  "metrics": {
+   "likes": 126,
+   "reposts": 13,
+   "replies": 26,
+   "views": 35573,
+   "bookmarks": 6
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-04",
+  "category": "Crypto",
+  "edition": "晚报",
+  "summary": "法国银行 Crédit Mutuel Arkéa 确认被盗 1.33 亿美元以上加密资产；ZachXBT 追踪到约 1.09 亿美元 USDC 在 21 小时内从 Kraken、Crypto.com 和 OKX 账户提走，随后换成 ETH 以躲避稳定币冻结",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2117934470712242628",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 30,
+   "reposts": 7,
+   "replies": 26,
+   "views": 15331,
+   "bookmarks": 2
+  },
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "edition": "晚报",
+  "summary": "【立场账号】谷歌 11 月 3 日发布报告称，深圳视壮科技（Videostrong）在出厂前给电视盒子预装后门，并把访问权限卖给黑灰产，全球超过 130 万台设备被纳入远程控制网络",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117909718374953453",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 733,
+   "reposts": 82,
+   "replies": 53,
+   "views": 71267,
+   "bookmarks": 162
+  },
+  "tags": [
+   "立场账号",
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "category": "国内形势",
+  "edition": "晚报",
+  "summary": "【立场账号】网友投稿称，国行苹果智能随 iOS 27.3 开发者测试版开放后，相册消除工具处理习近平照片时提示「根据相关法律法规的要求，无法处理此图像」，问六四会被要求「换个话题」（截图未核实）",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2117929850464014404",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 105,
+   "reposts": 3,
+   "replies": 19,
+   "views": 20725,
+   "bookmarks": 13
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
  }
 ]
