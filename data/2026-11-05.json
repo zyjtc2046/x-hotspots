@@ -1,0 +1,535 @@
+[
+  {
+    "category": "AI",
+    "summary": "Anthropic 分享生物学研究团队如何与 Claude 合作，解析出细菌生命中首个 vault 粒子的三维结构；vault 粒子是细胞内最大蛋白结构之一，长期成因不明",
+    "author": "@AnthropicAI",
+    "url": "https://x.com/AnthropicAI/status/2118073665296228863",
+    "metrics": {
+      "likes": 1791,
+      "reposts": 181,
+      "replies": 198,
+      "views": 114357,
+      "bookmarks": 398
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "why": "官方首次披露用 Claude 做真实结构生物学突破，是大模型进入湿实验/科研闭环的标志性案例。",
+    "verify": "已核对 Anthropic 官方原帖：明确写的是 biology research team worked with Claude to map first 3D structure of a vault particle from bacterial life；具体方法学细节需看其附带研究说明，原帖正文未给论文链接。",
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "AI",
+    "summary": "@HowToPrompt__ 称 Google DeepMind 发现主流模型存在盲点：在编程提示旁附上红心 ❤️ 图片，会让模型 100% 改选它平时不会选的解法（第三方转述，待对照原论文）",
+    "author": "@HowToPrompt__",
+    "url": "https://x.com/HowToPrompt__/status/2117885578670952535",
+    "metrics": {
+      "likes": 1327,
+      "reposts": 139,
+      "replies": 102,
+      "views": 100350,
+      "bookmarks": 1123
+    },
+    "tags": [
+      "值得收藏",
+      "待核实"
+    ],
+    "why": "若属实，说明视觉/符号噪声可系统性改变模型推理路径，对 Agent 安全与评测可靠性有直接冲击。",
+    "verify": "热度高、收藏极高，但帖文为科普号转述，未给出 DeepMind 论文链接或实验编号；「100%」表述夸张，需对照原论文核验。",
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "AI",
+    "summary": "@lxfater：DeepSeek Harness（大肥鱼）官号入驻 B 站冲上热搜第一，首条视频 12 小时破百万播放、涨粉超 30 万；并整理 6 个野生插件 UP 主视频与开源仓库",
+    "author": "@lxfater",
+    "url": "https://x.com/lxfater/status/2117880528024330518",
+    "extra_urls": [
+      "https://x.com/lxfater/status/2117880532533178472"
+    ],
+    "metrics": {
+      "likes": 196,
+      "reposts": 33,
+      "replies": 31,
+      "views": 13388,
+      "bookmarks": 209
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报"
+  },
+  {
+    "category": "AI",
+    "summary": "@FinanceYF5 转述 Andrew Huberman：找出每天能持续完成的最大真实工作量，再用一种不伤身的方式每周重置一次——他按此节奏坚持了 25 年",
+    "author": "@FinanceYF5",
+    "url": "https://x.com/FinanceYF5/status/2117880360927461684",
+    "metrics": {
+      "likes": 256,
+      "reposts": 52,
+      "replies": 15,
+      "views": 19062,
+      "bookmarks": 236
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "AI",
+    "summary": "@AYi_AInotes 解读 a16z《State of Longevity》报告：调研 500 名消费者后认为长寿正从硅谷富豪小众玩法变成大规模消费升级",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2117947742764802108",
+    "metrics": {
+      "likes": 80,
+      "reposts": 22,
+      "replies": 3,
+      "views": 10467,
+      "bookmarks": 98
+    },
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "AI",
+    "summary": "@turingou：已跑通全自动 AI agent 运维——按负载自动开 VPS/裸金属并加入负载均衡；VPS 开机到可用中位数 94 秒，裸金属约 6 分钟",
+    "author": "@turingou",
+    "url": "https://x.com/turingou/status/2117960780566184373",
+    "extra_urls": [
+      "https://x.com/turingou/status/2117792028734136678"
+    ],
+    "metrics": {
+      "likes": 92,
+      "reposts": 6,
+      "replies": 12,
+      "views": 19611,
+      "bookmarks": 50
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报"
+  },
+  {
+    "category": "AI",
+    "summary": "The Information：12 个州当选州长呼吁暂停数据中心建设（含德州、佐治亚、俄亥俄），可能推高成本并拖延 OpenAI、微软、亚马逊的 AI 项目",
+    "author": "@theinformation",
+    "url": "https://x.com/theinformation/status/2118085949443776746",
+    "metrics": {
+      "likes": 1,
+      "reposts": 1,
+      "replies": 0,
+      "views": 1831,
+      "bookmarks": 0
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "币安创始人 CZ 发帖「Bitcoin is resilient」：在币安被盗与中期选举波动后强调比特币韧性，互动极高",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2118077202764013695",
+    "metrics": {
+      "likes": 3931,
+      "reposts": 313,
+      "replies": 800,
+      "views": 250465,
+      "bookmarks": 68
+    },
+    "why": "被盗与选举双重冲击下，头部人物用最短口号稳住情绪，常被市场当作短期情绪锚。",
+    "verify": "已核对 CZ 原帖全文仅为 “Bitcoin is resilient.” 及配图；未附数据。同期 CoinDesk 报加密市场中期后翻绿（ETH/BTC 等 24h 上涨），可交叉参考：https://x.com/CoinDesk/status/2118006242828574861",
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "CoinDesk：SEC 确认 Canton Coin（$CC）为数字商品而非证券，并在 Canton Network 证明其价值来自程序化运行与供需后发出 no-action letter",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2117950386409779289",
+    "metrics": {
+      "likes": 747,
+      "reposts": 115,
+      "replies": 60,
+      "views": 63053,
+      "bookmarks": 60
+    },
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph：纳斯达克已批准 Canary Capital 的 Injective ETF 上市，该产品含质押收益",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118078397075079187",
+    "metrics": {
+      "likes": 263,
+      "reposts": 48,
+      "replies": 45,
+      "views": 29622,
+      "bookmarks": 14
+    },
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "CoinDesk：Riot Platforms 三季度出售 10599 枚 BTC，持仓从 11380 降至 2418，用于为一座 910MW、与未具名 AI 实验室签约价值约 280 亿美元/15 年的数据中心租约融资",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2118067628157678037",
+    "metrics": {
+      "likes": 43,
+      "reposts": 4,
+      "replies": 33,
+      "views": 18279,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph：Stripe 已允许美国商户向 160+ 市场的加密钱包发送 OUSD 或 USDC 稳定币打款，通常数分钟到账",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118072097452769588",
+    "metrics": {
+      "likes": 48,
+      "reposts": 11,
+      "replies": 38,
+      "views": 25167,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph：Jack Dorsey 的 Block 原则上同意支付 7.64 亿美元，和解 DOJ 对其反洗钱管控的调查（尚待最终协议与法院批准）",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118063311350530439",
+    "metrics": {
+      "likes": 63,
+      "reposts": 9,
+      "replies": 29,
+      "views": 29486,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "Crypto",
+    "summary": "CoinDesk：Circle 公布三季度净利 2.26 亿美元（同比+5%），收入 7.78 亿超预期约 11%；USDC 链上交易量同比+49% 至 13.9 万亿美元",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2117962960383492421",
+    "metrics": {
+      "likes": 125,
+      "reposts": 22,
+      "replies": 40,
+      "views": 27572,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "此前因朋友圈发「习惯了近来平平淡淡的日子」被永封微信/小红书/抖音的网友称：同手机号关联的闲鱼、网易云也「连坐」被永封，理由分别为「不当注册」「涉政」",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2117990248487780465",
+    "metrics": {
+      "likes": 599,
+      "reposts": 54,
+      "replies": 39,
+      "views": 104752,
+      "bookmarks": 98
+    },
+    "tags": [
+      "立场账号"
+    ],
+    "why": "跨平台「手机号连坐」若属实，说明内容审查已从单 App 延伸到账号体系联动，对普通人表达成本影响很大。",
+    "verify": "来源为立场账号转述当事人截图/自述，未看到闲鱼/网易云官方说明；「不当注册」是否统一话术待核实。",
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "南昌大学学生会中午刚劝勿翻墙，下午发庐山音乐节抽票推文时 IP 属地却显示「美国」；投稿者怀疑运营忘关 VPN，称原文随后被删",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118005348506190316",
+    "metrics": {
+      "likes": 510,
+      "reposts": 26,
+      "replies": 38,
+      "views": 79410,
+      "bookmarks": 95
+    },
+    "tags": [
+      "立场账号"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "《华尔街日报》中文网：中国股市刚进入熊市区域，蓝筹股指数较 6 月高点跌逾 20%；有政府背景基金迅速托市，但干预更像创可贴",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2117972720147189780",
+    "metrics": {
+      "likes": 33,
+      "reposts": 2,
+      "replies": 6,
+      "views": 17715,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "德国之声：泰国安全部门称自 2014 年起被关押的 5 名维吾尔人正面临中国逮捕令，法院将决定是否遣返；其中两名获特赦者称宁可死也不愿回中国",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2117985251360178584",
+    "metrics": {
+      "likes": 54,
+      "reposts": 7,
+      "replies": 9,
+      "views": 12139,
+      "bookmarks": 7
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "美国之音：美中举行两军危机沟通与预防工作组会议",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2118049401289441323",
+    "metrics": {
+      "likes": 3,
+      "reposts": 2,
+      "replies": 0,
+      "views": 2935,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国内形势",
+    "summary": "德国之声：武汉中院开始审理一起针对美国密苏里州及相关官员、索赔金额达数百亿美元的诉讼，指控其在新冠疫情期间损害中国声誉",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2117949731661889571",
+    "metrics": {
+      "likes": 23,
+      "reposts": 11,
+      "replies": 6,
+      "views": 10347,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "中期选举后首个交易日：美股市值增加逾 1.2 万亿美元；同期原油跌超 8%，市场把共和党失利部分归因于伊朗战争",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2118087520558936487",
+    "extra_urls": [
+      "https://x.com/spectatorindex/status/2118089535913660827",
+      "https://x.com/Cointelegraph/status/2118088452545622432",
+      "https://x.com/spectatorindex/status/2118057067072352593",
+      "https://x.com/unusual_whales/status/2118096264407765447"
+    ],
+    "metrics": {
+      "likes": 971,
+      "reposts": 102,
+      "replies": 52,
+      "views": 89557,
+      "bookmarks": 30
+    },
+    "why": "选举结果开始被金融市场定价：风险偏好回升、油价回落，对美债、科技股和加密都有传导。",
+    "verify": "KobeissiLetter / Spectator Index / Cointelegraph 同步报 +$1.2T；油价 -8% 出自 Spectator Index 快讯；均为大号摘要，具体指数涨跌幅建议对照行情软件。",
+    "date": "2026-11-05",
+    "edition": "早报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "计票进一步明朗：众议院迄今民主党 242 席、共和党 147 席；参议院翻蓝州份包括德州、堪萨斯、俄亥俄、南卡、北卡、缅因、爱荷华",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2118078679033282984",
+    "extra_urls": [
+      "https://x.com/spectatorindex/status/2118082685172408820"
+    ],
+    "metrics": {
+      "likes": 2223,
+      "reposts": 174,
+      "replies": 30,
+      "views": 132773,
+      "bookmarks": 66
+    },
+    "date": "2026-11-05",
+    "edition": "早报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "泽连斯基：刚与 Steve Witkoff、Jared Kushner 详谈约一个半小时；正准备不到一周内举行乌克兰—美国—俄罗斯团队级三方会谈",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2118067876695564358",
+    "metrics": {
+      "likes": 2522,
+      "reposts": 459,
+      "replies": 278,
+      "views": 134560,
+      "bookmarks": 63
+    },
+    "why": "若团队级三方会谈成行，将是停火/谈判机制的实质推进，直接影响能源与安全预期。",
+    "verify": "已核对泽连斯基官方账号原帖；「不到一周」为他本人表述，美俄官方尚未在同时间窗内用同等措辞确认日程。",
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "BBC：愤怒的共和党人把惨败归咎于特朗普——「这是一场灾难」",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2117974220634275965",
+    "metrics": {
+      "likes": 7212,
+      "reposts": 1659,
+      "replies": 632,
+      "views": 604836,
+      "bookmarks": 361
+    },
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "美国之音：副总统万斯称共和党输掉中期是因为对伊朗的战争；特朗普表示「很大程度上是事实」，但若重来仍会同样行动，「不能让伊朗拥有核武器」",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2118087880853868895",
+    "metrics": {
+      "likes": 5,
+      "reposts": 2,
+      "replies": 3,
+      "views": 1732,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "unusual_whales：伊朗安全官员 Mohsen Rezaei 称伊朗在战场与霍尔木兹给了特朗普战略打击，并在中期选举中造成「政治失败」（转述，待核对原文）",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118082435204432317",
+    "metrics": {
+      "likes": 626,
+      "reposts": 48,
+      "replies": 62,
+      "views": 90015,
+      "bookmarks": 36
+    },
+    "tags": [
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "Disclose.tv：Hakeem Jeffries 致信同僚，宣布竞选众议院议长",
+    "author": "@disclosetv",
+    "url": "https://x.com/disclosetv/status/2118085778437750932",
+    "metrics": {
+      "likes": 223,
+      "reposts": 37,
+      "replies": 74,
+      "views": 46574,
+      "bookmarks": 28
+    },
+    "tags": [
+      "立场账号"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "Visegrád 24：萨尔瓦多总统布克尔的士兵据称已进入海地并控制大片区域，帮派成员为避战逃离（转述当地报道）",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2118079034777080308",
+    "metrics": {
+      "likes": 1489,
+      "reposts": 189,
+      "replies": 25,
+      "views": 46256,
+      "bookmarks": 95
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "早报",
+    "extra_urls": []
+  }
+]

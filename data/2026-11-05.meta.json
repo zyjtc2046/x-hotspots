@@ -1,0 +1,15 @@
+{
+  "window": "北京时间 2026-11-04 05:40 — 2026-11-05 05:40",
+  "queries": 19,
+  "ok": 19,
+  "failed": [],
+  "editions": {
+    "早报": {
+      "window": "北京时间 2026-11-04 05:40 — 2026-11-05 05:40",
+      "queries": 19,
+      "ok": 19,
+      "failed": [],
+      "note": "search_posts_all×19 全部成功；另用 search_news×1 与 get_users_posts 补齐指标。与 11-04 早/午/晚报去重（甲骨文-腾讯、Apple Intelligence、Crédit Mutuel、APEC 三方、币安被盗主线等不重复收录）。"
+    }
+  }
+}
