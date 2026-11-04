@@ -58,6 +58,20 @@
       return list;
     });
   }
+  function loadMeta(date) {
+    return fetchJSON("data/" + date + ".meta.json").then(function (j) { return j && typeof j === "object" ? j : null; }, function () { return null; });
+  }
+  function metaLine(m) {
+    if (!m) return "";
+    var parts = [];
+    if (m.window) parts.push("覆盖时段：" + esc(m.window));
+    if (m.queries !== undefined && m.queries !== null) parts.push("查询 " + esc(m.queries) + " 组");
+    if (m.ok !== undefined && m.ok !== null) parts.push("成功 " + esc(m.ok));
+    var f = Array.isArray(m.failed) ? m.failed : [];
+    parts.push(f.length ? "未覆盖：" + f.map(esc).join("、") : "无未覆盖账号");
+    if (m.note) parts.push(esc(m.note));
+    return '<p class="coverage">📡 ' + parts.join(" · ") + "</p>";
+  }
   function tag(c, href) {
     var cls = "tag c-" + esc(c);
     return href ? '<a class="' + cls + '" href="' + esc(href) + '">' + esc(label(c)) + "</a>"
@@ -122,6 +136,11 @@
     var mHtml = m ? Object.keys(m).map(function (k) {
       return '<span title="' + esc(k) + '">' + esc(METRIC[k] || k) + " " + fmtNum(m[k]) + "</span>";
     }).join("") : "";
+    var tgs = Array.isArray(it.tags) ? it.tags : (it.tags ? [it.tags] : []);
+    var tgHtml = tgs.map(function (t) {
+      var c = /立场/.test(t) ? " b-stance" : /待核实/.test(t) ? " b-unverified" : /收藏/.test(t) ? " b-save" : "";
+      return '<span class="badge' + c + '">' + esc(t) + "</span>";
+    }).join("");
     var extras = Array.isArray(it.extra_urls) ? it.extra_urls : (it.extra_urls ? [it.extra_urls] : []);
     var exHtml = extras.map(function (u) {
       var su = safeUrl(typeof u === "object" && u ? u.url : u);
@@ -133,6 +152,9 @@
       "<span>" + authorHtml + "</span>" +
       (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">原帖 ↗</a>' : "") + "</div>" +
       '<div class="sum">' + (it.summary ? hl(it.summary, q) : '<span class="muted">（无摘要）</span>') + "</div>" +
+      (tgHtml ? '<div class="badges">' + tgHtml + "</div>" : "") +
+      (it.why ? '<div class="why"><b>为什么重要：</b>' + esc(it.why) + "</div>" : "") +
+      (it.verify ? '<div class="verify"><b>核验：</b>' + esc(it.verify) + "</div>" : "") +
       (mHtml ? '<div class="meta">' + mHtml + "</div>" : "") +
       (exHtml ? '<ul class="links">' + exHtml + "</ul>" : "") +
       "</article>";
@@ -159,10 +181,11 @@
     var cat = route.params.cat || "";
     var dates = index.days.map(function (d) { return d.date; });
     var i = dates.indexOf(date);
-    return loadDay(date).then(function (list) {
+    return Promise.all([loadDay(date), loadMeta(date)]).then(function (res) {
+      var list = res[0], meta = res[1];
       var shown = list.filter(function (it) { return !cat || it._cat === cat; });
       var h = "<h1>" + esc(date) + " 热点</h1><p class=\"muted\">共 " + list.length + " 条" +
-        (cat ? "，当前筛选「" + esc(label(cat)) + "」" + shown.length + " 条" : "") + "</p>";
+        (cat ? "，当前筛选「" + esc(label(cat)) + "」" + shown.length + " 条" : "") + "</p>" + metaLine(meta);
       var groups = cat ? [cat] : CATS.concat(shown.map(function (x) { return x._cat; }).filter(function (c, k, a) { return CATS.indexOf(c) < 0 && a.indexOf(c) === k; }));
       groups.forEach(function (g) {
         var arr = shown.filter(function (it) { return it._cat === g; });
