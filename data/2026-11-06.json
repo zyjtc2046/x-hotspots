@@ -1,0 +1,523 @@
+[
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "美股因民主党中期大胜与 AI 监管担忧暴跌：标普约 40 分钟蒸发逾 2 万亿美元市值，全日美股市值损失约 2.5–3 万亿美元；纳指约跌 5–6%，VIX 单日涨超 70%；科技股多只进入熊市区间",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2118362154558779411",
+    "extra_urls": [
+      "https://x.com/WSJ/status/2118450745292853726",
+      "https://x.com/spectatorindex/status/2118453739917136126",
+      "https://x.com/Polymarket/status/2118449376347799820",
+      "https://x.com/KobeissiLetter/status/2118402716120617185",
+      "https://x.com/unusual_whales/status/2118442822257053809"
+    ],
+    "metrics": {
+      "likes": 20356,
+      "reposts": 3210,
+      "replies": 1049,
+      "views": 2369511,
+      "bookmarks": 2067
+    },
+    "why": "中期后首个完整交易日，市场把 AI/数据中心监管预期直接定价进科技与加密资产。",
+    "verify": "对照 @WSJ（纳指一日抹去约 2.5 万亿美元）、@FT、@spectatorindex、@Polymarket、@DeItaone 等多源报道，数量级一致；具体归因（监管 vs 杠杆踩踏）仍有争议，政策文本尚未落地。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "多方报道称国务卿 Marco Rubio 正与白宫讨论辞职，并有消息称其可能为竞选 2028 总统做准备；国务院随后否认「完全无根据」",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2118409259385819142",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2118439294109118517",
+      "https://x.com/Polymarket/status/2118440676425687112",
+      "https://x.com/KobeissiLetter/status/2118426701713551564"
+    ],
+    "metrics": {
+      "likes": 10012,
+      "reposts": 721,
+      "replies": 469,
+      "views": 794853,
+      "bookmarks": 792
+    },
+    "why": "中期惨败后内阁动荡信号，影响外交人事与伊朗/乌克兰政策连续性。",
+    "verify": "对照 @unusual_whales 引 Bloomberg「讨论辞职」、@Polymarket 引国务院否认；是否真辞职未核实，以官方声明与后续人事为准。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "加州州长 Newsom 据报将全州死囚区 548 人的死刑全部改判为不得假释的终身监禁；另据同账号，加州选民否决要求投票出示身份证件的 Prop 39",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118436443592999032",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2118442822257053809"
+    ],
+    "metrics": {
+      "likes": 991,
+      "reposts": 84,
+      "replies": 161,
+      "views": 170766,
+      "bookmarks": 61
+    },
+    "verify": "仅见 @unusual_whales 转述，未核对州长办公室原文或加州司法文件。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "unusual_whales：洛克希德·马丁将支付 2950 万美元，和解联邦对其通过多元化项目歧视白人雇员的指控",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118436690172031254",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1215,
+      "reposts": 136,
+      "replies": 62,
+      "views": 146858,
+      "bookmarks": 142
+    },
+    "verify": "转述 DOJ/EEOC 宣布，未打开原始和解文本。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "泽连斯基称与西班牙首相桑切斯详谈俄袭乌局势；并提及托莱多铁路悲剧等",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2118441497511026903",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1009,
+      "reposts": 163,
+      "replies": 89,
+      "views": 56237,
+      "bookmarks": 20
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "Disclose.tv：土耳其议会批准土耳其—巴基斯坦—沙特联合防务「麦加协议」",
+    "author": "@disclosetv",
+    "url": "https://x.com/disclosetv/status/2118448259203289592",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 263,
+      "reposts": 56,
+      "replies": 8,
+      "views": 34888,
+      "bookmarks": 18
+    },
+    "verify": "立场鲜明账号转述，未核对土议会公报原文。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "Visegrád 24：洛杉矶市长选举 Nithya Raman 胜选；称美国人口最多的两座城市市长均为民主社会主义者 DSA 成员",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2118438951933321233",
+    "extra_urls": [
+      "https://x.com/FT/status/2118454078824911037"
+    ],
+    "metrics": {
+      "likes": 133,
+      "reposts": 28,
+      "replies": 28,
+      "views": 22233,
+      "bookmarks": 11
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "OpenAI 发布 GPT‑6 Cyber：称在安全研究能力与对齐上有重大进展，并支撑此前公布的 Linux 内核漏洞自主发现—利用—补丁流水线；Mozilla、Palo Alto Networks 等安全团队已试用。另有财经账号称 Anthropic 披露未来 AI 基建承诺约 8950 亿美元（待核）",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2118390190246879554",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2118397431729586495"
+    ],
+    "metrics": {
+      "likes": 11103,
+      "reposts": 951,
+      "replies": 744,
+      "views": 1040237,
+      "bookmarks": 1652
+    },
+    "why": "把「网络安全专用前沿模型」产品化，叠加民主党监管预期，是科技股杀跌叙事的一部分。",
+    "verify": "官方账号原文；与前一日 948 个 Linux 提权漏洞流水线公告衔接。第三方独立复现与实际防御效果未核实。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@vista8 拆解 TikTok 推荐：手机端 25+ AI 模型、播放前预打「推荐分」、实时采集 50+ 用户状态等，称对推荐算法有新认知",
+    "author": "@vista8",
+    "url": "https://x.com/vista8/status/2118367210418925840",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 84,
+      "reposts": 11,
+      "replies": 14,
+      "views": 9003,
+      "bookmarks": 102
+    },
+    "why": "中文圈高收藏技术帖，适合对照算法与内容分发。",
+    "verify": "个人技术向解读，未对照 TikTok 官方文档；收藏/点赞比高，标值得收藏。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "Polymarket：谷歌宣布计划在怀俄明州建设约 170 亿美元的大型 AI 数据中心",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118432825846464628",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1661,
+      "reposts": 141,
+      "replies": 81,
+      "views": 77132,
+      "bookmarks": 86
+    },
+    "verify": "聚合账号快讯，未核对谷歌/州政府原文。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "TechCrunch：Claude 推出 Personal Finance，经 Plaid 连接银行/信用卡后可查询个人财务（美国 Pro 及以上测试）",
+    "author": "@TechCrunch",
+    "url": "https://x.com/TechCrunch/status/2118405254450434052",
+    "extra_urls": [
+      "https://x.com/dotey/status/2118455489423905097",
+      "https://x.com/Cointelegraph/status/2118418928703541611"
+    ],
+    "metrics": {
+      "likes": 11,
+      "reposts": 0,
+      "replies": 12,
+      "views": 11238,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "TechCrunch：Meta 警告，地方对数据中心的政治反对可能威胁未来 AI 投资；另据 TechCrunch，OpenAI 总裁 Brockman 称或可在 2027 年具备上市条件",
+    "author": "@TechCrunch",
+    "url": "https://x.com/TechCrunch/status/2118421367297024272",
+    "extra_urls": [
+      "https://x.com/theinformation/status/2118441914634547441",
+      "https://x.com/TechCrunch/status/2118403752965157108"
+    ],
+    "metrics": {
+      "likes": 15,
+      "reposts": 3,
+      "replies": 12,
+      "views": 11617,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@AYi_AInotes：华润隆地联合 GCSA 成立 AI 与网络安全研究中心，并整理普通人/企业 AI 安全「四条铁律」；帖子浏览逾 11 万",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2118349416557875215",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 34,
+      "reposts": 2,
+      "replies": 10,
+      "views": 119524,
+      "bookmarks": 12
+    },
+    "verify": "自媒体解读央企合作，具体项目范围与「铁律」出处未逐条核官方稿。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph：巴拉圭总统因 Ueno Bank 倒闭辞职，当地 P2P 上 USDT 相对法币溢价约 13%",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118407319692124301",
+    "extra_urls": [
+      "https://x.com/SCMPNews/status/2118397759996772391"
+    ],
+    "metrics": {
+      "likes": 1034,
+      "reposts": 134,
+      "replies": 54,
+      "views": 93955,
+      "bookmarks": 90
+    },
+    "why": "主权信用危机直接推升稳定币需求，是加密作为「美元替代通道」的实地案例。",
+    "verify": "对照 @SCMPNews 亦报道总统辞职；USDT 溢价为 Cointelegraph 描述，未独立核验当地 P2P 盘口。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph：CFTC 称清算所只要按结算银行同等规则持有，就可通过信托公司（不仅是银行）做日终结算",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118423014249210097",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 289,
+      "reposts": 69,
+      "replies": 45,
+      "views": 33279,
+      "bookmarks": 29
+    },
+    "why": "扩大合格结算机构范围，可能影响机构加密与衍生品清算路径。",
+    "verify": "媒体转述 CFTC 口径，未打开监管原文。"
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CZ 分享在牛津联盟演讲：强调言论自由与「金钱自由」；附炉边谈话与问答两段视频，互动极高",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2118437703469719993",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 435,
+      "reposts": 30,
+      "replies": 140,
+      "views": 196489,
+      "bookmarks": 21
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk：希腊通过加密资本利得税 10%，为该国首个较完整加密税制；年收益低于 500 欧元免税",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2118406266938945707",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 92,
+      "reposts": 12,
+      "replies": 26,
+      "views": 24565,
+      "bookmarks": 8
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk：比特币跌破 7.6 万美元，美股创下自 2025 年 4 月以来最差交易日之一",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2118451994020938228",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2118360412982808672",
+      "https://x.com/Cointelegraph/status/2118452103467147534"
+    ],
+    "metrics": {
+      "likes": 15,
+      "reposts": 4,
+      "replies": 14,
+      "views": 9843,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "WuBlockchain：Core Scientific 计划到 2026 年四季度完全关停自营比特币挖矿，加速转向其他用途",
+    "author": "@WuBlockchain",
+    "url": "https://x.com/WuBlockchain/status/2118405197701771395",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 79,
+      "reposts": 11,
+      "replies": 30,
+      "views": 13945,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "BBC 中文：黄之锋因「串谋勾结外国势力」再判 10 年；支持者称冤狱，北京视其为「反中乱港」；他已入狱逾六年",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2118293481458483423",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2118372838486745469",
+      "https://x.com/ChineseWSJ/status/2118282343030951963"
+    ],
+    "metrics": {
+      "likes": 422,
+      "reposts": 71,
+      "replies": 221,
+      "views": 93381,
+      "bookmarks": 38
+    },
+    "why": "国安法第二案重判，国际人权与港府司法叙事继续对撞。",
+    "verify": "对照 @VOAChinese、@ChineseWSJ、午报已报道的英文源；刑期与罪名与法院公开信息一致，评价性表述为各方立场。"
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "最高检通报：中共中央政治局原委员、前新疆党委书记马兴瑞涉嫌受贿案，已由湖北宜昌市检察院向宜昌中院提起公诉，数额特别巨大",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118433168319504880",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2118404388494737756",
+      "https://x.com/whyyoutouzhele/status/2118367735747076450",
+      "https://x.com/whyyoutouzhele/status/2118362703311847916"
+    ],
+    "metrics": {
+      "likes": 15,
+      "reposts": 1,
+      "replies": 4,
+      "views": 7984,
+      "bookmarks": 5
+    },
+    "why": "政治局级落马进入公诉阶段，是反腐与人事周期的硬新闻。",
+    "verify": "对照 @VOAChinese 同步报道；以新华社/最高检通报为准，细节以起诉书为准。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "李老师：江苏高邮服装厂女工据称因长期超负荷工作离世，生前聊天记录写「我早晚要猝死」",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118372773437513740",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 252,
+      "reposts": 29,
+      "replies": 38,
+      "views": 36010,
+      "bookmarks": 49
+    },
+    "verify": "投稿/抖音转述，未核对当地警方、医院或厂方通报。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "德国之声：约 60 万块英伟达 H200 先进 AI 芯片滞留香港待运内地，北京尚未批准大规模进口",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2118362702624305531",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2118425447533051914"
+    ],
+    "metrics": {
+      "likes": 21,
+      "reposts": 3,
+      "replies": 7,
+      "views": 9703,
+      "bookmarks": 6
+    },
+    "verify": "知情人士口径，对照 VOA 中文同类报道，官方许可进展未核实。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "华尔街日报中文网重温：中国年轻人情绪偏无奈而非愤怒，但幻灭感若演变或冲击社会稳定与更长远前景",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2118335119807168988",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 79,
+      "reposts": 12,
+      "replies": 6,
+      "views": 27065,
+      "bookmarks": 17
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "VOA 中文：民政部数据称 2026 年前三季度全国结婚登记仅 464.8 万对；人口学家预警或冲击 2027 年出生人口",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2118455028738375887",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "views": 513,
+      "bookmarks": 0
+    },
+    "verify": "刚发布、互动尚低；数字以民政部公报为准，人口学家预测为前瞻判断。",
+    "tags": [
+      "价值观察"
+    ]
+  }
+]
