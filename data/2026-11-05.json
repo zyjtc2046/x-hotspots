@@ -786,5 +786,224 @@
     ],
     "date": "2026-11-05",
     "edition": "午报"
+  },
+  {
+    "category": "AI",
+    "summary": "OpenAI 联合创始人兼总裁 @gdb 发布 GPT-Live：面向外呼电话（outbound telephony）的实时语音 Agent 能力，帖内附产品链接；收藏数极高",
+    "author": "@gdb",
+    "url": "https://x.com/gdb/status/2118204795219489172",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 546,
+      "reposts": 13,
+      "replies": 104,
+      "views": 53062,
+      "bookmarks": 262
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报",
+    "why": "把实时语音大模型推进到可规模化外呼场景，直接影响客服、销售与诈骗防护边界，是 GPT 语音能力从演示走向业务工具的关键一步。",
+    "verify": "已核对 @gdb 原帖正文为「GPT-Live for outbound telephony」及产品链接；具体定价、可用地区与合规限制需点进所附链接核对，原帖未展开。"
+  },
+  {
+    "category": "Crypto",
+    "summary": "CZ 提醒：若曾把 API 密钥交给 SignalPlus（或其他第三方）用于别的交易所，应立即全部撤销；并称「一般不建议把 API key 存在任何第三方」；Deribit 亦已先报相关风险",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2118298620797812955",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 526,
+      "reposts": 60,
+      "replies": 161,
+      "views": 148437,
+      "bookmarks": 29
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报",
+    "why": "币安被盗余波下，头部人物点名第三方 API 托管风险，是当下最可执行的自保动作，也反映交易所生态对密钥托管信任正在重估。",
+    "verify": "已核对 CZ 原帖点名 SignalPlus，并写 Deribit 亦/先有报告；具体漏洞细节与影响面以 Deribit/SignalPlus 公告为准，本帖未附技术复盘。"
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph 引 Tom Lee：加密上涨因民主党中期后转而推动他们选前还反对的加密立法，「现在他们真想通过加密法案」",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118241989711811013",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 797,
+      "reposts": 106,
+      "replies": 61,
+      "views": 32004,
+      "bookmarks": 31
+    },
+    "tags": [
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "Crypto",
+    "summary": "XRP Ledger 已激活修复：堵住一个本可能允许未授权增发已发行代币（issued tokens）的漏洞",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118274700434342012",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 210,
+      "reposts": 23,
+      "replies": 58,
+      "views": 30230,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "网友称深圳社保交满 20 年刚退休，每月仅领 1989 元",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118282183379206153",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 296,
+      "reposts": 16,
+      "replies": 46,
+      "views": 73858,
+      "bookmarks": 64
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "B 站讲解成语「习焉不察」的视频播放约 13.5 万，弹幕与评论显示为 0，投稿者怀疑被禁评",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118272105917882746",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 110,
+      "reposts": 5,
+      "replies": 23,
+      "views": 19374,
+      "bookmarks": 11
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "厦门城市职业学院推「数字人民币进校园」：要求学生开通并绑定数币钱包充值；部分班会称后续将全面覆盖餐厅、超市、水电费等",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118287205596852308",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 65,
+      "reposts": 4,
+      "replies": 21,
+      "views": 16304,
+      "bookmarks": 13
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "《华尔街日报》中文网：中国叫停软银以约 54 亿美元收购 ABB 机器人业务的交易，意在锁定物理 AI 优势、防止高价值技术外流",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2118287763980132808",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 4,
+      "reposts": 0,
+      "replies": 3,
+      "views": 5920,
+      "bookmarks": 0
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "Visegrád 24 引《金融时报》：俄罗斯已同意向伊朗供应约 90 套类似其在乌克兰使用的导弹发射装置，媒体称掌握 2024–2025 生产计划",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2118289890941030728",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 267,
+      "reposts": 67,
+      "replies": 25,
+      "views": 19702,
+      "bookmarks": 12
+    },
+    "tags": [
+      "立场账号",
+      "待核实",
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "Disclose.tv：欧盟已向乌克兰拨付 43.6 亿欧元",
+    "author": "@disclosetv",
+    "url": "https://x.com/disclosetv/status/2118297448200155316",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 245,
+      "reposts": 80,
+      "replies": 49,
+      "views": 26898,
+      "bookmarks": 20
+    },
+    "tags": [
+      "立场账号"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "clashreport：特朗普顾问 James Blair 内部简报曾警告对伊战争严重损害共和党中期选情——开战期民主党民调优势扩大，停火期则收窄",
+    "author": "@clashreport",
+    "url": "https://x.com/clashreport/status/2118248311958163732",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 74,
+      "reposts": 23,
+      "replies": 3,
+      "views": 13972,
+      "bookmarks": 22
+    },
+    "tags": [
+      "待核实",
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "晚报"
   }
 ]

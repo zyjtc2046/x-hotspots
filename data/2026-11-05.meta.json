@@ -17,6 +17,13 @@
       "ok": 12,
       "failed": [],
       "note": "轻量午报；热度门槛约早报一半；search_posts_all×12 全部成功；与早报去重（中期席位细数、CZ resilient、币安被盗主线、泽连斯基三方会谈等不重复），仅保留实质新进展。"
+    },
+    "晚报": {
+      "window": "北京时间 2026-11-05 12:30 — 2026-11-05 19:30",
+      "queries": 12,
+      "ok": 12,
+      "failed": [],
+      "note": "轻量晚报；热度门槛约早报一半；search_posts_all×12 全部成功；与早报、午报去重（OpenAI Images/cyber、Massie弹劾 Hegseth、黄之锋10年、币安被盗主线、Trump Media 转 BTC 等不重复），仅保留实质新进展。"
     }
   }
 }
