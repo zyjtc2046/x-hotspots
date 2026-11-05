@@ -10,6 +10,13 @@
       "ok": 19,
       "failed": [],
       "note": "search_posts_all×19 全部成功；另用 search_news×1 与 get_users_posts 补齐指标。与 11-04 早/午/晚报去重（甲骨文-腾讯、Apple Intelligence、Crédit Mutuel、APEC 三方、币安被盗主线等不重复收录）。"
+    },
+    "午报": {
+      "window": "北京时间 2026-11-05 05:30 — 2026-11-05 12:30",
+      "queries": 12,
+      "ok": 12,
+      "failed": [],
+      "note": "轻量午报；热度门槛约早报一半；search_posts_all×12 全部成功；与早报去重（中期席位细数、CZ resilient、币安被盗主线、泽连斯基三方会谈等不重复），仅保留实质新进展。"
     }
   }
 }

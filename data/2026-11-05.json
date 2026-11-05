@@ -531,5 +531,260 @@
     "date": "2026-11-05",
     "edition": "早报",
     "extra_urls": []
+  },
+  {
+    "category": "国际形势",
+    "summary": "肯塔基州众议员 Thomas Massie 计划在国会复会下周启动对战争部长 Pete Hegseth 的弹劾表决；CNN 称多名共和党消息源认为该动议很可能通过",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118147997645279251",
+    "extra_urls": [
+      "https://x.com/spectatorindex/status/2118160983961252253",
+      "https://x.com/disclosetv/status/2118161977377694179"
+    ],
+    "metrics": {
+      "likes": 20146,
+      "reposts": 1037,
+      "replies": 297,
+      "views": 563280,
+      "bookmarks": 396
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "why": "中期惨败后，弹劾战争部长把「伊朗战争问责」从选举叙事推进到国会程序，可能牵动国防人事与对伊政策。",
+    "verify": "unusual_whales / Spectator Index / Disclose.tv 均引 CNN；「很可能通过」为 Disclose 所引 GOP 消息源说法，正式动议与票数尚未发生，需等国会复会后核验。",
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "AI",
+    "summary": "OpenAI：安全团队用即将推出的网络模型搭出自主漏洞发现—利用—补丁流水线；单次运行验证并生成 948 个 Linux 本地提权漏洞的利用与候选补丁，API 花费约 121 万美元（约 1279 美元/洞）",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2118119451401048497",
+    "extra_urls": [
+      "https://x.com/OpenAI/status/2118119459772862490",
+      "https://x.com/OpenAI/status/2118119461345739018"
+    ],
+    "metrics": {
+      "likes": 5662,
+      "reposts": 574,
+      "replies": 350,
+      "views": 730666,
+      "bookmarks": 1889
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "why": "官方首次用量化成本展示前沿模型可规模化发现并利用内核级漏洞，直接抬高「未打补丁主机≈对强对手等同 root」的安全底线。",
+    "verify": "已核对 OpenAI 官方线程：948 LPE、121 万美元、约 10 种据称新颖利用手法、与 Linux 维护者及 Patch the Planet 合作；独立第三方复现与 CVE 列表尚未在帖中给出。",
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "AI",
+    "summary": "OpenAI 发布 ChatGPT Images 2.6：支持生成/编辑 GIF、可复用参考图；API 同步上线 GPT-Image-2.6 Flare（最快约 6 秒）与 Sunburst（更高一致性，可 SVG 导出），称生成速度约快 50%",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2118124944928432327",
+    "extra_urls": [
+      "https://x.com/OpenAI/status/2118124953832935810",
+      "https://x.com/OpenAI/status/2118124964197114039"
+    ],
+    "metrics": {
+      "likes": 12942,
+      "reposts": 1182,
+      "replies": 688,
+      "views": 986320,
+      "bookmarks": 2562
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "AI",
+    "summary": "民主党众议员 Yassamin Ansari 称：民主党首日议程应包括暂停先进 AI 开发、监管失控行业，并禁止人工超级智能（ASI）",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118121190984495326",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1540,
+      "reposts": 148,
+      "replies": 259,
+      "views": 270864,
+      "bookmarks": 130
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "AI",
+    "summary": "Bloomberg：苹果下调内部员工 AI 使用预算，部分工程师日上限从 300 美元降至 200 美元，并考虑进一步砍到 100 美元；微软、麦肯锡等也有类似限流",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118110289556091280",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2118176549501284632"
+    ],
+    "metrics": {
+      "likes": 916,
+      "reposts": 65,
+      "replies": 100,
+      "views": 144267,
+      "bookmarks": 66
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph：Trump Media 向 Crypto.com 转移约 4259 枚比特币，价值约 3.437 亿美元；同期 whale_alert 亦监测到 Crypto.com 相关大额转出",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118180251268415522",
+    "extra_urls": [
+      "https://x.com/whale_alert/status/2118184844861567374"
+    ],
+    "metrics": {
+      "likes": 181,
+      "reposts": 16,
+      "replies": 46,
+      "views": 27025,
+      "bookmarks": 7
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "Crypto",
+    "summary": "Cointelegraph：Coinbase 在 Coinbase Prime 上线面向美国及其他合格地区机构的受监管全球期权与永续合约，美股与全球交易者共用同一流动性池",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118153827815727492",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 86,
+      "reposts": 11,
+      "replies": 34,
+      "views": 24509,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "香港高等法院以国安法「串谋勾结外国势力」罪再判黄之锋监禁 10 年；他已入狱近 6 年，新刑期部分与原刑期同期执行",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2118179607278919995",
+    "extra_urls": [
+      "https://x.com/bbcchinese/status/2118186015424700676",
+      "https://x.com/AP/status/2118184328693711005",
+      "https://x.com/Reuters/status/2118182311178977332"
+    ],
+    "metrics": {
+      "likes": 266,
+      "reposts": 155,
+      "replies": 47,
+      "views": 68071,
+      "bookmarks": 29
+    },
+    "tags": [
+      "值得收藏"
+    ],
+    "why": "香港民主运动标志性人物再获重刑，是国安法落地后的又一次长期监禁信号，国际舆论与中英港政策辩论都会跟进。",
+    "verify": "BBC / AP / Reuters / BBC中文多方一致报道 10 年刑期；细目（与「47 人案」刑期如何并罚）以法院摘要为准，中文媒体称其中约 2 个月 2 日同期执行。",
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "日本三丽鸥 Hello Kitty 因与日剧《别班》联名被中国官媒及网友指「辱华」后终止合作并致歉；仍有网友脱粉并展示销毁周边",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118166409226445022",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 558,
+      "reposts": 43,
+      "replies": 40,
+      "views": 46196,
+      "bookmarks": 31
+    },
+    "tags": [
+      "立场账号"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "国内形势",
+    "summary": "网友发现 B 站视频《川普想第三次当总统，宪法拦得住吗？》播放约 7.9 万时评论区与弹幕显示为 0，怀疑因「影射修宪」被处理",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118181508905353355",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 238,
+      "reposts": 9,
+      "replies": 16,
+      "views": 19490,
+      "bookmarks": 17
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "KobeissiLetter 引 Axios：特朗普政府与美军正完成可能重启对伊朗「重大」作战行动的准备，包括向中东增派资产；副总统万斯亦被提及",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2118179324050260254",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2519,
+      "reposts": 226,
+      "replies": 158,
+      "views": 249353,
+      "bookmarks": 261
+    },
+    "tags": [
+      "待核实",
+      "值得收藏"
+    ],
+    "why": "中期刚因伊朗战争惨败，若真重启「重大」作战，将再次冲击油价、美债与选举后政治和解空间。",
+    "verify": "帖文明确标注 per Axios，线程在结果中被截断；尚未在本轮检索到 Axios 原文链接，作战规模与时间表待对照 Axios 报道。",
+    "date": "2026-11-05",
+    "edition": "午报"
+  },
+  {
+    "category": "国际形势",
+    "summary": "加州选民似已否决对净资产超 10 亿美元个人与信托一次性征收 5% 税、并将所得用于医保食品援助与教育的提案（unusual_whales 引《纽约时报》）",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118185908088480080",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 742,
+      "reposts": 51,
+      "replies": 74,
+      "views": 144080,
+      "bookmarks": 38
+    },
+    "tags": [
+      "价值观察"
+    ],
+    "date": "2026-11-05",
+    "edition": "午报"
   }
 ]
