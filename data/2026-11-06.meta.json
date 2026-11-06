@@ -16,6 +16,13 @@
       "ok": 12,
       "failed": [],
       "note": "轻量午报；热度门槛约早报一半（heat≈likes+2*reposts+0.5*bookmarks，约≥80，立场/价值观察放宽）；search_posts_all×12 全部成功；与早报去重（美股暴跌主线、GPT-6 Cyber、Claude Finance、巴拉圭总统、黄之锋10年、马兴瑞公诉、结婚登记等不重复），仅保留实质新进展。"
+    },
+    "晚报": {
+      "window": "北京时间 2026-11-06 12:30 — 2026-11-06 19:30",
+      "queries": 12,
+      "ok": 12,
+      "failed": [],
+      "note": "轻量晚报；热度门槛约早报一半（heat≈likes+2*reposts+0.5*bookmarks，约≥80，立场/价值观察放宽）；search_posts_all×12 全部成功；与早报+午报去重（美股暴跌主线、Warren银行委员会、白宫怪选民、Massie/Epstein、WSJ撤销对加关税、Anthropic IPO估值、特拉华AI公司、dotey Anthropic离职、日股跌、柴油库存、CZ更新iOS、小红书拼多多、白衣逆行者、GPT-6 Cyber、Claude Finance、巴拉圭、黄之锋主判决、马兴瑞公诉、结婚登记等不重复），仅保留实质新进展。"
     }
   }
 }

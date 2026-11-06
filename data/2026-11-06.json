@@ -786,5 +786,235 @@
       "立场账号",
       "待核实"
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "WatcherGuru：韩国加密交易所 Gopax 因遭遇黑客威胁暂停提现",
+    "author": "@WatcherGuru",
+    "url": "https://x.com/WatcherGuru/status/2118651788949630989",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1763,
+      "reposts": 256,
+      "replies": 184,
+      "views": 204112,
+      "bookmarks": 73
+    },
+    "why": "中期后加密大跌窗口内又现交易所安全事件，直接冲击韩元稳定币与本地出入金通道。",
+    "verify": "快讯级账号；是否已确认入侵、损失规模与监管介入未在帖内展开，需对照 Gopax 官方公告与韩国金融当局通报。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "FT：特斯拉将砍掉 Cybertruck，马斯克重心转向机器人与 AI",
+    "author": "@FT",
+    "url": "https://x.com/FT/status/2118645111047290914",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 105,
+      "reposts": 35,
+      "replies": 24,
+      "views": 30409,
+      "bookmarks": 12
+    },
+    "why": "美股 AI/科技抛售后，特斯拉产品线收缩与「机器人+AI」叙事再定价，是本周情绪从汽车转向算力的关键信号。",
+    "verify": "FT 正刊标题；具体停产时间表、库存处理与官方确认以特斯拉声明为准，勿把媒体标题直接当最终决策。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "多源：中国央行就 Solana 在上海陆家嘴投放加密广告启动调查，称相关推广违反监管规定，并将追查与境外发行/交易平台有关的境内主体；WatcherGuru / Cointelegraph / WuBlockchain 同步",
+    "author": "@WatcherGuru",
+    "url": "https://x.com/WatcherGuru/status/2118648841444675864",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2118651634028851370",
+      "https://x.com/WuBlockchain/status/2118647666091692354"
+    ],
+    "metrics": {
+      "likes": 1359,
+      "reposts": 132,
+      "replies": 185,
+      "views": 205226,
+      "bookmarks": 71
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "CZ：提醒尽快修复已潜伏约十年的 Alpine Linux OpenSSH 安全漏洞",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2118613991752929700",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1268,
+      "reposts": 97,
+      "replies": 256,
+      "views": 325457,
+      "bookmarks": 125
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "unusual_whales 引 FT：美国议员就「中国间谍担忧」传唤英伟达 CEO 黄仁勋",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118664189128421733",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 138,
+      "reposts": 15,
+      "replies": 35,
+      "views": 40623,
+      "bookmarks": 5
+    },
+    "verify": "转述 FT；听证会时间、具体委员会与是否正式传票未在帖内给出。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "Disclose.tv：有报道称美国正考虑于周一（新月利于军事行动）对伊朗重启打击",
+    "author": "@disclosetv",
+    "url": "https://x.com/disclosetv/status/2118661654070083841",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2118625433856139369",
+      "https://x.com/FT/status/2118577463194193968"
+    ],
+    "metrics": {
+      "likes": 287,
+      "reposts": 39,
+      "replies": 25,
+      "views": 27420,
+      "bookmarks": 27
+    },
+    "verify": "立场账号转述「reportedly」；对照同窗口 Polymarket 普京会晤伊朗安全官员、FT 伊朗对特朗普中期失利表态等，属战事情报向传闻，未核五角大楼/白宫原文。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "Polymarket：日本要求俄罗斯撤销对日资烟草公司资产的扣押，两国紧张升级",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118589698260062357",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 591,
+      "reposts": 47,
+      "replies": 28,
+      "views": 44681,
+      "bookmarks": 46
+    },
+    "verify": "聚合快讯；具体公司名称与日方外交照会原文未核。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "Polymarket：英格兰银行警告英国通胀明年或冲至 4.9%，为 2023 年以来最高水平",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118634745168904467",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 319,
+      "reposts": 38,
+      "replies": 35,
+      "views": 24976,
+      "bookmarks": 8
+    },
+    "verify": "快讯级；以英央行最新货币政策报告/新闻稿数字为准。"
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "BBC 中文：澳门完成史上首宗国安审判，民主派领袖区锦新因「颠覆国家政权」等罪被判囚 12 年 6 个月",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2118659672878297323",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 29,
+      "reposts": 4,
+      "replies": 1,
+      "views": 4871,
+      "bookmarks": 1
+    },
+    "why": "澳门国安法落地后首例重判，是港澳司法叙事的新节点。",
+    "verify": "BBC 中文报道；刑期与罪名以澳门初级法院判决书为准。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "李老师：官媒称「中国游客赴日热情降至冰点」并列航班取消数据，评论区网友反驳「是取消了才不去的，不是不去了才取消的」",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118634493460308117",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2118624427210584572",
+      "https://x.com/whyyoutouzhele/status/2118639526629540087"
+    ],
+    "metrics": {
+      "likes": 310,
+      "reposts": 11,
+      "replies": 27,
+      "views": 33883,
+      "bookmarks": 33
+    },
+    "verify": "立场账号转述官媒与社媒评论；同窗口还跟进「欢乐爱家」兑付违约聚集，未独立核验航班/兑付官方数据。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@dotey：把「提交 PR 必须带功能截图」的旧管理经验套到 AI Agent——强制 Agent 自测截图后再交付，收藏很高",
+    "author": "@dotey",
+    "url": "https://x.com/dotey/status/2118569598379229219",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 194,
+      "reposts": 12,
+      "replies": 129,
+      "views": 28682,
+      "bookmarks": 175
+    },
+    "why": "中文圈高收藏实操帖，直接对应 Agent 编码质量与人工验收流程。",
+    "verify": "个人方法论分享，非厂商官方最佳实践。",
+    "tags": [
+      "值得收藏",
+      "价值观察"
+    ]
   }
 ]
