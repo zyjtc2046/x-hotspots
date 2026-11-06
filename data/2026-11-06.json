@@ -519,5 +519,272 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "多源称长期批评加密的参议员 Elizabeth Warren 有望出任参议院银行委员会主席，掌握金融业与加密监管关键权力；WatcherGuru / Cointelegraph / WSJ / Polymarket 同步",
+    "author": "@WatcherGuru",
+    "url": "https://x.com/WatcherGuru/status/2118540678733103324",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2118543348067623379",
+      "https://x.com/WSJ/status/2118525032024395876",
+      "https://x.com/Polymarket/status/2118533900888940934",
+      "https://x.com/WuBlockchain/status/2118549849633440234"
+    ],
+    "metrics": {
+      "likes": 2041,
+      "reposts": 262,
+      "replies": 614,
+      "views": 253555,
+      "bookmarks": 208
+    },
+    "why": "民主党拿下参众后，对加密与华尔街最强硬的批评者之一可能掌管银行委员会，直接改写未来两年立法与调查议程。",
+    "verify": "对照 @WSJ 正刊、@Cointelegraph、@Polymarket、@WuBlockchain；主席最终人选仍待民主党党团确认，属预期性报道。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "白宫账号转发特朗普长文：称股市因选举结果遭遇「史上最差交易日之一」，并指责选民「只能怪自己」；Disclose.tv 同步「You only have yourselves to blame」短视频",
+    "author": "@WhiteHouse",
+    "url": "https://x.com/WhiteHouse/status/2118483837281771884",
+    "extra_urls": [
+      "https://x.com/disclosetv/status/2118495146220335108"
+    ],
+    "metrics": {
+      "likes": 27046,
+      "reposts": 5664,
+      "replies": 3867,
+      "views": 1164312,
+      "bookmarks": 1044
+    },
+    "why": "中期惨败后白宫把股灾政治化，是后续关税、AI 监管与内阁人事博弈的舆论开场。",
+    "verify": "白宫官方账号原文；具体涨跌幅以交易所数据为准，归因属政治表态。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "众议员 Thomas Massie 发帖质疑 F-35 是否短暂低空飞过华盛顿 Epstein 记者会并盖过幸存者发言；同窗口 Disclose.tv 称其下周将召集 218 人联署强制表决 Epstein Files Transparency Act II",
+    "author": "@RepThomasMassie",
+    "url": "https://x.com/RepThomasMassie/status/2118534226685698433",
+    "extra_urls": [
+      "https://x.com/disclosetv/status/2118463480621662210"
+    ],
+    "metrics": {
+      "likes": 15749,
+      "reposts": 1783,
+      "replies": 733,
+      "views": 619999,
+      "bookmarks": 704
+    },
+    "why": "中期后国会复会前，Epstein 档案强制表决与军方象征性动作同时升温，牵动两党公开压力。",
+    "verify": "Massie 本人提问式帖文，未附官方航迹或国防部说明；联署进展以国会记录为准。Disclose.tv 为立场账号。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "WSJ 独家：民主党拟将撤销特朗普对加拿大关税作为回滚其关税议程的第一步；Cointelegraph 同步",
+    "author": "@WSJ",
+    "url": "https://x.com/WSJ/status/2118524609506975944",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2118549102153609536",
+      "https://x.com/ChineseWSJ/status/2118553984038236389"
+    ],
+    "metrics": {
+      "likes": 1636,
+      "reposts": 373,
+      "replies": 83,
+      "views": 140879,
+      "bookmarks": 100
+    },
+    "why": "中期后贸易政策最早可落地的测试点，直接影响加美供应链与美元资产风险偏好。",
+    "verify": "WSJ Exclusive；立法路径与能否过总统否决尚未明确。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "unusual_whales 引 WSJ：多家拟参与 Anthropic IPO 的大投资者称 1.5 万亿美元估值需下调，有人估「更接近」更低区间；Cointelegraph / 华尔街日报中文网同步",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2118526532146651191",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2118516393494659217",
+      "https://x.com/ChineseWSJ/status/2118523784911065354",
+      "https://x.com/Reuters/status/2118536362756378716"
+    ],
+    "metrics": {
+      "likes": 992,
+      "reposts": 86,
+      "replies": 68,
+      "views": 179151,
+      "bookmarks": 109
+    },
+    "why": "美股 AI 杀跌后，下一只超大盘 AI IPO 的定价锚开始松动，是情绪从「叙事」转向「估值」的信号。",
+    "verify": "转述 WSJ 知情人士口径；正式招股文件与最终估值未披露。",
+    "tags": [
+      "待核实",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "Polymarket：特拉华州拟创设一种完全由 AI 运营的新型公司，人类所有者在多数情形下可对 AI 行为免责",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118526261865943188",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 651,
+      "reposts": 83,
+      "replies": 93,
+      "views": 61641,
+      "bookmarks": 138
+    },
+    "why": "若属实，将把「AI 主体」写进公司法试验田，牵动责任归属与治理辩论。",
+    "verify": "聚合快讯，未核对州议会草案或官方稿；标待核实。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "@dotey 编译：Anthropic 工程师 Thariq Shihipar 停用公司邮箱数小时内离职消息在 X 传开——有人盯邮箱失效、有人在共用 Slack 发现；其本想安静歇一阵却被挖角盯上",
+    "author": "@dotey",
+    "url": "https://x.com/dotey/status/2118471688866213999",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 196,
+      "reposts": 28,
+      "replies": 57,
+      "views": 38508,
+      "bookmarks": 221
+    },
+    "why": "中文圈高收藏人事侧写，折射前沿实验室人才流动与信息泄漏速度。",
+    "verify": "翻译/转述当事人访谈向内容，非 Anthropic 官方声明。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "Spectator Index：日本股市下跌逾 6%，追随华尔街 AI/科技抛售；FT 亦报道亚洲科技股下挫",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2118556198140297704",
+    "extra_urls": [
+      "https://x.com/FT/status/2118539530101829749",
+      "https://x.com/ChineseWSJ/status/2118528149415682374"
+    ],
+    "metrics": {
+      "likes": 470,
+      "reposts": 49,
+      "replies": 14,
+      "views": 50609,
+      "bookmarks": 15
+    },
+    "why": "美股中期后首个完整交易日的亚洲传染，检验 AI 监管定价是否全球化。",
+    "verify": "快讯级；具体指数点位建议对照交易所收盘数据。"
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "Kobeissi Letter：美国柴油库存上周再降 360 万桶至 9930 万桶，为 2003 年 5 月以来最低；今年以来馏分油库存累计降约 25%",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2118536096623571052",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 709,
+      "reposts": 87,
+      "replies": 51,
+      "views": 107266,
+      "bookmarks": 64
+    },
+    "why": "能源库存紧张与政治周期叠加，可能重新抬升通胀与联储预期波动。",
+    "verify": "对照 EIA 周报数字为宜；帖内还提及 SPR，细节未逐条核原文。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "CZ：提醒尽快更新 iOS，尤其长时间未更新的用户；称「没有钱包软件能替你更新系统，自托管就是自负责任」",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2118534211854626833",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 947,
+      "reposts": 111,
+      "replies": 292,
+      "views": 197331,
+      "bookmarks": 108
+    },
+    "why": "大号安全提醒，契合近期盗币与设备侧攻击讨论。",
+    "verify": "本人原帖；具体漏洞编号未在帖内展开。"
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "李老师：小红书帖「拼多多温柔地保护了很多人的自尊」走红，举例家长买瑜伽垫在医院陪护、622 天后追评女儿病情稳定等买家故事",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118513697631211557",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 692,
+      "reposts": 49,
+      "replies": 70,
+      "views": 105783,
+      "bookmarks": 141
+    },
+    "why": "高浏览社会情绪样本，折射医疗陪护成本与下沉消费叙事。",
+    "verify": "立场账号转述社交媒体内容，未逐条核实买家身份。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "李老师：新冠题材电影《白衣逆行者》宣布撤档，原定 11 月 6 日上映；中影数字电影发展公司通知称具体档期另行通知",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118533830139326625",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 296,
+      "reposts": 22,
+      "replies": 72,
+      "views": 58008,
+      "bookmarks": 28
+    },
+    "why": "疫情叙事作品上映受阻，是内容审查与公共记忆边界的即时信号。",
+    "verify": "转述中影通知截图；官方完整公告文号未独立核验。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
   }
 ]
