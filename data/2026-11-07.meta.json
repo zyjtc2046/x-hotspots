@@ -10,6 +10,13 @@
       "ok": 18,
       "failed": [],
       "note": "大号组合8+关键词8+机动2；全部成功。与昨日早/午/晚报去重（美股暴跌主线、Rubio辞职传闻、GPT-6 Cyber、Claude Finance、巴拉圭、希腊加密税、BTC破7.6万、黄之锋主判决、马兴瑞、H200滞港、结婚登记、Warren银行委、Anthropic估值下调初报、Cybertruck、Gopax、Solana陆家嘴、澳门国安审判、伊朗打击传闻等不重复），仅收窗口内新进展。"
+    },
+    "午报": {
+      "window": "北京时间 2026-11-07 05:30 — 2026-11-07 12:30（UTC 2026-11-06T21:30:00Z — 2026-11-07T04:30:00Z）",
+      "queries": 12,
+      "ok": 12,
+      "failed": [],
+      "note": "轻量午报；热度门槛约≥80（立场/价值观察放宽）；search_posts_all×12 全部成功；与早报去重（Stephen Miller、美伊对话、众院调查Grok/马杜罗、期权纪录、亚利桑那三连控、欧委会移民名单、以军黎巴嫩攻势、微软停租Oracle、数据中心州长停建、BioBasicsBench、Anthropic做梦记忆、DeepMind RSA、OpenAI网安框架、Anthropic IPO估值、OpenAI融资110亿、FinCEN切断MEXC、Nubank/Mercado Pago、俄央行零售加密限额、尼日利亚稳定币牌照、黄之锋十国声明、沛县学生被打、意大利侨界调查、台关闭巴新代表处、医院翻墙监测、美中贸易通话等不重复），仅保留实质新进展。"
     }
   }
 }

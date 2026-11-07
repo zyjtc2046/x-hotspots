@@ -521,5 +521,263 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "FT：美方据信英伟达 CEO 黄仁勋曾与涉嫌为中国从事间谍活动的女子有恋爱关系；情报备忘录指其被国安部门招募搜集黄的信息；多账号同步",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2118905468311756933",
+    "extra_urls": [
+      "https://x.com/FT/status/2118897600921215250",
+      "https://x.com/WatcherGuru/status/2118902136096379063",
+      "https://x.com/business/status/2118910077532827919",
+      "https://x.com/whyyoutouzhele/status/2118921383862476881"
+    ],
+    "metrics": {
+      "likes": 4054,
+      "reposts": 333,
+      "replies": 114,
+      "views": 378552,
+      "bookmarks": 371
+    },
+    "why": "AI 算力龙头核心人物卷入中美情报叙事，可能牵动出口管制、董事会审查与供应链政治风险定价。",
+    "verify": "对照 @FT 原文、@business 引纽约时报、@WatcherGuru；属情报备忘录转述，黄仁勋/英伟达官方回应待核。",
+    "tags": [
+      "待核实",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "Ethan Mollick 转 Anthropic 新数据：若广泛采用当前能力，AI 可承担各学科产出新研究所需研究者时间的约 27%–52%，中位数约 38%",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2118859591798980657",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 254,
+      "reposts": 29,
+      "replies": 106,
+      "views": 20244,
+      "bookmarks": 120
+    },
+    "why": "把「AI 科研替代率」拆到分学科时间占比，是评估实验室/基金/期刊流程冲击的可引用量化口径。",
+    "verify": "转述 Anthropic 研究；具体字段与方法以 Anthropic 原文为准。",
+    "tags": [
+      "价值观察",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "Polymarket：民主党众议员 Greg Casar 呼吁禁止 AI「递归自我改进」（recursive self-improvement）",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118898986165960747",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 200,
+      "reposts": 20,
+      "replies": 71,
+      "views": 31101,
+      "bookmarks": 24
+    },
+    "verify": "国会动议/法案文本未核对；属中期后民主党加强对 AI 能力边界立法信号。",
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "CFTC 主席据报要求受监管美国衍生品交易所停止按州限制用户准入；称地理封锁违反《商品交易法》公平准入，交易所 30 天内取消或说明理由",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118825979099410775",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 222,
+      "reposts": 62,
+      "replies": 37,
+      "views": 35484,
+      "bookmarks": 11
+    },
+    "why": "联邦衍生品监管直接挑战州级加密/预测市场封锁，影响 Polymarket 类产品与交易所合规边界。",
+    "verify": "Cointelegraph 报道；以 CFTC 通知原文与 30 天期限为准。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "WuBlockchain：Binance France 据报未能获欧盟 MiCA 授权，将于 2026-12-31 关闭客户账户；11-29 起收月费，存款已受限",
+    "author": "@WuBlockchain",
+    "url": "https://x.com/WuBlockchain/status/2118871211363238328",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 85,
+      "reposts": 14,
+      "replies": 37,
+      "views": 41667,
+      "bookmarks": 7
+    },
+    "verify": "转述 Cryptoast；以币安法国官方通知与监管批复为准。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "Visegrád 24：乌克兰远程无人机据报袭击俄萨拉托夫炼油厂并起火；称 8 天内已打击 7 座俄炼油设施",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2118901933540859906",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 835,
+      "reposts": 138,
+      "replies": 23,
+      "views": 23790,
+      "bookmarks": 29
+    },
+    "why": "能源设施连打击中俄炼化与油价预期，与窗口内油价/美伊局势联动。",
+    "verify": "立场账号；未核对乌方总参或俄方官方通报。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "Polymarket：特朗普承认对民主党中期选举表现感到意外，称「但人生就是这样」",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2118892191372411211",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 644,
+      "reposts": 37,
+      "replies": 50,
+      "views": 41277,
+      "bookmarks": 20
+    },
+    "verify": "对照其公开表态原文；属中期后态度表态，非新政策。",
+    "tags": []
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "Visegrád 24：德国警方据报禁止伊朗前王储礼萨·巴列维在法兰克福大型反伊斯兰政权集会上演讲，称因政权暴力威胁无法保证安全",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2118890202517131357",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 603,
+      "reposts": 183,
+      "replies": 35,
+      "views": 20162,
+      "bookmarks": 27
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透：塔斯尼姆通讯社称两枚导弹击中伊朗格什姆岛（Qeshm Island）",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2118908840007635443",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 28,
+      "reposts": 11,
+      "replies": 7,
+      "views": 37432,
+      "bookmarks": 6
+    },
+    "verify": "路透转述伊朗半官方媒体；美伊对话传闻与局部打击信号并存，待官方确认。",
+    "tags": [
+      "待核实",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "李老师：抖音多位北京网友晒人大代表选民证；评论指历次独立/自荐参选人遭国保骚扰威胁，质疑「全过程民主」",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118878604146991233",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2118923070316687423",
+      "https://x.com/whyyoutouzhele/status/2118848406319964163"
+    ],
+    "metrics": {
+      "likes": 745,
+      "reposts": 52,
+      "replies": 105,
+      "views": 111239,
+      "bookmarks": 101
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "李老师/VOA：台湾无党籍立委高金素梅及其办公室主任据报因涉违反国安法等被起诉，检方分别求刑约 14 年、15 年",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118871052138979487",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2118841012714123468"
+    ],
+    "metrics": {
+      "likes": 203,
+      "reposts": 15,
+      "replies": 29,
+      "views": 24793,
+      "bookmarks": 15
+    },
+    "verify": "对照 @VOAChinese；以台湾高等检察署起诉书为准。",
+    "tags": [
+      "立场账号",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "李老师：中国移动在移动网络大会展示「通话防诈」方案，据报含通话过程部分监听并插入反诈语音提醒",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118916356963697137",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 57,
+      "reposts": 5,
+      "replies": 14,
+      "views": 9937,
+      "bookmarks": 22
+    },
+    "verify": "网民/博主转述展会展示；产品是否商用、法律依据以运营商与监管文本为准。",
+    "tags": [
+      "立场账号",
+      "价值观察"
+    ]
   }
 ]
