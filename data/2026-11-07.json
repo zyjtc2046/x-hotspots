@@ -779,5 +779,233 @@
       "立场账号",
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "NBC：特朗普据报正面临压力，要在民主党 1 月接掌国会前恢复对伊朗的大规模军事行动；顾问意见分歧，尚未最终拍板",
+    "author": "@clashreport",
+    "url": "https://x.com/clashreport/status/2119004431094260112",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 85,
+      "reposts": 15,
+      "replies": 10,
+      "views": 9289,
+      "bookmarks": 9
+    },
+    "why": "与早报「美伊对话、接近停战协议」的信号相反，若重启打击，原油、美股与中东局势都会再起波动。",
+    "verify": "Clash Report 转述 NBC News，尚无白宫或五角大楼表态；同窗口特朗普称对伊对抗只是「小规模军事行动」。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "伊朗海军称一艘油轮在霍尔木兹海峡以东触雷起火、失去动力",
+    "author": "@clashreport",
+    "url": "https://x.com/clashreport/status/2119009463336067469",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 142,
+      "reposts": 19,
+      "replies": 5,
+      "views": 11144,
+      "bookmarks": 5
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "泽连斯基接受 CNN 专访：美国对普京的措辞和援乌力度越强，普京越会掂量是否继续进攻；「不能一边说他好话一边结束战争」",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2119012190929703358",
+    "extra_urls": [
+      "https://x.com/ZelenskyyUa/status/2119013521413345283"
+    ],
+    "metrics": {
+      "likes": 2119,
+      "reposts": 420,
+      "replies": 226,
+      "views": 73245,
+      "bookmarks": 36
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "WatcherGuru：美方据报曾批准向「办公室空置、背景可疑」的中国公司出售英伟达芯片；Cointelegraph 称选后国会正推动更严出口管制",
+    "author": "@WatcherGuru",
+    "url": "https://x.com/WatcherGuru/status/2119024746201583678",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2119025482830155787"
+    ],
+    "metrics": {
+      "likes": 643,
+      "reposts": 68,
+      "replies": 80,
+      "views": 125690,
+      "bookmarks": 30
+    },
+    "why": "接在午报黄仁勋涉谍报道之后，英伟达对华销售可能成为新国会的调查重点，直接影响 NVDA 和 AI 芯片出口政策。",
+    "verify": "目前只有 WatcherGuru 一句快讯，未附原始报道出处；Cointelegraph 只确认了国会施压的大方向。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "有人做 Claude 代 KYC 生意：跑到印尼西部村庄线下找当地人当面做身份验证注册 Claude 账号，现金结算；收藏数很高",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2118978587265290558",
+    "extra_urls": [
+      "https://x.com/MaxForAI/status/2118984378886041746"
+    ],
+    "metrics": {
+      "likes": 1508,
+      "reposts": 70,
+      "replies": 209,
+      "views": 191164,
+      "bookmarks": 396
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "马斯克：Cybertruck 还会再生产 8–9 个月，之后特斯拉要集中精力量产 Cybercab（对昨日 FT「砍掉 Cybertruck」的补充）",
+    "author": "@elonmusk",
+    "url": "https://x.com/elonmusk/status/2118949190713889136",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 7529,
+      "reposts": 466,
+      "replies": 780,
+      "views": 237746,
+      "bookmarks": 301
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "网友称在淘宝 App 私有目录发现约 5 亿参数的 Qwen2 端侧模型，用手机 GPU 推测购后需求做推荐；淘宝 RecGPT-Mobile 论文介绍过类似方案，引发知情同意争议",
+    "author": "@MaxForAI",
+    "url": "https://x.com/MaxForAI/status/2119013460277367041",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 40,
+      "reposts": 4,
+      "replies": 19,
+      "views": 7298,
+      "bookmarks": 17
+    },
+    "tags": [
+      "待核实",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "马斯克回复 CZ：网传的一段「马斯克言论」是捏造的，他从没写过；CZ 此前也斥其传播假消息",
+    "author": "@elonmusk",
+    "url": "https://x.com/elonmusk/status/2118967587069673914",
+    "extra_urls": [
+      "https://x.com/cz_binance/status/2118954119134359767"
+    ],
+    "metrics": {
+      "likes": 6267,
+      "reposts": 237,
+      "replies": 488,
+      "views": 335876,
+      "bookmarks": 121
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "Keplr 钱包称部分通过 Google/Apple 登录创建的账户出现未授权交易，正调查 Web3Auth 安全问题",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2118992093418868959",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 115,
+      "reposts": 16,
+      "replies": 62,
+      "views": 33180,
+      "bookmarks": 4
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "美国财政部制裁 8 家加拿大货币服务公司，指其涉伊朗相关加密交易，并悬赏最高 2000 万美元征集伊朗核计划情报",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2119027246274957621",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 18,
+      "reposts": 3,
+      "replies": 8,
+      "views": 20131,
+      "bookmarks": 0
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "据自由亚洲电台，维吾尔族女孩热伊莱·吾马尔 14 岁被送再教育营、18 岁被判 12 年，23 岁死于新疆监狱",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2118971715598598472",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1318,
+      "reposts": 203,
+      "replies": 182,
+      "views": 121577,
+      "bookmarks": 184
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "中纪委通报国家中医药管理局原局长余艳红主动投案，该局连续两任局长落马；同日人大公告 4 名解放军少将辞去全国人大代表",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2119017014140256627",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2119011980925104303"
+    ],
+    "metrics": {
+      "likes": 60,
+      "reposts": 2,
+      "replies": 12,
+      "views": 11008,
+      "bookmarks": 13
+    },
+    "tags": [
+      "立场账号"
+    ]
   }
 ]
