@@ -765,5 +765,228 @@
    "views": 35882,
    "bookmarks": 1
   }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "美国各地地方投票中，41 场限制或禁止新建 AI 数据中心的选票有 40 场获得通过",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119310950771675500",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2366,
+   "reposts": 194,
+   "replies": 145,
+   "views": 147707,
+   "bookmarks": 165
+  },
+  "why": "数据中心落地开始在地方选举里被系统性否决，比联邦监管更直接地卡住算力扩张，也会影响电价、选址和相关科技股预期。",
+  "verify": "目前只有 Polymarket 快讯给出「41 场中 40 场」这一数字，未见路透、美联社或地方选举委员会的完整清单；具体是哪些市镇、约束力度是限制还是禁止，都还有待核对。",
+  "tags": [
+   "待核实"
+  ],
+  "top": true
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "沙特能源部称，利雅得阿美总部大楼被拦截后的坠落残骸击中受损；也门胡塞武装再次袭击利雅得金融区地标",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119374388361416750",
+  "extra_urls": [
+   "https://x.com/WSJ/status/2119384427906105639",
+   "https://x.com/MarioNawfal/status/2119379772459327510"
+  ],
+  "metrics": {
+   "likes": 89,
+   "reposts": 14,
+   "replies": 20,
+   "views": 55992,
+   "bookmarks": 4
+  },
+  "why": "胡塞把空袭打到沙特首都的金融区和能源地标，又赶上美伊对峙、霍尔木兹附近船只频频出事，原油和海湾安全都会再紧一档。",
+  "verify": "路透引沙特能源部确认阿美大楼被残骸击中；《华尔街日报》独立报道有投射物击中利雅得金融区高楼、胡塞再次以利雅得为目标。MarioNawfal 补充称沙特拦截了两枚胡塞导弹后残骸砸中大楼，这一拦截细节未出现在路透这条快讯里。",
+  "top": true
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "柏林示威者游行，要求德国停止向以色列出口武器",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119358514342580349",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 927,
+   "reposts": 93,
+   "replies": 32,
+   "views": 30189,
+   "bookmarks": 17
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "视频显示霍尔木兹海峡多艘油轮起火，伊朗称这些船违反了海上交通规定；另有一艘正在驶出海峡的油轮被不明投射物击中，无人受伤",
+  "author": "@MarioNawfal",
+  "url": "https://x.com/MarioNawfal/status/2119384435703398676",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2119382583016571130"
+  ],
+  "metrics": {
+   "likes": 60,
+   "reposts": 19,
+   "replies": 7,
+   "views": 20428,
+   "bookmarks": 4
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "《金融时报》：Anthropic 达成 34 亿美元协议，为数据中心采购燃气发电",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2119389005724684372",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 17,
+   "reposts": 2,
+   "replies": 7,
+   "views": 9811,
+   "bookmarks": 2
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "lxfater 介绍开源项目 billion-context：架在 Claude Code、Codex 等编程 Agent 和模型 API 之间做上下文压缩，让模型自己管理长会话，而不是客户端一刀切摘要",
+  "author": "@lxfater",
+  "url": "https://x.com/lxfater/status/2119322847663309006",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 27,
+   "reposts": 2,
+   "replies": 33,
+   "views": 2955,
+   "bookmarks": 27
+  },
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "Cointelegraph 引 CryptoQuant：山寨币市值约蒸发 2000 亿美元，币安上市的山寨币中约 70% 跌破 200 日均线",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119294026910183792",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 266,
+   "reposts": 39,
+   "replies": 87,
+   "views": 39853,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "Glassnode 数据：Hyperliquid 上巨鲸对比特币的持仓在做了七个月多头后转为净空，空头规模为 2025 年 10 月以来最高",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119369578283229618",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 168,
+   "reposts": 17,
+   "replies": 61,
+   "views": 31283,
+   "bookmarks": 11
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "Lookonchain：疑与午报同一黑客地址，近 20 小时把 Tornado Cash 转出的 1,670 枚 ETH（约 373 万美元）打进 Hyperliquid，卖掉后买入 2,959 枚 ZEC",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2119369461614653617",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 176,
+   "reposts": 9,
+   "replies": 63,
+   "views": 41040,
+   "bookmarks": 5
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "《金融时报》：加密行业正准备为与特朗普的紧密捆绑「算总账」，中期选举后这一关系面临重新评估",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2119297814387630504",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 87,
+   "reposts": 23,
+   "replies": 6,
+   "views": 31695,
+   "bookmarks": 10
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "律师称 11 月 6 日在张家口中院开庭时带了水杯，审判长要求收起，律师以「法无禁止即自由」质疑没有法律依据后，法官叫来法警并宣布休庭",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119354241613750542",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 576,
+   "reposts": 35,
+   "replies": 63,
+   "views": 78956,
+   "bookmarks": 76
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "网友投稿：唐山八中女生张鑫桐在校身亡，校门口出现悼念鲜花；目前未见官方说明，其父亲在抖音发布的相关内容也陆续被清空",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119331586634109310",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 143,
+   "reposts": 11,
+   "replies": 17,
+   "views": 27662,
+   "bookmarks": 21
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
  }
 ]
