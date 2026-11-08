@@ -539,5 +539,231 @@
   "tags": [
    "价值观察"
   ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "以色列总统赫尔佐格给反对派领袖艾森科特 28 天组阁期限；以色列记者 Ben Caspit 称特朗普盟友正催促反对派尽快宣誓组阁、立即换掉内塔尼亚胡",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119212643403854326",
+  "extra_urls": [
+   "https://x.com/HormuzLetter/status/2119273656052498819"
+  ],
+  "metrics": {
+   "likes": 513,
+   "reposts": 30,
+   "replies": 12,
+   "views": 52289,
+   "bookmarks": 25
+  },
+  "why": "早报只说到艾森科特获授权组阁，现在有了明确期限，而且美方阵营公开倾向换人，内塔尼亚胡下台的可能性和时间表都更具体了。",
+  "verify": "28 天期限出自 Polymarket 快讯，与以色列组阁法定程序相符；「特朗普盟友催促」仅是以色列记者在 N12 的转述，白宫未表态。",
+  "tags": [
+   "待核实"
+  ],
+  "top": true
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "The Information：Meta 和微软正设法减少员工对 Anthropic Claude 的依赖，微软把内部 Claude 支出砍掉三分之一",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119263833772396822",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 66,
+   "reposts": 6,
+   "replies": 36,
+   "views": 23073,
+   "bookmarks": 5
+  },
+  "why": "大客户压缩 Claude 用量，正好赶在 Anthropic 本月 IPO 路演前，可能进一步压低估值预期，也说明企业开始认真算 AI 编程工具的账。",
+  "verify": "Cointelegraph 转述 The Information，原文付费墙，暂未看到微软、Meta 或 Anthropic 回应；此前已有报道称 Meta 下调工程师每日 Claude 额度。",
+  "top": true
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "CNN 称 UFC 总裁达纳·怀特已拒绝出任白宫新闻秘书；但 TMZ 称他周一仍将到椭圆办公室和特朗普面谈，两边说法矛盾。另一条百万浏览的高热帖调侃特朗普可能找错了人：前五角大楼首席发言人也叫 Dana White",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2119196670043033897",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2119195475412717721",
+   "https://x.com/HormuzLetter/status/2119220128382382356"
+  ],
+  "metrics": {
+   "likes": 6915,
+   "reposts": 234,
+   "replies": 194,
+   "views": 644226,
+   "bookmarks": 209
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "联邦法官下令纽约市马姆达尼政府向 ICE 移交收容所住户记录",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119272235177517272",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2034,
+   "reposts": 177,
+   "replies": 49,
+   "views": 84631,
+   "bookmarks": 93
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "一名法学教授让 Claude 帮忙更新讲义页码，午饭回来发现一整年的文件被误删，引发对 AI Agent 操作权限的热议",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119189475259494677",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2363,
+   "reposts": 121,
+   "replies": 168,
+   "views": 192393,
+   "bookmarks": 194
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "MaxForAI：DeepSeek 昨日服务中断恢复后，V4 Pro 疑似灰度升级到 V4.1，LobeHub 私有 Agent 评测通过率明显提升；官方尚未公告",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2119210965963362579",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 356,
+   "reposts": 16,
+   "replies": 58,
+   "views": 57262,
+   "bookmarks": 66
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "宝玉（@dotey）导读《纽约时报》Anthropic CEO Dario Amodei 长篇人物稿：采访二十多位同学同事，引用早年邮件和在 OpenAI 时的内部消息，赶在 Anthropic 上市前发布",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2119191652770226525",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 327,
+   "reposts": 45,
+   "replies": 81,
+   "views": 49073,
+   "bookmarks": 369
+  },
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "Lookonchain：新钱包从 Tornado Cash 收 3,100 ETH，换成 692 万 USDC 打进 Hyperliquid，开 20 倍多 BTC、20 倍空 ETH，各约 1,280 万美元，疑为黑客资金",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2119243679823212614",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 380,
+   "reposts": 27,
+   "replies": 108,
+   "views": 57052,
+   "bookmarks": 43
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "FinCEN 对 MEXC 出手后续：OKX 创始人徐明星建议用户暂时不要从 MEXC 直接转币到 OKX，OKX 已主动收紧相关风控",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2119229755748938137",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 155,
+   "reposts": 14,
+   "replies": 39,
+   "views": 15562,
+   "bookmarks": 13
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "网友投稿：江西省运会在萍乡举办花费上亿，银行、城投和纳税大户被摊派几十万到几百万赞助费，开幕式却主要是体制内人员观看",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119228155198083150",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 398,
+   "reposts": 19,
+   "replies": 34,
+   "views": 55298,
+   "bookmarks": 55
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "多名网友称 11 月 6 日北京部分基层人大代表换届投票时，选民在居委会现场领到现金补贴和生活物资",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119263649332416895",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 120,
+   "reposts": 4,
+   "replies": 29,
+   "views": 23195,
+   "bookmarks": 17
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "路透引日媒：因「间谍罪」在华服刑的安斯泰来制药日籍员工预计 12 月刑满获释",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119278888001863746",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 9,
+   "reposts": 3,
+   "replies": 2,
+   "views": 35882,
+   "bookmarks": 1
+  }
  }
 ]
