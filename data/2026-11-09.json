@@ -234,5 +234,256 @@
   "tags": [
    "价值观察"
   ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "黄仁勋事件继续发酵：英伟达美股盘前跌超 5%，当天市值蒸发约 2250 亿美元；中国外交部称「中国间谍」说法纯属捕风捉影、污蔑抹黑；Aletheia 把英伟达降到「持有」，高盛则维持买入、目标价 300 美元",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2119717185492775004",
+  "extra_urls": [
+   "https://x.com/KobeissiLetter/status/2119743299581772212",
+   "https://x.com/DeItaone/status/2119725608028488034",
+   "https://x.com/DeItaone/status/2119742319905644976"
+  ],
+  "metrics": {
+   "likes": 4121,
+   "reposts": 640,
+   "replies": 247,
+   "views": 332123,
+   "bookmarks": 261
+  },
+  "tags": [],
+  "top": true,
+  "why": "英伟达是 AI 算力的风向标，CEO 涉谍调查叠加中方否认，又赶上下周 APEC 中美元首会晤，可能拖累整个 AI 板块和中美芯片谈判。",
+  "verify": "盘前跌幅来自 Kobeissi 快讯，以美股正式开盘数据为准；中方否认有多家来源（DeItaone、外交部记者会转述）一致；评级调整是 DeItaone 快讯转述，未见研报原文。"
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "Coinbase 拿到美国货币监理署（OCC）的正式批准，临时牌照转为完整的全国性信托银行执照，可在美国提供联邦监管下的托管和支付服务",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2119732829668205009",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2119736512765964548",
+   "https://x.com/Cointelegraph/status/2119734382877368681"
+  ],
+  "metrics": {
+   "likes": 5649,
+   "reposts": 765,
+   "replies": 291,
+   "views": 290494,
+   "bookmarks": 284
+  },
+  "tags": [
+   "值得收藏"
+  ],
+  "top": true,
+  "why": "这是头部交易所首次拿到完整的联邦信托银行执照，加密机构正式进入美国银行监管体系，对托管业务和机构资金入场都是实质利好。",
+  "verify": "WatcherGuru、CoinDesk、Cointelegraph 三家同时报道，说法一致；OCC 官方公告和 Coinbase 官方声明还没在本轮搜索里看到。"
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "特朗普在《60分钟》说，他和司法部曾和「一家大型 AI 公司的领导人」闹到差点「送他进监狱」，原因是「用 AI 做了坏事」，但没有点名",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2119731656214839642",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2119753114588958996"
+  ],
+  "metrics": {
+   "likes": 3015,
+   "reposts": 198,
+   "replies": 180,
+   "views": 377703,
+   "bookmarks": 451
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "马斯克称 Cybertruck 订单远超产能，约 8 个月后停产前会尽量多造，但要给很多人退还定金（接前几日停产消息的新进展）",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2119691615774146614",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2119745717191192891"
+  ],
+  "metrics": {
+   "likes": 10165,
+   "reposts": 1072,
+   "replies": 1969,
+   "views": 1563958,
+   "bookmarks": 725
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "据报美伊在考虑一项 80 亿美元的交易：伊朗重开霍尔木兹海峡，换取释放资金；特朗普预计周一会见卡塔尔首相讨论。另有消息称伊朗提议两天内重启谈判，但美方拒绝了其前提条件",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2119752143246635145",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2119745564778901530"
+  ],
+  "metrics": {
+   "likes": 340,
+   "reposts": 79,
+   "replies": 53,
+   "views": 60100,
+   "bookmarks": 39
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "特朗普称和平协议后乌克兰边界「形状会有点不同」；克里姆林宫发言人佩斯科夫回应称乌克兰不会回到原有边界，并确认未来几天在阿布扎比举行美方斡旋的俄乌三方会谈、欧洲不参加",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119721154118045790",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2119749339799331005",
+   "https://x.com/SputnikInt/status/2119744082742313116"
+  ],
+  "metrics": {
+   "likes": 469,
+   "reposts": 45,
+   "replies": 28,
+   "views": 32977,
+   "bookmarks": 22
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "特朗普在《60分钟》承认自己是 World Liberty Financial 的共同所有人，但被问到阿联酋相关投资时称「一无所知」，说业务由儿子们打理",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2119741970491064453",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2119729140912009626"
+  ],
+  "metrics": {
+   "likes": 980,
+   "reposts": 84,
+   "replies": 155,
+   "views": 142095,
+   "bookmarks": 30
+  },
+  "tags": []
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "黑客组织 ShinyHunters 声称窃取币安 3.35 亿用户数据并索要 90 万美元，币安称调查后未发现入侵证据，认为这很可能是诈骗",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119729705016262662",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2119723700664910133"
+  ],
+  "metrics": {
+   "likes": 171,
+   "reposts": 18,
+   "replies": 32,
+   "views": 33023,
+   "bookmarks": 5
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "上周 BTC 现货 ETF 净流出 12.8 亿美元、ETH 净流出 3.65 亿美元；同时一个沉睡两年多的钱包 3 小时内从币安提走 34,601 枚 ETH（约 7375 万美元）",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119686687013978303",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2119682638541959343"
+  ],
+  "metrics": {
+   "likes": 142,
+   "reposts": 28,
+   "replies": 63,
+   "views": 35658,
+   "bookmarks": 6
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "山西太原迎泽区豪生国际公寓火灾死亡人数从 5 人升至 14 人（援引新华社）；8 楼住客称浓烟进屋时烟雾报警器没响",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119706557482959325",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119731737203032459"
+  ],
+  "metrics": {
+   "likes": 98,
+   "reposts": 6,
+   "replies": 10,
+   "views": 28560,
+   "bookmarks": 11
+  },
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "网友投稿：陕西西安沣东新城政务服务大厅遭挖掘机强拆，当地贴公告暂停办理业务，下午附近道路被大批警力封锁",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119711590886887877",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119736756480233529"
+  ],
+  "metrics": {
+   "likes": 151,
+   "reposts": 10,
+   "replies": 17,
+   "views": 37093,
+   "bookmarks": 16
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "10 月传统旺季车市未回暖，乘用车零售同比下降 27.1%，车企越来越多转向海外市场（华尔街日报中文网）",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2119709147688014259",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 16,
+   "reposts": 3,
+   "replies": 2,
+   "views": 9817,
+   "bookmarks": 2
+  },
+  "tags": []
  }
 ]
