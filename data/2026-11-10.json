@@ -1,0 +1,367 @@
+[
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "AI",
+  "summary": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，即日可用；据 X 新闻汇总，比 5.1 快最多 30%，价格降约 20%，Mythos 5.2 仍只对部分生命科学和网络安全验证项目开放。另据 IFR 报道，Anthropic 周二将启动纳斯达克 IPO 路演（单一来源，待核实）",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2119867707546071125",
+  "extra_urls": [
+   "https://x.com/emollick/status/2119870150845599972",
+   "https://x.com/DeItaone/status/2119883685172302151"
+  ],
+  "metrics": {
+   "likes": 9803,
+   "reposts": 617,
+   "replies": 353,
+   "views": 383329,
+   "bookmarks": 689
+  },
+  "time": "11-10 03:00",
+  "why": "Anthropic 主力模型换代且降价，直接影响开发者的成本和模型选择。",
+  "verify": "发布本身来自 Anthropic 官方账号；提速和降价数字来自 X 新闻汇总（Grok 生成），未对照官方定价页核实。 IPO 路演消息只见 DeItaone 转述 IFR，未核实。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "AI",
+  "summary": "沃顿教授 Ethan Mollick 提前试用 Fable 5.2，认为它跨进了「参差不齐的 AGI」：能自己开公司、做学术研究、破解硬件、建 3D 模型，并在文中写了它的能力和局限",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2119870150845599972",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1484,
+   "reposts": 112,
+   "replies": 117,
+   "views": 85603,
+   "bookmarks": 812
+  },
+  "time": "11-10 03:10",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "AI",
+  "summary": "黄仁勋事件新进展：WIRED 称黄仁勋去年就雇了一家专门处理性丑闻的公关公司；众议院民主党领袖杰弗里斯说国会需要更多信息，此事在情报简报中被提及；另有人在期货大厅买入 2500 万美元英伟达深度价内远期看涨期权",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2119892029610291236",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2119888601810874654",
+   "https://x.com/DeItaone/status/2119890247735484791",
+   "https://x.com/unusual_whales/status/2119883730001248525"
+  ],
+  "metrics": {
+   "likes": 1969,
+   "reposts": 89,
+   "replies": 57,
+   "views": 161046,
+   "bookmarks": 102
+  },
+  "time": "11-10 04:37",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "AI",
+  "summary": "中文圈热议黄仁勋事件女主角 Alice Huang（黄乐）：网传其早年在上海做 A 股壳生意的照片；前央视记者白洁称黄乐曾和她在同一办公室工作",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2119817028957860339",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119797155040821612"
+  ],
+  "metrics": {
+   "likes": 1103,
+   "reposts": 106,
+   "replies": 136,
+   "views": 249213,
+   "bookmarks": 522
+  },
+  "time": "11-09 23:38",
+  "tags": [
+   "待核实",
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "Crypto",
+  "summary": "纽交所将在即将推出的 7×24 小时交易平台上，只用 Avalanche 链结算代币化股票，目标今年第四季度上线，尚待监管批准",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2119785304349651355",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 413,
+   "reposts": 61,
+   "replies": 55,
+   "views": 32186,
+   "bookmarks": 20
+  },
+  "time": "11-09 21:32",
+  "why": "传统交易所首次明确选定公链做代币化股票结算，是 RWA（现实资产上链）的标志性一步。",
+  "verify": "来源为 CoinDesk 报道；未查到纽交所或 Avalanche 官方公告原文，上线时间以监管审批为准。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "Crypto",
+  "summary": "CZ 回应黑客组织 ShinyHunters 声称出售币安 3.35 亿用户数据一事：「明显是假的/骗局，真有私钥的人不会卖数据，会直接转走资金」，批评不少媒体为了标题照发",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2119833206878781689",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 982,
+   "reposts": 92,
+   "replies": 329,
+   "views": 263617,
+   "bookmarks": 54
+  },
+  "time": "11-10 00:43"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "Crypto",
+  "summary": "11 月 9 日 ETF 资金流：BTC 现货 ETF 单日净流出 6270 枚（约 4.68 亿美元），7 日净流出约 13.2 亿美元；ETH ETF 单日净流出约 8800 万美元，7 日净流出约 3.63 亿美元",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2119788505035575704",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 150,
+   "reposts": 14,
+   "replies": 54,
+   "views": 45764,
+   "bookmarks": 4
+  },
+  "time": "11-09 21:45"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "Crypto",
+  "summary": "嘉信理财（Charles Schwab）在加密交易平台新增 SOL、AVAX 和 LINK，总共支持 5 种币（加上 BTC、ETH）",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2119835934086549995",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 240,
+   "reposts": 23,
+   "replies": 35,
+   "views": 24368,
+   "bookmarks": 7
+  },
+  "time": "11-10 00:54",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "Crypto",
+  "summary": "Elliptic 报告：朝鲜黑客在 NEAR 链上发行 meme 币、借 DEX 流动性池洗白此前币安被盗资金（帖中称被盗 64 亿美元，未核实）",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2119808059442884834",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 156,
+   "reposts": 14,
+   "replies": 24,
+   "views": 21666,
+   "bookmarks": 28
+  },
+  "time": "11-09 23:03",
+  "tags": [
+   "价值观察",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国内形势",
+  "summary": "11 月 9 日晚安徽砀山县大润发超市发生无差别持刀伤人，多名伤者被担架抬出；嫌疑人被警方抓获，视频显示其被捆绑拖行，上车前疑似遭殴打。伤亡人数暂无官方数字",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119807228613980198",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119818821838266500"
+  ],
+  "metrics": {
+   "likes": 367,
+   "reposts": 24,
+   "replies": 51,
+   "views": 94549,
+   "bookmarks": 83
+  },
+  "time": "11-09 23:00",
+  "why": "公共场所无差别袭击，关注官方通报和伤亡情况。",
+  "verify": "仅见网友投稿视频，未查到官方通报或官媒报道，伤亡人数和细节都未核实。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国内形势",
+  "summary": "西安沣东挖掘机强拆政务中心事件后续：涉事挖掘机被警方拖走；相关视频和讨论在国内平台被严格审查，评论区不少网友表示同情支持",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119847190546047091",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119802188302004228"
+  ],
+  "metrics": {
+   "likes": 283,
+   "reposts": 33,
+   "replies": 13,
+   "views": 27464,
+   "bookmarks": 32
+  },
+  "time": "11-10 01:38",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "泽连斯基说乌克兰谈判团队已到阿联酋，明天在阿布扎比开第一场会，欧洲伙伴也会参加；特朗普称本周阿布扎比谈判有可能带来突破",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2119901169531466215",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2119888322466087304",
+   "https://x.com/ZelenskyyUa/status/2119897771943641177"
+  ],
+  "metrics": {
+   "likes": 728,
+   "reposts": 137,
+   "replies": 51,
+   "views": 32744,
+   "bookmarks": 6
+  },
+  "time": "11-10 05:13",
+  "why": "俄乌和谈进入面对面阶段，结果会牵动能源、欧洲安全和大宗商品价格。",
+  "verify": "谈判团队抵达和会期来自泽连斯基本人账号；特朗普「可能突破」的说法转自 DeItaone 快讯，未看到原始采访。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "消息人士称中美在下周特朗普—习近平—普京三方峰会的形式上僵持：中方要求按剧本发言、预设结果，美方反对；中方拒绝讨论核军控，峰会能否举行存疑",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2119892264109363470",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2119892461539803608"
+  ],
+  "metrics": {
+   "likes": 105,
+   "reposts": 17,
+   "replies": 14,
+   "views": 73181,
+   "bookmarks": 13
+  },
+  "time": "11-10 04:37",
+  "why": "三方峰会关系伊朗战争和中美关系走向，若生变会影响市场预期。",
+  "verify": "内容来自 DeItaone 引述匿名消息人士，没找到路透或彭博原文，中方未表态。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "特朗普会见卡塔尔领导人后对路透说，卡塔尔和沙特都希望和平解决伊朗冲突，但美国「必要时准备好打击」",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2119887456531357776",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 440,
+   "reposts": 41,
+   "replies": 33,
+   "views": 92898,
+   "bookmarks": 36
+  },
+  "time": "11-10 04:18"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "共和党众议员马西（Massie）提出弹劾国防部长赫格塞思的条款；特朗普为赫格塞思辩护，称「他打赢了两场战争」",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119874884054417593",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2119888138378055931",
+   "https://x.com/disclosetv/status/2119902862545498280"
+  ],
+  "metrics": {
+   "likes": 193,
+   "reposts": 51,
+   "replies": 16,
+   "views": 50919,
+   "bookmarks": 15
+  },
+  "time": "11-10 03:28"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "据 CNN，科罗拉多州共和党众议员博伯特（Lauren Boebert）连任失败，输给民主党人 Eileen Laubacher",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2119892594880819421",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2193,
+   "reposts": 86,
+   "replies": 63,
+   "views": 113622,
+   "bookmarks": 31
+  },
+  "time": "11-10 04:39"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "美国最高法院允许特朗普政府恢复在得州大弯国家公园修建边境墙",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119887499774591036",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 620,
+   "reposts": 39,
+   "replies": 33,
+   "views": 33371,
+   "bookmarks": 33
+  },
+  "time": "11-10 04:19"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "早报",
+  "category": "国际形势",
+  "summary": "美国国务卿鲁比奥宣布不再以任何形式讨论 2028 年总统选举",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119884562960642546",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1574,
+   "reposts": 83,
+   "replies": 35,
+   "views": 59449,
+   "bookmarks": 64
+  },
+  "time": "11-10 04:07"
+ }
+]
