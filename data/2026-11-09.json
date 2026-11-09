@@ -1,0 +1,238 @@
+[
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "特朗普接受 CBS《60分钟》采访称，以色列等受美国保护的国家要为伊朗战争「全部成本」买单，「没有我们，以色列就不会存在」；同场他又说若不能阻止伊朗拥核，仍会「坚定地」再打伊朗",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2119622265293721661",
+  "extra_urls": [
+   "https://x.com/wshngknshji1/status/2119648255055413552",
+   "https://x.com/ItsRealAlec/status/2119638823470575630"
+  ],
+  "metrics": {
+   "likes": 10334,
+   "reposts": 874,
+   "replies": 649,
+   "views": 490015,
+   "bookmarks": 940
+  },
+  "top": true,
+  "why": "中期选举失利后特朗普首次公开向以色列要钱，同时没排除再战，美以关系和伊朗战争走向都可能因此转向。",
+  "verify": "Polymarket 只是一句快讯；两条中文帖转述了《60分钟》原话，内容一致，但还没看到 CBS 官方完整文字稿，具体措辞以节目原片为准。"
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "周日夜间加密市场急跌：BTC 一度跌到约 7.37 万美元、ETH 跌约 5%，均为 8 月以来新低，24 小时爆仓超 10 亿美元（多头约 9.13 亿）；一名巨鲸 56,667 枚 ETH（约 1.18 亿美元）多单被全部清算，累计亏 4,478 万美元",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119628231280054688",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2119609558226366539",
+   "https://x.com/lookonchain/status/2119622568621875241"
+  ],
+  "metrics": {
+   "likes": 168,
+   "reposts": 23,
+   "replies": 38,
+   "views": 23952,
+   "bookmarks": 6
+  },
+  "top": true,
+  "why": "选后市场担心民主党国会收紧加密监管，加上币安被盗余波，杠杆被大面积清洗，短线情绪已到「恐惧」区间。",
+  "verify": "爆仓数据来自 Cointelegraph（引 CoinGlass 类口径），巨鲸清算来自 Lookonchain 链上追踪；价格低点各平台略有差异，请以交易所 K 线为准。"
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "路透：特朗普称预计下周在中国举行的 APEC 峰会上与习近平、普京会面，讨论结束伊朗战争和无核化；纽约时报中文网分析习近平对主办三方会晤顾虑重重",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119637357221540043",
+  "extra_urls": [
+   "https://x.com/nytchinese/status/2119626029514059932"
+  ],
+  "metrics": {
+   "likes": 68,
+   "reposts": 15,
+   "replies": 18,
+   "views": 43571,
+   "bookmarks": 5
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "visegrad24 称美军连续第二晚打击霍尔木兹海峡附近的伊朗目标；而特朗普同日对 CNN 说只要谈判有进展，再次开战「极不可能」",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2119619256472216011",
+  "extra_urls": [
+   "https://x.com/by_xubo/status/2119554708436287892"
+  ],
+  "metrics": {
+   "likes": 1024,
+   "reposts": 150,
+   "replies": 22,
+   "views": 39615,
+   "bookmarks": 35
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "visegrad24 称大批乌克兰无人机袭击俄罗斯第二大炼油厂基里希炼油厂（圣彼得堡附近），现场仍在起火",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2119631432003780813",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 592,
+   "reposts": 100,
+   "replies": 16,
+   "views": 19606,
+   "bookmarks": 13
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "路透：中国将对美国进口商品 24% 关税的暂停期再延长两个月",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119628562831380829",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 51,
+   "reposts": 19,
+   "replies": 13,
+   "views": 57876,
+   "bookmarks": 9
+  },
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "黄仁勋承认婚外情后，美股期货开盘一分钟内市值蒸发约 3000 亿美元，六分钟后又转涨收复 3500 亿，振幅约 6500 亿；纽约时报中文网称鲁比奥曾就黄仁勋与中国间谍的关系向政府高层预警",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119611114354823292",
+  "extra_urls": [
+   "https://x.com/nytchinese/status/2119641131482783969"
+  ],
+  "metrics": {
+   "likes": 351,
+   "reposts": 59,
+   "replies": 39,
+   "views": 35756,
+   "bookmarks": 14
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "马斯克称刚和 Grok 工程团队开完评审会，修复会连夜上线，明天应能明显改善，没改善就在帖下回复",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2119617455102333206",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 22413,
+   "reposts": 1662,
+   "replies": 3522,
+   "views": 1440349,
+   "bookmarks": 1566
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "DeepSeek 称其开源 AI Agent 应用 DeepSeek Harness 上线不到三个月日活达 154 万，9 月底时约 27.1 万",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119596031339851857",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 103,
+   "reposts": 9,
+   "replies": 22,
+   "views": 27131,
+   "bookmarks": 10
+  },
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "美参议员布卢门撒尔（Blumenthal）要求币安、Tether 和特朗普家族相关加密公司在 2027 年 1 月 4 日前配合其调查，否则可能采取强制手段",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119603566838964285",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2119594728371151301"
+  ],
+  "metrics": {
+   "likes": 156,
+   "reposts": 20,
+   "replies": 20,
+   "views": 29517,
+   "bookmarks": 8
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "网友投稿：11 月 8 日四川德阳某人大代表选举投票站，工作人员被拍到批量填写选票；另有网友称社区来电问「跟随投票还是放弃投票」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119626039571648985",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2119636093222146232"
+  ],
+  "metrics": {
+   "likes": 208,
+   "reposts": 12,
+   "replies": 25,
+   "views": 24173,
+   "bookmarks": 19
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "中国 10 月 PPI 同比涨 5.7%，高于 9 月和预期；CPI 同比涨 0.7%，低于 9 月和预期（华尔街日报中文网）",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2119633664820568240",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 0,
+   "views": 5106,
+   "bookmarks": 1
+  },
+  "tags": [
+   "价值观察"
+  ]
+ }
+]
