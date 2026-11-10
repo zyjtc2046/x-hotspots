@@ -363,5 +363,260 @@
    "bookmarks": 64
   },
   "time": "11-10 04:07"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "黄仁勋事件升级：英伟达和黄仁勋被股东起诉，指控其隐瞒与疑似中国间谍的关系、欺骗投资者（路透也有报道）；特朗普说 FBI 正在调查此事，又称黄仁勋在电话里告诉他「完全不知道对方是间谍」，他选择相信",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2119944998716166505",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2119996000102175040",
+   "https://x.com/AP/status/2119994998514946353",
+   "https://x.com/nytchinese/status/2119980188381650960"
+  ],
+  "metrics": {
+   "likes": 4468,
+   "reposts": 427,
+   "replies": 236,
+   "views": 817691,
+   "bookmarks": 251
+  },
+  "time": "11-10 08:07",
+  "tags": [],
+  "top": true,
+  "why": "事件从私德丑闻变成证券诉讼加联邦调查，直接关系英伟达股价和美国对华芯片政策。",
+  "verify": "起诉由路透、Politico 报道（Cointelegraph 转述）；FBI 调查一说来自特朗普本人表态，经美联社、FT 报道，FBI 未见官方确认。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "据路透，Anthropic 已向承销银行发出 IPO 定价区间，每股 70 到 80 美元；另有转述华尔街日报称本周定估值区间，预计 11 月 19 日或 20 日挂牌交易",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2119990429991248047",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 888,
+   "reposts": 48,
+   "replies": 67,
+   "views": 223476,
+   "bookmarks": 67
+  },
+  "time": "11-10 11:08",
+  "tags": [
+   "待核实"
+  ],
+  "top": true,
+  "why": "今年最受关注的 AI 公司上市进入定价阶段，定价会成为整个 AI 板块估值的锚。",
+  "verify": "定价区间只见 unusual_whales 转述路透，挂牌日期只见小号转述 WSJ/TechCrunch，均未看到原报道，待核实。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "纽约时报：英伟达首席法律顾问 2025 年曾直接邮件联系负责调查新加坡 Megaspeed 走私英伟达芯片的商务部调查员；此后商务部调查中止、案件转交司法部（Megaspeed 正是与黄仁勋事件相关的公司）",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2119969325138551210",
+  "extra_urls": [
+   "https://x.com/nytchinese/status/2120003519474549149",
+   "https://x.com/Cointelegraph/status/2119992363506405886"
+  ],
+  "metrics": {
+   "likes": 75,
+   "reposts": 4,
+   "replies": 38,
+   "views": 26603,
+   "bookmarks": 13
+  },
+  "time": "11-10 09:44",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "OpenAI 公布内部系统「Control Room」：集中跟踪所有研究推理负载（包括训练中的智能体采样），一旦出现安全问题可迅速叫停",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2119913172039868579",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3245,
+   "reposts": 229,
+   "replies": 535,
+   "views": 502922,
+   "bookmarks": 862
+  },
+  "time": "11-10 06:01",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "以太坊基金会关联钱包时隔两周再卖 1000 枚 ETH（约 213 万美元），上次卖出后 ETH 又跌了 7.7%；同时一个沉睡超 10 年的 ICO 老钱包把 2155 枚 ETH（约 459 万美元）全部转出",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2119974163263947154",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2119965406261891505"
+  ],
+  "metrics": {
+   "likes": 134,
+   "reposts": 15,
+   "replies": 36,
+   "views": 32178,
+   "bookmarks": 12
+  },
+  "time": "11-10 10:03",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "矿企抛币：MARA 三季报显示营收降 35%，季度结束后卖出 13597 枚 BTC（约 11 亿美元）；Hut 8 两小时前又转出 1617 枚 BTC（约 1.21 亿美元），可能是要卖",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2120000032984449155",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2119983511302209977"
+  ],
+  "metrics": {
+   "likes": 26,
+   "reposts": 4,
+   "replies": 17,
+   "views": 8787,
+   "bookmarks": 2
+  },
+  "time": "11-10 11:46",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "以太坊基金会前员工起诉 Vitalik 和基金会，称自己在披露癌症诊断、并参与联署反对强制签署基金会「Mandate」承诺书后 13 天被解雇",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2119973520750874718",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 91,
+   "reposts": 8,
+   "replies": 23,
+   "views": 26622,
+   "bookmarks": 6
+  },
+  "time": "11-10 10:00",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "西安沣东政务大厅遭挖掘机强拆事件新进展：网友发现疑似涉事司机此前多次在社交媒体求助讨薪，称绿地新里城项目拖欠其挖掘机费用，自 2025 年起多次向中央巡视组和国家信访部门反映未果",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119963249013878995",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 506,
+   "reposts": 40,
+   "replies": 53,
+   "views": 70840,
+   "bookmarks": 75
+  },
+  "time": "11-10 09:20",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "深圳花滑中国杯女单颁奖，日本选手千叶百音夺冠，奏日本国歌时有观众不起立、喊「下来」「退票」，有观众质疑裁判打分不公",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119973321596969076",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 611,
+   "reposts": 52,
+   "replies": 107,
+   "views": 64110,
+   "bookmarks": 63
+  },
+  "time": "11-10 10:00",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "美英日法德等十国外交部门联合声明批评黄之锋被判 10 年；40 个组织呼吁特朗普在与习近平会面时要求放人",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2119978348520841499",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 218,
+   "reposts": 27,
+   "replies": 28,
+   "views": 26194,
+   "bookmarks": 16
+  },
+  "time": "11-10 10:20",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "中国 10 月贸易顺差 1053 亿美元，低于预期；但前 10 个月顺差已超过 1 万亿美元，连续第二年破万亿",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2119991581243748530",
+  "extra_urls": [
+   "https://x.com/WatcherGuru/status/2119982337803108636",
+   "https://x.com/AP/status/2119992432620126546",
+   "https://x.com/nytimes/status/2120003541444030796"
+  ],
+  "metrics": {
+   "likes": 762,
+   "reposts": 66,
+   "replies": 23,
+   "views": 80775,
+   "bookmarks": 25
+  },
+  "time": "11-10 11:12",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "特朗普口风转软：称「目前」没必要对伊朗采取军事行动，「伊朗在军事上实际上已经完了」；同时美、乌、俄三方今天在阿布扎比开谈，是 2 月以来首次三方会谈，据路透援引美方官员称双方私下在领土问题上显示了一些灵活度",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2119990944002900303",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2119938083193758154",
+   "https://x.com/TOLONewsEnglish/status/2119909771968958467"
+  ],
+  "metrics": {
+   "likes": 29,
+   "reposts": 12,
+   "replies": 15,
+   "views": 27473,
+   "bookmarks": 2
+  },
+  "time": "11-10 11:10",
+  "tags": [
+   "价值观察"
+  ]
  }
 ]
