@@ -618,5 +618,299 @@
   "tags": [
    "价值观察"
   ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "据 The Information，黄仁勋与疑似中国间谍的关系自 2023 年起，至少促成了 75 亿美元的英伟达芯片出货；同时美银把英伟达、美光、泛林移出「US 1 首选股」名单，富国银行以「关键人物风险」把英伟达目标价从 315 下调到 300 美元",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120110889693245744",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120109355341123593",
+   "https://x.com/DeItaone/status/2120111174523953635",
+   "https://x.com/DeItaone/status/2120113865878880460"
+  ],
+  "metrics": {
+   "likes": 892,
+   "reposts": 84,
+   "replies": 71,
+   "views": 87009,
+   "bookmarks": 64
+  },
+  "time": "11-10 19:06",
+  "tags": [],
+  "top": true,
+  "why": "事件第一次和具体芯片出货金额挂钩，从私人丑闻变成出口管制和业务层面的问题，华尔街已开始下调评级。",
+  "verify": "75 亿美元出自 The Information 报道，经 KobeissiLetter、DeItaone 转述，未看到原文；美银、富国调整只见 DeItaone 快讯。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "Anthropic IPO 最新招股书草案（路透看到）：发行 8.25 亿股，每股 70 到 78 美元，募资 577.5 亿到 643.5 亿美元，比午报时说的 70 到 80 美元区间收窄",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120110435592523797",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 146,
+   "reposts": 21,
+   "replies": 17,
+   "views": 51623,
+   "bookmarks": 17
+  },
+  "time": "11-10 19:04",
+  "tags": [
+   "待核实"
+  ],
+  "top": true,
+  "why": "募资规模高达 600 多亿美元，若成行将是史上最大 IPO 之一，也会给整个 AI 板块的估值定锚。",
+  "verify": "只见 DeItaone 转述路透，未看到招股书原文，待核实。"
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "马斯克说 xAI 已抛弃 JAX/SGLang，用 C/C++ 从头重写了强化学习和推理全栈；Grok 4.8 预训练已完成、正在做强化学习；他承认 Opus 5.5 是「杰作」，但称 Grok 5 两三个月内可能超过它，还说 Starlink 的软件也很适合训练超级智能",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2120088070443655190",
+  "extra_urls": [
+   "https://x.com/elonmusk/status/2120099798078656909",
+   "https://x.com/elonmusk/status/2120102767624880364"
+  ],
+  "metrics": {
+   "likes": 9020,
+   "reposts": 567,
+   "replies": 641,
+   "views": 667989,
+   "bookmarks": 672
+  },
+  "time": "11-10 17:35",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "软银季度亏损 70 亿美元，近两年来首次季亏、全面不及预期（去年同期盈利 160 亿）；其中 37 亿美元减值和调整美国 AI 数据中心计划有关",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120113250985447811",
+  "extra_urls": [
+   "https://x.com/_FORAB/status/2120085113199570945"
+  ],
+  "metrics": {
+   "likes": 59,
+   "reposts": 13,
+   "replies": 13,
+   "views": 44687,
+   "bookmarks": 8
+  },
+  "time": "11-10 19:16",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "微软游说特朗普政府放弃禁用中国光模块的计划，警告供应中断会严重拖慢美国 AI 数据中心扩建",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2120112765704527950",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120110806046040455"
+  ],
+  "metrics": {
+   "likes": 340,
+   "reposts": 45,
+   "replies": 62,
+   "views": 85875,
+   "bookmarks": 12
+  },
+  "time": "11-10 19:14",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "特朗普媒体科技集团（DJT）三季度买入 1510 枚 BTC（约 1.12 亿美元），据 WSJ 季度利润 4.097 亿美元，主要来自数字资产收益",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2120115649523703984",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120033925892309063"
+  ],
+  "metrics": {
+   "likes": 543,
+   "reposts": 55,
+   "replies": 69,
+   "views": 77256,
+   "bookmarks": 12
+  },
+  "time": "11-10 19:25",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "MEXC CEO Vugar Usi 称交易所已联系美国金融犯罪执法网络（FinCEN），对方确认收到其书面请求；公司表示愿全面配合，平台运营正常",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120016086410182804",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 487,
+   "reposts": 75,
+   "replies": 46,
+   "views": 48891,
+   "bookmarks": 19
+  },
+  "time": "11-10 12:49",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "韩国最大交易所 Upbit 宣布上线 Hyperliquid 的 HYPE 代币",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2120023950378037617",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 258,
+   "reposts": 43,
+   "replies": 50,
+   "views": 30939,
+   "bookmarks": 10
+  },
+  "time": "11-10 13:21",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "币安提醒：iOS 漏洞「worse_query」可让恶意 App 读取其他 App 文件，可能泄露钱包助记词、私钥和登录信息，涉及 iOS 26.7.1、27.0.1、27.2；建议升级系统、删除不可信 App",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120113171465724267",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 64,
+   "reposts": 19,
+   "replies": 17,
+   "views": 20575,
+   "bookmarks": 4
+  },
+  "time": "11-10 19:15",
+  "tags": [
+   "待核实",
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "曾爆料与黄仁勋事件当事人黄乐同事过的前央视记者白洁，11 月 10 日被微博禁言",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120026934264680468",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 703,
+   "reposts": 61,
+   "replies": 53,
+   "views": 112594,
+   "bookmarks": 100
+  },
+  "time": "11-10 13:33",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "西安挖掘机拆政务中心同一天（11 月 9 日），西安出租车司机集体到公司外讨薪，现场大量警力维稳",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120033713731887341",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2120048814761619831"
+  ],
+  "metrics": {
+   "likes": 656,
+   "reposts": 31,
+   "replies": 88,
+   "views": 113463,
+   "bookmarks": 84
+  },
+  "time": "11-10 14:00",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "特朗普暗示无需再打伊朗后，美油跌破 85 美元，为 8 月 31 日以来首次，较 10 月 30 日高点跌 19%；韩国 KOSPI 涨 4%、日经涨 2.5%",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120083569808699696",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2120081528571203717"
+  ],
+  "metrics": {
+   "likes": 2340,
+   "reposts": 295,
+   "replies": 125,
+   "views": 144586,
+   "bookmarks": 86
+  },
+  "time": "11-10 17:18",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "阿布扎比三方会谈进行中，俄外长拉夫罗夫表示不接受欧洲立即停火的要求，称布鲁塞尔想借停火拖时间；库什纳则称想要一个能维持「几十年甚至几百年」的和平框架",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120114865830531087",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2120114244582846755",
+   "https://x.com/MarioNawfal/status/2120079027008590124"
+  ],
+  "metrics": {
+   "likes": 65,
+   "reposts": 14,
+   "replies": 8,
+   "views": 40348,
+   "bookmarks": 2
+  },
+  "time": "11-10 19:22",
+  "tags": []
+ },
+ {
+  "date": "2026-11-10",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "美联储理事沃勒称需要加息压制通胀；据 Cointelegraph，他倾向 12 月加息 25 个基点，若 10 月核心 CPI 达 0.3% 或更高，可能加 50 个基点。10 月 CPI 今晚 21:30（北京时间）公布",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120116243566928238",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120096808999219225"
+  ],
+  "metrics": {
+   "likes": 57,
+   "reposts": 6,
+   "replies": 13,
+   "views": 35771,
+   "bookmarks": 8
+  },
+  "time": "11-10 19:27",
+  "tags": [
+   "价值观察"
+  ]
  }
 ]
