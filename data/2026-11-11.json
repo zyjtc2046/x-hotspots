@@ -1,0 +1,499 @@
+[
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "OpenAI 推出「ChatGPT 商家」测试版：商家可认领并管理自己在 ChatGPT 里的信息、查看用户互动数据，符合条件的还能搭建「商家智能体」替自己回答顾客问题",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2120216592395174382",
+  "extra_urls": [
+   "https://x.com/TechCrunch/status/2120228766555209959",
+   "https://x.com/Cointelegraph/status/2120255172773327280"
+  ],
+  "metrics": {
+   "likes": 7848,
+   "reposts": 519,
+   "replies": 574,
+   "views": 1189932,
+   "bookmarks": 7061
+  },
+  "time": "11-11 02:06",
+  "why": "ChatGPT 正式往本地搜索/商家目录方向走，直接冲着谷歌地图和点评类平台的生意；24 小时内收藏 7000+，是今天 AI 圈互动最高的帖子",
+  "verify": "对照了 TechCrunch、Cointelegraph 的同题帖子，产品名和「测试版」一致；开放哪些国家、商家要满足什么条件，原帖没写，未核实",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "英伟达继续暴跌：单日再跌约 6%–7%，今年的涨幅全部吐光、年内跌 10%，比 10 月高点 243 美元跌了 31%，市值蒸发约 1.82 万亿美元；Jim Cramer 喊「十年来最便宜，该买了」，还有人砸 4600 万美元买 2027 年 3 月到期的 185 美元看涨期权",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120236047791689993",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2120231516676792593",
+   "https://x.com/unusual_whales/status/2120249384340176986",
+   "https://x.com/DeItaone/status/2120246349807469020",
+   "https://x.com/Polymarket/status/2120257919652679687"
+  ],
+  "metrics": {
+   "likes": 2524,
+   "reposts": 303,
+   "replies": 183,
+   "views": 193064,
+   "bookmarks": 154
+  },
+  "time": "11-11 03:24"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "英伟达聘请华尔街顶级律所 Wachtell Lipton，调查黄仁勋承认与一名被指涉谍的中国高管的婚外情",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120232705845793230",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2120234083636699608"
+  ],
+  "metrics": {
+   "likes": 776,
+   "reposts": 90,
+   "replies": 62,
+   "views": 167531,
+   "bookmarks": 74
+  },
+  "time": "11-11 03:10"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "谷歌 DeepMind 开放 Gemini 4 Carbon，称是自家处理复杂、长流程任务最强的模型，会彻底探索问题、反复做验证，面向软件工程、网络安全和知识工作；Ethan Mollick 评价「谷歌回到了前沿模型的快节奏竞争里」",
+  "author": "@GoogleDeepMind",
+  "url": "https://x.com/GoogleDeepMind/status/2120219371473617099",
+  "extra_urls": [
+   "https://x.com/emollick/status/2120233659793854926"
+  ],
+  "metrics": {
+   "likes": 508,
+   "reposts": 54,
+   "replies": 90,
+   "views": 43916,
+   "bookmarks": 59
+  },
+  "time": "11-11 02:17"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "软银季亏约 70 亿美元后，表示可能放慢激进的 AI 投资（季亏本身晚报已报，这次是对后续投资的新表态）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120224721753247997",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120265410587066617"
+  ],
+  "metrics": {
+   "likes": 616,
+   "reposts": 97,
+   "replies": 76,
+   "views": 138218,
+   "bookmarks": 51
+  },
+  "time": "11-11 02:39"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "The Information 独家：OpenAI 三季度营收 100 亿美元，主要靠新模型的 API 需求和广告；Anthropic 同期接近 170 亿美元，超过 OpenAI",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2120266037400576452",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3,
+   "reposts": 0,
+   "replies": 1,
+   "views": 1128,
+   "bookmarks": 0
+  },
+  "time": "11-11 05:23",
+  "tags": [
+   "价值观察",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "中文 AI 圈继续刷屏 Claude Fable 5.2：@op7418 让它自由发挥，做出了「打字生成墨水字、实时流体模拟带音效」的作品；@oran_ge 说它「优雅地杀死了比赛」",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2120085300185833878",
+  "extra_urls": [
+   "https://x.com/oran_ge/status/2120168398135152970"
+  ],
+  "metrics": {
+   "likes": 459,
+   "reposts": 31,
+   "replies": 114,
+   "views": 48041,
+   "bookmarks": 229
+  },
+  "time": "11-10 17:24",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "AI",
+  "summary": "@vista8 开源一个项目：让 Grok Bot 每天抓取 X 上的海外优质长文、转写成中文并发布成网站，可以改成盯自己关心的账号",
+  "author": "@vista8",
+  "url": "https://x.com/vista8/status/2120099636149153857",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 315,
+   "reposts": 36,
+   "replies": 84,
+   "views": 20893,
+   "bookmarks": 417
+  },
+  "time": "11-10 18:21",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "美国 10 月 CPI 环比 +0.4%（预期 0.3%）、核心 +0.3%（预期 0.2%），数据一出加密市场 1 小时内爆仓 1.78 亿美元多单，BTC 跌破 7.4 万美元；当天 BTC 现货 ETF 净流出 3081 枚、ETH ETF 净流出 65908 枚",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120150174152393061",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120147694035579262",
+   "https://x.com/CoinDesk/status/2120176290917749206",
+   "https://x.com/lookonchain/status/2120149386139410872"
+  ],
+  "metrics": {
+   "likes": 402,
+   "reposts": 42,
+   "replies": 56,
+   "views": 44610,
+   "bookmarks": 4
+  },
+  "time": "11-10 21:42",
+  "why": "通胀超预期把「12 月加息」从尾部风险变成主流押注，币价和科技股是同一条逻辑在跌",
+  "verify": "CPI 数字对照了 Cointelegraph 和 CoinDesk 两条帖子，一致；ETF 流量只有 Lookonchain 一个来源，没和 Farside 等核对"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "美股上市公司 Hyperscale Data 卖光全部比特币储备，最后 211.56 枚卖了约 1600 万美元",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120137068181336476",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 323,
+   "reposts": 51,
+   "replies": 61,
+   "views": 50069,
+   "bookmarks": 18
+  },
+  "time": "11-10 20:50"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "贝莱德 1 小时前又把 72212 枚 ETH（约 1.51 亿美元）转进 Coinbase Prime；10 月 1 日以来贝莱德 ETH 净流出已达 791758 枚（约 17.4 亿美元）",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2120133248038969475",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 292,
+   "reposts": 25,
+   "replies": 49,
+   "views": 64483,
+   "bookmarks": 9
+  },
+  "time": "11-10 20:35"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "Visa 把 Monad 加进稳定币结算网络，并称自家稳定币结算年化规模已达 200 亿美元、同比增长 15 倍",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2120187325850534092",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120215220769501650"
+  ],
+  "metrics": {
+   "likes": 157,
+   "reposts": 20,
+   "replies": 27,
+   "views": 23951,
+   "bookmarks": 5
+  },
+  "time": "11-11 00:10"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "沉寂 9 个月的巨鲸 0x5479 刚从币安提走 10000 枚 ETH（约 2089 万美元）",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2120142295723061717",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 281,
+   "reposts": 23,
+   "replies": 38,
+   "views": 49309,
+   "bookmarks": 4
+  },
+  "time": "11-10 21:11"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "Ripple Prime 负责人、Hidden Road 创始人 Marc Asch 年底离任，由 SVP Noel Kimmel 接手（Ripple 2025 年花 12.5 亿美元收购了 Hidden Road）",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2120161734249853153",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 222,
+   "reposts": 42,
+   "replies": 35,
+   "views": 26493,
+   "bookmarks": 9
+  },
+  "time": "11-10 22:28"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "Crypto",
+  "summary": "据彭博，高盛、花旗、桑坦德、德意志银行等金融机构共同出资约 2.7 亿美元，成立联合稳定币公司",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2120230166341595191",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 32,
+   "reposts": 5,
+   "replies": 21,
+   "views": 10931,
+   "bookmarks": 2
+  },
+  "time": "11-11 03:00",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国内形势",
+  "summary": "多名网友吐槽：自己存的习近平梗图被 iPhone 相册按人脸自动归成了一个「人物」分组",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120174641906073694",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 470,
+   "reposts": 19,
+   "replies": 35,
+   "views": 89560,
+   "bookmarks": 52
+  },
+  "time": "11-10 23:20",
+  "why": "这是今天中文圈互动最高的国内话题，反映的是表情包在私下大量流传",
+  "verify": "只有这一个账号的说法和截图，没找到苹果或其他媒体的报道，属于网友个人体验，未核实",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国内形势",
+  "summary": "「3C 认证」和质量检查引发商户关门避检潮：成都某市场 11 月 8 日大门紧闭，官方广播喊话「不信谣不传谣」；11 月 10 日起江西吉安、上饶、宜春和湖南长沙等地市场也有大批商铺拉下卷帘门",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120222459551220156",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2120192258662445535"
+  ],
+  "metrics": {
+   "likes": 121,
+   "reposts": 12,
+   "replies": 20,
+   "views": 19092,
+   "bookmarks": 25
+  },
+  "time": "11-11 02:30",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国内形势",
+  "summary": "中国 10 月 PPI 同比 +5.7%，为 2022 年 6 月以来最大涨幅，已连续 3 个月加速（2025 年 6、7 月还是 -3.6%）",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120265768931868839",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 163,
+   "reposts": 23,
+   "replies": 19,
+   "views": 41844,
+   "bookmarks": 9
+  },
+  "time": "11-11 05:22",
+  "tags": [
+   "价值观察",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "中期选举后国会领导层洗牌：共和党选吉姆·乔丹当下届众议院少数党领袖；图恩连任参议院共和党领袖；桑德斯表态不支持舒默当参议院多数党领袖；民主党控制的州议会数 2010 年以来首次超过共和党",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2120235457971716524",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120235221014753563",
+   "https://x.com/disclosetv/status/2120258665198526851",
+   "https://x.com/Polymarket/status/2120253312444313790",
+   "https://x.com/Polymarket/status/2120235794807820396"
+  ],
+  "metrics": {
+   "likes": 1668,
+   "reposts": 167,
+   "replies": 149,
+   "views": 111499,
+   "bookmarks": 45
+  },
+  "time": "11-11 03:21",
+  "why": "民主党拿下参众两院后，两党新一届国会的话事人基本敲定，决定特朗普后两年的立法和调查空间",
+  "verify": "乔丹当选对照了 DeItaone 转述的 Punchbowl News，一致；图恩连任 WSJ 也发了；桑德斯表态只看到 Polymarket 一个来源",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "参议院民主党领袖舒默批评特朗普为黄仁勋辩护「令人不安」，说是在纵容科技业的外国间谍活动，要求「全面说明」",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120227350927548503",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120226048520405178",
+   "https://x.com/business/status/2120258957964869759"
+  ],
+  "metrics": {
+   "likes": 1089,
+   "reposts": 65,
+   "replies": 130,
+   "views": 204072,
+   "bookmarks": 66
+  },
+  "time": "11-11 02:49"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "加息预期飙升：市场开始押注 12 月加息 50 个基点（概率升到 11%）；德意志银行预计 12 月、1 月、3 月连加三次各 25 个基点；美国 2 年期国债收益率创一年多来最大单日涨幅",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120243221406089514",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120220117158019345",
+   "https://x.com/WSJ/status/2120259866761502935"
+  ],
+  "metrics": {
+   "likes": 778,
+   "reposts": 82,
+   "replies": 93,
+   "views": 124042,
+   "bookmarks": 43
+  },
+  "time": "11-11 03:52"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "伊朗最高安全官员说目前没有在和美国谈判；另据伊朗法尔斯通讯社，南帕尔斯气田一座平台起火，已得到控制",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2120232562794582176",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120237691459760554"
+  ],
+  "metrics": {
+   "likes": 282,
+   "reposts": 52,
+   "replies": 21,
+   "views": 115270,
+   "bookmarks": 14
+  },
+  "time": "11-11 03:10"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "美国监管机构批准在得州一家陶氏化学工厂建 4 座先进核反应堆，是美国首次批准在工业厂区建核电",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120238984135618935",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2118,
+   "reposts": 200,
+   "replies": 54,
+   "views": 49667,
+   "bookmarks": 96
+  },
+  "time": "11-11 03:35"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "美国信用卡债务创新高，达 1.29 万亿美元，人均余额 6678 美元（纽约联储数据）",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2120262502076596597",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120211316543541291"
+  ],
+  "metrics": {
+   "likes": 540,
+   "reposts": 72,
+   "replies": 34,
+   "views": 68291,
+   "bookmarks": 42
+  },
+  "time": "11-11 05:09"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "英国反恐警察说，一名美国陆军军人涉嫌替俄罗斯从事间谍活动被捕",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2120256759868666229",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 271,
+   "reposts": 107,
+   "replies": 43,
+   "views": 71696,
+   "bookmarks": 20
+  },
+  "time": "11-11 04:46"
+ },
+ {
+  "date": "2026-11-11",
+  "category": "国际形势",
+  "summary": "前总统拜登一家在都柏林离开一场活动时，有亲巴勒斯坦抗议者向他们投掷物品，至少 2 人被捕",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120250118901502309",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 877,
+   "reposts": 121,
+   "replies": 64,
+   "views": 48731,
+   "bookmarks": 66
+  },
+  "time": "11-11 04:19",
+  "tags": [
+   "待核实"
+  ]
+ }
+]
