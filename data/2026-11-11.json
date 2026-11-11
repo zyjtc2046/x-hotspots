@@ -495,5 +495,268 @@
   "tags": [
    "待核实"
   ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "据英国《金融时报》，投资者认购火爆，Anthropic 的承销行准备把 IPO 价格定在 70–78 美元区间之上，估值可能抬到 1.5 万亿美元以上（昨天晚报报的是 70–78 美元区间）",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120331422850548202",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120316743017021785"
+  ],
+  "metrics": {
+   "likes": 750,
+   "reposts": 39,
+   "replies": 121,
+   "views": 131437,
+   "bookmarks": 33
+  },
+  "time": "11-11 09:42",
+  "tags": [],
+  "top": true,
+  "why": "今年最大的 AI IPO 可能上调定价、估值冲 1.5 万亿，会成为整个 AI 板块估值的锚；这时候英伟达正被黄仁勋事件拖累，资金在 AI 内部换仓的信号很明显。",
+  "verify": "Cointelegraph 和 unusual_whales 都引用 FT，说法一致；FT 原文没看到，最终定价要等正式公告。"
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "美国国务卿鲁比奥表示对伊朗「没有必要」再进行大规模作战行动",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120320763374809516",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1997,
+   "reposts": 193,
+   "replies": 98,
+   "views": 84263,
+   "bookmarks": 82
+  },
+  "time": "11-11 09:00",
+  "tags": [],
+  "top": true,
+  "why": "美方高层首次明确释放不再大打的信号，跟今早伊朗说「没在谈判」形成对照，会直接影响油价和避险情绪；但同一时段伊朗在德黑兰开了首个女兵训练营、美财长贝森特因伊朗威胁搬进军事基地，局势并没有降温。",
+  "verify": "只看到 Polymarket 的转述，没找到鲁比奥原话的视频或官方文字稿，具体语境待核实。"
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "马斯克：SpaceX 已向德国 Singulus 订购每年 100 GW 产能的 HJT 太阳能电池制造设备；另据 Polymarket，SpaceX 将在得州 Starbase 建一座 240 亿美元的 AI 数据中心加天然气电厂",
+  "author": "@elonmusk",
+  "url": "https://x.com/elonmusk/status/2120302471210033426",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2120328825032577352"
+  ],
+  "metrics": {
+   "likes": 20640,
+   "reposts": 2082,
+   "replies": 1879,
+   "views": 1674310,
+   "bookmarks": 1173
+  },
+  "time": "11-11 07:47",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "黄仁勋事件继续发酵：路透称美国参议院银行委员会的资深共和党人要求黄仁勋辞职；纽约时报称特朗普访华前就由鲁比奥告知过黄与疑似间谍的关系，仍邀请他随行；多家媒体称黄仁勋不会随特朗普出席下周深圳 APEC，而南华早报称马斯克会随行",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2120366067641983447",
+  "extra_urls": [
+   "https://x.com/nytchinese/status/2120348679261294721",
+   "https://x.com/_FORAB/status/2120334055619359068",
+   "https://x.com/_FORAB/status/2120349466821828812"
+  ],
+  "metrics": {
+   "likes": 17,
+   "reposts": 6,
+   "replies": 7,
+   "views": 20763,
+   "bookmarks": 2
+  },
+  "time": "11-11 12:00",
+  "tags": []
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "一名毫无考古经验的「Vibe Coding」开发者，用 48 个 AI 智能体加 NASA 激光雷达数据，在墨西哥丛林下发现一处此前未被记录的玛雅聚落",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120310443285565563",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 10742,
+   "reposts": 744,
+   "replies": 224,
+   "views": 414430,
+   "bookmarks": 1577
+  },
+  "time": "11-11 08:19",
+  "tags": [
+   "待核实",
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "以「暴跌时抄底 ETH」出名的 7 Siblings 又出手了：10 小时前花 2200 万美元买入 10792 枚 ETH，均价 2038 美元",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2120333904259559659",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 221,
+   "reposts": 15,
+   "replies": 49,
+   "views": 33967,
+   "bookmarks": 17
+  },
+  "time": "11-11 09:52",
+  "tags": []
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "Ripple 荣誉 CTO David Schwartz 说自己风险承受力低，已卖掉几乎所有加密资产：从约 2600 万 XRP、1500 枚 BTC、4 万枚 ETH 减到约 300 万 XRP、1 枚 BTC、6 枚 ETH",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120366098948280454",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 86,
+   "reposts": 8,
+   "replies": 38,
+   "views": 19048,
+   "bookmarks": 11
+  },
+  "time": "11-11 12:00",
+  "tags": []
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "据 Politico，美国 CFTC 已警告预测市场平台 Kalshi 可能对其提起执法指控；民主党拿下国会后准备加强对预测市场的监管",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2120274644293046289",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 46,
+   "reposts": 3,
+   "replies": 27,
+   "views": 14856,
+   "bookmarks": 6
+  },
+  "time": "11-11 05:57",
+  "tags": []
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "深圳多名网友发帖称，公司为配合 APEC 放假两天，要求员工用年假抵扣，今年没年假的就扣 2027 年的",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120345769425428976",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 97,
+   "reposts": 7,
+   "replies": 14,
+   "views": 19515,
+   "bookmarks": 9
+  },
+  "time": "11-11 10:40",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "《彭博商业周刊》走访沈阳「精神小伙」「精神小妹」，报道中国年轻一代越来越看不到靠工作改善生活的希望，称之为「失落的一代」",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120360869116743784",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 149,
+   "reposts": 11,
+   "replies": 22,
+   "views": 18433,
+   "bookmarks": 35
+  },
+  "time": "11-11 11:40",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "据界面新闻，一汽大众口头通知 2025、2026 年两年的「保单」奖金停发，波及工程师和车间工人，这笔钱约占部分员工全年收入四成，有工程师月到手从 1 万降到 6000",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120355836627165311",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 41,
+   "reposts": 3,
+   "replies": 10,
+   "views": 13251,
+   "bookmarks": 4
+  },
+  "time": "11-11 11:20",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "共和党控制的众议院以 211 比 204 搁置了对国防部长赫格塞思的弹劾案（马西提出，针对在伊朗、也门、委内瑞拉和加勒比的军事行动）",
+  "author": "@clashreport",
+  "url": "https://x.com/clashreport/status/2120291544494403918",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2120295851230908918"
+  ],
+  "metrics": {
+   "likes": 722,
+   "reposts": 131,
+   "replies": 67,
+   "views": 407270,
+   "bookmarks": 87
+  },
+  "time": "11-11 07:04",
+  "tags": []
+ },
+ {
+  "date": "2026-11-11",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "据纽约时报，美国财长贝森特因遭伊朗生命威胁，已搬出住所、住进军事基地",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2120328675291759008",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2120347203440873506"
+  ],
+  "metrics": {
+   "likes": 2037,
+   "reposts": 201,
+   "replies": 134,
+   "views": 191195,
+   "bookmarks": 85
+  },
+  "time": "11-11 09:32",
+  "tags": []
  }
 ]
