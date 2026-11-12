@@ -1,0 +1,358 @@
+[
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "英伟达宣布，创始人黄仁勋已辞去总裁、首席执行官及董事职务，即刻生效；财务长科莱特·克雷斯（Colette Kress）出任临时 CEO 并继续兼任财务负责人，董事会将同时考虑内外部人选。公司还首次设立董事会主席，由哈维·C·琼斯担任。中文圈转述盘前跌约 10%–11%，《金融时报》称周四收跌 4.3%。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2120884678781788359",
+    "extra_urls": [
+      "https://x.com/xiaohu/status/2120879926861791372",
+      "https://x.com/dw_chinese/status/2120894504475746363",
+      "https://x.com/dotey/status/2120902632550060478",
+      "https://x.com/FT/status/2120989286644224158"
+    ],
+    "metrics": {
+      "likes": 287,
+      "reposts": 41,
+      "replies": 66,
+      "views": 71886,
+      "bookmarks": 26
+    },
+    "edition": "早报",
+    "why": "执掌英伟达 33 年的创始人突然去职，正值公司市值和全球 AI 算力格局的关键节点，已连带引发股价波动、继任人选和对华芯片调查等连锁反应。",
+    "verify": "对照了 BBC 中文对董事会声明的转述，以及 @xiaohu、德国之声中文关于任命科莱特·克雷斯为临时 CEO、哈维·C·琼斯为首任董事长的说明；《金融时报》称周四收跌 4.3%。盘前跌约 10%–11% 来自中文账号转述，本轮未见交易所官方报价截图。正式继任者尚未确定。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "美国总统特朗普在社交平台表示，黄仁勋辞职后，他认为能接任英伟达正式 CEO 的唯一人选，是刚从苹果卸任的蒂姆·库克，并称库克是「传奇」。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2120904876150669675",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2120979964535173612",
+      "https://x.com/VOAChinese/status/2120926184120766495"
+    ],
+    "metrics": {
+      "likes": 353,
+      "reposts": 10,
+      "replies": 138,
+      "views": 106887,
+      "bookmarks": 34
+    },
+    "edition": "早报",
+    "verify": "路透转述了特朗普的表态；美国之音中文提供了其对真相社交帖文的译文。这只是总统公开点名，未见苹果、库克本人或英伟达董事会的回应。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "路透援引两名消息人士称，已去职的黄仁勋还与英伟达另一名员工有过亲密关系，被报道为第三段婚外情；路透未公布该员工姓名，只称其是公司雇员。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2120975411802997203",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2120970488008609934",
+      "https://x.com/TechCrunch/status/2120977196986638437"
+    ],
+    "metrics": {
+      "likes": 1351,
+      "reposts": 73,
+      "replies": 185,
+      "views": 166600,
+      "bookmarks": 64
+    },
+    "edition": "早报",
+    "verify": "对照了 @unusual_whales、@DeItaone 对路透的转述，以及 TechCrunch 说明路透隐去了这名员工的姓名。本轮未见路透官方账号原帖，关系性质与时间线仍以路透原报道为准。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "Google DeepMind 发布 Gemini 4 Hydrogen：主打快速编程、多模态合成和日常工作流，官方称完成任务比 3.8 Flash 快 2.5 倍，并在 Artificial Analysis 指数上超过 Argon。中文整理称其对标 Claude Sonnet 5.5 和 GPT-6.1 Terra，Gemini 应用付费用户可选，开发者免费层即可使用。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+    "extra_urls": [
+      "https://x.com/dotey/status/2120945309714919886"
+    ],
+    "metrics": {
+      "likes": 4830,
+      "reposts": 391,
+      "replies": 238,
+      "views": 471234,
+      "bookmarks": 491
+    },
+    "edition": "早报",
+    "why": "谷歌官方推出新一代主力快速模型，并已进入应用和开发者接口，可能立刻改变模型和搜索产品的用量与成本结构。",
+    "verify": "对照了 @GoogleDeepMind 官方帖，以及 @dotey 对发布说明的中文整理。官方给出的速度和基准对比尚未见到独立评测的逐项复核。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "＠DeItaone 援引彭博消息人士称，Anthropic 的 IPO 认购约超额 6 倍，估值目标 1.4 万亿美元，拟筹资 644 亿美元（帖文后续数字被截断）。路透则称该公司预计下周上市，估值会明显低于一度传闻的 2 万亿美元。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2120987833888370826",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2120777363793309745"
+    ],
+    "metrics": {
+      "likes": 133,
+      "reposts": 22,
+      "replies": 19,
+      "views": 56066,
+      "bookmarks": 19
+    },
+    "edition": "早报",
+    "verify": "路透确认 Anthropic 预计下周上市、估值低于一度传闻的 2 万亿美元。超额 6 倍、1.4 万亿美元估值和 644 亿美元筹资额目前只见到 @DeItaone 对彭博消息人士的转述，且原帖文本被截断，本轮未见彭博原文，这些数字仍待核对。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "有账号称 Anthropic 已推出 Claude Meetings 测试版，可把 Claude 拉进视频会议：做笔记、草拟带负责人和日期的待办、回答聊天里的问题，并现场生成文档。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2120985988650369393",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 310,
+      "reposts": 21,
+      "replies": 40,
+      "views": 68172,
+      "bookmarks": 28
+    },
+    "edition": "早报",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "《信息报》独家：与黄乐有关联的 Litong Inc 等公司自 2023 年以来向中国进口了约 24 万枚英伟达芯片，价值至少 75 亿美元，并投资了 DeepSeek；黄乐曾短暂担任董事总经理的超速国际（Megaspeed）在 2023–2025 年进口规模约 46 亿美元。@DeItaone 转述《信息报》称，英伟达将继续调查前 CEO 及所谓「中国间谍」相关指控。另有彭博消息称，司法部在查与黄乐有关的公司是否曾帮助把超微电脑（Super Micro）产品偷运进中国。",
+    "author": "@theinformation",
+    "url": "https://x.com/theinformation/status/2120966117770297582",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2120984181232841173",
+      "https://x.com/theinformation/status/2120954844336849138",
+      "https://x.com/Cointelegraph/status/2120972576956600721"
+    ],
+    "metrics": {
+      "likes": 31,
+      "reposts": 11,
+      "replies": 0,
+      "views": 5671,
+      "bookmarks": 10
+    },
+    "edition": "早报",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "AI",
+    "summary": "＠AYi_AInotes 发长文：介绍独立开发者用 ChatGPT 做网页小游戏累计赚到 2.5 万美元以上的案例，并开源自己用 Fusion Max 2.0、花费 5.77 美元做出 3D 网页游戏《猫咪拆家》的提示词、改稿流程和成本明细。",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2120865290703552993",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 113,
+      "reposts": 12,
+      "replies": 39,
+      "views": 60235,
+      "bookmarks": 226
+    },
+    "edition": "早报",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "Crypto",
+    "summary": "币安官方称，已完成对安全事件中受影响资产的赔付，并发布新的储备金证明快照；零知识证明生成后，用户可自行核验资产至少 1:1 兑付。赵长鹏转发称「100% 1:1 储备，资金 SAFU」。彭博报道，币安表示已补齐客户被盗的全部 63 亿美元加密资产，并称这是有史以来规模最大的网络盗窃案的收尾。",
+    "author": "@binance",
+    "url": "https://x.com/binance/status/2120921979226329504",
+    "extra_urls": [
+      "https://x.com/cz_binance/status/2120944565448548658",
+      "https://x.com/business/status/2120937188200272046"
+    ],
+    "metrics": {
+      "likes": 1592,
+      "reposts": 188,
+      "replies": 353,
+      "views": 456055,
+      "bookmarks": 78
+    },
+    "edition": "早报",
+    "why": "若 63 亿美元赔付属实，将是加密货币行业规模空前的失窃与垫付，直接影响对币安储备和行业托管风险的判断。",
+    "verify": "对照了 @binance 官方说明和彭博官方账号 @business 的报道。盗窃发生的具体时间、攻击路径和储备金证明的独立审计细节，本轮帖文中没有展开。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "Crypto",
+    "summary": "＠EmberCN 监测：一名在 8 月底做多价值约 4.93 亿美元比特币和以太坊的巨鲸，约两个半月后多仓全部爆仓，6921 万美元本金亏至约 62 万美元，亏损约 6859 万美元。",
+    "author": "@EmberCN",
+    "url": "https://x.com/EmberCN/status/2120891138794267110",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 79,
+      "reposts": 6,
+      "replies": 34,
+      "views": 23543,
+      "bookmarks": 13
+    },
+    "edition": "早报"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国内形势",
+    "summary": "台湾总统赖清德 11 月 12 日表示，台湾将以「平等互动」为原则，出席下周在深圳举行的亚太经合组织（APEC）领导人峰会，并宣布由宏碁创办人施振荣担任台湾领袖代表。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2120867991881474072",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 338,
+      "reposts": 30,
+      "replies": 100,
+      "views": 201928,
+      "bookmarks": 60
+    },
+    "edition": "早报",
+    "why": "深圳 APEC 在即，台湾代表人选和「平等互动」表述，会直接影响峰会的议程安排和两岸、中美互动的看点。",
+    "verify": "对照了美国之音中文对赖清德 12 日表态的报道。代表团其他成员、行程细节和中方是否公开回应，本轮未见。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国内形势",
+    "summary": "11 月 12 日，网传奇瑞汽车在某高校校招微信群里要求学生「不要急于了解企业薪资待遇」，先谈自身优势与梦想，并称「新兵」前期只有付出冲锋、有了价值后期才会有高薪，截图流出后被学生直接艾特痛骂。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2120889351509094867",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 246,
+      "reposts": 10,
+      "replies": 24,
+      "views": 59391,
+      "bookmarks": 38
+    },
+    "edition": "早报",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国内形势",
+    "summary": "《联合早报》：卷入黄仁勋婚外情风波的超速国际前高管黄乐，此前接受新加坡警方调查时提供了不实信息，因此被给予严厉警告，并禁止再次入境新加坡。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2120882664441856335",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 85,
+      "reposts": 11,
+      "replies": 12,
+      "views": 39508,
+      "bookmarks": 20
+    },
+    "edition": "早报"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国内形势",
+    "summary": "11 月 10 日，退休 6 年的中交集团原党委书记、董事长刘起涛被开除党籍、取消待遇。纪检通报称，他靠表面上的业绩高速增长捞取政治资本，利用央企资源结交政治骗子和工程掮客，还通过政商「旋转门」安排亲信。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2120884318411383232",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 75,
+      "reposts": 7,
+      "replies": 15,
+      "views": 34690,
+      "bookmarks": 11
+    },
+    "edition": "早报",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国际形势",
+    "summary": "彭博称，SpaceX 与特斯拉的合并谈判正在推进，双方董事会和顾问正在敲定条款，有可能最早于 12 月宣布，若落地将是史上规模最大的并购。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2120978626132738178",
+    "extra_urls": [
+      "https://x.com/business/status/2120982478437458267",
+      "https://x.com/DeItaone/status/2120972219409125727",
+      "https://x.com/Polymarket/status/2120980134186348649"
+    ],
+    "metrics": {
+      "likes": 3622,
+      "reposts": 275,
+      "replies": 140,
+      "views": 215583,
+      "bookmarks": 186
+    },
+    "edition": "早报",
+    "why": "若落地，将把马斯克旗下航天与电动车、AI 相关资产并到一起，会是全球资本市场有记录以来最大规模的并购之一，直接影响美股和科技格局。",
+    "verify": "对照了 @KobeissiLetter 对彭博的转述，以及彭博官方账号 @business 的同题帖。具体对价、股权结构和是否已获两家董事会批准，报道只说「正在敲定条款」「有望 12 月宣布」，尚未见到公司正式声明或监管申报。"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国际形势",
+    "summary": "乌克兰总统泽连斯基在都柏林会见法国总统马克龙、意大利总理梅洛尼，以及英、德、法、意和欧盟的国家安全顾问，通报阿布扎比会谈并协调立场，为柏林举行的「意愿联盟」会议做准备。他写道，各方都在密切关注眼下的外交局势。特朗普特使与普京在莫斯科会面的抵达消息，昨晚报已报过，本轮仍未见双方公布会谈结果。",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2120974001732526084",
+    "extra_urls": [
+      "https://x.com/ZelenskyyUa/status/2120976977356337611",
+      "https://x.com/ZelenskyyUa/status/2120978682353225751"
+    ],
+    "metrics": {
+      "likes": 1262,
+      "reposts": 221,
+      "replies": 75,
+      "views": 56467,
+      "bookmarks": 20
+    },
+    "edition": "早报"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国际形势",
+    "summary": "有账号称，萨尔瓦多总统布克尔已与海地警方展开行动，打击绑架了 16 名美国基督教传教士的海地帮派。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2120982878947549371",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1905,
+      "reposts": 216,
+      "replies": 52,
+      "views": 36720,
+      "bookmarks": 59
+    },
+    "edition": "早报",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "国际形势",
+    "summary": "路透称，阿联酋哈伊马角附近一艘油轮遇袭，船员全部安全。英国海事安全公司 Ambrey 称，一艘商船周三在驶出霍尔木兹海峡时，于哈伊马角西北约 14 海里处被不明投射物击中。这与昨晚报已提到的「两艘油轮因爆炸失去动力」或为同一轮事件的后续细节；是否另有新的遇袭船只，本轮未见权威分报。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2120922112101671279",
+    "extra_urls": [
+      "https://x.com/AJEnglish/status/2120820832100602085"
+    ],
+    "metrics": {
+      "likes": 35,
+      "reposts": 9,
+      "replies": 4,
+      "views": 40891,
+      "bookmarks": 3
+    },
+    "edition": "早报",
+    "tags": [
+      "价值观察"
+    ]
+  }
+]
