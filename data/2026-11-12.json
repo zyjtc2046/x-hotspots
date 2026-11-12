@@ -1,426 +1,655 @@
 [
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "Axios 报道：商务部长卢特尼克多次拖延特朗普已三度批准的英伟达芯片对华转运限制；财长贝森特在白宫战情室当面质问，为何被指向中国转运芯片的英伟达客户 Megaspeed 还没被列入实体清单。特朗普在椭圆办公室征询马斯克后曾说「把这事办了」，但商务部仍未执行。另有股东起诉英伟达及黄仁勋，指控其隐瞒国家安全风险。",
-    "author": "@DeItaone",
-    "url": "https://x.com/DeItaone/status/2120623497680769169",
-    "extra_urls": [
-      "https://x.com/unusual_whales/status/2120616805567988198",
-      "https://x.com/DeItaone/status/2120623027071184900",
-      "https://x.com/Cointelegraph/status/2120502219745218737"
-    ],
-    "metrics": {
-      "likes": 144,
-      "reposts": 26,
-      "replies": 31,
-      "views": 62331,
-      "bookmarks": 31
-    },
-    "edition": "早报",
-    "why": "黄仁勋风波之后，白宫内部围绕对华芯片口子还要不要收出现公开撕裂，可能影响英伟达对华销售和管制是否真正落地。",
-    "verify": "对照了 Axios 两篇报道及路透转述：特朗普今年已三次（5月、8月、11月5日）批准对涉嫌转运英伟达芯片的公司采取行动，并在椭圆办公室征询马斯克后表态推进，但商务部仍未执行。商务部发言人否认贝森特与卢特尼克有过那场对质。限制是否已经写成官方文件，本轮未见。"
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "Axios 报道：商务部长卢特尼克多次拖延特朗普已三度批准的英伟达芯片对华转运限制；财长贝森特在白宫战情室当面质问，为何被指向中国转运芯片的英伟达客户 Megaspeed 还没被列入实体清单。特朗普在椭圆办公室征询马斯克后曾说「把这事办了」，但商务部仍未执行。另有股东起诉英伟达及黄仁勋，指控其隐瞒国家安全风险。",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120623497680769169",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2120616805567988198",
+   "https://x.com/DeItaone/status/2120623027071184900",
+   "https://x.com/Cointelegraph/status/2120502219745218737"
+  ],
+  "metrics": {
+   "likes": 144,
+   "reposts": 26,
+   "replies": 31,
+   "views": 62331,
+   "bookmarks": 31
   },
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "美国联邦参议员霍利（Josh Hawley）呼吁在国会通过一项「权利法案」之前，先在联邦层面暂时叫停数据中心建设，是目前公开支持全国性暂停的最高级别共和党人。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2120618021664542936",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 365,
-      "reposts": 50,
-      "replies": 74,
-      "views": 91273,
-      "bookmarks": 33
-    },
-    "edition": "早报",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "why": "黄仁勋风波之后，白宫内部围绕对华芯片口子还要不要收出现公开撕裂，可能影响英伟达对华销售和管制是否真正落地。",
+  "verify": "对照了 Axios 两篇报道及路透转述：特朗普今年已三次（5月、8月、11月5日）批准对涉嫌转运英伟达芯片的公司采取行动，并在椭圆办公室征询马斯克后表态推进，但商务部仍未执行。商务部发言人否认贝森特与卢特尼克有过那场对质。限制是否已经写成官方文件，本轮未见。"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "美国联邦参议员霍利（Josh Hawley）呼吁在国会通过一项「权利法案」之前，先在联邦层面暂时叫停数据中心建设，是目前公开支持全国性暂停的最高级别共和党人。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120618021664542936",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 365,
+   "reposts": 50,
+   "replies": 74,
+   "views": 91273,
+   "bookmarks": 33
   },
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "Anthropic 新版地区政策于 11 月 12 日生效：即便公司在美国注册、员工也在美国，只要由中国大陆的个人或机构控股，仍不能使用 Claude。该限制 2025 年 9 月已有类似宣布。中文圈同时在传「Claude IP 风险检测」网站，用来查看账号能否过新规。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2120531999098056894",
-    "extra_urls": [
-      "https://x.com/vista8/status/2120505182991839728"
-    ],
-    "metrics": {
-      "likes": 270,
-      "reposts": 18,
-      "replies": 29,
-      "views": 48937,
-      "bookmarks": 56
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号"
-    ]
+  "edition": "早报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "Anthropic 新版地区政策于 11 月 12 日生效：即便公司在美国注册、员工也在美国，只要由中国大陆的个人或机构控股，仍不能使用 Claude。该限制 2025 年 9 月已有类似宣布。中文圈同时在传「Claude IP 风险检测」网站，用来查看账号能否过新规。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120531999098056894",
+  "extra_urls": [
+   "https://x.com/vista8/status/2120505182991839728"
+  ],
+  "metrics": {
+   "likes": 270,
+   "reposts": 18,
+   "replies": 29,
+   "views": 48937,
+   "bookmarks": 56
   },
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "微软正式承诺自行承担自家 AI 数据中心的电费，以回应公众对电价被推高的不满。",
-    "author": "@Polymarket",
-    "url": "https://x.com/Polymarket/status/2120624564611019079",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 198,
-      "reposts": 24,
-      "replies": 39,
-      "views": 17065,
-      "bookmarks": 19
-    },
-    "edition": "早报",
-    "tags": [
-      "价值观察"
-    ]
+  "edition": "早报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "微软正式承诺自行承担自家 AI 数据中心的电费，以回应公众对电价被推高的不满。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120624564611019079",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 198,
+   "reposts": 24,
+   "replies": 39,
+   "views": 17065,
+   "bookmarks": 19
   },
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "中文 AI 圈继续演示 Claude Fable 5.2：@AYi_AInotes 用它做视频底座蒸馏、生成静止人像，并开源一套生图提示词；@op7418 称其做游戏、场景和细节的能力明显变强。",
-    "author": "@AYi_AInotes",
-    "url": "https://x.com/AYi_AInotes/status/2120526727541645709",
-    "extra_urls": [
-      "https://x.com/op7418/status/2120528843031334915"
-    ],
-    "metrics": {
-      "likes": 169,
-      "reposts": 11,
-      "replies": 25,
-      "views": 14507,
-      "bookmarks": 150
-    },
-    "edition": "早报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "中文 AI 圈继续演示 Claude Fable 5.2：@AYi_AInotes 用它做视频底座蒸馏、生成静止人像，并开源一套生图提示词；@op7418 称其做游戏、场景和细节的能力明显变强。",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2120526727541645709",
+  "extra_urls": [
+   "https://x.com/op7418/status/2120528843031334915"
+  ],
+  "metrics": {
+   "likes": 169,
+   "reposts": 11,
+   "replies": 25,
+   "views": 14507,
+   "bookmarks": 150
   },
-  {
-    "date": "2026-11-12",
-    "category": "AI",
-    "summary": "有中文 AI 从业者称，在群里看到腾讯混元团队讨论大裁员，并担心这只是行业收缩的开始。此为私下群聊转述，尚未见到腾讯官方说明。",
-    "author": "@MaxForAI",
-    "url": "https://x.com/MaxForAI/status/2120543479550083273",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 64,
-      "reposts": 0,
-      "replies": 9,
-      "views": 13656,
-      "bookmarks": 10
-    },
-    "edition": "早报",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "AI",
+  "summary": "有中文 AI 从业者称，在群里看到腾讯混元团队讨论大裁员，并担心这只是行业收缩的开始。此为私下群聊转述，尚未见到腾讯官方说明。",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2120543479550083273",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 64,
+   "reposts": 0,
+   "replies": 9,
+   "views": 13656,
+   "bookmarks": 10
   },
-  {
-    "date": "2026-11-12",
-    "category": "Crypto",
-    "summary": "彭博消息：OKX 与纽交所母公司洲际交易所（ICE）计划 11 月 23 日上线代币化股票平台，拟推出 70 多个股票和 ETF 相关代币。CoinDesk 补充称，将覆盖包括 Coinbase、Circle、Robinhood 在内的标的及 59 只 ETF，并走美国证交会「创新豁免」机制，计划 24 小时交易。",
-    "author": "@Cointelegraph",
-    "url": "https://x.com/Cointelegraph/status/2120503366363013553",
-    "extra_urls": [
-      "https://x.com/CoinDesk/status/2120515519531163758",
-      "https://x.com/WuBlockchain/status/2120507073356234802"
-    ],
-    "metrics": {
-      "likes": 416,
-      "reposts": 72,
-      "replies": 40,
-      "views": 46674,
-      "bookmarks": 25
-    },
-    "edition": "早报",
-    "why": "传统交易所基础设施商和加密交易所合资做代币化美股，是把证券链上交易往前推的实质性节点，也取决于证交会豁免能否站住。",
-    "verify": "Cointelegraph、CoinDesk 和吴说区块链都报道了同一进展，CoinDesk 列出了部分标的以及「创新豁免」、24 小时交易等细节。未打开彭博原文或双方官方新闻稿逐条核对上线日和标的名单。"
+  "edition": "早报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "Crypto",
+  "summary": "彭博消息：OKX 与纽交所母公司洲际交易所（ICE）计划 11 月 23 日上线代币化股票平台，拟推出 70 多个股票和 ETF 相关代币。CoinDesk 补充称，将覆盖包括 Coinbase、Circle、Robinhood 在内的标的及 59 只 ETF，并走美国证交会「创新豁免」机制，计划 24 小时交易。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120503366363013553",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2120515519531163758",
+   "https://x.com/WuBlockchain/status/2120507073356234802"
+  ],
+  "metrics": {
+   "likes": 416,
+   "reposts": 72,
+   "replies": 40,
+   "views": 46674,
+   "bookmarks": 25
   },
-  {
-    "date": "2026-11-12",
-    "category": "Crypto",
-    "summary": "据塔斯社，俄罗斯央行表示：交易所若先与监管部门就交易规则达成一致，最早可在 11 月 22 日开展加密货币交易。",
-    "author": "@Cointelegraph",
-    "url": "https://x.com/Cointelegraph/status/2120522107880628256",
-    "extra_urls": [
-      "https://x.com/WuBlockchain/status/2120520166325039328",
-      "https://x.com/CoinDesk/status/2120523261180105110"
-    ],
-    "metrics": {
-      "likes": 210,
-      "reposts": 37,
-      "replies": 37,
-      "views": 35560,
-      "bookmarks": 7
-    },
-    "edition": "早报"
+  "edition": "早报",
+  "why": "传统交易所基础设施商和加密交易所合资做代币化美股，是把证券链上交易往前推的实质性节点，也取决于证交会豁免能否站住。",
+  "verify": "Cointelegraph、CoinDesk 和吴说区块链都报道了同一进展，CoinDesk 列出了部分标的以及「创新豁免」、24 小时交易等细节。未打开彭博原文或双方官方新闻稿逐条核对上线日和标的名单。"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "Crypto",
+  "summary": "据塔斯社，俄罗斯央行表示：交易所若先与监管部门就交易规则达成一致，最早可在 11 月 22 日开展加密货币交易。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120522107880628256",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2120520166325039328",
+   "https://x.com/CoinDesk/status/2120523261180105110"
+  ],
+  "metrics": {
+   "likes": 210,
+   "reposts": 37,
+   "replies": 37,
+   "views": 35560,
+   "bookmarks": 7
   },
-  {
-    "date": "2026-11-12",
-    "category": "Crypto",
-    "summary": "Lookonchain 数据：11 月 11 日比特币现货 ETF 净流出 1649 枚 BTC（约 1.22 亿美元），近 7 日净流出 1.56 万枚（约 11.5 亿美元）；以太坊现货 ETF 当日净流出 1.15 万枚 ETH（约 2365 万美元），近 7 日净流出 12.8 万枚（约 2.63 亿美元）。",
-    "author": "@lookonchain",
-    "url": "https://x.com/lookonchain/status/2120513332776231021",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 109,
-      "reposts": 6,
-      "replies": 60,
-      "views": 43953,
-      "bookmarks": 5
-    },
-    "edition": "早报",
-    "tags": [
-      "价值观察"
-    ]
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "Crypto",
+  "summary": "Lookonchain 数据：11 月 11 日比特币现货 ETF 净流出 1649 枚 BTC（约 1.22 亿美元），近 7 日净流出 1.56 万枚（约 11.5 亿美元）；以太坊现货 ETF 当日净流出 1.15 万枚 ETH（约 2365 万美元），近 7 日净流出 12.8 万枚（约 2.63 亿美元）。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2120513332776231021",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 109,
+   "reposts": 6,
+   "replies": 60,
+   "views": 43953,
+   "bookmarks": 5
   },
-  {
-    "date": "2026-11-12",
-    "category": "Crypto",
-    "summary": "三季度 13F 显示，巴克莱将比特币现货 ETF（IBIT）持仓增加 48% 至 1.87 亿美元，花旗新增 1.19 亿美元 FBTC 仓位；在已披露的持仓中，银行合计约占现货比特币 ETF 的 4.9%。",
-    "author": "@CoinDesk",
-    "url": "https://x.com/CoinDesk/status/2120496595276050674",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 136,
-      "reposts": 30,
-      "replies": 54,
-      "views": 27859,
-      "bookmarks": 4
-    },
-    "edition": "早报",
-    "tags": [
-      "价值观察"
-    ]
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "Crypto",
+  "summary": "三季度 13F 显示，巴克莱将比特币现货 ETF（IBIT）持仓增加 48% 至 1.87 亿美元，花旗新增 1.19 亿美元 FBTC 仓位；在已披露的持仓中，银行合计约占现货比特币 ETF 的 4.9%。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2120496595276050674",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 136,
+   "reposts": 30,
+   "replies": 54,
+   "views": 27859,
+   "bookmarks": 4
   },
-  {
-    "date": "2026-11-12",
-    "category": "国内形势",
-    "summary": "《南华早报》：约 30 名日本成人影片演员被拒绝入境香港，原定活动被迫取消。",
-    "author": "@SCMPNews",
-    "url": "https://x.com/SCMPNews/status/2120503926487216632",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 1241,
-      "reposts": 181,
-      "replies": 66,
-      "views": 180699,
-      "bookmarks": 644
-    },
-    "edition": "早报",
-    "why": "这是过去 24 小时中文和香港相关帖里热度最高的一条，反映入境管制如何直接叫停大型活动。",
-    "verify": "原帖来自《南华早报》官方账号并附报道链接，热度数据来自该帖公开互动。未打开稿件全文逐条核对演职员名单和主办方声明。",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国内形势",
+  "summary": "《南华早报》：约 30 名日本成人影片演员被拒绝入境香港，原定活动被迫取消。",
+  "author": "@SCMPNews",
+  "url": "https://x.com/SCMPNews/status/2120503926487216632",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1241,
+   "reposts": 181,
+   "replies": 66,
+   "views": 180699,
+   "bookmarks": 644
   },
-  {
-    "date": "2026-11-12",
-    "category": "国内形势",
-    "summary": "台湾内政部长刘世芳 11 月 11 日证实：卷入英伟达黄仁勋婚外情及涉谍风波的中国女商人黄乐，目前人在境外，台湾已撤销其入境许可，不允许再次入境。她曾持香港护照多次入境台湾；美方 2024 年已作过相关示警。",
-    "author": "@VOAChinese",
-    "url": "https://x.com/VOAChinese/status/2120506485075484906",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 146,
-      "reposts": 20,
-      "replies": 17,
-      "views": 38164,
-      "bookmarks": 18
-    },
-    "edition": "早报"
+  "edition": "早报",
+  "why": "这是过去 24 小时中文和香港相关帖里热度最高的一条，反映入境管制如何直接叫停大型活动。",
+  "verify": "原帖来自《南华早报》官方账号并附报道链接，热度数据来自该帖公开互动。未打开稿件全文逐条核对演职员名单和主办方声明。",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国内形势",
+  "summary": "台湾内政部长刘世芳 11 月 11 日证实：卷入英伟达黄仁勋婚外情及涉谍风波的中国女商人黄乐，目前人在境外，台湾已撤销其入境许可，不允许再次入境。她曾持香港护照多次入境台湾；美方 2024 年已作过相关示警。",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2120506485075484906",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 146,
+   "reposts": 20,
+   "replies": 17,
+   "views": 38164,
+   "bookmarks": 18
   },
-  {
-    "date": "2026-11-12",
-    "category": "国内形势",
-    "summary": "APEC 前夕，多名网友拍到深圳宝安坪洲站附近一栋长期停工的烂尾楼被整栋裹上蓝色围挡，有人调侃「建了个水立方」，并说会后大概会恢复原貌。同期还有：深圳万象城通知员工勿骑电动车上下班以配合「绿色出行」；澳门海事部门公告，深圳福永往返澳门客船将于 11 月 16 日至 21 日双向停航。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2120569748190543878",
-    "extra_urls": [
-      "https://x.com/whyyoutouzhele/status/2120506831478915417",
-      "https://x.com/whyyoutouzhele/status/2120537029763334601"
-    ],
-    "metrics": {
-      "likes": 192,
-      "reposts": 14,
-      "replies": 23,
-      "views": 32189,
-      "bookmarks": 35
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号"
-    ]
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国内形势",
+  "summary": "APEC 前夕，多名网友拍到深圳宝安坪洲站附近一栋长期停工的烂尾楼被整栋裹上蓝色围挡，有人调侃「建了个水立方」，并说会后大概会恢复原貌。同期还有：深圳万象城通知员工勿骑电动车上下班以配合「绿色出行」；澳门海事部门公告，深圳福永往返澳门客船将于 11 月 16 日至 21 日双向停航。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120569748190543878",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2120506831478915417",
+   "https://x.com/whyyoutouzhele/status/2120537029763334601"
+  ],
+  "metrics": {
+   "likes": 192,
+   "reposts": 14,
+   "replies": 23,
+   "views": 32189,
+   "bookmarks": 35
   },
-  {
-    "date": "2026-11-12",
-    "category": "国内形势",
-    "summary": "《华尔街日报》中文专栏（魏玲灵）认为，深圳峰会真正的危险或许在于：习近平赴会时自认稳占上风，能压过声势转弱的特朗普；对面却可能是一位怀疑是对手害他痛失国会的美国总统。",
-    "author": "@ChineseWSJ",
-    "url": "https://x.com/ChineseWSJ/status/2120521958345281918",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 24,
-      "reposts": 1,
-      "replies": 37,
-      "views": 23624,
-      "bookmarks": 5
-    },
-    "edition": "早报"
+  "edition": "早报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国内形势",
+  "summary": "《华尔街日报》中文专栏（魏玲灵）认为，深圳峰会真正的危险或许在于：习近平赴会时自认稳占上风，能压过声势转弱的特朗普；对面却可能是一位怀疑是对手害他痛失国会的美国总统。",
+  "author": "@ChineseWSJ",
+  "url": "https://x.com/ChineseWSJ/status/2120521958345281918",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 24,
+   "reposts": 1,
+   "replies": 37,
+   "views": 23624,
+   "bookmarks": 5
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "华尔街日报：特朗普对由副总统万斯重启对伊谈判持开放态度，万斯正考虑与伊朗最高国家安全委员会秘书雷扎伊当面谈，多哈或为候选地点，会面尚未敲定。路透称伊方否认已有此类安排，雷扎伊斥之为假新闻。另据以色列公营台 KAN：安全内阁曾指示军方加强对伊朗可能动手的准备；该内阁上次开会是 10 月 5 日（大选前），消息因艾森科特公开呼吁过渡政府克制才于 11 日晚间曝光，并不等于已下达新的开战命令。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2120609674584289508",
-    "extra_urls": [
-      "https://x.com/DeItaone/status/2120600061700702292",
-      "https://x.com/DeItaone/status/2120600244035715073",
-      "https://x.com/Polymarket/status/2120601957530505223",
-      "https://x.com/disclosetv/status/2120610398521221269"
-    ],
-    "metrics": {
-      "likes": 291,
-      "reposts": 20,
-      "replies": 38,
-      "views": 80004,
-      "bookmarks": 9
-    },
-    "edition": "早报",
-    "why": "美方放出停火谈判信号的同时，以方出现备战消息，直接关系到停火会不会谈成、战事会不会再升级。",
-    "verify": "对照了华尔街日报（援引美方及中东官员）：万斯 10 月曾致信雷扎伊，特朗普对其牵头谈判持开放态度，但会面仍处初步阶段、尚未定时。路透及公开报道里，雷扎伊称没有正在进行的谈判，并指责美方捏造假新闻。KAN 关于以军加强准备的报道被安纳托利亚通讯社、意大利媒体等转述，但内阁上次开会是 10 月 5 日，指令可能早于大选，不代表已做出新的立即进攻决定。@unusual_whales 另有一条「Trump: We have won in Iran」未给出处，未核到原话。"
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "华尔街日报：特朗普对由副总统万斯重启对伊谈判持开放态度，万斯正考虑与伊朗最高国家安全委员会秘书雷扎伊当面谈，多哈或为候选地点，会面尚未敲定。路透称伊方否认已有此类安排，雷扎伊斥之为假新闻。另据以色列公营台 KAN：安全内阁曾指示军方加强对伊朗可能动手的准备；该内阁上次开会是 10 月 5 日（大选前），消息因艾森科特公开呼吁过渡政府克制才于 11 日晚间曝光，并不等于已下达新的开战命令。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120609674584289508",
+  "extra_urls": [
+   "https://x.com/DeItaone/status/2120600061700702292",
+   "https://x.com/DeItaone/status/2120600244035715073",
+   "https://x.com/Polymarket/status/2120601957530505223",
+   "https://x.com/disclosetv/status/2120610398521221269"
+  ],
+  "metrics": {
+   "likes": 291,
+   "reposts": 20,
+   "replies": 38,
+   "views": 80004,
+   "bookmarks": 9
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "众议员已凑齐强制表决所需的解散请愿签名，众议院将在未来几周就新版《爱泼斯坦文件透明法案》投票；Politico 称相关立法还将为各州起诉司法部铺路。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2120602679990993163",
-    "extra_urls": [
-      "https://x.com/disclosetv/status/2120594040563302554"
-    ],
-    "metrics": {
-      "likes": 1535,
-      "reposts": 129,
-      "replies": 62,
-      "views": 116677,
-      "bookmarks": 38
-    },
-    "edition": "早报"
+  "edition": "早报",
+  "why": "美方放出停火谈判信号的同时，以方出现备战消息，直接关系到停火会不会谈成、战事会不会再升级。",
+  "verify": "对照了华尔街日报（援引美方及中东官员）：万斯 10 月曾致信雷扎伊，特朗普对其牵头谈判持开放态度，但会面仍处初步阶段、尚未定时。路透及公开报道里，雷扎伊称没有正在进行的谈判，并指责美方捏造假新闻。KAN 关于以军加强准备的报道被安纳托利亚通讯社、意大利媒体等转述，但内阁上次开会是 10 月 5 日，指令可能早于大选，不代表已做出新的立即进攻决定。@unusual_whales 另有一条「Trump: We have won in Iran」未给出处，未核到原话。"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "众议员已凑齐强制表决所需的解散请愿签名，众议院将在未来几周就新版《爱泼斯坦文件透明法案》投票；Politico 称相关立法还将为各州起诉司法部铺路。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120602679990993163",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2120594040563302554"
+  ],
+  "metrics": {
+   "likes": 1535,
+   "reposts": 129,
+   "replies": 62,
+   "views": 116677,
+   "bookmarks": 38
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "特朗普特使库什纳与威特科夫将于周四（11 月 12 日）在莫斯科会见普京，随后再赴都柏林见泽连斯基，以便把阿布扎比三方会谈的议题往前推。",
-    "author": "@DeItaone",
-    "url": "https://x.com/DeItaone/status/2120626926994006409",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 104,
-      "reposts": 13,
-      "replies": 17,
-      "views": 46709,
-      "bookmarks": 9
-    },
-    "edition": "早报",
-    "why": "这是阿布扎比会谈结束后立刻安排的高峰见面，关系到俄乌下一轮谈什么、欧洲能不能入席。",
-    "verify": "Axios 报道与库什纳在阿布扎比会后的亲自说明、塔斯社及自由欧洲电台转述一致。昨晚晚报只写到「可能很快访俄」，这次把日期和后续见泽连斯基的行程敲实了。会见结果当时尚未出来。",
-    "tags": [
-      "价值观察"
-    ]
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "特朗普特使库什纳与威特科夫将于周四（11 月 12 日）在莫斯科会见普京，随后再赴都柏林见泽连斯基，以便把阿布扎比三方会谈的议题往前推。",
+  "author": "@DeItaone",
+  "url": "https://x.com/DeItaone/status/2120626926994006409",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 104,
+   "reposts": 13,
+   "replies": 17,
+   "views": 46709,
+   "bookmarks": 9
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "前驻联合国大使、前共和党总统竞选人妮基·黑利宣布不参加 2028 年总统选举。",
-    "author": "@Polymarket",
-    "url": "https://x.com/Polymarket/status/2120604680434958622",
-    "extra_urls": [
-      "https://x.com/disclosetv/status/2120606966930452955"
-    ],
-    "metrics": {
-      "likes": 519,
-      "reposts": 33,
-      "replies": 105,
-      "views": 47923,
-      "bookmarks": 20
-    },
-    "edition": "早报"
+  "edition": "早报",
+  "why": "这是阿布扎比会谈结束后立刻安排的高峰见面，关系到俄乌下一轮谈什么、欧洲能不能入席。",
+  "verify": "Axios 报道与库什纳在阿布扎比会后的亲自说明、塔斯社及自由欧洲电台转述一致。昨晚晚报只写到「可能很快访俄」，这次把日期和后续见泽连斯基的行程敲实了。会见结果当时尚未出来。",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "前驻联合国大使、前共和党总统竞选人妮基·黑利宣布不参加 2028 年总统选举。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120604680434958622",
+  "extra_urls": [
+   "https://x.com/disclosetv/status/2120606966930452955"
+  ],
+  "metrics": {
+   "likes": 519,
+   "reposts": 33,
+   "replies": 105,
+   "views": 47923,
+   "bookmarks": 20
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "美国消费者认为「一年后失业率会更高」的比例 10 月升至 45.3%，一个月内提高 1.5 个百分点，为 2020 年 4 月以来最高，也是有记录以来第三高。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2120600179560837279",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 418,
-      "reposts": 43,
-      "replies": 84,
-      "views": 101056,
-      "bookmarks": 20
-    },
-    "edition": "早报"
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "美国消费者认为「一年后失业率会更高」的比例 10 月升至 45.3%，一个月内提高 1.5 个百分点，为 2020 年 4 月以来最高，也是有记录以来第三高。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120600179560837279",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 418,
+   "reposts": 43,
+   "replies": 84,
+   "views": 101056,
+   "bookmarks": 20
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "彭博对 70 多家美国养老金的分析：科技股已占其股票配置的 44%，较 2015 年翻了一倍以上。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2120624371081392294",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 263,
-      "reposts": 34,
-      "replies": 45,
-      "views": 57356,
-      "bookmarks": 44
-    },
-    "edition": "早报"
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "彭博对 70 多家美国养老金的分析：科技股已占其股票配置的 44%，较 2015 年翻了一倍以上。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120624371081392294",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 263,
+   "reposts": 34,
+   "replies": 45,
+   "views": 57356,
+   "bookmarks": 44
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "波兰独立日游行据称有超过 50 万保守派、民族主义者参加，为规模最大的一次，现场高喊「上帝、荣誉与祖国」。",
-    "author": "@visegrad24",
-    "url": "https://x.com/visegrad24/status/2120620506022043859",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 885,
-      "reposts": 131,
-      "replies": 36,
-      "views": 25089,
-      "bookmarks": 30
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号"
-    ]
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "波兰独立日游行据称有超过 50 万保守派、民族主义者参加，为规模最大的一次，现场高喊「上帝、荣誉与祖国」。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2120620506022043859",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 885,
+   "reposts": 131,
+   "replies": 36,
+   "views": 25089,
+   "bookmarks": 30
   },
-  {
-    "date": "2026-11-12",
-    "category": "国际形势",
-    "summary": "路透：西班牙数百万人举行 14 年来首次总罢工，抗议住房问题。",
-    "author": "@Reuters",
-    "url": "https://x.com/Reuters/status/2120618131022373001",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 36,
-      "reposts": 19,
-      "replies": 11,
-      "views": 46082,
-      "bookmarks": 8
-    },
-    "edition": "早报",
-    "tags": [
-      "价值观察"
-    ]
-  }
+  "edition": "早报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "category": "国际形势",
+  "summary": "路透：西班牙数百万人举行 14 年来首次总罢工，抗议住房问题。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2120618131022373001",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 36,
+   "reposts": 19,
+   "replies": 11,
+   "views": 46082,
+   "bookmarks": 8
+  },
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "AI",
+  "summary": "《华尔街日报》报道英伟达正准备罢免执掌 33 年的 CEO 黄仁勋；公司今日召开紧急董事会作决定，路透称会议已在进行。盘后股价下跌。有董事倾向由 CFO Colette Kress 暂代。马斯克回复称挖他「会是一种荣幸」。纽约时报还报道，黄仁勋与直接向其汇报的医疗业务副总裁 Kimberly Powell 另有婚外情，安保曾向酒店目击者提出签保密协议；彭博称被指涉谍的黄乐已回到北京居住。",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2120645607866188008",
+  "extra_urls": [
+   "https://x.com/WatcherGuru/status/2120665534404464757",
+   "https://x.com/WatcherGuru/status/2120689323368751233",
+   "https://x.com/Reuters/status/2120723271146471683",
+   "https://x.com/unusual_whales/status/2120707150968156259",
+   "https://x.com/Polymarket/status/2120712934120906988",
+   "https://x.com/Cointelegraph/status/2120720935900570028"
+  ],
+  "metrics": {
+   "likes": 34390,
+   "reposts": 1847,
+   "replies": 1135,
+   "views": 1963568,
+   "bookmarks": 2080
+  },
+  "time": "11-12 06:31",
+  "tags": [
+   "值得收藏"
+  ],
+  "top": true,
+  "why": "全球最重要的 AI 芯片公司可能在今天换掉创始人，会直接影响供应链、对华出口管制和整个 AI 板块的定价。",
+  "verify": "《华尔街日报》的「准备罢免」报道被 WatcherGuru、Cointelegraph、TechCrunch 转述；路透援引消息源称董事会正在开会，Mario Nawfal 补充 11 名董事中简单多数即可「有理由或无理由」罢免。Semafor 称部分董事倾向由 CFO Kress 暂代；纽约时报关于 Powell 的报道援引五名现任或前任员工；彭博称黄乐已回北京，彭博自身账号也发了同一消息。截稿时董事会结果尚未公布。马斯克原帖是回复 @zerohedge 的一句 “That would be an honor”，Cointelegraph 和 WatcherGuru 均解读为愿意聘请黄仁勋。"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "MSCI 在 11 月指数评估中决定，将于 11 月 30 日收盘把 Strategy 移出全球标准指数（含 MSCI USA 指数）；追踪这些基准的指数基金必须卖出股票，但 Strategy 不必因此卖出比特币。吴说区块链援引路透称，日本比特币财库公司 Metaplanet 和英国 Yellow Cake 一并剔除，Strategy 潜在被动流出可能达 88 亿美元。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120641797722382728",
+  "extra_urls": [
+   "https://x.com/WuBlockchain/status/2120662777895514401",
+   "https://x.com/PhyrexNi/status/2120643833935659035"
+  ],
+  "metrics": {
+   "likes": 263,
+   "reposts": 38,
+   "replies": 43,
+   "views": 43491,
+   "bookmarks": 16
+  },
+  "time": "11-12 06:16",
+  "tags": [
+   "价值观察"
+  ],
+  "top": true,
+  "why": "这是把「上市公司当比特币杠杆」的模式从主流指数里拿掉，可能带来数十亿美元被动抛压，也会改变后续比特币财库公司的估值逻辑。",
+  "verify": "Cointelegraph 写明依据是 MSCI 2026 年 11 月指数评估，并说明指数基金必须卖股、公司不必卖币。PhyrexNi 和吴说区块链报了同一结果，吴说补充路透关于 Metaplanet、Yellow Cake 以及 88 亿美元潜在流出的表述。未打开 MSCI 官方公告逐条核对成分股名单和流出测算。"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "Lookonchain 数据：一枚沉寂 4 年的巨鲸约 8 小时前向币安存入 1000 枚比特币（约 7378 万美元）。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2120707553760051550",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 110,
+   "reposts": 11,
+   "replies": 40,
+   "views": 30209,
+   "bookmarks": 3
+  },
+  "time": "11-12 10:37"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "Crypto",
+  "summary": "彭博：与特朗普关联的稳定币 USD1 已从阿联酋预测市场 ADI PredictStreet 的网站上撤下；链上数据显示该平台实际使用的是 USDC。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120705823508734401",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 89,
+   "reposts": 5,
+   "replies": 30,
+   "views": 25573,
+   "bookmarks": 5
+  },
+  "time": "11-12 10:30"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "11 月 11 日，网友拍到江西赣州汽车站附近大量沿街商铺闭门停业，现场有网格员敲门巡视，并有人用扩音器喊「各位商户，请大家正常营业」。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120708157303337341",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 296,
+   "reposts": 30,
+   "replies": 40,
+   "views": 50030,
+   "bookmarks": 50
+  },
+  "time": "11-12 10:40",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "近日不少京东骑手在社交平台晒出，自己被强行派送了派送费为 0 元的「公益订单」。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120703124105212379",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 224,
+   "reposts": 14,
+   "replies": 32,
+   "views": 31272,
+   "bookmarks": 18
+  },
+  "time": "11-12 10:20",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "有网友称，浙江大学有人把猜谜游戏里的绿青蛙设为头像，于 11 月 12 日被党委约谈。该游戏规则是猜错者须换上青蛙头像 24 小时。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120723256927728068",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 182,
+   "reposts": 8,
+   "replies": 26,
+   "views": 25043,
+   "bookmarks": 20
+  },
+  "time": "11-12 11:40",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国内形势",
+  "summary": "《金融时报》：中国警告，利用离岸信托逃税将面临「严厉惩处」。",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2120716300259377592",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 20,
+   "reposts": 6,
+   "replies": 3,
+   "views": 14626,
+   "bookmarks": 2
+  },
+  "time": "11-12 11:12",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "美联社：经过长时间计票，民主党人斯科特·科洛姆（Scott Colom）于周三击败共和党参议员辛迪·海德-史密斯，当选密西西比州联邦参议员，成为该州自重建时期以来首位黑人联邦参议员。",
+  "author": "@AP",
+  "url": "https://x.com/AP/status/2120711935247167596",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 500,
+   "reposts": 118,
+   "replies": 32,
+   "views": 55024,
+   "bookmarks": 37
+  },
+  "time": "11-12 10:55"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "有报道称，斯蒂芬·米勒在出任白宫幕僚长数日后，正着手打破苏茜·怀尔斯（Susie Wiles）对白宫对外传播的控制。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2120705664620368115",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1413,
+   "reposts": 88,
+   "replies": 27,
+   "views": 44948,
+   "bookmarks": 16
+  },
+  "time": "11-12 10:30",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "午报",
+  "category": "国际形势",
+  "summary": "代理海军部长洪曹（Hung Cao）对「乔治·H·W·布什」号航母官兵家属说，亲人假期回不了家；并警告若现在不挡住伊朗，其巡航导弹和无人机将多到难以穿透，伊朗会变成「拥有核武器的伊朗」。",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2120734175997366496",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 163,
+   "reposts": 26,
+   "replies": 14,
+   "views": 15344,
+   "bookmarks": 19
+  },
+  "time": "11-12 12:23",
+  "tags": [
+   "待核实"
+  ]
+ }
 ]
