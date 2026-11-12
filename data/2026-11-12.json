@@ -651,5 +651,240 @@
   "tags": [
    "待核实"
   ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "英伟达股价自盘中低点回升约 6%，仍较前收盘低约 5%；KobeissiLetter 称市场正在下调黄仁勋被罢免的押注。路透盘前评论标题为「Jensen hangs on」（黄仁勋暂时留任）；稍早彭博仍称董事会在物色继任者，余波已扩散到其他 AI 公司和中美关系。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2120829226718724535",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2120830227341271467",
+   "https://x.com/business/status/2120818945447846365"
+  ],
+  "metrics": {
+   "likes": 1082,
+   "reposts": 89,
+   "replies": 104,
+   "views": 107133,
+   "bookmarks": 34
+  },
+  "time": "11-12 18:41",
+  "tags": [],
+  "top": true,
+  "why": "午报还在报董事会开会决定去留，这几个小时市场已经转向押注黄仁勋留任，股价自低点明显修复，是此事的关键进展。",
+  "verify": "涨跌幅度和「下调罢免押注」只见 KobeissiLetter 一个来源，未核对行情软件；路透同时发了 “Jensen hangs on as Nvidia tumbles”。未见公司或董事会官方声明。中文圈「金角财经」传已批准辞职、由 Jay Puri 接任，与上述市场定价和路透表述不一致，未采信。"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "特朗普特使威特科夫与库什纳已抵达克里姆林宫会见普京。乌克兰总统泽连斯基称，前线部队用于抵御俄军袭击的 Starshield 互联网终端再次出现使用限制；《金融时报》亦称 Starlink 限制再现。另据 Axios，美方要求俄方提出一项旨在缓和俄与北约紧张关系的新欧洲安全安排。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2120831591241138431",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2120827695332270374",
+   "https://x.com/business/status/2120823938825478218",
+   "https://x.com/FT/status/2120838533816504495",
+   "https://x.com/Polymarket/status/2120825681634349290"
+  ],
+  "metrics": {
+   "likes": 115,
+   "reposts": 26,
+   "replies": 17,
+   "views": 16455,
+   "bookmarks": 1
+  },
+  "time": "11-12 18:50",
+  "tags": [],
+  "top": true,
+  "why": "早报只预报了两人周四访俄，此刻已经落地；同时出现前线通信限制再现，以及美方可能要求俄方重提欧洲安全架构，关系到谈判能谈什么。",
+  "verify": "抵达克里姆林宫有 visegrad24、MarioNawfal 同报；Starshield 限制再现见彭博（@business）引泽连斯基表态，《金融时报》也写了 Starlink 限制再现。Axios 关于新欧洲安全安排目前只见到 Polymarket 转述，未见 Axios 原帖。会谈结果本轮未见。"
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "据韩国《金融新闻》，奥特曼 10 月 31 日在一场约 50 名三星集团社长参加的闭门会上称，AI 需求存在「重复计算」，真正带动大规模需求增长的主要是 OpenAI 和 Anthropic。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2120834239377854806",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 170,
+   "reposts": 22,
+   "replies": 51,
+   "views": 56580,
+   "bookmarks": 36
+  },
+  "time": "11-12 19:01",
+  "tags": [
+   "价值观察",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "中国外交部发言人毛宁表示，美方不应借英伟达黄仁勋相关「中国间谍」说法加码对华技术限制。《金融时报》有同题报道；路透独家称，中国 AI 公司正争抢锁定英伟达芯片和海外算力，担心美方收紧管制。美联社：风波中心的 Megaspeed 承诺配合美方国家安全相关调查。",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2120834002923995188",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2120805046560444919",
+   "https://x.com/FT/status/2120837487761207521",
+   "https://x.com/Reuters/status/2120831483011104877",
+   "https://x.com/AP/status/2120827847098896727"
+  ],
+  "metrics": {
+   "likes": 759,
+   "reposts": 54,
+   "replies": 131,
+   "views": 144497,
+   "bookmarks": 42
+  },
+  "time": "11-12 19:00",
+  "tags": []
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "AI",
+  "summary": "字节跳动办公 Agent「豆包工作」今日接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型；新用户登录电脑版可领 30 天订阅，并有限时优惠。",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2120791693557444903",
+  "extra_urls": [
+   "https://x.com/op7418/status/2120829705431744707"
+  ],
+  "metrics": {
+   "likes": 67,
+   "reposts": 6,
+   "replies": 38,
+   "views": 5093,
+   "bookmarks": 23
+  },
+  "time": "11-12 16:11",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "CoinDesk 独家：有消息人士称，Gemini 已将英国和欧洲业务出售给稳定币支付公司 KAST，作价不到 1000 万美元。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2120822472022827299",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 38,
+   "reposts": 6,
+   "replies": 31,
+   "views": 17404,
+   "bookmarks": 3
+  },
+  "time": "11-12 18:14",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "Crypto",
+  "summary": "Backpack 与日本 Minna Bank（报道称管理规模约 4 亿美元）签署谅解备忘录，探讨把加密服务接入数字银行。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2120818864632025503",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 122,
+   "reposts": 19,
+   "replies": 48,
+   "views": 26846,
+   "bookmarks": 4
+  },
+  "time": "11-12 17:59",
+  "tags": []
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "11 月 11 日解放军空军成立 77 周年当天宣布入驻 YouTube、X、Instagram 和 Facebook；有网友在评论区留言「你保护的人民看不到你的故事」。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120783654855266441",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 380,
+   "reposts": 14,
+   "replies": 48,
+   "views": 51941,
+   "bookmarks": 34
+  },
+  "time": "11-12 15:40",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "澎湃新闻报道西安沣东政务中心挖掘机拆楼讨薪事件后，西安网警通报：三人借机编造传播虚假信息，其中陈某某用 AI 合成「兵马俑开挖掘机破坏大楼」视频（称浏览量 1.3 万）被行政拘留。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120808820771520548",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 308,
+   "reposts": 20,
+   "replies": 38,
+   "views": 45047,
+   "bookmarks": 32
+  },
+  "time": "11-12 17:20",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "国内形势",
+  "summary": "一名上海网友称，骑手送货时推销平台年卡，承诺开卡加送一板鸡蛋；开卡后发现鸡蛋是骑手为避免 KPI 不达标罚款而自掏腰包送的。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2120818890859319747",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 205,
+   "reposts": 11,
+   "replies": 20,
+   "views": 22933,
+   "bookmarks": 19
+  },
+  "time": "11-12 18:00",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "edition": "晚报",
+  "category": "国际形势",
+  "summary": "路透：伊朗伊斯兰革命卫队称，霍尔木兹海峡有两艘油轮因爆炸「失去动力」。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2120819026037256701",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2120826442074538286"
+  ],
+  "metrics": {
+   "likes": 37,
+   "reposts": 14,
+   "replies": 6,
+   "views": 31350,
+   "bookmarks": 6
+  },
+  "time": "11-12 18:00",
+  "tags": []
  }
 ]
