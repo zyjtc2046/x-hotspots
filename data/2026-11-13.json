@@ -354,5 +354,240 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "比特币跌破 7 万美元，盘中低见约 6.89 万美元，并出现大规模多头清算。@WatcherGuru 称过去一小时约 5 亿美元仓位被清算，比特币跌破 6.9 万美元，以太坊跌破 1950 美元，XRP 跌破 1.01 美元，SOL 跌破 80 美元；@WuBlockchain 援引币安和 CoinGlass 称，四小时清算约 6.22 亿美元，比特币 24 小时下跌约 6.11%，低点 68943 美元、随后约 69297 美元，24 小时高点 73866 美元；@Cointelegraph 称过去一小时超 4.4 亿美元被清算，其中约 4.17 亿来自多头。",
+    "author": "@WatcherGuru",
+    "url": "https://x.com/WatcherGuru/status/2121083804211175589",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2121085947022586095",
+      "https://x.com/Cointelegraph/status/2121095794258481471"
+    ],
+    "metrics": {
+      "likes": 2065,
+      "reposts": 245,
+      "replies": 313,
+      "views": 186565,
+      "bookmarks": 73
+    },
+    "why": "短时间内跌破整数关口，并伴随数亿美元杠杆仓位被集中挤出，可能继续影响风险资产情绪，也和今天英伟达等科技股的波动叠在一起。",
+    "verify": "对照了 @WatcherGuru 的实时通报，以及 @WuBlockchain 对币安报价和 CoinGlass 数据的转述、@Cointelegraph 的清算统计，下跌方向一致；各家给出的清算口径（一小时或四小时）和金额并不完全相同，精确低点和清算总额以交易所和 CoinGlass 当时数据为准。"
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "美国司法部长托德·布兰奇（Todd Blanche）表示，司法部尚未就黄仁勋婚外情对象黄乐（路透称 Alice Huang）是否为中方间谍作出认定。参议院银行委员会主席蒂姆·斯科特去信，要求黄仁勋和商务部长霍华德·卢特尼克（Howard Lutnick）就国家安全和敏感技术问题作证。众议院议长约翰逊称，黄仁勋去职后，国会在限制对华芯片出口上正形成更多共识。华尔街日报称，白宫已有人把这摊政治责任指向卢特尼克；金融时报称一名内阁高官已被卷入，议员要求解释相关芯片何以能出口给与涉嫌间谍有关联的公司。另有彭博消息称，OpenAI 支持一项两党提案，进一步限制中国获取先进 AI 芯片和设备。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2121045586832921038",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2121093224018198903",
+      "https://x.com/Reuters/status/2121074349574660192",
+      "https://x.com/Reuters/status/2121091939340529677",
+      "https://x.com/WSJ/status/2121093813192065124",
+      "https://x.com/FT/status/2121081015288389941",
+      "https://x.com/Cointelegraph/status/2121090868819963925"
+    ],
+    "metrics": {
+      "likes": 193,
+      "reposts": 16,
+      "replies": 25,
+      "views": 36487,
+      "bookmarks": 11
+    },
+    "why": "事情已从公司人事变成美国对华技术管制和白宫问责：司法部尚未定性「间谍」指控，国会却已要人作证，并讨论收紧芯片出口。",
+    "verify": "司法部表态对照了 @Cointelegraph 的转述和路透原文帖；斯科特要求作证、约翰逊谈出口限制均有路透帖可对。卢特尼克被问责来自《华尔街日报》官方账号；金融时报只写「一名内阁高官」，未在帖中点名。OpenAI 支持两党提案目前只见到 @Cointelegraph 对彭博的转述，本轮未见彭博原文帖。"
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "路透称，微软 365、Outlook、Teams 等服务周四中断超过五小时，数以千计用户受影响，连 OpenAI 和 Anthropic 的 AI 服务连接器也被波及。彭博称故障开始九小时后仍在抢修，是该公司近年最严重的服务中断之一。路透稍后还称，澳大利亚情报机构和联邦警察也受到这次微软故障冲击。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2121071810401763437",
+    "extra_urls": [
+      "https://x.com/business/status/2121080117187293575",
+      "https://x.com/bbcchinese/status/2121087760157069598",
+      "https://x.com/Reuters/status/2121093216950706397"
+    ],
+    "metrics": {
+      "likes": 517,
+      "reposts": 225,
+      "replies": 107,
+      "views": 115227,
+      "bookmarks": 38
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "彭博称，黄仁勋在卸任英伟达 CEO 前的最后几个小时「崩溃、忏悔」，曾用脏话贬低自己。WIRED 称，公司内部出现要求他回来的帖文，已有超过 1600 条评论，多数支持复职。《纽约时报》称，特朗普周二曾打电话劝他保住职位；另有账号称特朗普随后称赞其才能「出众、难以复制」。华尔街日报还提到，三个月前黄仁勋曾在会上称财务长科莱特·克雷斯「像只受惊的鹿」，如今正是她接任临时 CEO。新闻麦斯等账号称，马斯克曾表示聘请黄仁勋会是「荣幸」。彭博另称，辞职后英伟达市值跌破 4 万亿美元，为 2025 年以来首次。",
+    "author": "@business",
+    "url": "https://x.com/business/status/2121071823836029052",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2121087076753932297",
+      "https://x.com/Cointelegraph/status/2121083321132200022",
+      "https://x.com/WatcherGuru/status/2121029245988479246",
+      "https://x.com/WSJ/status/2121089853395718180",
+      "https://x.com/NEWSMAX/status/2121000160667083205",
+      "https://x.com/business/status/2121089932160590060"
+    ],
+    "metrics": {
+      "likes": 257,
+      "reposts": 47,
+      "replies": 50,
+      "views": 48534,
+      "bookmarks": 46
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "沃顿商学院的 Ethan Mollick 团队发布开源系统 Primer：老师口述课程后，智能体可据此生成供学生使用、并有教学法依据的可玩模拟；论文、提示词和代码均已公开。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2121001056637431873",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 408,
+      "reposts": 52,
+      "replies": 89,
+      "views": 25269,
+      "bookmarks": 339
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "特朗普提名商品期货交易委员会（CFTC）和证券交易委员会（SEC）的四名新委员，这是他约一年来首次为这两家监管机构提名人选。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2121030495836233799",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 196,
+      "reposts": 29,
+      "replies": 28,
+      "views": 31974,
+      "bookmarks": 7
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "有网友称，尊界 V800 申请「粤车南下」后迟迟拿不到验车码。香港运输署回函称，内地工信部等三部门已于 10 月 15 日通报，将联合调查尊界 V800 刹车踏板支架断裂问题。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2121075596440527345",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 81,
+      "reposts": 4,
+      "replies": 10,
+      "views": 18747,
+      "bookmarks": 5
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "香港自由新闻（HKFP）11 月 10 日报道：原定 11 月 14 日至 15 日举行的第四届「独读」独立书展，政府部门以「不可抗力」为由，要求取消其中 5 家单位的参展资格，否则整个书展可能被取消。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2121080611741790628",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 36,
+      "reposts": 1,
+      "replies": 9,
+      "views": 10955,
+      "bookmarks": 2
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "烟台市奇山医院 11 月 5 日公布网络监控设备采购结果，山东盛安网络技术有限公司以 24.5 万元中标一台设备，要求具备「实时翻墙上网监测」功能。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2121060487500607673",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 79,
+      "reposts": 6,
+      "replies": 28,
+      "views": 24023,
+      "bookmarks": 6
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透称，一名美国特使表示，普京同意让欧洲代表参加下一轮乌克兰和平谈判；但普京同时说，华盛顿必须与欧洲盟友弄清楚，他们到底想要和平还是战争。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2121071826973397118",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 24,
+      "reposts": 15,
+      "replies": 9,
+      "views": 30734,
+      "bookmarks": 2
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "马里兰州联邦参议员克里斯·范霍伦（Chris Van Hollen）宣布，将挑战查克·舒默，竞逐参议院民主党领袖。路透称，这是在民主党于中期选举中拿下参议院多数之后。伯尼·桑德斯已公开表态支持范霍伦。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2121062862512914737",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2121094482200306046",
+      "https://x.com/MarioNawfal/status/2121083563240022253"
+    ],
+    "metrics": {
+      "likes": 5897,
+      "reposts": 314,
+      "replies": 57,
+      "views": 206584,
+      "bookmarks": 79
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透援引官员称，中国在太平洋举行了未预先宣布的演习，被形容为对台湾的「静默威慑」。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2121095758401220748",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 6,
+      "reposts": 3,
+      "replies": 1,
+      "views": 16895,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
