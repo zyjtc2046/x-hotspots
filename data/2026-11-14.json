@@ -1,0 +1,505 @@
+[
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "马斯克称，目前有一份请愿正在征集签名，要求让黄仁勋复任英伟达 CEO，他本人会签名并支持黄仁勋回归。同时，英伟达在黄仁勋辞职后首次在 X 发帖，发布从人类示范中学习机器人技能的 GR00T 2 模型。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121348797276320087",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2121351899073188311",
+   "https://x.com/Cointelegraph/status/2121349048472948927",
+   "https://x.com/Polymarket/status/2121342096833679369"
+  ],
+  "metrics": {
+   "likes": 3557,
+   "reposts": 264,
+   "replies": 132,
+   "views": 132784,
+   "bookmarks": 148
+  },
+  "edition": "早报",
+  "why": "黄仁勋去职风波出现第一位公开力挺的重量级人物，复任呼声可能影响英伟达董事会选新 CEO 和市场情绪。",
+  "verify": "对照了 @KobeissiLetter、@Polymarket、@Cointelegraph 三个账号的转述，说法一致；本轮没找到马斯克原帖，请愿由谁发起、征集到多少签名都还没核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "Anthropic 官宣直播：摩根大通 CEO 杰米·戴蒙与 Anthropic CEO 达里奥·阿莫代伊炉边对谈（北京时间 11 月 14 日 01:00）。帖内附免责声明，说明 Anthropic 已就本次发行向美国证券交易委员会提交注册文件（招股书）。",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2121272083863011714",
+  "extra_urls": [
+   "https://x.com/business/status/2121288241257087330"
+  ],
+  "metrics": {
+   "likes": 1802,
+   "reposts": 125,
+   "replies": 221,
+   "views": 256432,
+   "bookmarks": 376
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "DeepSeek 推出“全家桶”应用 API：把 App 里联网搜索、深度思考搜索、文件解析、读链接、语音交互，以及 OCR、ASR、TTS 等底层能力都开放给开发者单独调用。@op7418、@turingou 也确认了这次更新，后者称已接入。",
+  "author": "@MaxForAI",
+  "url": "https://x.com/MaxForAI/status/2121252121203167578",
+  "extra_urls": [
+   "https://x.com/op7418/status/2121248295637180556",
+   "https://x.com/turingou/status/2121259376447209930"
+  ],
+  "metrics": {
+   "likes": 855,
+   "reposts": 87,
+   "replies": 38,
+   "views": 55290,
+   "bookmarks": 392
+  },
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "Anthropic 在工程博客发布 10 条建议，讲怎样设计、运行和报告模型安全评估，用来判断模型能否部署、需要哪些防护措施。",
+  "author": "@AnthropicAI",
+  "url": "https://x.com/AnthropicAI/status/2121317227618340990",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1175,
+   "reposts": 75,
+   "replies": 200,
+   "views": 93229,
+   "bookmarks": 321
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "《华尔街日报》评论：黄仁勋辞职“是必要的”，但也对英伟达和美国 AI 产业造成令人遗憾的伤害，“也许这正是中国的计划”。英伟达总部门外已有人摆放鲜花。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2121336547769569779",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2121341581139877917"
+  ],
+  "metrics": {
+   "likes": 674,
+   "reposts": 57,
+   "replies": 130,
+   "views": 101832,
+   "bookmarks": 49
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "网易推出 AI 讲题产品“欧拉讲题”：讲解几何题时可以实时生成边讲边画的动画，还能互动追问，比如解释辅助线为什么这么画。",
+  "author": "@xiaohu",
+  "url": "https://x.com/xiaohu/status/2121139346191286711",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 275,
+   "reposts": 40,
+   "replies": 34,
+   "views": 27560,
+   "bookmarks": 271
+  },
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "北京时间 11 月 13 日晚，不少用户登不上 Claude，@op7418 称是 Anthropic 服务出了故障，不是账号被封。",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2121190917587771762",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 102,
+   "reposts": 5,
+   "replies": 115,
+   "views": 36308,
+   "bookmarks": 23
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "彭博称，Anthropic IPO 不接受中国内地和香港机构投资者下单，反映出华盛顿和北京都把 AI 视为战略产业的敏感性。",
+  "author": "@business",
+  "url": "https://x.com/business/status/2121288241257087330",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 23,
+   "reposts": 4,
+   "replies": 7,
+   "views": 22004,
+   "bookmarks": 3
+  },
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "赵长鹏称，日本上市公司 ASIAN STAR 将向符合条件的股东分发价值 800 万日元的 BNB，并在 BNB Chain 上把日本房地产代币化，称这是“日本首家、全球首家”。",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2121287996540416365",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1292,
+   "reposts": 153,
+   "replies": 416,
+   "views": 254053,
+   "bookmarks": 51
+  },
+  "edition": "早报",
+  "why": "传统上市公司直接用加密资产给股东分红并做房地产代币化，是 BNB 生态拓展到传统企业的案例。",
+  "verify": "只有赵长鹏本人的帖子，没对照公司公告或日本监管文件；“全球首家”是他的说法，没有核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "比特币跌到约 6.8 万美元，是 8 月以来最低。CoinDesk 称，通胀数据偏热把美联储加息概率推到 88%，黄仁勋辞职又拖累科技股，引发约 16.4 亿美元清算，比特币 ETF 连续第六天净流出。比特币今年已跌超 21%，如果年底收不回 8.75 万美元以上，将首次出现连续两年下跌。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2121212691507474437",
+  "extra_urls": [
+   "https://x.com/CoinDesk/status/2121272939224109179",
+   "https://x.com/Cointelegraph/status/2121297209295601946"
+  ],
+  "metrics": {
+   "likes": 184,
+   "reposts": 21,
+   "replies": 78,
+   "views": 30089,
+   "bookmarks": 7
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "Circle 在 Solana 上新铸造了 5 亿枚 USDC。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121277081543737606",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 436,
+   "reposts": 46,
+   "replies": 67,
+   "views": 35499,
+   "bookmarks": 6
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "Bybit 发安全警告：有报告称 Android 版 Telegram 存在漏洞，设备被攻破后其他应用也可能受影响，提醒用户立即更新。Telegram 创始人杜罗夫则称漏洞已彻底修补，并向所有人发起“来黑我账号”的挑战。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121327409894916302",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2121292192094306485",
+   "https://x.com/WuBlockchain/status/2121279504639459651"
+  ],
+  "metrics": {
+   "likes": 240,
+   "reposts": 45,
+   "replies": 40,
+   "views": 35814,
+   "bookmarks": 24
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "摩根大通最新 13F 文件显示，三季度把 MSTR 持股增加 36% 到 84.89 万股，IBIT 持仓也增加到 1140 万股，价值约 5.4 亿美元。",
+  "author": "@CoinDesk",
+  "url": "https://x.com/CoinDesk/status/2121199283554992429",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 153,
+   "reposts": 20,
+   "replies": 54,
+   "views": 38101,
+   "bookmarks": 6
+  },
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "比特币财库公司承压：Metaplanet 把 2026 年营收预期下调 59%，到约 4100 万美元，前九个月净亏损约 1.7 亿美元；Nakamoto 因比特币期权亏损 580 万美元，盘前股价跌 6.5%。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121302379295351284",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2121282104331772220"
+  ],
+  "metrics": {
+   "likes": 75,
+   "reposts": 11,
+   "replies": 35,
+   "views": 28356,
+   "bookmarks": 1
+  },
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "有账号称，扎克伯格的 Meta 计划推出自己的预测市场 App，目前在员工中测试。",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2121344593258291220",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 318,
+   "reposts": 24,
+   "replies": 27,
+   "views": 43863,
+   "bookmarks": 19
+  },
+  "edition": "早报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "网传敏感词审查再扩大：11 月 13 日，一名网友因在微博只发了“习惯了”三个字，账号被封；另有网友称，抖音虚拟角色“小火人”说了一句“茜大大”（“茜”可读 xī，与“习”近音），账号随后被永久封禁。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121266838860394812",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2121251739768926433"
+  ],
+  "metrics": {
+   "likes": 313,
+   "reposts": 25,
+   "replies": 42,
+   "views": 49690,
+   "bookmarks": 37
+  },
+  "edition": "早报",
+  "why": "说明平台对领导人相关谐音和隐语的过滤范围在扩大，普通用户很难预判哪些字会触发封号。",
+  "verify": "只对照了 @whyyoutouzhele 发布的两条网友投稿和截图，没有微博、抖音官方说明，封号原因是网友推测。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "多所高校持续发文警告“翻墙”：11 月 12 日，华北水利水电大学水资源学院发文《拒绝非法翻墙，坚守网络底线》，华南农业大学学工平台也发文《“翻”这个“墙”，代价沉重！》。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121256778331513051",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2121271877620707624"
+  ],
+  "metrics": {
+   "likes": 130,
+   "reposts": 12,
+   "replies": 16,
+   "views": 35436,
+   "bookmarks": 27
+  },
+  "edition": "早报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "美国之音：特朗普 11 月 12 日接受塞勒姆新闻频道采访时称，习近平对黎智英“深怀恨意”，他对黎智英获释的前景不乐观。",
+  "author": "@VOAChinese",
+  "url": "https://x.com/VOAChinese/status/2121246234271011262",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 129,
+   "reposts": 22,
+   "replies": 24,
+   "views": 28412,
+   "bookmarks": 16
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "德国之声汇总德媒评论：《南德意志报》认为，黄仁勋反对美国对华芯片出口管制的立场有先见之明，因为管制不但没挡住中方拿到高端芯片，反而加快了中国的技术自主；《商报》认为欧洲面对中国的贸易顺差，与其抱怨，不如自我革新。",
+  "author": "@dw_chinese",
+  "url": "https://x.com/dw_chinese/status/2121271882091540731",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 77,
+   "reposts": 7,
+   "replies": 34,
+   "views": 11082,
+   "bookmarks": 11
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "美国联邦航空管理局（FAA）以“特殊情况和安全原因”下令全国地面停飞，原因是空管通信和雷达出了问题。FlightAware 显示近 7000 个美国航班延误或取消；@Polymarket 称这是 9·11 以来 25 年里第二次全国停飞。",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2121355654858211692",
+  "extra_urls": [
+   "https://x.com/AP/status/2121356249325314424",
+   "https://x.com/Reuters/status/2121354036595319103",
+   "https://x.com/WSJ/status/2121354304615248046",
+   "https://x.com/disclosetv/status/2121353982740197665",
+   "https://x.com/DeItaone/status/2121356471220785413",
+   "https://x.com/Polymarket/status/2121354941411529053"
+  ],
+  "metrics": {
+   "likes": 138,
+   "reposts": 51,
+   "replies": 12,
+   "views": 29488,
+   "bookmarks": 8
+  },
+  "edition": "早报",
+  "why": "全美航空同时停摆非常罕见，会直接影响大量旅客和物流，也会引发对空管系统老化或遭攻击的追问。",
+  "verify": "对照了纽约时报、美联社、路透社、《华尔街日报》、彭博，都确认 FAA 下达全国停飞令；具体原因、持续多久，以及是否与网络攻击有关，截至北京时间约 05:36 都还没有公布。“第二次”的说法只来自 @Polymarket。"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号称，美国国家气象局确认全国雷达故障，就发生在 FAA 全国停飞前后；@MarioNawfal 称气象局官网通知显示国家雷达网站出现问题，技术人员正在排查。",
+  "author": "@disclosetv",
+  "url": "https://x.com/disclosetv/status/2121355222123688168",
+  "extra_urls": [
+   "https://x.com/MarioNawfal/status/2121354796078690570"
+  ],
+  "metrics": {
+   "likes": 1364,
+   "reposts": 420,
+   "replies": 99,
+   "views": 62571,
+   "bookmarks": 132
+  },
+  "edition": "早报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "泽连斯基会见来自哈尔科夫、第聂伯、乌日霍罗德、敖德萨、扎波罗热等全国各地城市的市长和代理市长。",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2121342761483805121",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1269,
+   "reposts": 224,
+   "replies": 72,
+   "views": 54769,
+   "bookmarks": 16
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号称，英国 3 处美国空军使用的基地已把安全警戒升到最高级，起因是 RAF 莱肯希思上空疑似出现无人机。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121351154382815306",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 555,
+   "reposts": 94,
+   "replies": 21,
+   "views": 40444,
+   "bookmarks": 35
+  },
+  "edition": "早报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "美国低评级企业信用压力加剧：CCC 级及以下公司债利差升到 13.3%，接近 2020 年疫情以来最高，今年以来累计上升 490 个基点。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121340353420886376",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 395,
+   "reposts": 42,
+   "replies": 50,
+   "views": 88787,
+   "bookmarks": 56
+  },
+  "edition": "早报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号称，特朗普表示他可以“立刻”结束伊朗冲突，但应海湾国家的请求暂时按兵不动。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121339316177650000",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 280,
+   "reposts": 20,
+   "replies": 42,
+   "views": 30801,
+   "bookmarks": 11
+  },
+  "edition": "早报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "新奥尔良一艘货轮/油轮撞上停靠的观光游船，船上约 129 人，游船在密西西比河上部分沉没，搜救正在进行。",
+  "author": "@WSJ",
+  "url": "https://x.com/WSJ/status/2121351709653967210",
+  "extra_urls": [
+   "https://x.com/nytimes/status/2121349331559051298"
+  ],
+  "metrics": {
+   "likes": 14,
+   "reposts": 11,
+   "replies": 3,
+   "views": 24049,
+   "bookmarks": 1
+  },
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ]
+ }
+]
