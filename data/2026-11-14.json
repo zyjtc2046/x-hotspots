@@ -501,5 +501,241 @@
   "tags": [
    "价值观察"
   ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "美国 FAA 全国地面停飞已正式解除，停飞约 4 小时，是 9·11 以来最长的一次。交通部长达菲称原因是“极其老旧”的空管系统“过载”，要求国会批准 500 亿美元紧急资金翻修空管；《华尔街日报》报道故障涉及国防承包商 L3Harris 管理的空地通信网络，其股价盘后跌约 3.8%。国土安全部此前称不能排除 AI 或网络攻击，FBI 在查是否与软件更新有关，特朗普则称看起来不像网络攻击。高峰时约 1.3 万个航班取消或延误，达美、美联航已开始恢复。",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2121413834619469897",
+  "extra_urls": [
+   "https://x.com/WatcherGuru/status/2121417628162105761",
+   "https://x.com/business/status/2121453135017193969",
+   "https://x.com/MarioNawfal/status/2121403840960327804",
+   "https://x.com/WatcherGuru/status/2121366602914619406",
+   "https://x.com/WatcherGuru/status/2121364530248798620",
+   "https://x.com/spectatorindex/status/2121396759385854217",
+   "https://x.com/MarioNawfal/status/2121443048735363556"
+  ],
+  "metrics": {
+   "likes": 7057,
+   "reposts": 544,
+   "replies": 197,
+   "views": 685447,
+   "bookmarks": 215
+  },
+  "edition": "午报",
+  "why": "美国空管核心系统一次故障就让全国航班停摆数小时，暴露关键基础设施老化和单点依赖；500 亿美元拨款和 L3Harris 问责会成为接下来国会和市场的焦点。",
+  "verify": "停飞解除、达菲说法分别有 @WatcherGuru、@business（彭博）报道；L3Harris 关联来自 @MarioNawfal 转述《华尔街日报》，“软件更新导致”目前仍是调查方向，官方尚未给出最终结论。"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "加密市场新一轮下跌：比特币跌破 6.7 万美元，以太坊跌破 1900 美元，XRP 跌破 1 美元，SOL 跌破 75 美元；2 小时内全网爆仓超过 3.3 亿美元，其中有 2.5 亿美元在 10 分钟内被清算。",
+  "author": "@WatcherGuru",
+  "url": "https://x.com/WatcherGuru/status/2121447564335788308",
+  "extra_urls": [
+   "https://x.com/WatcherGuru/status/2121431433440846020",
+   "https://x.com/MarioNawfal/status/2121456417525637626"
+  ],
+  "metrics": {
+   "likes": 2611,
+   "reposts": 343,
+   "replies": 338,
+   "views": 195046,
+   "bookmarks": 110
+  },
+  "edition": "午报",
+  "why": "比特币在早报报的约 6.8 万美元基础上继续下破，以太坊失守 1900 美元，连续清算说明杠杆还在出清，年底“连续两年下跌”的风险加大。",
+  "verify": "对照了 @WatcherGuru 两条快讯和 @MarioNawfal 的同口径数据，说法一致；清算金额是快讯口径，本轮没核对 Coinglass 等数据源。"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "白宫证实，特朗普下周将在深圳 APEC 期间与习近平、普京举行三方会晤。美联社引述美方官员称，会谈不打算谈乌克兰，而会谈伊朗战争；美国之音称重点是核不扩散。另据 @WatcherGuru，马斯克将随特朗普访华。",
+  "author": "@AP",
+  "url": "https://x.com/AP/status/2121395745416753360",
+  "extra_urls": [
+   "https://x.com/business/status/2121395201927155994",
+   "https://x.com/VOAChinese/status/2121425284323004713",
+   "https://x.com/WatcherGuru/status/2121400046377931064"
+  ],
+  "metrics": {
+   "likes": 113,
+   "reposts": 49,
+   "replies": 29,
+   "views": 85280,
+   "bookmarks": 10
+  },
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "新奥尔良油轮撞游船事故后续：市长称船上近 200 人已全部找到，32 人送医，无人重伤。",
+  "author": "@nytimes",
+  "url": "https://x.com/nytimes/status/2121404021231477153",
+  "extra_urls": [
+   "https://x.com/business/status/2121394857360994423"
+  ],
+  "metrics": {
+   "likes": 3402,
+   "reposts": 504,
+   "replies": 61,
+   "views": 319577,
+   "bookmarks": 164
+  },
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号称，数百万员工用来查工资、请假的人力资源系统 Workday 出现大范围宕机。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121404848562167894",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 12751,
+   "reposts": 1621,
+   "replies": 350,
+   "views": 1060283,
+   "bookmarks": 1045
+  },
+  "edition": "午报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "OpenAI 给 ChatGPT 上线“钱包”：AI Agent 可以用你绑定的 Visa、Mastercard 或美国运通卡替你购物，每笔都要 Face ID 确认。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121415496658506151",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 45,
+   "reposts": 3,
+   "replies": 44,
+   "views": 25335,
+   "bookmarks": 8
+  },
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "黄仁勋事件新进展：@MarioNawfal 转述《华盛顿邮报》称，国务卿鲁比奥根据一份 CIA 报告写了一份措辞更重的备忘录，推动了黄仁勋下台；英伟达本周累计跌 13%，市值蒸发约 5730 亿美元，抛售已蔓延到 AMD 等芯片股（《华尔街日报》中文）。TechCrunch 称，创业公司和风投正准备迎接英伟达投资变少、估值下降。",
+  "author": "@MarioNawfal",
+  "url": "https://x.com/MarioNawfal/status/2121456840701616288",
+  "extra_urls": [
+   "https://x.com/ChineseWSJ/status/2121402252720050665",
+   "https://x.com/TechCrunch/status/2121373320469782869",
+   "https://x.com/theinformation/status/2121362515728757033"
+  ],
+  "metrics": {
+   "likes": 45,
+   "reposts": 14,
+   "replies": 9,
+   "views": 17502,
+   "bookmarks": 11
+  },
+  "edition": "午报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "Anthropic 发文拆解“24 小时在线的 AI Agent 助理”怎么做：事件进收件箱才唤醒跑一次、定时器让它主动干活，大部分时间不调用模型也不花钱。@dotey 整理成中文要点。",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2121406975279792268",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 205,
+   "reposts": 15,
+   "replies": 77,
+   "views": 14481,
+   "bookmarks": 212
+  },
+  "edition": "午报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "美国众议院监督委员会在一份 1700 页的内幕交易调查后，提议禁止政府官员在 Polymarket、Kalshi 等预测市场下注。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121400428285845631",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 79,
+   "reposts": 10,
+   "replies": 30,
+   "views": 27428,
+   "bookmarks": 7
+  },
+  "edition": "午报",
+  "tags": [
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "中国前 10 个月贸易顺差同比增加 840 亿美元（+8.8%），达到创纪录的 1.04 万亿美元。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121406221081043368",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 718,
+   "reposts": 78,
+   "replies": 81,
+   "views": 138758,
+   "bookmarks": 60
+  },
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "新京报报道：41 岁的网络写手周禄宝被指借替农民工讨薪发布虚假负面信息、向企业和政府施压，勒索既遂 82 万元，以敲诈勒索罪和寻衅滋事罪一审被判 14 年。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121427900087828867",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 207,
+   "reposts": 27,
+   "replies": 19,
+   "views": 23300,
+   "bookmarks": 29
+  },
+  "edition": "午报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "河南村镇银行储户 11 月 12 日再次进京要求取回活期存款，据称刚出北京站就被查身份证，部分人在站外遭身份不明人员围堵拉拽；储户称存款四年半取不出。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121385118061175169",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 232,
+   "reposts": 20,
+   "replies": 30,
+   "views": 32900,
+   "bookmarks": 28
+  },
+  "edition": "午报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
  }
 ]
