@@ -737,5 +737,231 @@
    "立场账号",
    "待核实"
   ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "泽连斯基称，美国和谈特使曾试探乌克兰是否愿意把东部顿巴斯地区让给俄罗斯，换取加入北约。",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2121552367749353910",
+  "extra_urls": [
+   "https://x.com/business/status/2121542414456279212"
+  ],
+  "metrics": {
+   "likes": 191,
+   "reposts": 67,
+   "replies": 66,
+   "views": 148560,
+   "bookmarks": 21
+  },
+  "edition": "晚报",
+  "why": "这是美方和谈方案里“以领土换北约”的说法第一次由泽连斯基公开，赶在下周特朗普、习近平、普京三方会晤前，可能影响俄乌谈判走向。",
+  "verify": "BBC 和彭博两家都报了，说法一致；目前只有泽连斯基单方说法，美方还没回应。"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "黄仁勋事件新进展：马斯克公开质疑英伟达董事会的可信度，说“这就是在给曾经全球市值最高的公司做决定的董事会？！”另外，持有约 13 亿美元英伟达股票的亿万富翁 Leo KoGuan 称黄仁勋走了就不再加仓。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121500939680891215",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2121506094518284525"
+  ],
+  "metrics": {
+   "likes": 3778,
+   "reposts": 299,
+   "replies": 181,
+   "views": 326345,
+   "bookmarks": 312
+  },
+  "edition": "晚报",
+  "why": "继支持复任请愿之后，马斯克把矛头转向英伟达董事会，叠加大股东表态停止加仓，董事会在选新 CEO 上的压力更大了。",
+  "verify": "马斯克这句话来自 @KobeissiLetter 转述，本轮没搜到马斯克原帖；KoGuan 的表态来自 @Cointelegraph 转述。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "AI",
+  "summary": "@op7418 称，今天很多人的 Claude 老账号也被要求做 KYC（身份认证）。",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2121471156255613104",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 54,
+   "reposts": 0,
+   "replies": 88,
+   "views": 28691,
+   "bookmarks": 7
+  },
+  "edition": "晚报",
+  "tags": [
+   "待核实",
+   "价值观察"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "比特币跌破 6.7 万美元后，Strategy 持有的 850,364 枚 BTC（均价 75,456 美元）账面浮亏约 68.5 亿美元；美国现货比特币 ETF 本周每天都是净流出，合计约 10.7 亿美元。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121463829896818720",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2121490997079134318"
+  ],
+  "metrics": {
+   "likes": 426,
+   "reposts": 48,
+   "replies": 100,
+   "views": 51465,
+   "bookmarks": 13
+  },
+  "edition": "晚报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "比特币挖矿难度下调 9.13% 到 134.82T，是今年 6 月以来最大降幅。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121521195208044877",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 142,
+   "reposts": 19,
+   "replies": 70,
+   "views": 36840,
+   "bookmarks": 9
+  },
+  "edition": "晚报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "Crypto",
+  "summary": "链上数据：比特币早期支持者、ShapeShift 创始人 Erik Voorhees 一小时内花 475 万 USDT，以约 1,896 美元的价格买入 2,504 枚 ETH。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2121465585724997997",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 444,
+   "reposts": 42,
+   "replies": 43,
+   "views": 52537,
+   "bookmarks": 27
+  },
+  "edition": "晚报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "马来西亚“喜鹊行动”扫荡跨境电诈：10 月 19 日到 31 日查了 112 个团伙，拘捕 932 人，其中 538 人是中国籍；144 条诈骗目标记录里 62 条指向中国，排第一。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121468168850051150",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 320,
+   "reposts": 50,
+   "replies": 22,
+   "views": 41072,
+   "bookmarks": 46
+  },
+  "edition": "晚报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "11 月 13 日全国国企党建工作座谈会在北京召开，传达习近平指示：加强中共对国企的全面领导，把党的领导融入公司治理各环节。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121473198336201202",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 153,
+   "reposts": 9,
+   "replies": 61,
+   "views": 58633,
+   "bookmarks": 33
+  },
+  "edition": "晚报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国内形势",
+  "summary": "香港 M+ 博物馆以“技术问题”为由，取消原定 11 月 22 日和 12 月 12 日放映的侯孝贤电影《童年往事》。片中有蒋介石广播、军歌和国民党空军击落共军军机的“捷报”等时代背景。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121533596444074131",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 91,
+   "reposts": 13,
+   "replies": 14,
+   "views": 16794,
+   "bookmarks": 15
+  },
+  "edition": "晚报",
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号称，伊朗冲突开始以来，全球石油供应首次超过需求。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121509437005312112",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 3456,
+   "reposts": 424,
+   "replies": 102,
+   "views": 209960,
+   "bookmarks": 176
+  },
+  "edition": "晚报",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "路透社引述《华尔街日报》：麻疹持续传播，美国失去“已消除麻疹”的地位。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2121488324783186205",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2121523667595092227"
+  ],
+  "metrics": {
+   "likes": 237,
+   "reposts": 134,
+   "replies": 44,
+   "views": 57701,
+   "bookmarks": 21
+  },
+  "edition": "晚报"
+ },
+ {
+  "date": "2026-11-14",
+  "category": "国际形势",
+  "summary": "有账号引述联合国核监督机构（IAEA）称，伊朗表示“在当前情况下”不会恢复联合国的常规核监督。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121519503406457137",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 353,
+   "reposts": 40,
+   "replies": 28,
+   "views": 41748,
+   "bookmarks": 17
+  },
+  "edition": "晚报",
+  "tags": [
+   "待核实"
+  ]
  }
 ]
