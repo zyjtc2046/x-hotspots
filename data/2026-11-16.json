@@ -1,0 +1,380 @@
+[
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "《金融时报》报道，被董事会解除职务数日之后，黄仁勋正与盟友讨论重返英伟达 CEO 一职，硅谷多名科技高管也在向董事会施压。预测市场称硅谷方面在组建“作战室”推动他回归；要求黄仁勋复任的公开信签名已超过 15.3 万，其中 7418 人自称现任员工。与此同时，美国财长贝森特称英伟达需要“大换血”、必须从公司外部寻找新 CEO，并有账号转述他质疑英伟达是否借对华芯片销售“抬高”业绩。彭博社援引共和党众议员 John Moolenaar 称，黄仁勋已同意就他与被指中国间谍的 Alice Huang 的关系，在国会闭门作证；稍早还称至少有四个国会委员会要求他就此出面。@KobeissiLetter 称英伟达股价已连跌 6 周、累计约 -31%，追平历史上第二长的周线连跌。",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2122045928987123914",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2122053291668300059",
+   "https://x.com/business/status/2122048247225000173",
+   "https://x.com/KobeissiLetter/status/2122045918342238337",
+   "https://x.com/Polymarket/status/2122060480743100824",
+   "https://x.com/Cointelegraph/status/2122019521045160071",
+   "https://x.com/Reuters/status/2121996803767783884",
+   "https://x.com/business/status/2121987847229989279",
+   "https://x.com/business/status/2122010497356620131",
+   "https://x.com/KobeissiLetter/status/2122063588697247867",
+   "https://x.com/Polymarket/status/2122066195893649409"
+  ],
+  "metrics": {
+   "likes": 1167,
+   "reposts": 236,
+   "replies": 121,
+   "views": 121970,
+   "bookmarks": 112
+  },
+  "why": "回归谈判与财长要求外部接任、国会作证安排同时出现，会直接影响英伟达治理、对华芯片政策和下周财报预期。",
+  "verify": "回归一事对照了《金融时报》原帖，路透和彭博均转述为 FT 报道、表述是“与盟友讨论”回归，未见黄仁勋或英伟达董事会确认。“作战室”仅见 @Polymarket，未对照其他通讯社。请愿 153,264 个签名、7,418 人自称现任员工来自 @Cointelegraph，未见请愿网站原始计数。贝森特“必须从公司外部找新 CEO / 需要大换血”对照了路透和彭博/FT；他质疑借对华芯片销售“抬高”业绩仅见 @Polymarket，未见贝森特原话全文。闭门作证对照了彭博社援引众议员 Moolenaar 的表述，未见国会日程或黄仁勋本人确认。连跌 6 周、约 -31% 以 @KobeissiLetter 为准，本轮未核对行情软件。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "有分析称，按约 1.5 万亿美元估值估算，Anthropic 上市可能让约 5300 名员工中的 4250 人成为百万富翁，其中约 50 人体量超过 1 亿美元。彭博还报道，由麦当娜经纪人运营的一家风险投资公司持有约 70 亿美元 Anthropic 股份。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2122042197797462523",
+  "extra_urls": [
+   "https://x.com/business/status/2121997921696575641"
+  ],
+  "metrics": {
+   "likes": 1053,
+   "reposts": 58,
+   "replies": 111,
+   "views": 205178,
+   "bookmarks": 96
+  },
+  "verify": "员工财富估算转述自 @unusual_whales，来源为金融平台 Hill，原帖估值假设部分被截断，本轮未打开 Hill 原始分析；70 亿美元持股来自彭博社帖文，未见该公司或 Anthropic 官方确认。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "美国计算机与信息科学专业入学人数初步数据：本科下降超过 12%，研究生下降超过 10%。@unusual_whales 转述称数据来自国家相关统计的初步统计。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2122011999315882011",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 4195,
+   "reposts": 413,
+   "replies": 281,
+   "views": 417735,
+   "bookmarks": 698
+  },
+  "verify": "对照了 @unusual_whales 的转述，原帖提到 National（国名/机构名被截断）的初步数据；本轮未打开原始统计报表，完整机构和口径未核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "有账号称，美国与 8 个伙伴签署协议，保护人工智能供应链、降低对中国的依赖，背景是特朗普即将与习近平会面。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2122036660984832152",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 685,
+   "reposts": 80,
+   "replies": 36,
+   "views": 47051,
+   "bookmarks": 35
+  },
+  "tags": [
+   "待核实"
+  ],
+  "verify": "仅见 @Polymarket 快讯，未见白宫、商务部或其他通讯社原帖；8 个伙伴的具体国名、协议文本均未核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "有账号转述研究员 Will DePue 11 月 13 日的报告称，DeepSeek、月之暗面（Kimi）、MiniMax 和蚂蚁集团公开的 6 款 AI 模型权重里，出现了与英伟达 Blackwell 芯片吻合的痕迹；这类芯片对华出口须获美国许可。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121936251288789377",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 656,
+   "reposts": 71,
+   "replies": 58,
+   "views": 94506,
+   "bookmarks": 147
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ],
+  "verify": "转述自立场账号 @whyyoutouzhele，来源标注为研究员 Will DePue 的报告；本轮未打开报告原文，也未见 DeepSeek 等公司回应，模型名单和取证方法未独立核对。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "早报",
+  "summary": "《信息报》独家：DeepSeek 约 920 亿美元估值的融资，吸引了腾讯、宁德时代，以及一批被游说时称为英伟达芯片黑市主要来源的公司。",
+  "author": "@theinformation",
+  "url": "https://x.com/theinformation/status/2121717317478281569",
+  "extra_urls": [
+   "https://x.com/theinformation/status/2122079699648082281"
+  ],
+  "metrics": {
+   "likes": 29,
+   "reposts": 9,
+   "replies": 6,
+   "views": 9107,
+   "bookmarks": 6
+  },
+  "tags": [
+   "价值观察"
+  ],
+  "verify": "对照了 @theinformation 独家帖，互动偏低、作为一手独家收录。本轮未打开付费原文，融资是否已经交割、上述公司是否确实参与，均未从官方公告核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "早报",
+  "summary": "币安创始人赵长鹏发帖解释近期加密货币下跌，强调相关不等于因果，并列出若干可能原因，包括资金转向 Anthropic 上市、美国现货比特币 ETF 资金流出、黑客攻击、通胀数据偏热和中期选举等；他称没人能完全确定原因。@Cointelegraph 转述他还说币安并未抛售、自己近几日在买入，并提到 ETF 流出约 19 亿美元。另有账号称过去 24 小时又有约 12.3 亿美元多头被清算；币安 ETH 储备降至约 290 万枚、约 53 亿美元，为 2021 年以来最低；预测市场显示比特币年内跌破 6 万美元的概率约 62%；Michael Saylor 再度用“这轮回调可以再来点橙色”暗示 Strategy 可能逢低买入。",
+  "author": "@cz_binance",
+  "url": "https://x.com/cz_binance/status/2122000010992824627",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2122034596279730473",
+   "https://x.com/Cointelegraph/status/2122018102707904683",
+   "https://x.com/Cointelegraph/status/2122005959270638031",
+   "https://x.com/Polymarket/status/2122025992873238680",
+   "https://x.com/Cointelegraph/status/2121977946424357247"
+  ],
+  "metrics": {
+   "likes": 8396,
+   "reposts": 897,
+   "replies": 3098,
+   "views": 1146924,
+   "bookmarks": 1213
+  },
+  "why": "这是本轮加密市场对周末大跌最受关注的一手回应，也直接关系到上市抽资、ETF 流出等是否会被当成新一轮抛压的解释。",
+  "verify": "原因清单对照了 @cz_binance 原帖，他写明只是可能原因、相关不等于因果。@Cointelegraph 补充了“币安未卖、他本人在买”和约 19 亿美元 ETF 流出等细节，本轮未核对这些数字的官方出处。12.3 亿美元爆仓、币安 ETH 储备和 62% 概率分别来自 @Cointelegraph 与 @Polymarket，未核对清算数据和预测市场页面。Saylor 原话以 @Cointelegraph 转述为准，Strategy 是否已经下单未见公告。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "早报",
+  "summary": "@Cointelegraph 称，黑客攻入韩国交易所 Coinone 的外包客服台，可能已获取用户密码、身份证号、银行账户和钱包地址。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121944218285351351",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 262,
+   "reposts": 46,
+   "replies": 104,
+   "views": 97734,
+   "bookmarks": 9
+  },
+  "verify": "仅见 @Cointelegraph 报道，本轮未见 Coinone 官方说明，也未对照韩国监管或当地媒体原帖，泄露范围和是否已被利用均未核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "早报",
+  "summary": "链上和行业媒体称，约 6.4 万台比特币矿机（算力约 13 EH/s）被劫持并指向 OCEAN 矿池，但没有挖出任何一个区块。",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2121974145588379665",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2122064769926537606"
+  ],
+  "metrics": {
+   "likes": 106,
+   "reposts": 17,
+   "replies": 46,
+   "views": 24190,
+   "bookmarks": 16
+  },
+  "verify": "@WuBlockchain 称转引自 Bitcoin News，@Cointelegraph 有同类报道；本轮未打开 Bitcoin News 原文，也未见 OCEAN 或矿机制造商官方确认。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "早报",
+  "summary": "@WuBlockchain 称，德国联邦议院已批准新法案，允许海关暂时扣押包括加密货币在内的可疑非法资产。",
+  "author": "@WuBlockchain",
+  "url": "https://x.com/WuBlockchain/status/2121932703453110723",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 57,
+   "reposts": 6,
+   "replies": 19,
+   "views": 18855,
+   "bookmarks": 4
+  },
+  "verify": "转述自 @WuBlockchain，本轮未对照德国联邦议院或官方公报文本，法案生效时间和具体权限范围未核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国内形势",
+  "edition": "早报",
+  "summary": "有账号称，北京一零一中学发生学生跳楼事件；事后校领导要求学生关窗，并删除手机里拍摄的视频。消息标注为网友投稿。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121959745091412051",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1132,
+   "reposts": 68,
+   "replies": 69,
+   "views": 136549,
+   "bookmarks": 223
+  },
+  "why": "若属实，涉及校园安全和校方事后处置，是本轮中文信息流里传播最广的国内事件之一。",
+  "verify": "仅见立场账号 @whyyoutouzhele 的网友投稿，配有视频；本轮未见学校、教育部门或主流媒体通报，事件细节、伤亡和校方是否确有删视频要求均未核实。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国内形势",
+  "edition": "早报",
+  "summary": "自由亚洲电台转述路透社调查：中国多地涉及受美国出口管制英伟达芯片的算力项目及设备协议合计超过 230 亿元人民币，部分已签订建设合同，但路透尚无法确认相关芯片是否到货；一旦供应中断，项目可能延期、成本上升。",
+  "author": "@RFA_Chinese",
+  "url": "https://x.com/RFA_Chinese/status/2121963685770064220",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 36,
+   "reposts": 10,
+   "replies": 3,
+   "views": 14115,
+   "bookmarks": 9
+  },
+  "tags": [
+   "价值观察"
+  ],
+  "verify": "对照了 @RFA_Chinese 对路透调查的转述，互动未达常规门槛，因属通讯社调查而作为价值观察收录。本轮未打开路透英文原文，也未见中方项目单位回应；路透自己也写明无法确认芯片是否到货。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "路透社报道，胡塞武装的对立力量在也门撤退，同时伊朗打击巴林。立场账号 @visegrad24 称，伊朗当天向巴林境内的美军目标发射了无人机。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2121999201026335044",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2122052447116141011",
+   "https://x.com/Reuters/status/2122062090940608761"
+  ],
+  "metrics": {
+   "likes": 116,
+   "reposts": 45,
+   "replies": 14,
+   "views": 68976,
+   "bookmarks": 8
+  },
+  "why": "伊朗对巴林动武如果属实，会把霍尔木兹一带的紧张从油轮触雷，进一步牵涉到美军基地和海湾航道。",
+  "verify": "对照了路透社两条快讯，均写“伊朗打击巴林、胡塞对立武装在也门撤退”，但快讯未说明打击对象是否为美军、也未给出伤亡或目标细节，本轮未打开路透正文。“针对美军”来自立场账号 @visegrad24，未见路透、美方或巴林官方原帖印证。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "乌克兰总统泽连斯基用法语发帖，感谢对方“清醒地看到必须保护欧洲的生活方式”，并称普京正把俄罗斯动员起来对抗欧洲、对抗对每个欧洲人都重要的事物。正文未点明感谢对象。",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2122006205023346720",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 12271,
+   "reposts": 2034,
+   "replies": 673,
+   "views": 261206,
+   "bookmarks": 156
+  },
+  "verify": "对照了泽连斯基账号原帖（法文）。感谢对象未在正文出现，本轮未核对其是否引用或回复了某一条法国政要帖子。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "BBC 报道，捷克民众集会反对改变公共媒体资助方式。彭博社称，数十万捷克人在布拉格抗议总理巴比什政府改革公共广播融资的计划。",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2122007508633940415",
+  "extra_urls": [
+   "https://x.com/business/status/2121991635441475616"
+  ],
+  "metrics": {
+   "likes": 512,
+   "reposts": 69,
+   "replies": 25,
+   "views": 101081,
+   "bookmarks": 22
+  },
+  "verify": "对照了 BBC 与彭博社快讯，游行规模“数十万”以彭博表述为准，本轮未打开两家正文，也未对照捷克官方或当地统计。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "BBC 报道，孟加拉国因工人要求加薪举行罢工，已有近 30 家服装工厂停工。",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2122000698363597092",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 274,
+   "reposts": 46,
+   "replies": 22,
+   "views": 126590,
+   "bookmarks": 15
+  },
+  "verify": "对照了 BBC 快讯，本轮未打开正文，停工人数、持续时间和劳资谈判进展未进一步核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "路透社报道，美国一枚火箭发射后失败，载荷中的亚马逊互联网卫星被摧毁。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2122065877054943552",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 72,
+   "reposts": 48,
+   "replies": 14,
+   "views": 42342,
+   "bookmarks": 10
+  },
+  "verify": "对照了路透社快讯，本轮未打开正文，也未见火箭公司和亚马逊官方原帖，发射商、型号和卫星数量未在该帖中写明。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "《金融时报》报道，匈牙利总理欧尔班所在政党因被发现隐匿约 2000 万美元现金而受到冲击。",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2122054801282289953",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 156,
+   "reposts": 49,
+   "replies": 15,
+   "views": 27311,
+   "bookmarks": 11
+  },
+  "verify": "对照了《金融时报》快讯，本轮未打开付费正文，资金来源、涉及人员和政党回应未进一步核实。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "早报",
+  "summary": "@KobeissiLetter 称，美国大量车主的汽车贷款已经高于车辆本身价值：2026 年第三季度，29% 的新车置换涉及负权益，接近 2021 年第一季度以来的最高比例。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2122018038786740407",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 765,
+   "reposts": 99,
+   "replies": 119,
+   "views": 139676,
+   "bookmarks": 83
+  },
+  "verify": "数字转述自 @KobeissiLetter，原帖后半被截断；本轮未核对数据提供方和原始统计。"
+ }
+]

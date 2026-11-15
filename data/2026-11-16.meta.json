@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-15 05:30 — 2026-11-16 05:31（UTC 2026-11-14T21:30Z — 2026-11-15T21:31Z）",
+  "queries": 19,
+  "ok": 19,
+  "failed": [],
+  "note": "search_posts_all×19（大号组合8+国内第二组因把 nytchinese 写成 nytcinese 后又用同一错误重试1+关键词8+机动2）全部成功，没有限流。国内第二组两次误写 nytchinese，该账号本轮未单独覆盖。关键词里没有可用的 min_likes 过滤，返回多为低互动账号，入选条目主要来自大号组合和机动检索。大号组合每次只取 25 条：国际媒体首轮约只覆盖 03:51–05:30，机动按相关度补到约 23:30–00:55，15 日 05:30–23:30 仍不足；英文 AI 大号仅见 TechCrunch、dotey、emollick、theinformation，OpenAI、AnthropicAI、sama、karpathy、GoogleDeepMind、_akhaliq 本轮未出现原帖；中文 AI 大号约只覆盖 20:11–23:42，且仅 AYi_AInotes、FinanceYF5、MaxForAI、lxfater、oran_ge，vista8、AlchainHust、op7418、turingou、xiaohu 未出现；币圈上组约 19:45–05:30，lookonchain、VitalikButerin 未出现；国内一组约 19:44–05:00，二组约 22:04–05:22，_FORAB、NewsCaixin 未出现。另用 search_news×2 辅助选题，不计入 20 次上限。已和 11 月 15 日早报、午报、晚报去重（黄仁勋请愿升至 12 万及婚外关系、出口规则收紧、东南亚数据中心与芯片走私、比特币低至约 6.21 万美元、三方会晤、顿巴斯换北约、新奥尔良撞船、星舰回收等不重复）。请愿最新计数 15.3 万作为实质新进展，并入回归传闻一条。同作者最多 2 条，深圳次元小镇投稿、东莞比亚迪夜班查岗等热帖因作者额度未单列。"
+}
