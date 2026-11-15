@@ -1,642 +1,882 @@
 [
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "要求黄仁勋复任英伟达 CEO 的公开信已有超过 6.5 万个签名，其中该账号称包括逾 3.5 万名股东和 4700 名现任或前任员工；马斯克已公开署名支持。路透独家引述消息人士称，黄仁勋未向公司首席律师如实说明与中国商人的婚外关系。另有账号转述英国《金融时报》称，英伟达在黄仁勋离职后缺少可保护公司自身的部分股东诉讼保险。马斯克还警告，英伟达不少重要交易由黄仁勋本人推动并以口头约定，他若离开，部分合作可能落空。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2121514973809799294",
-    "extra_urls": [
-      "https://x.com/Reuters/status/2121522280660369494",
-      "https://x.com/Polymarket/status/2121659677029114223",
-      "https://x.com/_FORAB/status/2121628768733434004",
-      "https://x.com/_FORAB/status/2121506963767091547"
-    ],
-    "metrics": {
-      "likes": 24447,
-      "reposts": 1809,
-      "replies": 530,
-      "views": 1513005,
-      "bookmarks": 1213
-    },
-    "edition": "早报",
-    "why": "请愿规模和股东诉讼保险、口头协议等新细节，会直接影响英伟达董事会压力、治理风险和市场对交接的判断。",
-    "verify": "公开信进度以 @KobeissiLetter 转述为准，未见请愿网站原始计数；“未向首席律师如实说明”来自路透独家、标注为消息人士，本轮未对照其他通讯社；保险缺口由 @Polymarket 转述《金融时报》，未打开 FT 原文；口头协议是马斯克的判断，由 @_FORAB 转述，未见英伟达官方确认。",
-    "tags": [
-      "待核实"
-    ]
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "要求黄仁勋复任英伟达 CEO 的公开信已有超过 6.5 万个签名，其中该账号称包括逾 3.5 万名股东和 4700 名现任或前任员工；马斯克已公开署名支持。路透独家引述消息人士称，黄仁勋未向公司首席律师如实说明与中国商人的婚外关系。另有账号转述英国《金融时报》称，英伟达在黄仁勋离职后缺少可保护公司自身的部分股东诉讼保险。马斯克还警告，英伟达不少重要交易由黄仁勋本人推动并以口头约定，他若离开，部分合作可能落空。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121514973809799294",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2121522280660369494",
+   "https://x.com/Polymarket/status/2121659677029114223",
+   "https://x.com/_FORAB/status/2121628768733434004",
+   "https://x.com/_FORAB/status/2121506963767091547"
+  ],
+  "metrics": {
+   "likes": 24447,
+   "reposts": 1809,
+   "replies": 530,
+   "views": 1513005,
+   "bookmarks": 1213
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "山姆·奥特曼在 Stripe 联合创始人约翰·科利森的播客里说，OpenAI 的机器人项目将对准自建数据中心；他认为“自我复制”的数据中心已“触手可及”，并由 AI 控制的机器人来运转芯片工厂等。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2121664710743597410",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 417,
-      "reposts": 42,
-      "replies": 116,
-      "views": 162833,
-      "bookmarks": 100
-    },
-    "edition": "早报",
-    "verify": "对照了 @unusual_whales 对这场 Cheeky Pint 播客的转述，未见奥特曼或 OpenAI 官方同步发帖，本轮也没有核对着陆页或完整节目原文；原帖末句被截断。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "why": "请愿规模和股东诉讼保险、口头协议等新细节，会直接影响英伟达董事会压力、治理风险和市场对交接的判断。",
+  "verify": "公开信进度以 @KobeissiLetter 转述为准，未见请愿网站原始计数；“未向首席律师如实说明”来自路透独家、标注为消息人士，本轮未对照其他通讯社；保险缺口由 @Polymarket 转述《金融时报》，未打开 FT 原文；口头协议是马斯克的判断，由 @_FORAB 转述，未见英伟达官方确认。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "山姆·奥特曼在 Stripe 联合创始人约翰·科利森的播客里说，OpenAI 的机器人项目将对准自建数据中心；他认为“自我复制”的数据中心已“触手可及”，并由 AI 控制的机器人来运转芯片工厂等。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2121664710743597410",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 417,
+   "reposts": 42,
+   "replies": 116,
+   "views": 162833,
+   "bookmarks": 100
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "皮尤研究中心新调查：多数美国人不希望 AI 独自决定医疗相关事项。60% 的受访者对医生用 AI 做诊断和治疗感到不安，46% 完全不希望由 AI 决定保险理赔。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2121679810166436231",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 325,
-      "reposts": 33,
-      "replies": 97,
-      "views": 106900,
-      "bookmarks": 24
-    },
-    "edition": "早报",
-    "verify": "数字转述自 @unusual_whales，标明来源为皮尤研究中心；本轮未打开皮尤原始报告，原帖末句被截断，完整比例和样本量未核实。"
+  "edition": "早报",
+  "verify": "对照了 @unusual_whales 对这场 Cheeky Pint 播客的转述，未见奥特曼或 OpenAI 官方同步发帖，本轮也没有核对着陆页或完整节目原文；原帖末句被截断。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "皮尤研究中心新调查：多数美国人不希望 AI 独自决定医疗相关事项。60% 的受访者对医生用 AI 做诊断和治疗感到不安，46% 完全不希望由 AI 决定保险理赔。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2121679810166436231",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 325,
+   "reposts": 33,
+   "replies": 97,
+   "views": 106900,
+   "bookmarks": 24
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "有账号回顾黄仁勋 2009 年的判断：当时英伟达市值约 40 亿美元、英特尔约 1000 亿美元，他看准的不是后来才出现的 AI 概念，而是异构计算的必然性，并早早把 CUDA 押上去，用十年把一句当时没人信的话做成护城河。",
-    "author": "@AYi_AInotes",
-    "url": "https://x.com/AYi_AInotes/status/2121484877321175419",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 978,
-      "reposts": 193,
-      "replies": 39,
-      "views": 122460,
-      "bookmarks": 605
-    },
-    "edition": "早报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "verify": "数字转述自 @unusual_whales，标明来源为皮尤研究中心；本轮未打开皮尤原始报告，原帖末句被截断，完整比例和样本量未核实。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "有账号回顾黄仁勋 2009 年的判断：当时英伟达市值约 40 亿美元、英特尔约 1000 亿美元，他看准的不是后来才出现的 AI 概念，而是异构计算的必然性，并早早把 CUDA 押上去，用十年把一句当时没人信的话做成护城河。",
+  "author": "@AYi_AInotes",
+  "url": "https://x.com/AYi_AInotes/status/2121484877321175419",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 978,
+   "reposts": 193,
+   "replies": 39,
+   "views": 122460,
+   "bookmarks": 605
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "有账号用 Gemini 4 Carbon 汇总了 Next Token 过去 9 期、30 条中文 AI 圈核心判断，比如“Token 就是新货币”、好应用要把 Token 凝成可反复消费的作品、以及上下文必须归用户自己所有等，并注明观点来自 @oran_ge、@op7418、@vista8 等人。",
-    "author": "@op7418",
-    "url": "https://x.com/op7418/status/2121483517662306392",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 174,
-      "reposts": 15,
-      "replies": 62,
-      "views": 32240,
-      "bookmarks": 167
-    },
-    "edition": "早报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "有账号用 Gemini 4 Carbon 汇总了 Next Token 过去 9 期、30 条中文 AI 圈核心判断，比如“Token 就是新货币”、好应用要把 Token 凝成可反复消费的作品、以及上下文必须归用户自己所有等，并注明观点来自 @oran_ge、@op7418、@vista8 等人。",
+  "author": "@op7418",
+  "url": "https://x.com/op7418/status/2121483517662306392",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 174,
+   "reposts": 15,
+   "replies": 62,
+   "views": 32240,
+   "bookmarks": 167
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "有开发者称，已把公司所有项目的主要开发工作迁到 Claude 云端项目，用远程控制把云端环境接到自己的服务器、构建机和个人电脑，认为推理和计算放在一处的效果是其他 harness 很难比的。",
-    "author": "@turingou",
-    "url": "https://x.com/turingou/status/2121500754716524934",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 154,
-      "reposts": 10,
-      "replies": 12,
-      "views": 28230,
-      "bookmarks": 135
-    },
-    "edition": "早报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "有开发者称，已把公司所有项目的主要开发工作迁到 Claude 云端项目，用远程控制把云端环境接到自己的服务器、构建机和个人电脑，认为推理和计算放在一处的效果是其他 harness 很难比的。",
+  "author": "@turingou",
+  "url": "https://x.com/turingou/status/2121500754716524934",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 154,
+   "reposts": 10,
+   "replies": 12,
+   "views": 28230,
+   "bookmarks": 135
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "有开发者读了 DeepSeek 的 Super-agent 和 Anthropic 的 Building always-on agents 两篇文章，按后者在 FanBox 里做了一版：终端里的 agent 停下来等你，人若不在电脑前，手机会收到一句通知。文中还写了对照实践时踩到的四件事。",
-    "author": "@AlchainHust",
-    "url": "https://x.com/AlchainHust/status/2121485281744531496",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 65,
-      "reposts": 9,
-      "replies": 21,
-      "views": 12807,
-      "bookmarks": 115
-    },
-    "edition": "早报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "有开发者读了 DeepSeek 的 Super-agent 和 Anthropic 的 Building always-on agents 两篇文章，按后者在 FanBox 里做了一版：终端里的 agent 停下来等你，人若不在电脑前，手机会收到一句通知。文中还写了对照实践时踩到的四件事。",
+  "author": "@AlchainHust",
+  "url": "https://x.com/AlchainHust/status/2121485281744531496",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 65,
+   "reposts": 9,
+   "replies": 21,
+   "views": 12807,
+   "bookmarks": 115
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "比特币跌破 6.5 万美元，以太坊跌破 1750 美元；@KobeissiLetter 称过去 24 小时爆仓约 18 亿美元，加密资产总市值本周已蒸发约 3300 亿美元。@Cointelegraph 称过去 24 小时多头爆仓约 8.17 亿美元。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2121716781534314731",
-    "extra_urls": [
-      "https://x.com/Cointelegraph/status/2121634342170739025"
-    ],
-    "metrics": {
-      "likes": 443,
-      "reposts": 43,
-      "replies": 52,
-      "views": 44063,
-      "bookmarks": 16
-    },
-    "edition": "早报",
-    "why": "这是过去 24 小时加密市场最重要的价格和杠杆出清信号，也比前一日“跌破 6.7 万美元”又下了一个台阶。",
-    "verify": "对照了 @KobeissiLetter 的价格与周度市值数字，以及 @Cointelegraph 关于 24 小时多头爆仓 8.17 亿美元的帖子，方向一致，但两家对爆仓口径不完全相同；本轮未核对自己的交易所行情或 Coinglass 等原始数据。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "比特币跌破 6.5 万美元，以太坊跌破 1750 美元；@KobeissiLetter 称过去 24 小时爆仓约 18 亿美元，加密资产总市值本周已蒸发约 3300 亿美元。@Cointelegraph 称过去 24 小时多头爆仓约 8.17 亿美元。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121716781534314731",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2121634342170739025"
+  ],
+  "metrics": {
+   "likes": 443,
+   "reposts": 43,
+   "replies": 52,
+   "views": 44063,
+   "bookmarks": 16
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "链上监测称，与以太坊基金会关联的钱包（0x5CBC）在市场下跌时继续卖出 ETH：最新一笔再抛 2500 枚（约 460 万美元）；稍早同一地址还抛过 1000 枚，并称过去 5 天累计卖出 5000 枚（约 992 万美元），均价约 1983.5 美元。",
-    "author": "@lookonchain",
-    "url": "https://x.com/lookonchain/status/2121635046503419925",
-    "extra_urls": [
-      "https://x.com/lookonchain/status/2121464139726073912"
-    ],
-    "metrics": {
-      "likes": 704,
-      "reposts": 49,
-      "replies": 148,
-      "views": 102456,
-      "bookmarks": 41
-    },
-    "edition": "早报",
-    "verify": "两帖均来自 @lookonchain 的链上标注，本轮未对照区块浏览器或以太坊基金会声明，该钱包是否确为基金会官方地址仍待核实。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "why": "这是过去 24 小时加密市场最重要的价格和杠杆出清信号，也比前一日“跌破 6.7 万美元”又下了一个台阶。",
+  "verify": "对照了 @KobeissiLetter 的价格与周度市值数字，以及 @Cointelegraph 关于 24 小时多头爆仓 8.17 亿美元的帖子，方向一致，但两家对爆仓口径不完全相同；本轮未核对自己的交易所行情或 Coinglass 等原始数据。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "链上监测称，与以太坊基金会关联的钱包（0x5CBC）在市场下跌时继续卖出 ETH：最新一笔再抛 2500 枚（约 460 万美元）；稍早同一地址还抛过 1000 枚，并称过去 5 天累计卖出 5000 枚（约 992 万美元），均价约 1983.5 美元。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2121635046503419925",
+  "extra_urls": [
+   "https://x.com/lookonchain/status/2121464139726073912"
+  ],
+  "metrics": {
+   "likes": 704,
+   "reposts": 49,
+   "replies": 148,
+   "views": 102456,
+   "bookmarks": 41
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "链上监测称 Pump.fun 再次向市场砸售 SOL：7 小时内向 Kraken 存入 64,666 枚（约 519 万美元）；并称该地址累计已售出约 561.8 万枚 SOL（约 8.876 亿美元），均价约 158 美元。",
-    "author": "@lookonchain",
-    "url": "https://x.com/lookonchain/status/2121458753396678758",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 583,
-      "reposts": 44,
-      "replies": 88,
-      "views": 89535,
-      "bookmarks": 29
-    },
-    "edition": "早报",
-    "verify": "只有 @lookonchain 的标注和截图，本轮未对照链上原始交易或 Pump.fun 官方说明。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "verify": "两帖均来自 @lookonchain 的链上标注，本轮未对照区块浏览器或以太坊基金会声明，该钱包是否确为基金会官方地址仍待核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "链上监测称 Pump.fun 再次向市场砸售 SOL：7 小时内向 Kraken 存入 64,666 枚（约 519 万美元）；并称该地址累计已售出约 561.8 万枚 SOL（约 8.876 亿美元），均价约 158 美元。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2121458753396678758",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 583,
+   "reposts": 44,
+   "replies": 88,
+   "views": 89535,
+   "bookmarks": 29
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "KAVA 代币价格几乎腰斩。@Cointelegraph 称有人把大量 KAVA 跨到 BSC 后砸盘，项目方则表示问题限于 Kava Lend，不是无限增发。",
-    "author": "@Cointelegraph",
-    "url": "https://x.com/Cointelegraph/status/2121609370261688375",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 196,
-      "reposts": 17,
-      "replies": 49,
-      "views": 52654,
-      "bookmarks": 9
-    },
-    "edition": "早报",
-    "verify": "只有 @Cointelegraph 转述，未见项目方原帖或独立审计，是否“仅限 Kava Lend、不是无限增发”未核实。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "早报",
+  "verify": "只有 @lookonchain 的标注和截图，本轮未对照链上原始交易或 Pump.fun 官方说明。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "KAVA 代币价格几乎腰斩。@Cointelegraph 称有人把大量 KAVA 跨到 BSC 后砸盘，项目方则表示问题限于 Kava Lend，不是无限增发。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121609370261688375",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 196,
+   "reposts": 17,
+   "replies": 49,
+   "views": 52654,
+   "bookmarks": 9
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "预测市场显示，到今年年底，比特币跌破 5 万美元的概率已高于重新站上 9 万美元的概率。",
-    "author": "@Polymarket",
-    "url": "https://x.com/Polymarket/status/2121665079724658946",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 329,
-      "reposts": 42,
-      "replies": 78,
-      "views": 38260,
-      "bookmarks": 17
-    },
-    "edition": "早报",
-    "verify": "这是 @Polymarket 账号对自身盘口的摘要，本轮未打开盘口页面核对合约条款和实时概率。"
+  "edition": "早报",
+  "verify": "只有 @Cointelegraph 转述，未见项目方原帖或独立审计，是否“仅限 Kava Lend、不是无限增发”未核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "预测市场显示，到今年年底，比特币跌破 5 万美元的概率已高于重新站上 9 万美元的概率。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121665079724658946",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 329,
+   "reposts": 42,
+   "replies": 78,
+   "views": 38260,
+   "bookmarks": 17
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "@Cointelegraph 称，比特币还剩 888,090 枚待挖。",
-    "author": "@Cointelegraph",
-    "url": "https://x.com/Cointelegraph/status/2121687290955075780",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 146,
-      "reposts": 34,
-      "replies": 56,
-      "views": 38045,
-      "bookmarks": 7
-    },
-    "edition": "早报",
-    "verify": "这是一个可按总量 2100 万枚测算的数字，但本轮未对照区块高度或浏览器的实时待挖数量。"
+  "edition": "早报",
+  "verify": "这是 @Polymarket 账号对自身盘口的摘要，本轮未打开盘口页面核对合约条款和实时概率。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "@Cointelegraph 称，比特币还剩 888,090 枚待挖。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121687290955075780",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 146,
+   "reposts": 34,
+   "replies": 56,
+   "views": 38045,
+   "bookmarks": 7
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "路透社引述央视报道：中国国有飞机制造商中国商飞（COMAC）在滨州完成 CE-25A 电动飞机首次载人飞行。",
-    "author": "@Reuters",
-    "url": "https://x.com/Reuters/status/2121661942054174936",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 1344,
-      "reposts": 324,
-      "replies": 56,
-      "views": 258095,
-      "bookmarks": 173
-    },
-    "edition": "早报",
-    "why": "这是国产电动飞机首次载人飞行的官方消息出口，也是中国商飞在传统商用飞机之外的一条新线。",
-    "verify": "对照了路透社原帖，稿件明确转述央视；本轮未找到央视或中国商飞的原帖，也未核对照片、地点和飞机型号的技术细节。"
+  "edition": "早报",
+  "verify": "这是一个可按总量 2100 万枚测算的数字，但本轮未对照区块高度或浏览器的实时待挖数量。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "路透社引述央视报道：中国国有飞机制造商中国商飞（COMAC）在滨州完成 CE-25A 电动飞机首次载人飞行。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2121661942054174936",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1344,
+   "reposts": 324,
+   "replies": 56,
+   "views": 258095,
+   "bookmarks": 173
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "有账号称，11 月 13 日十余名河南村镇银行储户抵达郑州和信阳火车站后，立即遭到大量不明人员堵截；储户在站内高喊“河南政府还我存款”“许昌农商银行还我存款”。这与前一日部分储户进京被拦是同一事件的新进展。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2121629226835100081",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 136,
-      "reposts": 14,
-      "replies": 20,
-      "views": 34437,
-      "bookmarks": 22
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号",
-      "待核实"
-    ],
-    "verify": "来源为立场账号 @whyyoutouzhele 的网友投稿，本轮未见官方通报或主流媒体同源报道。"
+  "edition": "早报",
+  "why": "这是国产电动飞机首次载人飞行的官方消息出口，也是中国商飞在传统商用飞机之外的一条新线。",
+  "verify": "对照了路透社原帖，稿件明确转述央视；本轮未找到央视或中国商飞的原帖，也未核对照片、地点和飞机型号的技术细节。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "有账号称，11 月 13 日十余名河南村镇银行储户抵达郑州和信阳火车站后，立即遭到大量不明人员堵截；储户在站内高喊“河南政府还我存款”“许昌农商银行还我存款”。这与前一日部分储户进京被拦是同一事件的新进展。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121629226835100081",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 136,
+   "reposts": 14,
+   "replies": 20,
+   "views": 34437,
+   "bookmarks": 22
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "东莞叫停“患者欠费扣医生绩效”：有账号称，11 月 12 日中国媒体报道，东莞市卫健局要求广东医科大学附属东莞第一医院立即停止相关办法，核实台账后全额补发已扣绩效，并约谈医院负责人、在全市排查。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2121528571160092896",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 127,
-      "reposts": 10,
-      "replies": 13,
-      "views": 40820,
-      "bookmarks": 25
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号",
-      "待核实"
-    ],
-    "verify": "立场账号转述“中国媒体报道”，帖中带图，但本轮未对照东莞卫健局或该医院的原始通知，也未核对报道媒体名称。"
+  "edition": "早报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ],
+  "verify": "来源为立场账号 @whyyoutouzhele 的网友投稿，本轮未见官方通报或主流媒体同源报道。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "东莞叫停“患者欠费扣医生绩效”：有账号称，11 月 12 日中国媒体报道，东莞市卫健局要求广东医科大学附属东莞第一医院立即停止相关办法，核实台账后全额补发已扣绩效，并约谈医院负责人、在全市排查。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121528571160092896",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 127,
+   "reposts": 10,
+   "replies": 13,
+   "views": 40820,
+   "bookmarks": 25
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "《联合早报》辟谣：社交平台流传一张该报“独家报道”，称黄仁勋将加入香港科技大学担任兼职教授及战略顾问。早报说这则“独家”连自己都没见过，港科大也未发布这一任职消息。",
-    "author": "@zaobaosg",
-    "url": "https://x.com/zaobaosg/status/2121506594760352206",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 31,
-      "reposts": 1,
-      "replies": 6,
-      "views": 36202,
-      "bookmarks": 2
-    },
-    "edition": "早报",
-    "tags": [
-      "价值观察"
-    ],
-    "verify": "这是当事媒体 @zaobaosg 自己澄清，权威性高；港科大未发声明这一点以早报转述为准，本轮未打开港科大官网复核。"
+  "edition": "早报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ],
+  "verify": "立场账号转述“中国媒体报道”，帖中带图，但本轮未对照东莞卫健局或该医院的原始通知，也未核对报道媒体名称。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "《联合早报》辟谣：社交平台流传一张该报“独家报道”，称黄仁勋将加入香港科技大学担任兼职教授及战略顾问。早报说这则“独家”连自己都没见过，港科大也未发布这一任职消息。",
+  "author": "@zaobaosg",
+  "url": "https://x.com/zaobaosg/status/2121506594760352206",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 31,
+   "reposts": 1,
+   "replies": 6,
+   "views": 36202,
+   "bookmarks": 2
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "路透社报道，伊朗伊斯兰革命卫队称霍尔木兹海峡有两艘油轮触雷；约 21 小时后，路透再引述伊朗海军称，一艘油轮在霍尔木兹触雷后起火。",
-    "author": "@Reuters",
-    "url": "https://x.com/Reuters/status/2121370149018046736",
-    "extra_urls": [
-      "https://x.com/Reuters/status/2121692152266666249"
-    ],
-    "metrics": {
-      "likes": 306,
-      "reposts": 121,
-      "replies": 17,
-      "views": 259834,
-      "bookmarks": 27
-    },
-    "edition": "早报",
-    "why": "霍尔木兹是全球关键运油水道，若触雷和起火属实，可能推高油价并给已经升温的伊朗局势再加变量。",
-    "verify": "两篇都是路透社原帖，但革命卫队“两艘触雷”和海军“一艘起火”口径不完全相同；本轮未见美联社、BBC 或船东的同题原帖，受损船只身份和责任方都还没核实。"
+  "edition": "早报",
+  "tags": [
+   "价值观察"
+  ],
+  "verify": "这是当事媒体 @zaobaosg 自己澄清，权威性高；港科大未发声明这一点以早报转述为准，本轮未打开港科大官网复核。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "路透社报道，伊朗伊斯兰革命卫队称霍尔木兹海峡有两艘油轮触雷；约 21 小时后，路透再引述伊朗海军称，一艘油轮在霍尔木兹触雷后起火。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2121370149018046736",
+  "extra_urls": [
+   "https://x.com/Reuters/status/2121692152266666249"
+  ],
+  "metrics": {
+   "likes": 306,
+   "reposts": 121,
+   "replies": 17,
+   "views": 259834,
+   "bookmarks": 27
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "泽连斯基称，此行从丹麦带回 6.45 亿欧元防务援助和 2000 万欧元能源援助，英国也对俄罗斯石油部门采取新的制裁步骤；他在都柏林还与史蒂夫·威特科夫、贾里德·库什纳会面，讨论推动停火。",
-    "author": "@ZelenskyyUa",
-    "url": "https://x.com/ZelenskyyUa/status/2121528687921115315",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 9771,
-      "reposts": 1740,
-      "replies": 931,
-      "views": 250374,
-      "bookmarks": 119
-    },
-    "edition": "早报",
-    "why": "这是乌克兰总统本人公布的新援助和制裁进展，也透露他仍在与美方和谈代表接触。",
-    "verify": "以泽连斯基官方账号原帖为准；丹麦政府公报、英国制裁清单和都柏林会谈细节本轮未另作核对。"
+  "edition": "早报",
+  "why": "霍尔木兹是全球关键运油水道，若触雷和起火属实，可能推高油价并给已经升温的伊朗局势再加变量。",
+  "verify": "两篇都是路透社原帖，但革命卫队“两艘触雷”和海军“一艘起火”口径不完全相同；本轮未见美联社、BBC 或船东的同题原帖，受损船只身份和责任方都还没核实。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "泽连斯基称，此行从丹麦带回 6.45 亿欧元防务援助和 2000 万欧元能源援助，英国也对俄罗斯石油部门采取新的制裁步骤；他在都柏林还与史蒂夫·威特科夫、贾里德·库什纳会面，讨论推动停火。",
+  "author": "@ZelenskyyUa",
+  "url": "https://x.com/ZelenskyyUa/status/2121528687921115315",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 9771,
+   "reposts": 1740,
+   "replies": 931,
+   "views": 250374,
+   "bookmarks": 119
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "有账号汇总称，除特朗普、财长贝森特、国务卿鲁比奥外，马斯克和万事达 CEO 迈克尔·米巴赫也将在下周出现在深圳；APEC 工商领导人峰会已确认的美国企业包括苹果、谷歌、微软、亚马逊、沃尔玛、埃克森美孚和波音。白宫此前已确认三方会晤，这是出席名单的新说法。",
-    "author": "@_FORAB",
-    "url": "https://x.com/_FORAB/status/2121514853403885870",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 263,
-      "reposts": 9,
-      "replies": 36,
-      "views": 72963,
-      "bookmarks": 42
-    },
-    "edition": "早报",
-    "tags": [
-      "待核实"
-    ],
-    "verify": "三方会晤本身已由前日午报对照白宫/美联社确认；本帖关于马斯克、万事达 CEO 及美国企业名单写的是“结合各家最新信息”，本轮未见白宫、马斯克或上述公司的原帖确认。"
+  "edition": "早报",
+  "why": "这是乌克兰总统本人公布的新援助和制裁进展，也透露他仍在与美方和谈代表接触。",
+  "verify": "以泽连斯基官方账号原帖为准；丹麦政府公报、英国制裁清单和都柏林会谈细节本轮未另作核对。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号汇总称，除特朗普、财长贝森特、国务卿鲁比奥外，马斯克和万事达 CEO 迈克尔·米巴赫也将在下周出现在深圳；APEC 工商领导人峰会已确认的美国企业包括苹果、谷歌、微软、亚马逊、沃尔玛、埃克森美孚和波音。白宫此前已确认三方会晤，这是出席名单的新说法。",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2121514853403885870",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 263,
+   "reposts": 9,
+   "replies": 36,
+   "views": 72963,
+   "bookmarks": 42
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "有账号称法国里昂再次出现骚乱：年轻人点燃大型路障，其中一些人打着阿尔及利亚国旗。",
-    "author": "@visegrad24",
-    "url": "https://x.com/visegrad24/status/2121683143115809125",
-    "extra_urls": [
-      "https://x.com/visegrad24/status/2121676136723763293"
-    ],
-    "metrics": {
-      "likes": 1430,
-      "reposts": 378,
-      "replies": 175,
-      "views": 54472,
-      "bookmarks": 104
-    },
-    "edition": "早报",
-    "tags": [
-      "立场账号",
-      "待核实"
-    ],
-    "verify": "两帖都来自立场账号 @visegrad24，配有视频/图片，但本轮未见路透、美联社或法新社同题报道，规模、起因和是否持续都未核实。"
+  "edition": "早报",
+  "tags": [
+   "待核实"
+  ],
+  "verify": "三方会晤本身已由前日午报对照白宫/美联社确认；本帖关于马斯克、万事达 CEO 及美国企业名单写的是“结合各家最新信息”，本轮未见白宫、马斯克或上述公司的原帖确认。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号称法国里昂再次出现骚乱：年轻人点燃大型路障，其中一些人打着阿尔及利亚国旗。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2121683143115809125",
+  "extra_urls": [
+   "https://x.com/visegrad24/status/2121676136723763293"
+  ],
+  "metrics": {
+   "likes": 1430,
+   "reposts": 378,
+   "replies": 175,
+   "views": 54472,
+   "bookmarks": 104
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "Alphabet（谷歌母公司，$GOOGL）自由现金流已转为净流出：@unusual_whales 转述《华尔街日报》图表称，这是该图所示 20 年来首次，近两个季度分别约 -60 亿美元和 -90 亿美元。原帖后半被截断，更早的正现金流数字未见全文。",
-    "author": "@unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2121740208131686571",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 2936,
-      "reposts": 193,
-      "replies": 175,
-      "views": 344989,
-      "bookmarks": 270
-    },
-    "edition": "午报",
-    "why": "谷歌母公司在 AI 资本开支高增后首次录得大幅自由现金流净流出，会直接影响市场对 AI 投入能否收回成本的判断，也可能牵动科技股和算力链的风险偏好。",
-    "verify": "数字转述自 @unusual_whales 对《华尔街日报》图表的解读，本轮未打开 WSJ 原文；原帖后半被截断，更早季度的正现金流规模未见全文。"
+  "edition": "早报",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ],
+  "verify": "两帖都来自立场账号 @visegrad24，配有视频/图片，但本轮未见路透、美联社或法新社同题报道，规模、起因和是否持续都未核实。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "Alphabet（谷歌母公司，$GOOGL）自由现金流已转为净流出：@unusual_whales 转述《华尔街日报》图表称，这是该图所示 20 年来首次，近两个季度分别约 -60 亿美元和 -90 亿美元。原帖后半被截断，更早的正现金流数字未见全文。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2121740208131686571",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 2936,
+   "reposts": 193,
+   "replies": 175,
+   "views": 344989,
+   "bookmarks": 270
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "要求黄仁勋复任英伟达 CEO 的公开信签名已超过 12 万（早报时约 6.5 万）。另据 @unusual_whales 转述 The Information：黄仁勋的两名子女都在英伟达工作，其中麦迪逊·黄是 Omniverse 仿真组高级总监，2024 年薪酬超过 100 万美元；她曾就读美国烹饪学院和蓝带厨艺学院，并在路威酩轩（LVMH）工作过，原帖后半被截断。TechCrunch 还提到，英伟达安全负责人已于今年 8 月悄悄离职。",
-    "author": "@spectatorindex",
-    "url": "https://x.com/spectatorindex/status/2121748192798913003",
-    "extra_urls": [
-      "https://x.com/unusual_whales/status/2121770407221166239",
-      "https://x.com/TechCrunch/status/2121757337807401094"
-    ],
-    "metrics": {
-      "likes": 7713,
-      "reposts": 592,
-      "replies": 130,
-      "views": 231133,
-      "bookmarks": 179
-    },
-    "edition": "午报",
-    "why": "请愿人数在早报后的数小时内接近翻倍，说明复任压力仍在快速聚集；子女在公司任职、安全负责人早先离职等新细节，也会加重治理和利益冲突方面的关注。",
-    "verify": "12 万签名以 @spectatorindex 转述为准，未见请愿网站原始计数；子女任职与薪酬来自 @unusual_whales 转述 The Information，原帖后半被截断，本轮未打开原文；安全负责人离职来自 TechCrunch，原文后半同样被截断。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "午报",
+  "why": "谷歌母公司在 AI 资本开支高增后首次录得大幅自由现金流净流出，会直接影响市场对 AI 投入能否收回成本的判断，也可能牵动科技股和算力链的风险偏好。",
+  "verify": "数字转述自 @unusual_whales 对《华尔街日报》图表的解读，本轮未打开 WSJ 原文；原帖后半被截断，更早季度的正现金流规模未见全文。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "要求黄仁勋复任英伟达 CEO 的公开信签名已超过 12 万（早报时约 6.5 万）。另据 @unusual_whales 转述 The Information：黄仁勋的两名子女都在英伟达工作，其中麦迪逊·黄是 Omniverse 仿真组高级总监，2024 年薪酬超过 100 万美元；她曾就读美国烹饪学院和蓝带厨艺学院，并在路威酩轩（LVMH）工作过，原帖后半被截断。TechCrunch 还提到，英伟达安全负责人已于今年 8 月悄悄离职。",
+  "author": "@spectatorindex",
+  "url": "https://x.com/spectatorindex/status/2121748192798913003",
+  "extra_urls": [
+   "https://x.com/unusual_whales/status/2121770407221166239",
+   "https://x.com/TechCrunch/status/2121757337807401094"
+  ],
+  "metrics": {
+   "likes": 7713,
+   "reposts": 592,
+   "replies": 130,
+   "views": 231133,
+   "bookmarks": 179
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "《华尔街日报》报道，东南亚大型数据中心既为中国公司提供关键算力，也被指用作芯片走私的掩护。",
-    "author": "@WSJ",
-    "url": "https://x.com/WSJ/status/2121786014368661638",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 352,
-      "reposts": 127,
-      "replies": 114,
-      "views": 127311,
-      "bookmarks": 59
-    },
-    "edition": "午报"
+  "edition": "午报",
+  "why": "请愿人数在早报后的数小时内接近翻倍，说明复任压力仍在快速聚集；子女在公司任职、安全负责人早先离职等新细节，也会加重治理和利益冲突方面的关注。",
+  "verify": "12 万签名以 @spectatorindex 转述为准，未见请愿网站原始计数；子女任职与薪酬来自 @unusual_whales 转述 The Information，原帖后半被截断，本轮未打开原文；安全负责人离职来自 TechCrunch，原文后半同样被截断。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "《华尔街日报》报道，东南亚大型数据中心既为中国公司提供关键算力，也被指用作芯片走私的掩护。",
+  "author": "@WSJ",
+  "url": "https://x.com/WSJ/status/2121786014368661638",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 352,
+   "reposts": 127,
+   "replies": 114,
+   "views": 127311,
+   "bookmarks": 59
   },
-  {
-    "date": "2026-11-15",
-    "category": "AI",
-    "summary": "@emollick 做了 SatBench：衡量主流 AI 基准被“做满”（saturated）的速度。自 2023 年以来实验室引用的 173 个基准中，63% 现已饱和，而且饱和速度逐年加快。",
-    "author": "@emollick",
-    "url": "https://x.com/emollick/status/2121751565845360769",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 354,
-      "reposts": 34,
-      "replies": 114,
-      "views": 23594,
-      "bookmarks": 104
-    },
-    "edition": "午报",
-    "tags": [
-      "值得收藏"
-    ]
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "@emollick 做了 SatBench：衡量主流 AI 基准被“做满”（saturated）的速度。自 2023 年以来实验室引用的 173 个基准中，63% 现已饱和，而且饱和速度逐年加快。",
+  "author": "@emollick",
+  "url": "https://x.com/emollick/status/2121751565845360769",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 354,
+   "reposts": 34,
+   "replies": 114,
+   "views": 23594,
+   "bookmarks": 104
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "加密市场周末继续大跌：@KobeissiLetter 称比特币当日下跌约 5000 美元、近 3 日下跌约 1.1 万美元，过去 24 小时爆仓已超过 20 亿美元（早报时约 18 亿）。@Polymarket 称比特币一度跌破 6.4 万美元；彭博称周末最低刚高于 6.3 万美元；@Cointelegraph 称最低见到 6.2112 万美元，为四个月新低。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2121729777891496181",
-    "extra_urls": [
-      "https://x.com/Polymarket/status/2121732897048588537",
-      "https://x.com/Polymarket/status/2121719831493853397",
-      "https://x.com/business/status/2121765138575290522",
-      "https://x.com/Cointelegraph/status/2121808085354188967",
-      "https://x.com/PhyrexNi/status/2121737902959067569"
-    ],
-    "metrics": {
-      "likes": 2973,
-      "reposts": 196,
-      "replies": 209,
-      "views": 303954,
-      "bookmarks": 178
-    },
-    "edition": "午报",
-    "verify": "价格和爆仓数字分别来自 @KobeissiLetter、@Polymarket、彭博（@business）、@Cointelegraph 和 @PhyrexNi 的转述，口径略有差异；本轮未对照交易所行情或 Coinglass。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "午报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "加密市场周末继续大跌：@KobeissiLetter 称比特币当日下跌约 5000 美元、近 3 日下跌约 1.1 万美元，过去 24 小时爆仓已超过 20 亿美元（早报时约 18 亿）。@Polymarket 称比特币一度跌破 6.4 万美元；彭博称周末最低刚高于 6.3 万美元；@Cointelegraph 称最低见到 6.2112 万美元，为四个月新低。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121729777891496181",
+  "extra_urls": [
+   "https://x.com/Polymarket/status/2121732897048588537",
+   "https://x.com/Polymarket/status/2121719831493853397",
+   "https://x.com/business/status/2121765138575290522",
+   "https://x.com/Cointelegraph/status/2121808085354188967",
+   "https://x.com/PhyrexNi/status/2121737902959067569"
+  ],
+  "metrics": {
+   "likes": 2973,
+   "reposts": 196,
+   "replies": 209,
+   "views": 303954,
+   "bookmarks": 178
   },
-  {
-    "date": "2026-11-15",
-    "category": "Crypto",
-    "summary": "链上监测称，仍有大户在逢低买入 ETH：与 @ErikVoorhees 关联的钱包花费约 1.2527 亿美元买入 6.354 万枚（均价约 1972 美元）；“7 Siblings”花费约 6088 万美元买入 3.1484 万枚（均价约 1933 美元）。原帖后半提到 @satofishi 还提取了 1.0997 万枚，其后被截断。",
-    "author": "@lookonchain",
-    "url": "https://x.com/lookonchain/status/2121773175453446196",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 290,
-      "reposts": 29,
-      "replies": 51,
-      "views": 54085,
-      "bookmarks": 28
-    },
-    "edition": "午报",
-    "verify": "地址归属和买卖数字均来自 @lookonchain，本轮未对照区块浏览器。原帖后半被截断。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "午报",
+  "verify": "价格和爆仓数字分别来自 @KobeissiLetter、@Polymarket、彭博（@business）、@Cointelegraph 和 @PhyrexNi 的转述，口径略有差异；本轮未对照交易所行情或 Coinglass。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "链上监测称，仍有大户在逢低买入 ETH：与 @ErikVoorhees 关联的钱包花费约 1.2527 亿美元买入 6.354 万枚（均价约 1972 美元）；“7 Siblings”花费约 6088 万美元买入 3.1484 万枚（均价约 1933 美元）。原帖后半提到 @satofishi 还提取了 1.0997 万枚，其后被截断。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2121773175453446196",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 290,
+   "reposts": 29,
+   "replies": 51,
+   "views": 54085,
+   "bookmarks": 28
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "中国汽车行业利润率在 2026 年前 8 个月降至 3.6%，是至少 12 年来最低，并有望连续第 12 年下降。@KobeissiLetter 称多年的大规模投资是背景之一，原帖后半被截断。",
-    "author": "@KobeissiLetter",
-    "url": "https://x.com/KobeissiLetter/status/2121766357540704565",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 872,
-      "reposts": 90,
-      "replies": 70,
-      "views": 136879,
-      "bookmarks": 119
-    },
-    "edition": "午报",
-    "verify": "利润率数字转述自 @KobeissiLetter，原帖后半被截断，本轮未对照官方统计原文。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "午报",
+  "verify": "地址归属和买卖数字均来自 @lookonchain，本轮未对照区块浏览器。原帖后半被截断。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "中国汽车行业利润率在 2026 年前 8 个月降至 3.6%，是至少 12 年来最低，并有望连续第 12 年下降。@KobeissiLetter 称多年的大规模投资是背景之一，原帖后半被截断。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2121766357540704565",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 872,
+   "reposts": 90,
+   "replies": 70,
+   "views": 136879,
+   "bookmarks": 119
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "有账号转述 11 月 13 日《纽约时报》报道：三名台湾官员认为，习近平持续在军中开展忠诚审查和反腐调查，可能拖累解放军对台备战；另一名台湾官员称近期军演看起来不如以往复杂，推测与指挥体系受冲击有关。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2121755058421530631",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 151,
-      "reposts": 7,
-      "replies": 16,
-      "views": 50009,
-      "bookmarks": 37
-    },
-    "edition": "午报",
-    "verify": "只对照了 @whyyoutouzhele 对《纽约时报》的转述，本轮未打开纽约时报原文，也未见台湾官方公开印证。",
-    "tags": [
-      "立场账号",
-      "待核实"
-    ]
+  "edition": "午报",
+  "verify": "利润率数字转述自 @KobeissiLetter，原帖后半被截断，本轮未对照官方统计原文。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "有账号转述 11 月 13 日《纽约时报》报道：三名台湾官员认为，习近平持续在军中开展忠诚审查和反腐调查，可能拖累解放军对台备战；另一名台湾官员称近期军演看起来不如以往复杂，推测与指挥体系受冲击有关。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121755058421530631",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 151,
+   "reposts": 7,
+   "replies": 16,
+   "views": 50009,
+   "bookmarks": 37
   },
-  {
-    "date": "2026-11-15",
-    "category": "国内形势",
-    "summary": "有账号称，11 月 14 日江苏泰州兴化市昌荣镇荣宝油脂有限公司厂房一带发生爆炸；监控显示爆炸前厂房内仍有灯光，多名网友称周边有震感。",
-    "author": "@whyyoutouzhele",
-    "url": "https://x.com/whyyoutouzhele/status/2121718565204324654",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 124,
-      "reposts": 21,
-      "replies": 9,
-      "views": 34365,
-      "bookmarks": 21
-    },
-    "edition": "午报",
-    "verify": "只对照了 @whyyoutouzhele 发布的网友反映和监控截图，未见当地官方通报。",
-    "tags": [
-      "立场账号",
-      "待核实"
-    ]
+  "edition": "午报",
+  "verify": "只对照了 @whyyoutouzhele 对《纽约时报》的转述，本轮未打开纽约时报原文，也未见台湾官方公开印证。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "有账号称，11 月 14 日江苏泰州兴化市昌荣镇荣宝油脂有限公司厂房一带发生爆炸；监控显示爆炸前厂房内仍有灯光，多名网友称周边有震感。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121718565204324654",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 124,
+   "reposts": 21,
+   "replies": 9,
+   "views": 34365,
+   "bookmarks": 21
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "有账号称，国际刑事法院法官已中止对驻阿富汗美军涉嫌犯罪的调查。",
-    "author": "@Polymarket",
-    "url": "https://x.com/Polymarket/status/2121775260030922805",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 722,
-      "reposts": 49,
-      "replies": 38,
-      "views": 65737,
-      "bookmarks": 30
-    },
-    "edition": "午报",
-    "verify": "目前只有 @Polymarket 的快讯，本轮未见路透、美联社等通讯社同步报道，也未核对照法院文件。",
-    "tags": [
-      "待核实"
-    ]
+  "edition": "午报",
+  "verify": "只对照了 @whyyoutouzhele 发布的网友反映和监控截图，未见当地官方通报。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号称，国际刑事法院法官已中止对驻阿富汗美军涉嫌犯罪的调查。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121775260030922805",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 722,
+   "reposts": 49,
+   "replies": 38,
+   "views": 65737,
+   "bookmarks": 30
   },
-  {
-    "date": "2026-11-15",
-    "category": "国际形势",
-    "summary": "路透社报道，以色列军方称已打击哈马斯军事翼一名高级指挥官。",
-    "author": "@Reuters",
-    "url": "https://x.com/Reuters/status/2121733677419806827",
-    "extra_urls": [],
-    "metrics": {
-      "likes": 128,
-      "reposts": 36,
-      "replies": 26,
-      "views": 79623,
-      "bookmarks": 5
-    },
-    "edition": "午报"
-  }
+  "edition": "午报",
+  "verify": "目前只有 @Polymarket 的快讯，本轮未见路透、美联社等通讯社同步报道，也未核对照法院文件。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "路透社报道，以色列军方称已打击哈马斯军事翼一名高级指挥官。",
+  "author": "@Reuters",
+  "url": "https://x.com/Reuters/status/2121733677419806827",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 128,
+   "reposts": 36,
+   "replies": 26,
+   "views": 79623,
+   "bookmarks": 5
+  },
+  "edition": "午报"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "《金融时报》报道，在英伟达丑闻之后，美国国会正推进更严格的人工智能芯片出口规则。",
+  "author": "@FT",
+  "url": "https://x.com/FT/status/2121925257162297677",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 12,
+   "reposts": 3,
+   "replies": 7,
+   "views": 8898,
+   "bookmarks": 0
+  },
+  "edition": "晚报",
+  "why": "英伟达风波的核心争议就是对华芯片管制是否被绕开。国会若在这个时点收紧规则，会直接影响后续对华算力出口、东南亚数据中心路径，以及整条 AI 供应链的合规成本。",
+  "verify": "目前只有 @FT 在窗口末段发出的快讯标题，本轮未打开原文，法案处于起草、委员会还是临近表决，以及具体收紧条款，都还没核对。"
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "意大利以 Facebook 未经用户同意读取安卓手机照片和视频为由，对 Meta 罚款 8.87 亿美元。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121895481022538003",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 585,
+   "reposts": 67,
+   "replies": 50,
+   "views": 35501,
+   "bookmarks": 35
+  },
+  "edition": "晚报",
+  "why": "这是近年欧洲对 Meta 金额很高的一笔隐私罚单，直接打在相册和媒体文件权限上，可能影响其广告和内容业务，也可能被其他监管机构拿来对照。",
+  "verify": "目前只有 @Polymarket 的快讯，本轮未见意大利监管机构、欧盟委员会或路透、美联社的原帖，处罚是否已生效、能否上诉都未核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "AI",
+  "summary": "Lauren Tan 在 AI Engineer 大会上的演讲《All Code Is Slop (Except Mine)》要点：她在 SpaceXAI 负责 Grok Bot 桌面版。她主张每纠正 AI 一次，就把这次纠正写成 lint 这类自动检查规则，少往 agents.md 这类说明文档里加话；违反 lint 的代码会直接报错、提交不上去，文档里的话 AI 不一定照做。原帖后半和配图里的其他要点本轮未见全文。",
+  "author": "@dotey",
+  "url": "https://x.com/dotey/status/2121835140850602200",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 486,
+   "reposts": 56,
+   "replies": 126,
+   "views": 43582,
+   "bookmarks": 661
+  },
+  "edition": "晚报",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "@Cointelegraph 称，比特币曾短暂跌出全球资产市值前 15 名。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121823191811195231",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 197,
+   "reposts": 14,
+   "replies": 54,
+   "views": 44580,
+   "bookmarks": 5
+  },
+  "edition": "晚报",
+  "verify": "只有 @Cointelegraph 的快讯，本轮未对照当时的全球资产市值排行；这是午报已报“跌至约 6.21 万美元”之后的新口径，不是新的价格下破。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "@Cointelegraph 称，BitMine 持有的 607 万枚 ETH 已出现约 97 亿美元未实现亏损，当前市值大约只有买入成本的一半。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121853386207170713",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 154,
+   "reposts": 14,
+   "replies": 76,
+   "views": 41911,
+   "bookmarks": 8
+  },
+  "edition": "晚报",
+  "verify": "持仓和亏损数字均来自 @Cointelegraph，本轮未对照公司披露或链上数据。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "捷克国家银行在已经试验把比特币纳入储备之后，首次在区块链账本上发行债券。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121838297794179191",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 366,
+   "reposts": 55,
+   "replies": 81,
+   "views": 43889,
+   "bookmarks": 17
+  },
+  "edition": "晚报",
+  "verify": "只有 @Cointelegraph 的报道，本轮未见捷克央行官方声明或独立通讯社核对。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "Crypto",
+  "summary": "泰国警方在曼谷拘捕两名中国籍嫌疑人，称他们与一起金额超过 9200 万美元的加密货币传销案有关。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2121883586815013051",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 412,
+   "reposts": 44,
+   "replies": 57,
+   "views": 45563,
+   "bookmarks": 11
+  },
+  "edition": "晚报",
+  "verify": "只有 @Cointelegraph 的报道，本轮未见泰国警方或中文官方通报核对。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "中国官方媒体称，到 2030 年，中国有望以清洁能源满足全部新增用电需求。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121840871029014756",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 486,
+   "reposts": 24,
+   "replies": 54,
+   "views": 51477,
+   "bookmarks": 26
+  },
+  "edition": "晚报",
+  "verify": "这是 @Polymarket 对“中国官方媒体/国家电视台”说法的转述，本轮未见央视或国家能源主管部门的原帖，也未核对待满足的是全部用电还是全部新增用电的口径。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国内形势",
+  "summary": "有账号称，特朗普 11 月 13 日接受塞勒姆新闻频道采访时，用“巨大敌意”形容中方对黎智英的态度；并转述习近平曾向他详谈黎智英在香港民主运动中的角色、称这给中方带来很大困扰。特朗普还说，习近平答应释放其他人，但至今仍未答应放黎智英。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2121906059908723176",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 82,
+   "reposts": 2,
+   "replies": 12,
+   "views": 22171,
+   "bookmarks": 11
+  },
+  "edition": "晚报",
+  "verify": "来源为立场账号 @whyyoutouzhele 对采访的转述，本轮未见特朗普原话录音、文字稿，也未见白宫或中方回应。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号称，欧洲盟友目前预计美国将从欧洲裁减约 5000 名驻军。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121859242101739988",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 312,
+   "reposts": 20,
+   "replies": 20,
+   "views": 36057,
+   "bookmarks": 13
+  },
+  "edition": "晚报",
+  "verify": "目前只有 @Polymarket 的快讯，本轮未见五角大楼、北约或路透、美联社的原帖，裁减是否已做决定、时间表和涉及哪些国家都未核实。",
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号称，乌克兰远程无人机打击了俄罗斯阿斯特拉罕州的阿赫图宾斯克军用机场，现场可见较大的二次爆炸。",
+  "author": "@visegrad24",
+  "url": "https://x.com/visegrad24/status/2121901246055600496",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 515,
+   "reposts": 91,
+   "replies": 12,
+   "views": 26919,
+   "bookmarks": 16
+  },
+  "edition": "晚报",
+  "verify": "只有立场账号 @visegrad24 的快讯和视频，本轮未见路透、美联社、乌克兰或俄方官方确认，目标是否为军用机场、毁伤程度都未核实。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "category": "国际形势",
+  "summary": "有账号称，德国议会已批准一项赋予情报机构广泛新权限的措施，允许其在“特定条件”下对对手进行黑客攻击和破坏。",
+  "author": "@Polymarket",
+  "url": "https://x.com/Polymarket/status/2121924421778538933",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 65,
+   "reposts": 12,
+   "replies": 16,
+   "views": 9305,
+   "bookmarks": 7
+  },
+  "edition": "晚报",
+  "verify": "目前只有 @Polymarket 的快讯，本轮未见德国议会、政府或路透、德新社的原帖，法案名称、生效条件和约束条款都未核实。",
+  "tags": [
+   "待核实"
+  ]
+ }
 ]
