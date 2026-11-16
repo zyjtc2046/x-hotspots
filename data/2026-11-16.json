@@ -376,5 +376,221 @@
    "bookmarks": 83
   },
   "verify": "数字转述自 @KobeissiLetter，原帖后半被截断；本轮未核对数据提供方和原始统计。"
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "受黄仁勋考虑重返英伟达 CEO 的报道影响，@KobeissiLetter 称美股期货上涨：标普 500 约 +0.3%，纳斯达克 100 约 +0.7%，道指约 +0.2%，WTI 原油约 -0.5%。该账号还提到，本周市场关注英伟达财报和 Anthropic IPO。另有 @Cointelegraph 称，财长贝森特在要求引入外部 CEO 之外，还给予伟达董事会 10 天时间回应出口合规问题。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2122103157425869309",
+  "extra_urls": [
+   "https://x.com/Cointelegraph/status/2122079886969860495"
+  ],
+  "metrics": {
+   "likes": 3301,
+   "reposts": 245,
+   "replies": 210,
+   "views": 271172,
+   "bookmarks": 129
+  },
+  "why": "回归传闻已经反映到盘前定价，而本周还有英伟达财报和 Anthropic 上市，短线波动可能加大。",
+  "verify": "期货涨跌幅来自 @KobeissiLetter，本轮未对照行情软件；黄仁勋与盟友讨论回归已在今日早报对照《金融时报》报道。“10 天内回应出口合规”仅见 @Cointelegraph，未见贝森特原话或财政部声明。",
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "OpenAI 官方发帖称，物理学家 Nathaniel Craig 分享了他与 GPT-6 Astra 合作、提出标准模型的一种候选格点定义；这是 OpenAI 新科学博客的第一篇文章。",
+  "author": "@OpenAI",
+  "url": "https://x.com/OpenAI/status/2122123437141553630",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1989,
+   "reposts": 191,
+   "replies": 349,
+   "views": 315678,
+   "bookmarks": 441
+  },
+  "why": "这是 OpenAI 官方首次以 GPT-6 Astra 的名义展示前沿物理合作，并开设科学博客，是模型能力向基础科研延伸的新信号。",
+  "verify": "对照了 OpenAI 原帖；本轮未打开科学博客全文，也未见相关论文或预印本。GPT-6 Astra 的具体规格在官方帖中未说明。",
+  "tags": [
+   "值得收藏"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "@unusual_whales 转述富士康董事长刘扬伟称“我们不在泡沫里”。该账号还称，富士康为英伟达代工 AI 服务器，其云与网络业务（包括 AI 服务器）已占营收一半以上。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2122102595938308169",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 917,
+   "reposts": 62,
+   "replies": 141,
+   "views": 164876,
+   "bookmarks": 59
+  },
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "AI",
+  "edition": "午报",
+  "summary": "有账号称，继上周马化腾演讲流出后，腾讯总裁办上午向内部发文，再次强调公司面临危机感：把 AI 视为生死存亡，要求所有核心业务按 AI 时代重新创业，并砸钱自建算力和模型；同时指出未来不再需要那么多管理岗，暗示将大量裁撤中层。同一账号后续推测，调整重点可能是不愿转型的中层和跟不上 AI 节奏的资深员工，一线年轻员工波及可能不大。",
+  "author": "@_FORAB",
+  "url": "https://x.com/_FORAB/status/2122167187066716667",
+  "extra_urls": [
+   "https://x.com/_FORAB/status/2122175753739792681"
+  ],
+  "metrics": {
+   "likes": 126,
+   "reposts": 10,
+   "replies": 31,
+   "views": 33851,
+   "bookmarks": 68
+  },
+  "tags": [
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "午报",
+  "summary": "@Cointelegraph 称，Luxor 表示一次针对其 Commander 工具、有 AI 参与的攻击，把十多个客户账户下的比特币矿机转向了 OCEAN 矿池，公司将向受影响客户全额赔付。这是今早“约 6.4 万台矿机被劫持并指向 OCEAN、但未挖出区块”一事的后续。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2122132753499963697",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 108,
+   "reposts": 8,
+   "replies": 40,
+   "views": 27462,
+   "bookmarks": 2
+  },
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "Crypto",
+  "edition": "午报",
+  "summary": "@lookonchain 称，与 Erik Voorhees 相关的钱包又买入 7,936 枚 ETH（约 1,447 万美元），价格约 1,823 美元；过去 5 天累计买入 71,475 枚 ETH（约 1.3974 亿美元），均价约 1,955 美元，目前浮亏超过 1,000 万美元。",
+  "author": "@lookonchain",
+  "url": "https://x.com/lookonchain/status/2122143774906438101",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 218,
+   "reposts": 12,
+   "replies": 58,
+   "views": 36145,
+   "bookmarks": 11
+  }
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国内形势",
+  "edition": "午报",
+  "summary": "@KobeissiLetter 称，中国央行 10 月正式购入 26 吨黄金，为 2023 年 8 月以来最大单月采购；此前 9 月为 23 吨，至此已连续第 24 个月购金。原帖后半关于 2025 年的对照数字被截断。",
+  "author": "@KobeissiLetter",
+  "url": "https://x.com/KobeissiLetter/status/2122094039319056646",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1875,
+   "reposts": 273,
+   "replies": 95,
+   "views": 189985,
+   "bookmarks": 232
+  },
+  "tags": [
+   "立场账号"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国内形势",
+  "edition": "午报",
+  "summary": "有账号称，厦门佳顺速通电气有限公司员工因欠薪、依据《劳动合同法》第 38 条发出解约通知后，老板回复“不可以离职”。消息称来自小红书网友发帖和聊天截图。",
+  "author": "@whyyoutouzhele",
+  "url": "https://x.com/whyyoutouzhele/status/2122117450615644553",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 161,
+   "reposts": 10,
+   "replies": 23,
+   "views": 42771,
+   "bookmarks": 21
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "@Cointelegraph 称，中方确认习近平将于周四在深圳主办首次与特朗普、普京的三方峰会。立场账号 @whyyoutouzhele 转述称，中国外交部 11 月 16 日发布消息，国家主席习近平将于 11 月 19 日在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。此前白宫已确认会晤，今日早报未再列具体日期。",
+  "author": "@Cointelegraph",
+  "url": "https://x.com/Cointelegraph/status/2122159143192600786",
+  "extra_urls": [
+   "https://x.com/whyyoutouzhele/status/2122170291577311575"
+  ],
+  "metrics": {
+   "likes": 333,
+   "reposts": 35,
+   "replies": 26,
+   "views": 30648,
+   "bookmarks": 14
+  },
+  "tags": [
+   "立场账号",
+   "待核实"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "BBC 报道称，俄罗斯的超级富豪已经在设想普京之后的未来。",
+  "author": "@BBCWorld",
+  "url": "https://x.com/BBCWorld/status/2122121684299771928",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 363,
+   "reposts": 90,
+   "replies": 39,
+   "views": 87226,
+   "bookmarks": 62
+  }
+ },
+ {
+  "date": "2026-11-16",
+  "category": "国际形势",
+  "edition": "午报",
+  "summary": "@unusual_whales 转述美国劳工统计局数据称，美国家庭 2025 年在住房和食品上平均比前一年多花 1,988 美元：住房 27,790 美元、升 5.8%，食品 10,633 美元、升 4.6%；两项合计占家庭支出 46.9%，原帖称这是其所列口径下的最高占比，后半被截断。",
+  "author": "@unusual_whales",
+  "url": "https://x.com/unusual_whales/status/2122117695370084736",
+  "extra_urls": [],
+  "metrics": {
+   "likes": 1966,
+   "reposts": 389,
+   "replies": 106,
+   "views": 189890,
+   "bookmarks": 167
+  },
+  "tags": [
+   "立场账号"
+  ]
  }
 ]
