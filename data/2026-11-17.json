@@ -1,0 +1,353 @@
+[
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "OpenAI 官方称，将面向全球最多 20 万名科学家扩大免费使用其前沿模型，并提供培训和支持，11 月 23 日起开放申请；默认不会用该计划中分享的数据来训练模型。同一账号随后称，在“ChatGPT for Academic Researchers”项目对逾 1800 名参与者的研究中，科学家报告称使用 AI 后生产力接近翻倍。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2122377585523126615",
+    "extra_urls": [
+      "https://x.com/OpenAI/status/2122380010287960095"
+    ],
+    "metrics": {
+      "likes": 2493,
+      "reposts": 198,
+      "replies": 277,
+      "views": 284511,
+      "bookmarks": 991
+    },
+    "why": "把前沿模型大规模免费开放给科研人员，会直接影响学术研究的工具格局，也是官方少见的明确“默认不用这些数据训练”承诺。",
+    "verify": "对照了 OpenAI 官方原帖：20 万名科学家、11 月 23 日开放申请、以及“默认不用该计划数据训练”均来自同一官方账号。“生产力接近翻倍”来自其随后发布的、声称覆盖逾 1800 名参与者的研究帖，未见独立论文或完整方法学。申请资格和名额分配未核实。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "有账号称，SEC 文件显示黄仁勋及其妻子在 3 月、即他辞职前数月，把近 6000 万股、价值超过 105 亿美元的英伟达股票转入不可撤销的家族信托。@unusual_whales 转述《华尔街日报》称，黄仁勋的婚外关系不仅冲击其个人职业生涯，还可能危及他在亚洲为让中国获得芯片而建立的产业生态。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2122427717404827886",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2122411464694604166",
+      "https://x.com/unusual_whales/status/2122423712511123910"
+    ],
+    "metrics": {
+      "likes": 3258,
+      "reposts": 206,
+      "replies": 120,
+      "views": 217240,
+      "bookmarks": 282
+    },
+    "why": "在董事会解职和回归传闻之后，辞职前大规模股权转入不可撤销信托是一条新的可核验线索，可能影响治理争端、资产安排，以及对华芯片渠道的解读。",
+    "verify": "对照了 @Polymarket 与 @DeItaone，两家都称依据 SEC 文件，数字为近 6000 万股、逾 105 亿美元、时间在 3 月、形式为不可撤销家族信托。本轮未打开 SEC 原始表格核验股数和日期。亚洲芯片生态的判断转述自 @unusual_whales 所引《华尔街日报》，未见报纸全文。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "OpenAI 称 ChatGPT for Healthcare 正推进更强的电脑操作智能体、更扎实的临床回答，以及 20 余个新的医疗插件，并点名 Abridge、Ambience、Cigna、CVS Health 等机构已在使用其模型。原帖后半被截断，具体落地场景未完整展示。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2122419941756531150",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 976,
+      "reposts": 65,
+      "replies": 175,
+      "views": 99987,
+      "bookmarks": 135
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "路透社转述《华尔街日报》报道，特朗普政府计划将英伟达及其他人工智能公司指定为美国“国家冠军”企业。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122253381196448138",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 105,
+      "reposts": 14,
+      "replies": 21,
+      "views": 47119,
+      "bookmarks": 7
+    },
+    "why": "若落实，可能加快出口审批、对外销售支持和联邦融资，进而改变美国芯片与模型公司的国际竞争位置。",
+    "verify": "对照了路透社原帖，明确是转述《华尔街日报》报道，不是政府已发布的正式名单。本轮未见商务部长 Lutnick 或白宫的原始声明，也未打开 WSJ 全文核对公司名单和具体政策工具。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "路透社报道，欧洲央行副行长表示，人工智能和债务已成为突出的金融稳定风险。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122250838231879994",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 11,
+      "reposts": 1,
+      "replies": 5,
+      "views": 129390,
+      "bookmarks": 6
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "有账号称，OpenAI 下一款 GPT Astra 模型预计将于本周发布，同时竞争对手 Anthropic 准备周四上市，并给出约 70% 的概率。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2122425953540243824",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 300,
+      "reposts": 18,
+      "replies": 37,
+      "views": 26370,
+      "bookmarks": 27
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，加密货币恐惧与贪婪指数降至 10，处于“极度恐惧”。同一账号随后转述币安 Yi He 称，此轮回调是暂时的，现货交易者不必担心，并晒出显示头寸缩减约 9732 万美元的面板。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122223389335028205",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122236059576676820"
+    ],
+    "metrics": {
+      "likes": 883,
+      "reposts": 124,
+      "replies": 128,
+      "views": 56660,
+      "bookmarks": 22
+    },
+    "why": "恐惧指数落入个位数，叠加币安高管把下跌说成暂时回调，是观察市场情绪和头部交易所口径的一个即时切片。",
+    "verify": "指数降至 10、标注“极度恐惧”来自 @Cointelegraph 原帖，本轮未打开 Alternative.me 或其他指数源核对当时读数。Yi He“回调是暂时的”及头寸缩减约 9732 万美元来自同一账号的后续帖，未见币安官方博客或 Yi He 个人账号原帖交叉核验。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@CoinDesk 称，星展银行与摩根大通打通了各自的代币化存款网络，客户可全天候（含周末）在两家银行之间转移美元。相关消息是，新加坡与德国央行在 Project Simbolon 下成功测试跨境批发型央行数字货币结算。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2122256299710935547",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122254788028924305"
+    ],
+    "metrics": {
+      "likes": 503,
+      "reposts": 77,
+      "replies": 53,
+      "views": 49802,
+      "bookmarks": 33
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，Vitalik Buterin 就 EIP-8037 表态，警告若把 gas 上限提高 10 倍，以太坊状态增长将达到每年约 1100 GiB，约为当前速度的 10 倍。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122240933907280100",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 553,
+      "reposts": 42,
+      "replies": 75,
+      "views": 66721,
+      "bookmarks": 26
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "有账号称，泰国机场“保关”事件后续，游客称支付 1.8 万元人民币后获准离境，原先面临的五年禁止入境及遣返决定被取消；当事人还称寻求大使馆帮助被拒。消息标注为网友投稿。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122248305828823213",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 840,
+      "reposts": 67,
+      "replies": 96,
+      "views": 344962,
+      "bookmarks": 283
+    },
+    "why": "若属实，涉及中国游客在境外海关被滞留后以缴费换取出境，以及使领馆协助是否到位，容易成为领事保护和出境安全方面的关注点。",
+    "verify": "对照了 @whyyoutouzhele 原帖，明确标注为网友投稿，未提供泰国移民局、机场或中国使领馆的官方说明。支付 1.8 万元、五年禁入被取消、使馆帮助被拒等关键情节均未得到其他媒体交叉核验。",
+    "tags": [
+      "值得收藏",
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "有账号称，扮演《亮剑》赵政委的演员何政军在抖音朗读毛泽东《为人民服务》中“不怕别人批评”的段落，截图显示点赞超过 94.7 万，评论栏只显示 3 条。消息标注为网友投稿。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122258372149866576",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1004,
+      "reposts": 50,
+      "replies": 135,
+      "views": 302374,
+      "bookmarks": 215
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "《联合早报》报道，中国总理李强在中国—亚细安领导人会议上说，中国与亚细安的长期友好交往未受国际局势动荡影响，双方在国际经贸限制大幅增多的情况下仍坚定维护多边主义。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2122233068245131412",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 20,
+      "reposts": 1,
+      "replies": 2,
+      "views": 31442,
+      "bookmarks": 0
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "《联合早报》报道，香港特首李家超将于 11 月 17 日赴深圳出席亚太经合组织（APEC）会议；香港媒体称有逾 50 名香港商界代表与会。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2122220607332905025",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 14,
+      "reposts": 1,
+      "replies": 1,
+      "views": 20176,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，美国银行、富国银行、摩根大通和 U.S. Bancorp 等主要银行据报出现大范围服务中断。随后 @DeItaone 转述摩根大通发言人说，因技术问题，部分交易完成时间长于往常。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122402336643723642",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2122411863325491619"
+    ],
+    "metrics": {
+      "likes": 1930,
+      "reposts": 489,
+      "replies": 168,
+      "views": 135552,
+      "bookmarks": 194
+    },
+    "why": "美国几家系统重要性银行同时出现服务异常，会立刻影响支付和结算；目前公开确认的范围仍有限。",
+    "verify": "四家银行“大范围服务中断”仅见 @Cointelegraph，原文用了 reportedly。摩根大通“技术问题导致部分交易变慢”对照了 @DeItaone 转述的发言人声明，未见银行官网公告。美国银行、富国银行、U.S. Bancorp 本轮未见其官方说明。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "@DeItaone 转述福克斯新闻称，美国副总统万斯表示，不会允许伊朗成为美国为期两年的军事承诺。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2122412092959727794",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 567,
+      "reposts": 35,
+      "replies": 82,
+      "views": 156973,
+      "bookmarks": 38
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "BBC 报道，英国及盟友呼吁以色列允许迅速向加沙提供人道主义准入。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2122253004229226820",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 487,
+      "reposts": 141,
+      "replies": 189,
+      "views": 82703,
+      "bookmarks": 19
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "@DeItaone 称，微软表示，一个自 7 月起未被发现的软件漏洞触发了上周影响 Outlook、Teams、Copilot 等服务的全球中断；故障始于 11 月 11 日。原帖后半关于流量重路由的细节被截断。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2122417058113896834",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 322,
+      "reposts": 48,
+      "replies": 45,
+      "views": 122296,
+      "bookmarks": 44
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "《华尔街日报》中文网称，调查发现阿肯色州一座新路由器发出高频信号，传入联邦航空管理局老旧电信系统，导致 22 个高空管制中心中的 17 个出现通信故障，造成全美航班停飞。BBC 中文称，周日仍有数千航班取消或延误。有账号称特朗普把周五全国地面停飞形容为联邦航空局设备“心脏病发作”，仅见该账号。",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2122223177602388181",
+    "extra_urls": [
+      "https://x.com/bbcchinese/status/2122242431093510212",
+      "https://x.com/Polymarket/status/2122433634099679611"
+    ],
+    "metrics": {
+      "likes": 19,
+      "reposts": 4,
+      "replies": 14,
+      "views": 18746,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  }
+]

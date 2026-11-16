@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-16 05:30 — 2026-11-17 05:32（UTC 2026-11-15T21:30Z — 2026-11-16T21:32Z）",
+  "queries": 18,
+  "ok": 18,
+  "failed": [],
+  "note": "search_posts_all×18（大号组合8+关键词8+机动2）全部成功，没有限流，无重试；另用 search_news×2 辅助选题，不计入 20 次上限。大号组合每次只取 25 条且按时间倒序：英文AI约只覆盖 01:09–05:30，作者为 OpenAI、TechCrunch、emollick、theinformation，AnthropicAI、GoogleDeepMind、sama、_akhaliq、karpathy 本轮未出现原帖；中文AI约 12:45–04:37，05:30–12:45 不足，lxfater、MaxForAI 未出现。币圈上半约 13:00–17:17、下半约 01:26–05:30，17:17–01:26 不足，cz_binance、BTCdayu、evilcos 未出现。国内上半约 14:49–17:20、下半约 01:14–05:30，中间时段不足；两次国内查询及一次机动查询均把 nytchinese 误写成 nytcinese，该账号本轮未覆盖；_FORAB、NewsCaixin、Byron_Wan 未出现。国际媒体上半约只覆盖 16:40–17:25、下半约 04:47–05:31，机动按时间补到约 04:15–04:45，并对漏检账号补到约 03:21–05:31，15 日 05:30 至 16 日晚间仍有大段不足；AP、nytimes、realDonaldTrump、spectatorindex 本轮未出现或覆盖有限。关键词检索返回的多为低互动账号。已和 11 月 16 日早报、午报、晚报去重（黄仁勋回归与请愿、贝森特要求外部CEO、Anthropic 上市造富估算、美国与伙伴签署AI供应链协议、DeepSeek 融资与 Blackwell 痕迹、腾讯内部 AI 动员、Qwen4-Max、DeepSeek 长对话限额、Codex 满负荷报错、矿机劫持与 Luxor 赔付、Lighter 被盗、Vitalik leanPCS、ETF 与下跌原因、三方会晤确认与行程、央行购金、爱沙尼亚关闭边境、克里米亚大桥遇袭、深圳市民致信特朗普、校园 AI 管理等不重复）。黄仁勋家族信托转股、OpenAI 科学家免费计划作为实质新进展收录。同作者最多 2 条。"
+}
