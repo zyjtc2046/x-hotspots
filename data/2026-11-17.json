@@ -585,5 +585,238 @@
     "tags": [
       "立场账号"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "路透社报道，特朗普政府正堵住此前允许中国企业通过东南亚数据中心远程使用先进人工智能芯片的漏洞，并在对华会谈前收紧相关限制。彭博称，美国限制外国向中国公司提供先进人工智能芯片和服务器的远程访问，背景包括英伟达间谍疑云后的出口管制审视。《华尔街日报》中文网称，周一出台的新规打击在海外租用人工智能芯片集群的中国实验室和云服务商，但可能利好中国本土芯片制造商。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122642150953259129",
+    "extra_urls": [
+      "https://x.com/business/status/2122593423618130259",
+      "https://x.com/Polymarket/status/2122576216423334004",
+      "https://x.com/ChineseWSJ/status/2122571206830215427",
+      "https://x.com/business/status/2122598151764812225"
+    ],
+    "metrics": {
+      "likes": 46,
+      "reposts": 14,
+      "replies": 7,
+      "views": 24671,
+      "bookmarks": 4
+    },
+    "why": "这是特朗普访华、与习近平会晤前夕出台的关键出口管制措施，可能改变中国获取先进算力的路径，也会直接影响本周峰会的谈判议程。",
+    "verify": "对照了路透社、彭博和《华尔街日报》中文网原帖，三家都指向美国限制中国企业经海外数据中心远程使用先进芯片：路透明确提到东南亚数据中心，彭博提到远程访问芯片和服务器，中文网提到对海外租用芯片集群的打击。本轮未打开美国商务部原始规则文本，许可证范围、缓冲期等细节未独立核验。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "路透社报道，朝鲜领导人金正恩近日视察了靠近中国边境的一处旅游区建设；外界因美国和俄罗斯官员的相关表态，猜测他可能前往中国。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122594336890118463",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1022,
+      "reposts": 178,
+      "replies": 30,
+      "views": 278620,
+      "bookmarks": 199
+    },
+    "why": "午报已提及特朗普称可能在华会见金正恩。金正恩出现在中朝边境旅游区，是这条外交线的新可核验动向，可能影响本周深圳会晤的出席名单。",
+    "verify": "对照了路透社原帖：视察中朝边境旅游区、时间是“近几天”、猜测来自美俄官员表态，均来自路透。金正恩是否赴华、是否与特朗普会面，路透只称存在猜测，并未确认。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "《华尔街日报》报道，英伟达董事会在黄仁勋辞职后新设委员会，负责监督国家安全与出口管制；@unusual_whales 转述称，董事、高盛前副董事长 Suzanne Nora Johnson 将承担相关职责，原帖后半被截断。同一账号另转述《华尔街日报》称，一名英伟达资深员工致信高层和董事会，认为若不让黄仁勋复任 CEO，可能导致“不可替代的人才”流失。@KobeissiLetter 和 @Cointelegraph 称，英伟达已在 X 上解除与黄仁勋的全部关联，马斯克表示将赠送蓝标认证。《纽约时报》中文网则称，黄仁勋女儿黄敏珊留任引发担忧，员工称曾有十余名关键高管因不愿与其共事而离职。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2122640137574383674",
+    "extra_urls": [
+      "https://x.com/WSJ/status/2122644910574600548",
+      "https://x.com/unusual_whales/status/2122643323664187870",
+      "https://x.com/KobeissiLetter/status/2122634021876498705",
+      "https://x.com/nytchinese/status/2122636695829164385"
+    ],
+    "metrics": {
+      "likes": 544,
+      "reposts": 44,
+      "replies": 63,
+      "views": 64963,
+      "bookmarks": 25
+    },
+    "tags": [
+      "立场账号",
+      "待核实",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "@Cointelegraph 称，Anthropic 在本周 IPO 后，可能于 12 月 11 日纳入罗素 1000 指数、12 月 21 日纳入纳斯达克 100，等待时间比 SpaceX 更长。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122555582661992654",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 172,
+      "reposts": 12,
+      "replies": 41,
+      "views": 37441,
+      "bookmarks": 8
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "晚报",
+    "summary": "@Cointelegraph 称，根据 13F 数据，富国银行在第三季度把 IBIT 持仓加倍至 30,553 枚比特币等值，并成为最大的机构比特币 ETF 持有者。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122563119633281480",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 322,
+      "reposts": 37,
+      "replies": 75,
+      "views": 37603,
+      "bookmarks": 11
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "晚报",
+    "summary": "@lookonchain 称，币安被盗事件中的黑客已开始处理其持有的约 60.24 万枚 ETH（约 10.9 亿美元），过去约 3 小时转出 74,880 枚 ETH（约 1.368 亿美元），并经由 THORChain 兑换成比特币。@Cointelegraph 称转出约 74,881 枚 ETH（约 1.37 亿美元），仍有约 11.9 亿美元比特币和约 11.6 亿美元以太坊尚未洗出；@EmberCN 稍早给出尚未清洗的规模约为 18,362 枚比特币和 63.2 万枚 ETH。",
+    "author": "@lookonchain",
+    "url": "https://x.com/lookonchain/status/2122633788127940768",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122622096568119519",
+      "https://x.com/EmberCN/status/2122606696422166911"
+    ],
+    "metrics": {
+      "likes": 179,
+      "reposts": 19,
+      "replies": 48,
+      "views": 38600,
+      "bookmarks": 11
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "晚报",
+    "summary": "有账号转述路透社实地报道称，APEC 峰会前深圳学校放假四天但家长照常上班，有数万人穿着印有英文 volunteer 的红马甲，其中包括小区保安；南山区一名保安称“老板说我们必须穿”，并表示看不懂马甲上的字。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122590561073017153",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 235,
+      "reposts": 31,
+      "replies": 82,
+      "views": 54060,
+      "bookmarks": 41
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "晚报",
+    "summary": "有账号称，AI 漫剧《边军破刀：一路砍到裂土封王》第三季中出现战车镇压请愿学子等情节后被下架。消息标注为网友投稿。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122575461460971829",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 600,
+      "reposts": 27,
+      "replies": 44,
+      "views": 81451,
+      "bookmarks": 141
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "@visegrad24 称，克里米亚大桥一座 227 米长的公路拱桥在乌克兰夜间袭击后坍塌，坠入刻赤海峡；同一账号随后称拱桥已不在，并对比 2017 年架设该拱桥的过程，称战时修复对俄方极为困难。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2122593847016296697",
+    "extra_urls": [
+      "https://x.com/visegrad24/status/2122595741134942400",
+      "https://x.com/visegrad24/status/2122643476047134849"
+    ],
+    "metrics": {
+      "likes": 605,
+      "reposts": 48,
+      "replies": 20,
+      "views": 28163,
+      "bookmarks": 14
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "BBC 报道，日本在疑似俄罗斯飞机进入其领空后升空战机。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2122597515337847193",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 235,
+      "reposts": 70,
+      "replies": 14,
+      "views": 71970,
+      "bookmarks": 12
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "@unusual_whales 转述美联社称，数十年来美国首次出现新生儿感染麻疹，原因是疫苗接种率下降。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2122636860652716294",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1310,
+      "reposts": 148,
+      "replies": 160,
+      "views": 120591,
+      "bookmarks": 99
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
   }
 ]
