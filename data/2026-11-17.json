@@ -349,5 +349,241 @@
       "价值观察",
       "待核实"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "@spectatorindex 称，美联航因系统故障已将所有航班停飞。随后该航空公司确认出现“大范围系统故障”，正在抢修，出港航班受影响；@KobeissiLetter 称美联航股价随之下跌。彭博报道，这是最近又一起扰乱美国航空出行的技术故障。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2122461404766904591",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2122452039452229804",
+      "https://x.com/KobeissiLetter/status/2122457428155662463",
+      "https://x.com/business/status/2122489925601722617"
+    ],
+    "metrics": {
+      "likes": 21279,
+      "reposts": 2243,
+      "replies": 276,
+      "views": 1409702,
+      "bookmarks": 966
+    },
+    "why": "全美主要航空公司之一因自身系统故障停飞，叠加近日FAA全国停飞和多家银行服务异常，说明美国交通和关键服务的技术脆弱性仍在暴露，并已反映到股价。",
+    "verify": "美联航“大范围系统故障、正在抢修、影响出港航班”分别对照了 @spectatorindex、@Polymarket、@KobeissiLetter，以及彭博 @business 的报道。股价下跌来自 @KobeissiLetter，本轮未对照行情软件。故障原因和恢复进度未见美联航官方详细说明。此事与今日早报已报的周五FAA全国地面停飞不是同一事件。",
+    "tags": [
+      "值得收藏",
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "谷歌威胁情报小组（GTIG）在官方博客中写道：“自主攻击时代已到来。”@unusual_whales 转述称，黑客正使用自主大模型框架持续扫描软件更新，识别补丁修复了哪处漏洞，并在企业完成安装前自动构造攻击，全过程无需人工介入。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2122465440672952809",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2122506553047814275"
+    ],
+    "metrics": {
+      "likes": 14120,
+      "reposts": 1949,
+      "replies": 376,
+      "views": 626876,
+      "bookmarks": 1330
+    },
+    "why": "若谷歌的研判成立，补丁公布后、企业完成安装前的防守窗口会被大幅压缩，软件安全和关键基础设施将面对机器速度的攻击。",
+    "verify": "对照了谷歌官方博客（GTIG，2026年11月16日），标题即为 “The era of autonomous attacks has arrived”，与 @Polymarket、@unusual_whales 的引述一致；后者对“扫描软件更新、在补丁安装前自动构造攻击”的转述也与博客摘要相符。本轮未打开完整 AI Threat Tracker 报告核对具体案例和归因。",
+    "tags": [
+      "值得收藏",
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "@_FORAB 称，黄仁勋的 X 账号企业认证标识已被取消，简介从“英伟达 CEO、创始人”改为仅“创始人”，个人主页中的英伟达介绍页入口也被删除。另有 @Polymarket 称，英伟达员工据报在考虑举办支持黄仁勋的“校园集会”。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2122522528233251265",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2122532570500042915"
+    ],
+    "metrics": {
+      "likes": 471,
+      "reposts": 25,
+      "replies": 96,
+      "views": 88218,
+      "bookmarks": 40
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "@Cointelegraph 称，美国商品期货交易委员会（CFTC）首次批准使用区块链技术进行衍生品交易和结算的交易所及清算所申请。@WuBlockchain 及同一账号后续帖指，获得批准的是 Backpack，计划向美国用户提供永续合约，并使用加密货币作抵押、共用一个全球订单簿。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122444770307924309",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2122461764264825135",
+      "https://x.com/Cointelegraph/status/2122480140416413800"
+    ],
+    "metrics": {
+      "likes": 1700,
+      "reposts": 312,
+      "replies": 69,
+      "views": 103544,
+      "bookmarks": 157
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "@CoinDesk 称，美国最高法院拒绝审理托管银行 Custodia Bank 的上诉，该行争取美联储主账户的努力至此结束，美联储仍可自行决定拒绝数字资产银行的申请。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2122465745955156059",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 135,
+      "reposts": 15,
+      "replies": 28,
+      "views": 26913,
+      "bookmarks": 9
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "午报",
+    "summary": "有账号称，一名女孩在抖音跳的舞视频因背景是两层挑高的大厅走红，弹幕有人说“误闯天家”“这只是客厅中间一小部分”；截图显示视频约 1.7 万赞，账号主页则显示“该用户被禁止发布作品”。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122479835432026432",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2195,
+      "reposts": 160,
+      "replies": 158,
+      "views": 547383,
+      "bookmarks": 736
+    },
+    "tags": [
+      "值得收藏",
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国内形势",
+    "edition": "午报",
+    "summary": "有账号转发称，政治学者裴敏欣 11 月 12 日在彭博《商业周刊》撰文分析，习近平可能在 2027 年中共二十一大换届时，让一批年纪偏大、难以接班的干部进入政治局常委会，借此推迟确定接班人，到 79 岁再决定是否放权。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122525131084079586",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 290,
+      "reposts": 20,
+      "replies": 47,
+      "views": 91211,
+      "bookmarks": 69
+    },
+    "tags": [
+      "立场账号",
+      "待核实",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "@DeItaone 转述 CNN 报道称，美国情报部门发现，伊朗据称计划在华盛顿用脏弹或化学武器袭击特朗普政府高级官员；原文称 CNN 引用了七个……，原帖后半被截断。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2122478746548474338",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2122470171839549606",
+      "https://x.com/unusual_whales/status/2122488739557724414"
+    ],
+    "metrics": {
+      "likes": 699,
+      "reposts": 91,
+      "replies": 171,
+      "views": 198363,
+      "bookmarks": 78
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "彭博报道，习近平与加拿大总理卡尼星期二在深圳会面，中国与加拿大同意在农产品和钢铁出口上进一步减免关税。",
+    "author": "@business",
+    "url": "https://x.com/business/status/2122536482099396813",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 14,
+      "reposts": 5,
+      "replies": 2,
+      "views": 17832,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "《华尔街日报》中文网引述特朗普称，他本周访问亚洲期间可能会在中国与朝鲜领导人金正恩会晤，“他可能会来，我也说不准，这取决于习主席。”南华早报另称，特朗普表示将与习近平、普京讨论乌克兰问题。《纽约时报》中文网则称，这次三方会晤预计讨论核扩散和伊朗问题，不会谈及黄仁勋事件。",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2122532729665294597",
+    "extra_urls": [
+      "https://x.com/SCMPNews/status/2122483719554621614",
+      "https://x.com/nytchinese/status/2122525146355536117"
+    ],
+    "metrics": {
+      "likes": 5,
+      "reposts": 1,
+      "replies": 1,
+      "views": 4677,
+      "bookmarks": 0
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "@spectatorindex 称，路透社民调显示，特朗普的支持率为 32%。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2122511983421616411",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1699,
+      "reposts": 93,
+      "replies": 83,
+      "views": 145753,
+      "bookmarks": 36
+    },
+    "tags": [
+      "立场账号"
+    ]
   }
 ]
