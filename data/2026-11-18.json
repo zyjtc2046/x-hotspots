@@ -1,0 +1,387 @@
+[
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "OpenAI 总裁萨姆·奥特曼（@sama）宣布 GPT-6.2 Sol 与 Astra 已发布，称模型“能做很惊人的事”而且很省 token，并特别提到 6.2 Sol ultrafast。第三方评测机构 Artificial Analysis 称，Astra 在其智能指数中排第 2，定价约为每百万 token 输入 8 美元、输出 40 美元，较 GPT-6 Astra 低约 20%，缓存输入从 1 美元降至 0.40 美元。早期测试者 @emollick 认为这次发布再次说明，除了数字基准，体验向的评测也仍然有价值。有账号称两款模型已在 ChatGPT 与 API 上线，但奥特曼原帖未写具体渠道。",
+    "author": "@sama",
+    "url": "https://x.com/sama/status/2122798039899263456",
+    "extra_urls": [
+      "https://x.com/ArtificialAnlys/status/2122750634210529569",
+      "https://x.com/emollick/status/2122766003624968461",
+      "https://x.com/Cointelegraph/status/2122764205094789575"
+    ],
+    "metrics": {
+      "likes": 2361,
+      "reposts": 105,
+      "replies": 363,
+      "views": 137113,
+      "bookmarks": 153
+    },
+    "why": "这是 OpenAI 官方确认的新一代模型落地，会立刻影响编程、产品和模型比价，也是和 Anthropic、谷歌最新模型对标的一次关键发布。",
+    "verify": "对照了 @sama 原帖：确认发布的是 6.2 Sol 与 Astra，以及“省 token”、Sol ultrafast 的表述。价格、指数排名和相对 GPT-6 Astra 的降价来自 Artificial Analysis 官方账号，不是 OpenAI 原帖。ChatGPT/API 上线范围来自 @Cointelegraph 等转述，未见 OpenAI 官方账号原帖被本轮检索收入。未核对企业定价页或系统卡。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "多家财经账号称，英伟达公布创纪录的第三季度业绩：营收 1158 亿美元、数据中心营收 1076 亿美元，均高于预期；@DeItaone 还给出调整后每股收益 2.68 美元（预期约 2.48 美元）、毛利率 74.9%。@KobeissiLetter 称第四季度营收指引为 1300 亿美元，同样高于预期，并称净收入 653 亿美元；同一时段该账号称股价上涨约 5%。@DeItaone 另称董事会批准新增 1500 亿美元股票回购。各账号对预期值和营收取整略有出入。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2122802555788902633",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2122803839694938566",
+      "https://x.com/DeItaone/status/2122802151810388325",
+      "https://x.com/DeItaone/status/2122802516610179569",
+      "https://x.com/unusual_whales/status/2122802583261896856"
+    ],
+    "metrics": {
+      "likes": 1318,
+      "reposts": 165,
+      "replies": 75,
+      "views": 102129,
+      "bookmarks": 50
+    },
+    "why": "在黄仁勋辞任、监管压力上升的背景下，这份超预期财报和 1300 亿美元指引会直接影响 AI 算力产业链和风险偏好。",
+    "verify": "对照了 @KobeissiLetter、@DeItaone、@unusual_whales：三方都写到营收超预期，前两家写的是 1158 亿美元，后者写成 1150 亿美元；每股收益 2.68 美元一致，但预期值分别写成 2.48 和 2.47 美元；数据中心 1076 亿美元只在 Kobeissi 与 DeItaone 中出现；1300 亿美元指引主要来自 Kobeissi（Polymarket 随后也提到这一数字）；1500 亿美元回购只见到 DeItaone 一则快讯。未见英伟达IR原文或SEC文件，数字以官方文件为准。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@KobeissiLetter 援引《华尔街日报》称，美国证券交易委员会（SEC）已就黄仁勋事件对英伟达展开调查，焦点包括公司信息披露是否误导投资者；该帖后半还提到司法部，但文本被截断，无法确认具体内容。@DeItaone 同样援引该报，称这是一项关于投资者披露法规的民事调查，并指调查发生在公司管理层变动之后。@Polymarket、@disclosetv 也做了简要转述。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2122797688773050654",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2122798435015536699",
+      "https://x.com/Polymarket/status/2122798670571548980",
+      "https://x.com/disclosetv/status/2122802033568731382"
+    ],
+    "metrics": {
+      "likes": 1633,
+      "reposts": 168,
+      "replies": 121,
+      "views": 232861,
+      "bookmarks": 153
+    },
+    "why": "若SEC调查属实，将把黄仁勋辞任从公司治理事件升级为披露与执法风险，可能影响英伟达估值和整个AI交易情绪。",
+    "verify": "对照了 Kobeissi、DeItaone、Polymarket：三家都把消息源写成《华尔街日报》，调查对象是英伟达，并由黄仁勋离任引出；DeItaone 明确写成民事调查、是否违反投资者披露法规。本轮未见《华尔街日报》或SEC官方原帖。Kobeissi 原帖末尾“司法部也已经……”被截断，司法部是否立案未核实。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "有中英文账号转述称，黄仁勋在辞任英伟达 CEO 后发表首份公开声明：承认自己在私人生活中犯下严重错误、给董事会添了麻烦，并表示愿意配合独立调查；同时称离职后员工、投资者、合作伙伴和客户呼吁他回去，若董事会认为回归符合最大利益，他愿重新担任 CEO。@MaxForAI、@_FORAB、@Cointelegraph、@CoinDesk 的转述要点一致。",
+    "author": "@MaxForAI",
+    "url": "https://x.com/MaxForAI/status/2122729115962999065",
+    "extra_urls": [
+      "https://x.com/_FORAB/status/2122723263893946729",
+      "https://x.com/Cointelegraph/status/2122727431333138461",
+      "https://x.com/CoinDesk/status/2122747312309231643"
+    ],
+    "metrics": {
+      "likes": 110,
+      "reposts": 3,
+      "replies": 9,
+      "views": 44242,
+      "bookmarks": 15
+    },
+    "why": "这是黄仁勋去职后的首次表态，既涉及他是否可能回归，也关系到董事会调查和公司控制权预期。",
+    "verify": "对照了 MaxForAI、_FORAB、Cointelegraph、CoinDesk 的转述，关于“愿配合调查”和“若董事会认为符合最大利益则愿回归”两点相互吻合。本轮检索没有收入黄仁勋本人的原帖，声明全文和用词以原帖为准。董事会是否真的会请他回来，未见官方决定。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "Google DeepMind 官方称，借助 Gemini 4 Hydrogen 以及面向 Google Antigravity 的新机器人插件，用户可以把受支持的机械臂接入，先在 MuJoCo 仿真里练习，再用自然语言在真实环境中执行任务，从而更快教会机器人新技能。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2122767521925230896",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 512,
+      "reposts": 42,
+      "replies": 75,
+      "views": 40674,
+      "bookmarks": 151
+    },
+    "why": "这是谷歌把新一代 Gemini 直接接到机器人控制链条上的官方演示，说明模型竞争已从聊天和编程延伸到实体智能。",
+    "verify": "内容来自 Google DeepMind 官方账号原帖，Gemini 4 Hydrogen、Antigravity 机器人插件、MuJoCo 仿真和自然语言下发任务均写在同一帖中。实际支持的机械臂型号、开放范围和性能对比未见独立评测。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@MaxForAI 称，Google DeepMind 首席战略官 Sekhon 已官宣加入 Anthropic。该账号还说，Sekhon 今年 3 月才加入 DeepMind，当时由 Demis Hassabis 亲自宣布任命，负责横跨研究、商业化和政策的 AGI 战略，上任约 8 个月后离职。",
+    "author": "@MaxForAI",
+    "url": "https://x.com/MaxForAI/status/2122685442550358229",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 281,
+      "reposts": 15,
+      "replies": 19,
+      "views": 58884,
+      "bookmarks": 99
+    },
+    "why": "DeepMind 负责 AGI 战略的高管转投 Anthropic，如果属实，会成为两家前沿实验室之间少见的高层流动。",
+    "verify": "目前只见到 @MaxForAI 的转述，本轮未见 Anthropic、DeepMind 或本人官方原帖。加入时间、职务名称和“官宣”依据均待核对。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@AYi_AInotes 介绍一项开源实践：有人用开源框架把 DeepSeek、Grok、Claude、Gemini 和 Codex 组成全自动写作团队，输入一句话后可自动交接产出带配图的万字长文，并称这是最近见到的 DeepSeek Harness 最佳实践之一。",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2122717404287402033",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 100,
+      "reposts": 18,
+      "replies": 8,
+      "views": 7142,
+      "bookmarks": 108
+    },
+    "why": "收藏数超过点赞数，说明不少读者把它当可复用的工作流案例，而不是一条过眼新闻。",
+    "verify": "这是作者对第三方开源项目的介绍和评价，不是官方发布。项目是否真能稳定产出、成本与效果如何，未见独立复核，需点开原帖自行判断。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@_FORAB 称，美国物理学家爱德华· Witten 当天在香港科技大学分享黑洞热力学时，习惯性打开 Claude，却提示所在地区不可用。该帖互动很高，但属于现场见闻式转述。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2122702849633374320",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1003,
+      "reposts": 57,
+      "replies": 131,
+      "views": 136443,
+      "bookmarks": 165
+    },
+    "why": "一条高互动见闻，把大模型区域限制直接碰到了学术现场，也侧面说明部分前沿工具在香港的可用性并不稳定。",
+    "verify": "目前只见到 @_FORAB 的转述和配图说明，未见港科大官方或 Witten 本人确认，也未核对该时段 Claude 在香港的实际访问政策。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，做市商 Wintermute 预计比特币还将面临下行压力，目标区间约 5 万至 5.9999 万美元，理由包括比特币 ETF 资金持续净流出，以及价格跌破 200 周均线。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122754364842402025",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 220,
+      "reposts": 25,
+      "replies": 53,
+      "views": 36561,
+      "bookmarks": 25
+    },
+    "why": "在风险资产已出现波动的背景下，主流做市商把 5 万至 6 万美元写成下一参考区间，会直接影响交易员对支撑位和 ETF 流向的讨论。",
+    "verify": "这是 Cointelegraph 对 Wintermute 观点的转述，不是价格预测被验证，也未见 Wintermute 原报告全文。ETF 资金流向和是否有效跌破 200 周均线，本轮未核对照官方数据。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，Coinbase 已将以比特币、以太坊和 SOL 为抵押借出 USDC 的服务扩展到美国全部 50 个州，底层由 Morpho 提供，并搭建在 Base 上。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122764933939020013",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 268,
+      "reposts": 29,
+      "replies": 32,
+      "views": 31454,
+      "bookmarks": 11
+    },
+    "why": "若属实，这意味着美国零售用户在受监管交易所里用主流币借贷稳定币的范围被明显扩大。",
+    "verify": "目前只见到 Cointelegraph 的报道帖，本轮未见 Coinbase 官方原帖或产品公告原文，上线范围、限额和合规细节待核。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@AndyJYGood68 写了一篇关于 Circle 与 USDC 的持有体验和投资价值长帖，提醒深圳部分工作室和大户定投 Circle 可能形成信息茧房，并讨论把比特币周期经验复制到美股或其他资产的风险。",
+    "author": "@AndyJYGood68",
+    "url": "https://x.com/AndyJYGood68/status/2122511683755311582",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 317,
+      "reposts": 41,
+      "replies": 80,
+      "views": 84159,
+      "bookmarks": 186
+    },
+    "why": "收藏数达到点赞数的一半以上，说明读者更把它当作一篇想回头再看的投资备忘，而不是短讯。",
+    "verify": "这是个人投资观察，不是公告或数据报告。文中关于定投 Circle、信息茧房和仓位复制的判断，未做独立核实，只按原帖转述。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@CoinDesk 称，Optimizely 平台遭遇供应链攻击，攻击者注入了会替换加密货币地址的恶意软件，波及包括 Ledger、汇丰、Zoom 和 CNN 在内的 178 个组织，会把比特币、以太坊、SOL 等链上的钱包地址改成攻击者控制的地址；原帖提到随后已清理，但文本在时间细节处被截断。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2122756918380822585",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 32,
+      "reposts": 7,
+      "replies": 40,
+      "views": 20995,
+      "bookmarks": 3
+    },
+    "why": "这是针对前端/标签管理供应链的地址调包攻击，一旦属实，受影响站点上的“复制钱包地址”都可能不可信。",
+    "verify": "目前只见到 CoinDesk 一则快讯，热度未过常规门槛，按实质安全事件收入。本轮未见 Optimizely、Ledger 或汇丰的官方说明，影响范围、清理时间和用户是否已有资金损失均待核实。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "立场账号 @whyyoutouzhele 转述称，中国贸促会会长任鸿斌 11 月 17 日表示，习近平将于 18 日上午在深圳前海国际会议中心出席 APEC 工商领导人峰会开幕式并发表主旨演讲。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122701290493108471",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 114,
+      "reposts": 7,
+      "replies": 17,
+      "views": 49439,
+      "bookmarks": 18
+    },
+    "why": "这是当天上午深圳 APEC 议程里最核心的一场公开讲话，会直接影响对中美互动和中国政策表态的观察窗口。",
+    "verify": "原帖把消息源写成中国贸促会会长任鸿斌 17 日的表态。账号本身是立场账号；本轮检索未见官媒、贸促会或新华社原帖，演讲时间、地点以官方通告为准。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "@_FORAB 称，马斯克已确认将于 11 月 18 日抵达中国。该账号的依据是：纽约 DealBook Summit 同日举行，微软 CEO、欧洲央行行长拉加德等将出席，马斯克因与深圳 APEC 行程冲突，表示人在中国、只能远程参加，并称这印证了此前的行程梳理。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2122550627528265817",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 178,
+      "reposts": 10,
+      "replies": 31,
+      "views": 46639,
+      "bookmarks": 17
+    },
+    "why": "若马斯克确实在 APEC 期间现身中国，将是和企业、监管及中美科技关系都相关的高规格行程，不能只当成花边。",
+    "verify": "目前只见到 @_FORAB 的转述和推理（DealBook 远程参会=人在中国）。本轮大号检索没有覆盖到 @elonmusk 的较早原帖，因此无法用马斯克本人发言交叉确认。是否已抵达、参加哪些公开活动，均待核实。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "立场账号 @whyyoutouzhele 转述彭博社报道称，11 月 17 日在菲律宾马尼拉举行的东盟与中日韩领导人会议开始前，日本首相高市早苗主动向中方代表、农业农村部长张柱打招呼并握手短暂交谈；报道称这是去年 11 月中日关系恶化以来，高市首次与中国政府官员公开互动。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122728975634252139",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 116,
+      "reposts": 5,
+      "replies": 28,
+      "views": 32044,
+      "bookmarks": 14
+    },
+    "why": "在中日关系紧绷之后，两国官员的首次公开互动即使只是握手，也会被当成关系是否松动的信号。",
+    "verify": "原帖明确写是转述彭博社，并给出场合（马尼拉东盟与中日韩会议前）和中方人员（农业农村部长张柱）。账号为立场账号；本轮未见彭博、日媒或中方官方原帖，交谈内容和是否属于“首次公开互动”的判断待核。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "BBC 报道，巴勒斯坦方面称，一名 72 岁巴勒斯坦妇女在西岸被以色列定居者开枪打死。同一时段 BBC 还报道，英国已就以色列西岸定居点对相关企业实施制裁。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2122671634200883512",
+    "extra_urls": [
+      "https://x.com/BBCWorld/status/2122671078023512203"
+    ],
+    "metrics": {
+      "likes": 5769,
+      "reposts": 2366,
+      "replies": 496,
+      "views": 512685,
+      "bookmarks": 330
+    },
+    "why": "这是过去 24 小时里互动最高的国际新闻之一，也把西岸暴力和英国对定居点的制裁放在了同一新闻周期里。",
+    "verify": "枪杀消息来自 BBC 原帖，信源写成“ministry says”（主管部门/卫生部门等官方说法，英文原词未展开具体部门）。英国制裁西岸定居点相关企业同样来自 BBC 另一则原帖。两则都是媒体报道，现场细节、遇难者身份和制裁名单未见本轮进一步核对。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "BBC 报道，特朗普已抵达亚洲，并将与俄罗斯和中国领导人举行会谈。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2122675036989293014",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 270,
+      "reposts": 33,
+      "replies": 34,
+      "views": 92420,
+      "bookmarks": 7
+    },
+    "why": "美国总统实际抵达亚洲，意味着此前围绕三方会晤、APEC 和朝鲜领导人是否现身的猜测，开始进入行程兑现阶段。",
+    "verify": "这是 BBC 官方账号的报道标题帖，确认的是“已抵达亚洲并即将与俄中领导人会谈”。具体降落地点、公开活动安排，以及是否同时会见其他领导人，原帖未写，本轮也未核对其完整报道正文。与前一天已报道过的“可能见金正恩”属于不同层次的行程消息，故单独收入。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "乌克兰总统泽连斯基在官方账号中称，乌克兰的技术和企业发展得很好，今天是乌克兰制造的武器击中了克里米亚大桥；他表示这是对俄方打击的回应，并将继续回应，同时也提到希望局势能够降级、战争结束。这是对前一天大桥遇袭报道的官方确认和定性。",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2122803616230908214",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 435,
+      "reposts": 76,
+      "replies": 29,
+      "views": 23897,
+      "bookmarks": 9
+    },
+    "why": "当事方国家元首亲自把“今天击中克里米亚大桥”说成乌克兰制造武器所为，等于给前一天的袭击报道做了官方背书。",
+    "verify": "对照了泽连斯基官方账号原帖，‘Today, it was Ukrainian-made weapons that hit the Crimean Bridge’ 是原文。损毁程度、打击部位和俄方损失，原帖未提供，也未与卫星或俄方通报交叉核实。前一天晚报已报道拱桥坍塌，本条只收官方确认这一新进展。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "立场账号 @visegrad24 称，一艘油轮在阿曼沿海彻底起火；并转述英国海上贸易行动（UKMTO）的说法：该船在阿曼哈萨卜以北约 7 海里、途经霍尔木兹海峡时遇袭，船员报告安全。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2122667935588380921",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 395,
+      "reposts": 82,
+      "replies": 16,
+      "views": 50787,
+      "bookmarks": 18
+    },
+    "why": "若霍尔木兹海峡附近确实发生油轮遇袭，可能影响能源运输和油价，需要和官方海事通报对照。",
+    "verify": "原帖把遇袭位置和“船员安全”写成 UKMTO 的报告，并配有火势画面。账号是立场账号；本轮未见路透、BBC 或 UKMTO 官方账号原帖，袭击方式和责任方均未核实。",
+    "tags": [
+      "立场账号"
+    ]
+  }
+]

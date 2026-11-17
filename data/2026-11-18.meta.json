@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-17 05:30 — 2026-11-18 05:34（UTC 2026-11-16T21:30Z — 2026-11-17T21:34Z）",
+  "queries": 18,
+  "ok": 18,
+  "failed": [],
+  "note": "search_posts_all×18（大号组合8+关键词8+机动2）全部成功，没有限流，无重试；另用 search_news×1 辅助选题，不计入 20 次上限。大号组合接口按时间倒序且每次只取 25 条：英文AI约只覆盖 02:21–05:35，作者为 sama、GoogleDeepMind、TechCrunch、emollick、theinformation、_akhaliq、dotey、vista8，OpenAI、AnthropicAI、karpathy 本轮未出现原帖；中文AI约 17:51–04:04，05:30–17:51 与 04:04–05:30 不足，turingou、FinanceYF5 未出现。币圈第一次约只覆盖 03:01–05:30，作者主要为 Cointelegraph、CoinDesk、PhyrexNi、whale_alert；第二次机动把窗口收到 03:00 以前并加 min_likes，覆盖约 00:03–02:52，补到 WuBlockchain、qinbafrank、BTCdayu，仍未见 VitalikButerin、cz_binance、EmberCN、lookonchain、evilcos。国内两次查询把 nytchinese 误写成 nytcinese，该账号本轮未覆盖；NewsCaixin、zaobaosg 未出现；国内组合约覆盖 22:40 以后，更早时段不足。国际媒体组合因账号发帖密度高，两次都只覆盖约 05:00–05:35；机动按 end_time=21:00 并加 min_likes:150，实际仍只落到 20:27–20:55，AP、nytimes、realDonaldTrump、elonmusk、spectatorindex 覆盖有限或未出现。关键词 8 次用 min_likes 和相关度，时间跨度大于大号组合，但英文加密、英文国内等组大量低互动帖，有效高热帖不多。已和 11 月 17 日早报、午报、晚报去重（科学家免费计划、黄仁勋家族信托与认证变更、国家冠军与出口管制收紧、Anthropic 上市与指数纳入、CFTC 衍生品批准、Custodia 上诉被拒、对伊“脏弹”较早传闻、中加关税、特朗普或见金正恩、克里米亚大桥遇袭的首轮报道、麻疹新生儿、美联航与银行系统故障等不重复）。黄仁勋首份声明与可能回归、SEC 调查、Q3 财报、GPT-6.2 发布、泽连斯基确认击中大桥作为新进展收录。同作者最多 2 条。"
+}
