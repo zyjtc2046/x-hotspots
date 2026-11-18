@@ -1,0 +1,403 @@
+[
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "财经快讯账号 @DeItaone 先称 Anthropic 考虑将 IPO 发行价定在每股约 80 至 85 美元，随后又称定价为每股 83 美元。路透社同日清晨也发帖讨论此次 IPO 与 SpaceX 的对比，并称上市将造就数千名百万富翁。@Cointelegraph 称，币安钱包面向此次 IPO 的代币认购在四小时内达到 5 亿枚 USDC 后提前关闭。另有账号把估值说到 1.5 万亿美元，与稍早新闻报道中约 70–78 美元、估值至多约 1.41 万亿美元的区间并不一致。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2123161153954099608",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2123156331553321379",
+      "https://x.com/Cointelegraph/status/2123016050966986998",
+      "https://x.com/Reuters/status/2123159428945891467",
+      "https://x.com/Reuters/status/2123164437288751353"
+    ],
+    "metrics": {
+      "likes": 222,
+      "reposts": 30,
+      "replies": 25,
+      "views": 54936,
+      "bookmarks": 14
+    },
+    "why": "若定价和上市日期属实，这将是今年最大的 AI 公司上市之一，会立刻影响大模型赛道的估值锚和相关代币/股票交易。",
+    "verify": "对照了 @DeItaone 连续两条快讯（先是 80–85 美元区间，后称 83 美元）以及路透社关于 Anthropic IPO 的两则报道，确认公司正在推进上市。最终发行价、完整估值和开盘结果未用交易所或招股文件核实；币安钱包 5 亿 USDC 认购仅来自 @Cointelegraph；1.5 万亿美元估值来自其他转述，与稍早报道中的区间不一致，标为待核实。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "OpenAI 官方称，与 AMD 合作，其模型在 AMD 工程师已优化多年的旗舰 GPU IP 上识别出最高约 14% 的 PPA（性能/功耗/面积）改进，用时不到五个月；同一方法也用于改进 OpenAI 首款自研推理芯片 Jalapeño，并称改进已得到验证。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2123100386638877054",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 3221,
+      "reposts": 279,
+      "replies": 293,
+      "views": 326135,
+      "bookmarks": 503
+    },
+    "why": "这是 OpenAI 少见地同时谈及与 AMD 的芯片协同和自研推理芯片进展，关系到其算力路线是否还只绑在英伟达上。",
+    "verify": "对照了 @OpenAI 官方原帖：14% PPA、不足五个月、以及 Jalapeño 为“首款自研推理芯片”均来自该帖。未核验 AMD 官方是否同步确认，也未看到独立的第三方测试报告。"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "Google DeepMind 官方宣布，Genie 4 已在 Project Genie 中上线，新增长原生音频、实时编辑，以及用于创建可交互虚拟世界的新 agent。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2123117733709586849",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1539,
+      "reposts": 130,
+      "replies": 151,
+      "views": 104427,
+      "bookmarks": 283
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@unusual_whales 援引《连线》称，黄仁勋去职后，英伟达把加薪和股权授予提前，以留住员工；临时 CEO 科莱特·克雷斯（Colette Kress）在周三首次全员会上表示，员工将在 12 月获得加薪和额外股权，比原计划早几个月。路透社稍早还报道，董事会在她的首考中明确拒绝让黄仁勋回归。德国之声中文网同时转述，克雷斯称公司已停止向中国供应高性能 AI 芯片，此前对华特殊许可安排前景不确定。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2123153520635297814",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2123010865959948654",
+      "https://x.com/dw_chinese/status/2123022010544435424",
+      "https://x.com/AYi_AInotes/status/2122974297073279409"
+    ],
+    "metrics": {
+      "likes": 472,
+      "reposts": 33,
+      "replies": 101,
+      "views": 120262,
+      "bookmarks": 38
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "OpenAI 总裁萨姆·奥特曼（@sama）发帖回顾与共事 11 年的格雷格·布罗克曼（@gdb）一同参加纽约时报 DealBook 峰会，称外界由此看到这位“聪明而意志坚定”的领导者，并回顾布罗克曼的角色已从早期每周写代码 100 小时演变至今。",
+    "author": "@sama",
+    "url": "https://x.com/sama/status/2123103873166381287",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 3153,
+      "reposts": 105,
+      "replies": 341,
+      "views": 329651,
+      "bookmarks": 296
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "路透社独家报道，特朗普政府正在考虑强制要求美国公司披露其使用中国人工智能的情况。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2123017159047610454",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 111,
+      "reposts": 41,
+      "replies": 17,
+      "views": 77470,
+      "bookmarks": 32
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "《信息报》（The Information）独家称，拜登政府 2022 年限制英伟达 A100 对华销售后，英伟达销售人员曾建议阿里巴巴向 Alice Huang 的公司 Megaspeed 在东南亚租用这些芯片；美国司法部目前正主导一项刑事调查。原帖在“criminal”处被截断，具体指控和进展未在本轮检索中看到全文。",
+    "author": "@theinformation",
+    "url": "https://x.com/theinformation/status/2123151782557757554",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 50,
+      "reposts": 18,
+      "replies": 1,
+      "views": 8922,
+      "bookmarks": 10
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "AI",
+    "edition": "早报",
+    "summary": "@op7418 根据腾讯财报称，Workbuddy 日活用户已超过 1000 万。该帖未展开产品定义和统计口径。",
+    "author": "@op7418",
+    "url": "https://x.com/op7418/status/2122977451500523892",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 108,
+      "reposts": 3,
+      "replies": 75,
+      "views": 26597,
+      "bookmarks": 14
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@CoinDesk 称，XRP Ledger 成为首个通过 GL1 工具包独立核验的公共、无需许可的一层区块链；该工具包被其称为全球银行业标准框架，可为机构提供正式的尽职调查参考。@Cointelegraph 稍后也报道了同一消息。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2123058040673103942",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2123151938032177392"
+    ],
+    "metrics": {
+      "likes": 2559,
+      "reposts": 567,
+      "replies": 119,
+      "views": 139150,
+      "bookmarks": 181
+    },
+    "why": "若 GL1 核验属实，这是 XRP Ledger 少有的、面向传统金融机构合规尽调的背书，可能影响机构是否把它纳入代币化或结算试点。",
+    "verify": "对照了 @CoinDesk 与 @Cointelegraph 两则报道，表述一致指向“首个通过 GL1 独立核验的公共无许可 L1”。未核验 GL1 工具包的官方公告、核验报告原文，也未确认“全球银行业标准框架”这一定义是否有标准制定机构背书。"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称比特币跌破 6.3 万美元。同账号稍早还称，据 CoinGlass，若比特币跌破 6.35 万美元，将有约 1.29 亿美元的鲸鱼仓位面临清算；另据 Glassnode，比特币矿工自今年 1 月以来已卖掉近一半 BTC 储备，用于资助人工智能数据中心。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2123085081241686396",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2123036145181180331",
+      "https://x.com/Cointelegraph/status/2123026085285634468"
+    ],
+    "metrics": {
+      "likes": 312,
+      "reposts": 32,
+      "replies": 54,
+      "views": 38443,
+      "bookmarks": 5
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@Cointelegraph 称，俄罗斯已批准 30 家加密运营商，但零售交易是否开放仍未确认，同时欧盟制裁方面的担忧上升。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2123071388630012078",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 251,
+      "reposts": 28,
+      "replies": 29,
+      "views": 36787,
+      "bookmarks": 5
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@CoinDesk 称，Circle 与新加坡星展银行（DBS）合作，向亚洲机构客户提供直接的 USDC 铸造与赎回，并支持全天候美元结算，作为其现有代币化存款基础设施之外的银行级通道。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2123029895370649641",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 129,
+      "reposts": 21,
+      "replies": 46,
+      "views": 27387,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "Crypto",
+    "edition": "早报",
+    "summary": "@WuBlockchain 转发 Ledger 硬件钱包被篡改事件的调查更新，称受影响设备已在东南亚以外被发现，包括德国和阿联酋。",
+    "author": "@WuBlockchain",
+    "url": "https://x.com/WuBlockchain/status/2123141470974787911",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 19,
+      "reposts": 2,
+      "replies": 22,
+      "views": 8730,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "立场账号 @whyyoutouzhele 转述台湾媒体报道称，赖清德表示，台湾代表、宏碁创办人施振荣赴深圳出席 APEC 经济领袖会议，以展现对和平的坚持和参与国际合作的意愿。该账号还称，深圳机场“自研红毯铺设机”宣传视频分享量很高但评论很少；以及 11 月 18 日深圳多地高频临时交管，导致外卖骑手和电动车被拦停滞留。另有帖称，11 月 17 日《香港 01》记者在麒麟山庄附近采访时被要求检查手机并删除所谓“涉密”照片。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2123058646477131949",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2123073745170362520",
+      "https://x.com/whyyoutouzhele/status/2123091362942001533",
+      "https://x.com/whyyoutouzhele/status/2122973081971163446"
+    ],
+    "metrics": {
+      "likes": 136,
+      "reposts": 471,
+      "replies": 10,
+      "views": 62871,
+      "bookmarks": 20
+    },
+    "why": "施振荣以台湾代表身份出现在深圳 APEC，是峰会开幕当天两岸和国际场合都可能被放大的信号；红毯机评论异常、临时交管和记者被删照片则反映会场管控细节。",
+    "verify": "施振荣出席的表述来自立场账号对台湾媒体和赖清德讲话的转述，本轮未收入赖清德或台湾官方账号原帖，也未对照中央社等一手稿。红毯机、交管和记者删照片均来自同一立场账号的网友投稿或转述，未用官媒或《香港 01》原报道交叉核对。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "立场账号 @whyyoutouzhele 称，珠海公布救助市属国企华发集团的安排不到两周，华发债券仍大跌：11 月 16 日一只债券成交价下跌 42.44%，另一只因盘中跌超三成被深交所临时停牌；次日又有一只债券跌了 47.39%。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2123098912529768757",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 111,
+      "reposts": 482,
+      "replies": 16,
+      "views": 36947,
+      "bookmarks": 35
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国内形势",
+    "edition": "早报",
+    "summary": "账号 @Crypto_146827 列出一份“深圳 APEC 元首住宿清单”（称时间为北京时间 11 月 18 日至 19 日），其中包括：特朗普住深圳东海朗廷酒店，普京住前海康莱德酒店，韩国总统李在明住鹏瑞莱佛士酒店，文莱苏丹住柏悦酒店，马来西亚总理安瓦尔住瑞吉酒店，墨西哥总统辛鲍姆住四季酒店。该清单来源不明，收藏比很高。",
+    "author": "@Crypto_146827",
+    "url": "https://x.com/Crypto_146827/status/2123007533057032258",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 516,
+      "reposts": 66,
+      "replies": 74,
+      "views": 327149,
+      "bookmarks": 321
+    },
+    "tags": [
+      "值得收藏",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "BBC 中文报道，美国总统特朗普抵达深圳出席 APEC 领导人非正式会议，习近平亲自到机场迎接，并称这是他在任国家主席以来首次给予此待遇；俄罗斯总统普京同日稍早抵达，由中共中央政治局常委蔡奇迎接，随后举行中俄双边会谈，习近平形容双方关系“风雨不动安如山”。BBC 世界新闻发表评论员史蒂夫·罗森伯格的文章，称这场与习近平、特朗普的历史性会谈对普京是一次外交成功。美联社则指出，特朗普的“美国优先”关税路线与 APEC 推动太平洋自由贸易的目标存在张力。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2123014539549843658",
+    "extra_urls": [
+      "https://x.com/BBCWorld/status/2123006909485563988",
+      "https://x.com/AP/status/2123019038678798705"
+    ],
+    "metrics": {
+      "likes": 121,
+      "reposts": 17,
+      "replies": 27,
+      "views": 61823,
+      "bookmarks": 8
+    },
+    "why": "中美俄三方领导人在深圳同场，是当前国际秩序里最重要的一次面对面接触，会直接影响乌克兰、制裁和亚太贸易议题的预期。",
+    "verify": "特朗普抵深、习近平接机、普京稍早抵达、蔡奇迎接以及中俄会谈，对照了 BBC 中文报道；“在任国家主席以来首次到机场迎接”这一判断只来自 BBC 中文，未见中方官方原帖被本轮检索收入。BBC 世界新闻的“外交成功”是评论员判断，不是事实快讯。美联社确认了峰会举行及特朗普路线与 APEC 目标的张力。三方正式会晤的完整结果和联合声明，本轮尚未用官方公报核实。"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "美国之音报道，日本首相高市早苗 11 月 18 日抵达深圳出席 APEC 峰会。这是她自 2025 年 10 月就任首相以来首次访华。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2123016752644726900",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 178,
+      "reposts": 14,
+      "replies": 22,
+      "views": 54721,
+      "bookmarks": 27
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "@Polymarket 称，美国国防部长皮特·赫格塞斯（Pete Hegseth）宣布，美国与委内瑞拉的石油协议使霍尔木兹海峡“对西半球不再是关键因素”。该帖未附讲话实录或政府文件。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2123156997759496566",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 709,
+      "reposts": 81,
+      "replies": 48,
+      "views": 27836,
+      "bookmarks": 19
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "@unusual_whales 称，美国国土安全部长马克韦恩·马林（Markwayne Mullin）警告，自今年 2 月战争开始以来，与伊朗有关联的黑客一直在瞄准美国关键基础设施。该帖称消息来自其提交给国会的书面证词。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2123158553770995714",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 94,
+      "reposts": 12,
+      "replies": 15,
+      "views": 55489,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "category": "国际形势",
+    "edition": "早报",
+    "summary": "路透社报道，有消息人士称，以色列情报机构负责人在访美期间游说美方联合打击伊朗。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2123161868072042593",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 6,
+      "reposts": 4,
+      "replies": 3,
+      "views": 17589,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  }
+]

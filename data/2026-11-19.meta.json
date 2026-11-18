@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-18 05:30 — 2026-11-19 05:25（UTC 2026-11-17T21:30Z — 2026-11-18T21:25Z）",
+  "queries": 20,
+  "ok": 20,
+  "failed": [],
+  "note": "search_posts_all×20 全部成功，没有限流、无失败重试；构成为大号组合 8 次、关键词热搜 8 次、机动 2 次，因加密方向和下午官方国际新闻不足，又在 20 次上限内补了 2 次更早时间窗口检索。另用 search_news×1 辅助选题，不计入 20 次上限。国内第二次大号查询把 nytchinese 误写成 nytcinese，该账号本轮未单独覆盖。大号组合即使用 relevancy，高发帖密度账号仍大量落到近几小时；后两次补检索将 end_time 收到 2026-11-18T16:30Z 以前，补到下午和晚间的 Cointelegraph、CoinDesk、WuBlockchain 以及 BBC、VOA、Reuters 等。VitalikButerin、cz_binance、karpathy、AnthropicAI、NewsCaixin、realDonaldTrump 等本轮未出现原帖或覆盖很少。"
+}
