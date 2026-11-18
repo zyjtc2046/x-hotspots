@@ -607,5 +607,210 @@
     "tags": [
       "立场账号"
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "美国之音、德国之声和BBC中文等报道，美国总统特朗普11月18日下午抵达深圳宝安国际机场，出席亚太经合组织（APEC）领导人会议；中国国家主席习近平到机场迎接。德国之声称，习近平在停机坪与特朗普拥抱，并指这是特朗普今年第二次访华。BBC中文称，习近平亲自接机是其担任国家主席以来首次给予此待遇。美国之音称，特朗普计划于19日与习近平、普京举行首次三方会晤。立场账号 @visegrad24 用视频对比称，特朗普由习近平本人迎接，普京则由一名“办公厅官员”迎接；BBC中文写的是普京较早抵达时由蔡奇迎接。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2122985573594083787",
+    "extra_urls": [
+      "https://x.com/dw_chinese/status/2122988920430371225",
+      "https://x.com/bbcchinese/status/2123010086188818882",
+      "https://x.com/unusual_whales/status/2122993748175143348",
+      "https://x.com/visegrad24/status/2123011526730592714"
+    ],
+    "metrics": {
+      "likes": 96,
+      "reposts": 5,
+      "replies": 7,
+      "views": 24243,
+      "bookmarks": 22
+    },
+    "why": "这是今日早报已预告的特朗普亚洲行程和中美俄三方会晤的实质落地，也是午报报道普京抵深之后，中美最高领导人在深圳的首次当面接触，会直接关系到随后的贸易、乌克兰和地区安全议程。",
+    "verify": "对照了美国之音、德国之声和BBC中文的表述，三家都确认特朗普抵达深圳、习近平到机场迎接，以及计划中的三方会晤。拥抱细节来自德国之声，“任内首次此待遇”来自BBC中文，本轮未见中方官方通稿原帖。@visegrad24 关于普京迎接规格的对比来自立场账号，与BBC中文“蔡奇迎接普京”可部分对照，但“办公厅官员”的表述未与官方名单逐一对齐。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "立场账号 @KobeissiLetter 援引 Semafor 称，英伟达董事会中“一个派系”仍在推动黄仁勋重新担任 CEO，尽管董事会在财报电话会上公开表示不考虑请他回来。该帖还称，黄仁勋据报已会见多名科技高管，并与至少一位人士交谈；原帖后文在本轮接口返回中被截断。@Cointelegraph 另称，加州司法部长罗布·邦塔（Rob Bonta）表示，其办公室正在了解英伟达及黄仁勋相关事件，因为“已经出现红旗”。@DeItaone 称，盘后有分析师下调英伟达评级或目标价，包括 Summit Insights 将评级下调至 Hold，以及摩根士丹利将目标价从 267 美元调至 260 美元、富国银行和另一家机构从 300 美元调至 250 美元、Piper Sandler 从 300 美元调至 230 美元。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2122923179572072706",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122925439358226690",
+      "https://x.com/DeItaone/status/2123001357166592132"
+    ],
+    "metrics": {
+      "likes": 7512,
+      "reposts": 477,
+      "replies": 274,
+      "views": 611627,
+      "bookmarks": 380
+    },
+    "why": "午报刚报道董事会公开排除黄仁勋回归，现在出现“董事会内部仍有派系推动他回来”的对冲信息，再叠加州层面调查和分析师调降，会直接影响市场对英伟达治理和接班稳定性的判断。",
+    "verify": "董事会派系说法目前只看到 @KobeissiLetter 转述 Semafor，本轮未见 Semafor 官方账号或英伟达原帖交叉证实，且原帖末句被截断。加州司法部长表态来自 @Cointelegraph 单源转述。分析师调降来自 @DeItaone 的行情快讯，其中一家将目标价调至 250 美元的机构名称在原帖中被截断，本轮也未核对这些机构的研报原文。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "立场账号 @unusual_whales 称，据路透社，英伟达已停止向中国出货获美国批准的人工智能芯片。《华尔街日报》中文网同时报道，针对美国最近升级人工智能芯片出口管制，中国商务部发言人表示，若美方一意孤行，中方将采取反制措施。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2123000008807162114",
+    "extra_urls": [
+      "https://x.com/ChineseWSJ/status/2123008339068035436"
+    ],
+    "metrics": {
+      "likes": 420,
+      "reposts": 39,
+      "replies": 60,
+      "views": 76421,
+      "bookmarks": 28
+    },
+    "why": "这比此前“收紧经海外数据中心远程使用先进芯片”的规则更进一步。若英伟达确实停运对华合规芯片，将直接影响中国获取美国算力的路径，也会给正在举行的中美会晤增加摩擦。",
+    "verify": "“已停止出货”目前只看到 @unusual_whales 转述路透社，本轮因国际媒体组合存在覆盖缺口，未见路透社原帖或英伟达官方说明。商务部表态来自《华尔街日报》中文网，本轮未见商务部新闻稿原帖。两条消息时间接近，但是否指向同一项新措施，未独立核验。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "晚报",
+    "summary": "@DeItaone 援引路透社称，特朗普政府正考虑要求美国公司公开披露其使用中国人工智能模型的情况。该帖称，相关提议由财政部等部门讨论，并点名阿里巴巴等股票代码；原帖在“财政部和……”处被截断，参与讨论的其他部门未完整显示。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2123008683294576732",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2123008391840977000"
+    ],
+    "metrics": {
+      "likes": 67,
+      "reposts": 14,
+      "replies": 11,
+      "views": 54688,
+      "bookmarks": 9
+    },
+    "why": "若落地，对中美模型竞争的限制可能从芯片出口进一步延伸到软件使用和合规披露，影响美国企业接入中国大模型的意愿。",
+    "verify": "目前只见到 @DeItaone 对路透社的转述，本轮未见路透社原帖，也未见白宫或财政部声明。原帖被截断，适用范围、是否已形成草案均无法核验。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "晚报",
+    "summary": "立场账号 @Cointelegraph 称，Ledger 硬件钱包被篡改事件已扩散到迪拜：两名用户称，在授权经销商 Virgin Megastore 购买的钱包被盗走约 60.4 万美元加密资产。@WuBlockchain 援引 The Defiant 做了更细的说明，称拆解后怀疑存在硬件植入，并提到用户账号 Rewinsky。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122948061789905373",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2122942819283427452"
+    ],
+    "metrics": {
+      "likes": 163,
+      "reposts": 39,
+      "replies": 68,
+      "views": 42347,
+      "bookmarks": 27
+    },
+    "why": "这是硬件钱包供应链和线下授权渠道的安全警报，和今日早报、午报里出现的软件供应链攻击、手机钱包漏洞不是同一条线，对持币和采购渠道有直接参考价值。",
+    "verify": "对照了 @Cointelegraph 与 @WuBlockchain 的转述，金额、地点和 Virgin Megastore 授权店说法一致；硬件植入和拆解细节来自吴说对 The Defiant 的转述。本轮未看到 Ledger 官方说明，也未独立核验购买凭证或取证报告。",
+    "tags": [
+      "立场账号",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国内形势",
+    "edition": "晚报",
+    "summary": "立场账号 @whyyoutouzhele 称，习近平11月18日在深圳亚太经合组织工商领导人峰会主旨演讲中表示，中国2026年前三季度经济增长4.6%，并支持成立世界湾区经济合作联盟。《南华早报》也发帖汇总了这场峰会包括习近平、普京在内的演讲要点。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122957981956608218",
+    "extra_urls": [
+      "https://x.com/SCMPNews/status/2122961488768016892"
+    ],
+    "metrics": {
+      "likes": 80,
+      "reposts": 5,
+      "replies": 31,
+      "views": 41230,
+      "bookmarks": 13
+    },
+    "why": "午报已报道习近平在会上呼吁自由贸易，这条补充了增长数据和一项新的国际合作倡议，是观察中方在本届 APEC 上经济议程的实质新内容。",
+    "verify": "增长数字和“世界湾区经济合作联盟”来自 @whyyoutouzhele 对演讲的转述，本轮未见新华社或官方通稿原帖；@SCMPNews 只称汇总了演讲要点，帖文本身未列出这两条具体表述。未对照演讲全文。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "立场账号 @unusual_whales 称，据《华尔街日报》，伊朗对科威特和巴林发动了袭击。《华尔街日报》中文网稍早也报道，伊朗周三凌晨对科威特和巴林发动袭击，再次扩大打击目标，同时美国继续加强在该地区的军事部署。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2122997497975263638",
+    "extra_urls": [
+      "https://x.com/ChineseWSJ/status/2122933177261904014"
+    ],
+    "metrics": {
+      "likes": 1024,
+      "reposts": 118,
+      "replies": 31,
+      "views": 117912,
+      "bookmarks": 38
+    },
+    "why": "若属实，这意味着伊朗把打击范围扩到更多海湾国家，可能推高油运和地区冲突风险，也会成为深圳三方会晤的背景议题。",
+    "verify": "中英文都指向《华尔街日报》这一来源。本轮因国际媒体组合在 12:30–15:05 和 16:00–18:45 存在覆盖缺口，未能检索到路透社、美联社或 BBC 的原帖，也未见科威特、巴林或伊朗官方声明。袭击发生在“周三凌晨”，具体时间、目标和损失本轮无法核验。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "路透社报道，习近平与普京在会见特朗普之前共同抨击制裁。立场账号 @whyyoutouzhele 转述塔斯社称，两人18日在深圳麒麟山庄先与各自代表团会谈，随后在小范围“工作早餐”上继续谈，前后超过两小时。BBC中文称，习近平形容中俄关系“风雨不动安如山”；BBC 记者 Steve Rosenberg 评论称，这次与习近平、特朗普的历史性会谈对普京是一次外交收获。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122956766073790611",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2122998247773904915",
+      "https://x.com/bbcchinese/status/2123010086188818882",
+      "https://x.com/BBCWorld/status/2123006909485563988"
+    ],
+    "metrics": {
+      "likes": 271,
+      "reposts": 59,
+      "replies": 28,
+      "views": 251444,
+      "bookmarks": 22
+    },
+    "why": "这是三方会晤前中俄先单独对表的关键安排。制裁表态和关系定调，可能影响次日讨论乌克兰问题和经贸议程的空间。",
+    "verify": "路透社确认了“会见特朗普前抨击制裁”这一判断；会谈时长和“工作早餐”来自 @whyyoutouzhele 对塔斯社的转述，本轮未见塔斯社官方账号原帖。“风雨不动安如山”来自 BBC 中文，本轮未见中方官方通稿原帖。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "晚报",
+    "summary": "美国之音报道，日本首相高市早苗11月18日抵达深圳，出席 APEC 峰会。这是她自2025年10月就任首相以来首次访华。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2123015189889003571",
+    "metrics": {
+      "likes": 2,
+      "reposts": 0,
+      "replies": 2,
+      "views": 961,
+      "bookmarks": 0
+    },
+    "why": "今日早报刚提到她在马尼拉主动与中方握手，此次正式抵深访华，是中日领导人在 APEC 期间可能单独接触的前提。",
+    "verify": "目前只见到美国之音这一条刚发布的短讯，互动还很低；本轮未见日本政府或中方官方账号原帖。抵达本身较可靠，帖文未提及是否安排双边会见。"
   }
 ]
