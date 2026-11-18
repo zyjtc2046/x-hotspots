@@ -383,5 +383,229 @@
     "tags": [
       "立场账号"
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "多家财经账号和路透社报道，英伟达董事会在黄仁勋去职后的首份财报电话会上明确表示，不打算让黄仁勋重新担任 CEO。董事长哈维·琼斯（Harvey Jones）称，公司不会在电话会上接受有关黄仁勋的提问。路透社另根据文件报道，黄仁勋去职后仍可提名两名公司董事。@KobeissiLetter 称公司把 2028 财年营收增长指引上调至约 75%（此前约 70%），并推算年营收约 7280 亿美元；@unusual_whales 称临时 CEO Colette Kress 在电话会结尾表示需求仍在加速，盘后股价上涨约 4.69%；@KobeissiLetter 称纳斯达克 100 期货盘后涨幅扩大至 1.3%。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2122813215172166133",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2122813368415531173",
+      "https://x.com/DeItaone/status/2122814767207419964",
+      "https://x.com/Reuters/status/2122854869333635325",
+      "https://x.com/Reuters/status/2122853628436164666"
+    ],
+    "metrics": {
+      "likes": 10104,
+      "reposts": 761,
+      "replies": 755,
+      "views": 919026,
+      "bookmarks": 733
+    },
+    "why": "今日早报刚报道黄仁勋表态愿在董事会认为符合最大利益时回归，董事会随即在财报电话会上公开拒绝，这是公司控制权和接班路径的关键定调，也会直接影响市场对英伟达治理稳定性的判断。",
+    "verify": "对照了 @KobeissiLetter、@unusual_whales、@DeItaone 和路透社的表述，核心句子“董事会不打算让黄仁勋重新担任 CEO”一致，来源是董事长哈维·琼斯在财报电话会上的表态。路透社另就“仍可提名两名董事”单独发文，依据是公司文件。2028 财年指引、盘后涨幅和股指期货涨幅分别来自 @KobeissiLetter 与 @unusual_whales，本轮未对照英伟达官方纪要或行情软件。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "美联社报道，民主党人、前众议员玛丽·佩尔托拉（Mary Peltola）在阿拉斯加州联邦参议员选举中击败现任共和党参议员丹·沙利文（Dan Sullivan），拿下该席位。美联社后续称，这是民主党翻掉的第九个原共和党席位，也是该党近 70 年来中期选举中最大的参议院收获。纽约时报援引美联社作了确认；英国《金融时报》称，此结果使民主党在参议院的席位达到 100 席中的 56 席。",
+    "author": "@AP",
+    "url": "https://x.com/AP/status/2122896060288844121",
+    "extra_urls": [
+      "https://x.com/AP/status/2122899169014636845",
+      "https://x.com/nytimes/status/2122898026469675063",
+      "https://x.com/FT/status/2122904560318767540"
+    ],
+    "metrics": {
+      "likes": 6931,
+      "reposts": 1151,
+      "replies": 135,
+      "views": 155462,
+      "bookmarks": 142
+    },
+    "why": "在偏保守的阿拉斯加州翻掉现任共和党参议员席位，被多家主流媒体写成民主党本轮中期选举在参议院的收官之胜，将直接改变未来两年美国国会的议事格局。",
+    "verify": "当选本身由美联社首先报道，纽约时报明确援引美联社。第九席、近 70 年最大收获来自美联社后续报道；56 席这一数字来自《金融时报》。计票是否终局、完整议席分布以选举当局和后续官方统计为准。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "立场账号 @Polymarket 称，AI 发现了 Java 中的一个严重安全漏洞，而 Java 被约 90% 的财富 500 强公司使用。@Cointelegraph 援引《纽约时报》报道称，OpenAI 的模型帮助安全创业公司 Calif 发现了这一关键漏洞。同一时段 @Polymarket 还称，银行高管和国家安全局（NSA）据称向国会表示，修补 AI 发现的安全缺陷的尝试，与近期一连串技术故障有关；@emollick 认为“集中打补丁”是近期故障最说得通的解释之一。@Polymarket 另转述马可·鲁比奥（Marco Rubio）称，没有证据表明美国正遭受系统性攻击。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2122817723428467059",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122842512565940585",
+      "https://x.com/Polymarket/status/2122876534151078293",
+      "https://x.com/emollick/status/2122869773683831129"
+    ],
+    "metrics": {
+      "likes": 9041,
+      "reposts": 986,
+      "replies": 211,
+      "views": 437263,
+      "bookmarks": 839
+    },
+    "why": "若《纽约时报》的报道属实，这意味着大模型已经能在被企业广泛使用的基础软件里挖出高危漏洞；同时把它和近期大范围技术故障联系起来，会改变对“打补丁”和系统稳定性的讨论。",
+    "verify": "Java 漏洞及“OpenAI 模型帮助创业公司 Calif 发现、约 90% 财富 500 强使用 Java”这一组表述，对照了 @Polymarket 和 @Cointelegraph 对《纽约时报》的转述，本轮未见《纽约时报》原链或 Calif、OpenAI 官方原帖。银行高管与 NSA 向国会所作说明仅见 @Polymarket，属于待交叉核验。@emollick 的评论是个人判断，不是官方调查结论。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "立场账号 @dotey 根据 Semafor 采访撰文称，贝索斯建议英伟达董事会从内部选人接替黄仁勋：英伟达太复杂，外来 CEO 成功机会“小到几乎没有”，只能作为没有选择时的最后一招。贝索斯表示自己无法评论黄仁勋该不该回来，但称黄仁勋创办并做大公司的努力和远见值得尊重；他也拒绝把这与亚马逊把 CEO 交给安迪·贾西（Andy Jassy）相类比，称那是筹划多年的交接。@Cointelegraph、@Polymarket 也做了简要转述。",
+    "author": "@dotey",
+    "url": "https://x.com/dotey/status/2122843316488208553",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2122849931853525383",
+      "https://x.com/Polymarket/status/2122829345802666195"
+    ],
+    "metrics": {
+      "likes": 203,
+      "reposts": 30,
+      "replies": 45,
+      "views": 97322,
+      "bookmarks": 51
+    },
+    "why": "在董事会刚公开排除黄仁勋回归之后，亚马逊创始人公开反对空降外部 CEO，会加强市场对“只能内部接班”的预期，也给临时管理层增加了外部压力。",
+    "verify": "对照了 @dotey 对 Semafor 采访的较完整转述，以及 @Cointelegraph、@Polymarket 的要点，关于“不要从外部聘 CEO”“成功机会几乎没有”的表述相互吻合。本轮未见 Semafor 原文链接被检索收入，具体用词以采访原文为准。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "@TechCrunch 报道，英伟达临时 CEO 重申了公司的开源 AI 策略，并表示仍计划收购 Hugging Face，尽管黄仁勋突然离职。",
+    "author": "@TechCrunch",
+    "url": "https://x.com/TechCrunch/status/2122829401821675653",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 107,
+      "reposts": 13,
+      "replies": 13,
+      "views": 22367,
+      "bookmarks": 7
+    },
+    "why": "收购 Hugging Face 若继续推进，将是开源模型生态里体量很大的一笔交易；临时 CEO 在管理层变动后立刻重申，说明这不是已搁置的黄仁勋个人项目。",
+    "verify": "目前只见到 TechCrunch 一篇报道帖，本轮未见英伟达或 Hugging Face 官方账号原帖，交易进度、对价和监管进展均未核验。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "立场账号 @Cointelegraph 称，Circle 与新加坡星展银行（DBS）合作，让亚洲机构客户能够直接、全天候获取 USDC。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122884425541169440",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 123,
+      "reposts": 23,
+      "replies": 31,
+      "views": 23226,
+      "bookmarks": 6
+    },
+    "why": "若属实，这意味着亚洲机构获取美元稳定币的渠道进一步纳入持牌银行体系，也是对近期代币化存款和稳定币合规讨论的补充。",
+    "verify": "目前只见到 @Cointelegraph 的简短快讯，本轮未见 Circle 或星展银行官方账号原帖，合作范围、资质和上线时间以双方公告为准。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "立场账号 @Cointelegraph 称，金价跌破每盎司 3800 美元，为 2025 年 9 月以来首次，较 2026 年 1 月的历史高点下跌超过 30%。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2122879623054639473",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 177,
+      "reposts": 25,
+      "replies": 32,
+      "views": 24208,
+      "bookmarks": 9
+    },
+    "why": "黄金出现一年来新低并自高点回撤超过三成，会直接影响避险资产、实际利率和比特币等风险资产之间的相对定价讨论。",
+    "verify": "这是 @Cointelegraph 对价格的快讯，本轮未对照行情软件或伦敦/纽约金价官方数据，盘中是否站稳、统计口径以行情源为准。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "立场账号 @CoinDesk 转述 1inch 警告：名为 DarkSword 的 iOS 漏洞仍然活跃，攻击者可通过恶意 Safari 网页，在用户无需与钱包交互的情况下窃取私钥和助记词，影响未打补丁、运行 iOS 18.4 至 18.7 的 iPhone。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2122833670281023607",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 164,
+      "reposts": 31,
+      "replies": 40,
+      "views": 34613,
+      "bookmarks": 31
+    },
+    "why": "这是针对手机端钱包用户的持续利用警告，不需要打开钱包应用就可能丢钥，属于值得收藏的安全提示。",
+    "verify": "内容来自 @CoinDesk 对 1inch 警告的转述，本轮未见苹果安全公告或独立复现报告。受影响的系统版本和补丁状态，需以苹果和 1inch 的说明为准。",
+    "tags": [
+      "立场账号",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国内形势",
+    "edition": "午报",
+    "summary": "路透社报道，习近平在深圳举行的 APEC 会议上呼吁自由贸易和开放。这是今日早报已预告的工商领导人峰会主旨演讲的实际内容落地。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2122895210489233534",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 47,
+      "reposts": 13,
+      "replies": 11,
+      "views": 62936,
+      "bookmarks": 6
+    },
+    "why": "在特朗普、普京即将抵会、美国还在收紧先进芯片获取的背景下，中方把“自由贸易和开放”作为峰会开场定调，是观察本周三方会晤气氛的第一手官方信号。",
+    "verify": "目前只见到路透社一条标题式快讯，本轮未见新华社或峰会官方通稿被检索收入，完整表述、场合是工商峰会还是领导人会议，以官方全文为准。"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "立场账号 @whyyoutouzhele 转述称，11 月 18 日凌晨近 2 时，俄罗斯总统普京乘专机抵达深圳宝安国际机场，准备出席 APEC 领导人会议，中共中央政治局常委蔡奇到机场迎接；该帖称克里姆林宫发布了红毯和仪仗迎接的现场视频。@Polymarket 称普京已抵达深圳，为与特朗普、习近平的三方会晤做准备。@spectatorindex 称，普京表示与特朗普、习近平的三方峰会“潜力巨大”。路透社报道，特朗普在前往中国会谈前，先在马尼拉与菲律宾总统马科斯会面。南华早报还发标题称，普京在 APEC 上表示制裁“已成过去”，以及他在深圳机场受到最高规格迎接。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2122897584058696007",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2122825002781233594",
+      "https://x.com/spectatorindex/status/2122898025626603975",
+      "https://x.com/Reuters/status/2122897640782213524",
+      "https://x.com/SCMPNews/status/2122897415942594912"
+    ],
+    "metrics": {
+      "likes": 53,
+      "reposts": 2,
+      "replies": 18,
+      "views": 17044,
+      "bookmarks": 9
+    },
+    "why": "普京抵深、蔡奇接机，以及他对三方会晤“潜力巨大”的表态，是早报所报“特朗普将与中俄领导人会谈”的实质进展；特朗普仍在马尼拉，三方正式会晤按日程还在次日。",
+    "verify": "抵深时间和蔡奇接机来自 @whyyoutouzhele 对克里姆林宫视频的转述，@Polymarket 和南华早报也报道了抵达及高规格迎接，本轮未见中方官方账号原帖。“潜力巨大”来自 @spectatorindex 的短讯，未见普京讲话全文。“制裁已成过去”仅见南华早报标题，完整语境未核。特朗普在马尼拉会见马科斯来自路透社。",
+    "tags": [
+      "立场账号"
+    ]
   }
 ]
