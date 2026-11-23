@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-23 05:30 — 2026-11-24 05:30（UTC 2026-11-22T21:30Z — 2026-11-23T21:29Z）",
+  "queries": 18,
+  "ok": 18,
+  "failed": [],
+  "note": "search_posts_all 共 18 次（大号组合 8 + 中英文关键词 8 + 机动 2）全部成功，无需重试；另用 search_news 查询 3 次作事件线索，不计入 20 次上限。大号查询虽指定 relevancy，实际结果明显按时间倒序，国际媒体组（Reuters/AP/BBC/WSJ/FT 等）主查询几乎只覆盖窗口末约 40 分钟，市场账号组约覆盖最后 1.5 小时；已用 2 次机动分别回补 11:30Z—20:50Z 的国际大号和 11:30Z—18:00Z 的 AI/加密大号，但仍有下一页未取（按规则不翻页）。关键词 8 次时间跨度覆盖全窗口，但返回多为低互动账号，达标帖很少。本窗口内未搜到或覆盖不足的名单账号包括：AnthropicAI、sama、karpathy、vista8、AlchainHust、turingou、xiaohu、FinanceYF5、VitalikButerin、cz_binance、evilcos、lookonchain、NewsCaixin、RFA_Chinese、nytchinese、realDonaldTrump、elonmusk、ZelenskyyUa、spectatorindex。昨日早报未落盘，本轮与 11 月 23 日午报、晚报已知条目对照，黄仁勋复职及收盘数据、OpenAI OpenWorks、DeepMind 量子算法等为窗口后半段新进展；中国官员泄密被判死刑、利比亚俄舰遇袭等取当日新的路透/BBC 帖，不重复罗列午晚报已报的黄乐与国安部接触、CHARLS、成都防爆演练等。同一作者最多 2 条。"
+}

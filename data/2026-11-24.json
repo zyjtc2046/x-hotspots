@@ -1,0 +1,376 @@
+[
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "英伟达董事会一致投票，恢复黄仁勋的总裁、首席执行官及董事职务，即刻生效；董事会称已听取美国政府高层意见，认为复职不构成国家安全风险。美股开盘后英伟达大涨，收盘约涨 31.6%、市值单日增加约 9550 亿美元，有统计称创个股单日市值增幅纪录。总统特朗普对 CNBC 称“我和他们谈过……我说服了他们”；有报道称周末多名科技与华尔街人士致电白宫，特朗普政府还拟将新加坡公司 Megaspeed 列入实体清单。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2124866220893896791",
+    "extra_urls": [
+      "https://x.com/AP/status/2124966780783267853",
+      "https://x.com/bbcchinese/status/2124869217132630356",
+      "https://x.com/TechCrunch/status/2124907100560036262",
+      "https://x.com/KobeissiLetter/status/2124974519567737034",
+      "https://x.com/unusual_whales/status/2124963446537981994",
+      "https://x.com/DeItaone/status/2124953889384317182",
+      "https://x.com/FT/status/2124973576822354230"
+    ],
+    "metrics": {
+      "likes": 750,
+      "reposts": 58,
+      "replies": 111,
+      "views": 210320,
+      "bookmarks": 76
+    },
+    "why": "全球最重要的 AI 芯片公司在辞职约 10 天后戏剧性迎回创始人，并直接拉动美股与风险资产出现近年少见的单日反弹。",
+    "verify": "对照了 @_FORAB、@bbcchinese 对董事会声明的转述，以及 @AP 关于“董事会恢复其总裁和 CEO 职务、且此前不久刚拒绝过复职提议”的报道；收盘涨幅与市值数字来自 @KobeissiLetter，@FT 亦称市值增加近 1 万亿美元、刷新纪录。特朗普“说服了他们”来自 @TechCrunch 援引其对 CNBC 的谈话；施压过程来自 @unusual_whales 转述彭博，称董事会周日下午敲定、计划在数小时内成形。Megaspeed 拟被列入实体清单仅见 @DeItaone 援引知情人士，本轮未见路透、美联社原文交叉确认。未核对交易所官方收盘数据，也未见白宫或董事会会议原始纪要。"
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "OpenAI 宣布新项目 OpenWorks：出资资助本地 AI 专家，免费帮助小企业发展所需工具与技能，并邀请愿意教学的专家和希望落地 AI 的小企业主参与。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2124922133545714160",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 3628,
+      "reposts": 238,
+      "replies": 405,
+      "views": 442668,
+      "bookmarks": 3436
+    },
+    "why": "这是 OpenAI 官方推出的面向小企业的落地项目，互动和收藏都很高，说明不少人想回头查看参与方式。",
+    "verify": "来源为 @OpenAI 官方账号原帖；收藏数高于点赞数的 30% 且超过 100。本轮未见独立媒体报道项目预算、覆盖范围或已落地案例，具体报名规则需看官方后续说明。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "Google DeepMind 称，用多组 Gemini 4 智能体设计出新的量子电路，可将未来仿真成本最多降低约 10 倍，以期在早期量子硬件上更高效地服务聚变能源、化学和药物发现。@unusual_whales 补充称，其中一个反正弦（arcsine）子程序的成本可降最多约 290 倍。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2124958916694167794"
+    ],
+    "metrics": {
+      "likes": 2920,
+      "reposts": 302,
+      "replies": 178,
+      "views": 165887,
+      "bookmarks": 474
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "Google DeepMind 展示 Gemini 4 Neon：根据档案照片，在 Antigravity 中交互式重建了图灵 1936 年在剑桥国王学院 X.8 室的书房，并带有可运行的通用图灵机。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2124959312606818597",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 870,
+      "reposts": 53,
+      "replies": 55,
+      "views": 38450,
+      "bookmarks": 144
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "沃顿教授 @emollick 观察称，沃尔玛不愿在智能体电商上重蹈早年电商覆辙：亚马逊仍在拦截购物智能体，沃尔玛则选择拥抱；并称 Stripe 的新数据表明智能体购物可能已经启动且具有粘性。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2124895744775667767",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 581,
+      "reposts": 25,
+      "replies": 132,
+      "views": 27327,
+      "bookmarks": 146
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "TechCrunch 称，亚马逊将收购 Decart 的 AI 优化技术与研究团队，报道中的交易金额约为 75 亿美元。",
+    "author": "@TechCrunch",
+    "url": "https://x.com/TechCrunch/status/2124914648793104467",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 114,
+      "reposts": 9,
+      "replies": 22,
+      "views": 34205,
+      "bookmarks": 38
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "路透社报道，弗吉尼亚州和俄勒冈州起诉马斯克的 SpaceX，指控 Grok AI 生成了儿童性虐待图像。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2124964988179665397",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 16,
+      "reposts": 7,
+      "replies": 2,
+      "views": 28665,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk 称，黄仁勋复职消息公布后，英伟达股价一度涨约 27%，纳斯达克期货涨幅接近 7%，比特币最高升至约 63,800 美元；随后又报道加密相关股票跟涨，Galaxy Digital 约 +19%、Bullish 约 +16.5%、Strategy 约 +14%、Circle 约 +12%、Coinbase 约 +8.3%，比特币约 +3% 报 63,000 美元附近。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2124871775511351805",
+    "extra_urls": [
+      "https://x.com/CoinDesk/status/2124900083200319849",
+      "https://x.com/Cointelegraph/status/2124906048284745743"
+    ],
+    "metrics": {
+      "likes": 130,
+      "reposts": 15,
+      "replies": 14,
+      "views": 34024,
+      "bookmarks": 6
+    },
+    "why": "比特币和加密股票这次反弹，直接挂在英伟达复职、风险资产风险偏好回升这条主线上，而不是单独的链上事件。",
+    "verify": "价格与股指变动来自 @CoinDesk 两则市场快讯，时间分别约在北京时间 22:24 和 00:17；未核对交易所或 Bloomberg 终端的官方报价。@Cointelegraph 另发帖称币安创始人 CZ 欢迎黄仁勋回归。"
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@KobeissiLetter 称，全球最大的比特币 ETF IBIT 11 月迄今已流出约 30 亿美元，有望录得该基金史上第二大单月流出，并打断连续 4 个月净流入；单是上周流出约 8.29 亿美元。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2124956652185309373",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 620,
+      "reposts": 47,
+      "replies": 94,
+      "views": 112637,
+      "bookmarks": 44
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，美国司法部已申请追回朝鲜黑客在“60 亿美元规模币安盗窃案”中所盗的超过 11 亿美元 USDC，并称已有近 30 亿美元加密资产被冻结、扣押或返还。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2124933751721386239",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 87,
+      "reposts": 18,
+      "replies": 35,
+      "views": 28763,
+      "bookmarks": 0
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，有报道指 Abraxas Capital 在过去两天买入了约 10 亿美元比特币。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2124916114874323220",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 167,
+      "reposts": 13,
+      "replies": 49,
+      "views": 30202,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 转述：11 月 22 日《金融时报》援引知情人士报道，胡小伟涉嫌协助将受美国出口管制的英伟达芯片经东南亚运入中国；美国财政部称其为柬埔寨太子集团“二号人物”，太子集团否认他曾为该集团工作。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2124925958646067548",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 191,
+      "reposts": 25,
+      "replies": 17,
+      "views": 22494,
+      "bookmarks": 33
+    },
+    "why": "这条把英伟达复职背景里的出口管制、芯片流入中国和柬埔寨太子集团线索连在了一起，是理解华盛顿对黄仁勋国安争议的重要旁证。",
+    "verify": "本轮依据为立场账号对《金融时报》11 月 22 日报道的转述，以及其转述的美国财政部表述和太子集团否认。本轮搜索未直接抓到 @FT 或美国财政部的原始帖，未核对手续和运输细节，也未确认胡小伟与太子集团关系的最终认定。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，有网友在小红书一条女飞行员视频下用中美数据讨论女性飞行员占比后遭永久封号；帖中给出的数据是：2024 年女性占中国航线运输驾驶员执照持有人的 0.57%，在美国同类活跃持证人中约占 5.5%。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2124910857691992096",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 249,
+      "reposts": 13,
+      "replies": 28,
+      "views": 49276,
+      "bookmarks": 36
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，受黄仁勋重返英伟达 CEO 提振，标普 500 收涨 4.7%，为 2025 年 4 月以来最佳单日表现，美国股票市值当日增加超过 3 万亿美元；英伟达收涨约 31.6%、市值增加约 9550 亿美元，称创个股单日市值增幅纪录。@FT 也写道，这一戏剧性人事逆转给公司市值增加了近 1 万亿美元，并重新点燃上周受挫的人工智能交易。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2124971344043622642",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2124974519567737034",
+      "https://x.com/FT/status/2124973576822354230"
+    ],
+    "metrics": {
+      "likes": 999,
+      "reposts": 92,
+      "replies": 52,
+      "views": 78386,
+      "bookmarks": 47
+    },
+    "why": "这是过去 24 小时全球市场的主线：AI 交易在黄仁勋复职后单日大幅修复，幅度本身已成为新闻。",
+    "verify": "收盘涨幅和市值数字来自 @KobeissiLetter 两则收盘快讯，@FT 的“近 1 万亿美元、纪录”表述方向一致。未核对标普、纳斯达克或英伟达官方收盘数据。"
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "立场账号 @visegrad24 称，伊朗著名歌手 Parastoo Ahmadi 因不戴头巾举行演唱会，当天被伊斯兰政权处以 74 下鞭刑；帖中还称，她在演唱会上演唱君主制时期歌曲也激怒了当局。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2124957464764559375",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 895,
+      "reposts": 244,
+      "replies": 43,
+      "views": 40251,
+      "bookmarks": 51
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@DeItaone 援引知情人士称，特朗普政府计划在周一把新加坡公司 Megaspeed 列入美国商务部实体清单，以限制其获取美国技术；报道将其置于英伟达相关丑闻背景之下。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2124953889384317182",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 190,
+      "reposts": 19,
+      "replies": 31,
+      "views": 91736,
+      "bookmarks": 29
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "路透社报道，美国参议院一个委员会正在调查副总统 JD Vance 是否介入了将一份利润丰厚的委内瑞拉石油交易授予大宗商品巨头 Vitol；依据是路透审阅的一封信函。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2124965995089404183",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 46,
+      "reposts": 30,
+      "replies": 9,
+      "views": 26511,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "BBC 分析乌克兰在利比亚沿海打击俄舰意味着战争外溢；稍早泽连斯基曾发帖称，乌克兰安全局与国防部队动用 7 架国产海上无人机，击沉 2023 年入役的俄护卫舰。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2124969588467118236",
+    "extra_urls": [
+      "https://x.com/ZelenskyyUa/status/2124764825049850041"
+    ],
+    "metrics": {
+      "likes": 67,
+      "reposts": 14,
+      "replies": 19,
+      "views": 43230,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "BBC 称，在罗兴亚种族灭绝相关裁决之后，英国对缅甸军方高层实施制裁。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2124972993000464698",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 39,
+      "reposts": 14,
+      "replies": 7,
+      "views": 27676,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  }
+]
