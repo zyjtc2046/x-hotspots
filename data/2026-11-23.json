@@ -1,0 +1,241 @@
+[
+  {
+    "date": "2026-11-23",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "立场账号 @KobeissiLetter、@unusual_whales、@Cointelegraph 等称，特朗普表示希望英伟达董事会重新聘任黄仁勋，并称“这对公司和美国都是最好的事”。稍早 @Cointelegraph 与 @_FORAB 还转述财政部长贝森特（Scott Bessent）的表态：不排除黄仁勋回归，并称“现在黄仁勋已经是外部人”。@KobeissiLetter 又称，特朗普发声后，市场看到黄仁勋出任下一任 CEO 的概率升至约 19%，而当天早些时候还低于 10%。@_FORAB 统计，过去约两周特朗普已至少六次为黄仁勋发声，其中三次呼吁他回归。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2124698492618629213",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2124702374040158676",
+      "https://x.com/unusual_whales/status/2124700434778689589",
+      "https://x.com/Cointelegraph/status/2124702511776907725",
+      "https://x.com/Cointelegraph/status/2124669509373992963",
+      "https://x.com/_FORAB/status/2124700330541937134",
+      "https://x.com/KobeissiLetter/status/2124709710074970406"
+    ],
+    "metrics": {
+      "likes": 4851,
+      "reposts": 448,
+      "replies": 203,
+      "views": 245025,
+      "bookmarks": 248
+    },
+    "why": "11 月 18 日财报电话会上，英伟达董事会曾明确表示不打算请回黄仁勋。今天总统公开喊话、财长立场松动，是公司控制权和中美芯片政治里的实质新进展。",
+    "verify": "对照了 @KobeissiLetter、@unusual_whales、@Cointelegraph 对同一句引语的转述，表述一致。本轮未检索到特朗普本人或白宫账号原帖，也未对照视频或文字实录。贝森特“不排除回归”来自 @Cointelegraph 与 @_FORAB 的转述，未对照财长原话。约 19% 的概率仅来自 @KobeissiLetter，未核对应来自哪个预测市场。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "《纽约时报》发帖称，英伟达丑闻核心人物黄乐（Alice Huang）在与黄仁勋交往期间，曾与中国国家安全部官员保持接触，知情人士称美方情报报告记录了这些往来。@Cointelegraph 转述称，接触持续逾一年，并与至少部分婚外情时间重叠。同一报道线索下，@nytchinese 称调查发现黄乐的亲属和商业伙伴与中国军工承包商有广泛联系；另据多名知情官员，中国情报机构获取美国先进芯片的行动至少已持续两年，国安部成立工作组开展“反封锁”。@PhyrexNi 还提到《金融时报》追查芯片流入中国时涉及柬埔寨太子集团，此为另一条报道，未在本轮与纽时稿交叉核对。",
+    "author": "@nytimes",
+    "url": "https://x.com/nytimes/status/2124663793670127809",
+    "extra_urls": [
+      "https://x.com/unusual_whales/status/2124696171314839617",
+      "https://x.com/Cointelegraph/status/2124684642854805856",
+      "https://x.com/nytchinese/status/2124685206452056387",
+      "https://x.com/nytchinese/status/2124691909134450809",
+      "https://x.com/PhyrexNi/status/2124679571467628886"
+    ],
+    "metrics": {
+      "likes": 1241,
+      "reposts": 337,
+      "replies": 385,
+      "views": 353390,
+      "bookmarks": 161
+    },
+    "why": "这是黄仁勋去职事件中迄今较具体的情报接触指控，直接关系到英伟达的出口合规、对华芯片管制和董事会调查。",
+    "verify": "核心“与中国最高情报机构往来”来自《纽约时报》官方账号，依据是知情人士转述的美方情报报告，不是法庭判决或官方声明。接触时长及与婚外情时间重叠，来自 @Cointelegraph 对纽时报道的转述。亲属军工联系和“反封锁”工作组来自 @nytchinese，应同属纽时报道集群，本轮未打开英文原文逐段核对。太子集团线索仅来自 @PhyrexNi 对 FT 的转述，单独存疑。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "立场账号 @Polymarket 称，OpenAI 首席科学家警告，人工智能研究可能在 2027 年前后出现根本性突破的“雪崩”，速度会超出当前安全措施。@Cointelegraph 另称，Jakub Pachocki 呼吁各 AI 公司在研究人员更好地理解和监控之前，就更强模型达成行业限制。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2124624385206092045",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2124677042146857161"
+    ],
+    "metrics": {
+      "likes": 2011,
+      "reposts": 170,
+      "replies": 117,
+      "views": 85663,
+      "bookmarks": 183
+    },
+    "why": "如果属实，这是 OpenAI 核心研究负责人同时在谈加速风险和行业自律，会影响模型发布和安全治理议程。",
+    "verify": "两条信息分别来自 @Polymarket 与 @Cointelegraph，可能出自同一次发言，但本轮未见 OpenAI 官方或 Pachocki 本人原帖，也未对照演讲或访谈原文。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "AI",
+    "edition": "午报",
+    "summary": "立场账号 @Polymarket 称，Meta 首席 AI 官 Alexandr Wang 把研制原子弹比作“家庭作业”，难度远不及解决黎曼猜想。@Cointelegraph 进一步写成“在 AI 帮助证明黎曼猜想之后”，他表示“超级智能正在到来”，并警告社会不应接受向 AI 的“交接”。@emollick 随后在讨论中提到“解决黎曼猜想”这一语境，但并未给出证明已被数学界确认的证据。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2124673278564581821",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2124692145005072632",
+      "https://x.com/emollick/status/2124721500821623181"
+    ],
+    "metrics": {
+      "likes": 1345,
+      "reposts": 42,
+      "replies": 66,
+      "views": 82654,
+      "bookmarks": 145
+    },
+    "why": "若黎曼猜想真被证明，将是数学史上的重大事件；目前只见到社交平台转述，需要把当事人言论和“证明已被确认”分开看待。",
+    "verify": "本轮没有王的原帖、会议视频，也没有数学期刊或专业机构的确认。@Cointelegraph“AI 帮助证明了黎曼猜想”的表述比 @Polymarket 的比喻更进一步，二者并不完全同义，不能当作已证命题。",
+    "tags": [
+      "立场账号",
+      "待核实",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "立场账号 @Cointelegraph 称，以目前走势计，这是比特币历史上第二差的 11 月，也是第二差的四季度。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2124646845133599140",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 434,
+      "reposts": 37,
+      "replies": 77,
+      "views": 47776,
+      "bookmarks": 35
+    },
+    "why": "在科技股上周重挫、本周一期货反弹的背景下，这是观察本轮加密市场回撤深度的一个时间口径。",
+    "verify": "单源，未见其所附图表的数据口径和截止时点，也未对照行情软件复核，标为待核实。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "Crypto",
+    "edition": "午报",
+    "summary": "链上监控账号 @lookonchain 称，Fusionist（@fusionistio）遭黑客攻击，损失超过 200 万美元；攻击者大量铸造并抛售 $ACE，部分在 Gate、MEXC、Baltex 卖出，随后换成以太坊，已有 1,150 枚 ETH（约 197 万美元）打入 Tornado Cash。",
+    "author": "@lookonchain",
+    "url": "https://x.com/lookonchain/status/2124686123490570536",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 108,
+      "reposts": 9,
+      "replies": 30,
+      "views": 31126,
+      "bookmarks": 8
+    },
+    "why": "若链上路径属实，这是一起涉及铸币、多所抛售和混币的安全事件，对相关代币和用户资产有直接影响。",
+    "verify": "单源链上监控，本轮未见项目方官方确认或安全公司的独立报告，标为待核实。",
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "多家账号称美股期货周一反弹。立场账号 @KobeissiLetter 称，纳斯达克 100 期货涨幅扩大至约 3%，标普 500 期货涨约 1.4% 并重新站上 7000 点、有望开在修正区间之外；该账号还列出道指期货约 +0.9%、WTI 原油约 +1.5%、黄金约 +2.0%。路透社称美国股指期货上涨，同时亚洲市场在上周人工智能相关股票重挫后承压。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2124660693056069973",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2124639723016601958",
+      "https://x.com/Reuters/status/2124663006248210649",
+      "https://x.com/Cointelegraph/status/2124695673354281395"
+    ],
+    "metrics": {
+      "likes": 2924,
+      "reposts": 262,
+      "replies": 219,
+      "views": 253018,
+      "bookmarks": 105
+    },
+    "why": "这是上周纳指录得 2020 年以来最差一周之后，市场重新开盘前的第一轮定价，会直接影响科技股和加密风险偏好。",
+    "verify": "反弹方向有路透社交叉确认；具体涨幅、是否站上 7000 点、是否离开修正区间来自 @KobeissiLetter，本轮未对照行情终端，截稿时也还不是正式开盘结果。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "国际形势",
+    "edition": "午报",
+    "summary": "立场账号 @unusual_whales 转述彭博报道称，国际教育协会对 800 多所学校的初步调查显示，今年秋季美国高校国际新生入学人数下降 15%，已是连续第三年下降。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2124624211683516436",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1162,
+      "reposts": 100,
+      "replies": 85,
+      "views": 193842,
+      "bookmarks": 92
+    },
+    "why": "连续三年的国际生下降会直接影响美国高校财务、科研人力和签证、移民政策讨论。",
+    "verify": "转述彭博对 IIE 初步调查的报道，原帖后文被截断，本轮未打开彭博原文或协会报告，标为待核实。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "国内形势",
+    "edition": "午报",
+    "summary": "立场账号 @whyyoutouzhele 称，近日成都青白江区城厢镇举行防爆演练，演练人员一边举着盾牌敲击甩棍，一边齐声高喊“听党指挥，能打胜仗，作风优良”；配有视频，评论区有人追问“镇压对象是谁”。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2124639060807610550",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 346,
+      "reposts": 18,
+      "replies": 44,
+      "views": 46858,
+      "bookmarks": 34
+    },
+    "why": "地方防爆演练的公开画面和口号在社交平台引起围观，是观察基层维稳演练如何被传播和解读的一条材料。",
+    "verify": "单源，画面与口号来自该账号所附视频，本轮未对照当地官方通报，演练对象和背景也未核实。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "国内形势",
+    "edition": "午报",
+    "summary": "立场账号 @whyyoutouzhele 称，近日南京各地五金建材市场商家为躲避市场检查而集体关门，有网友抱怨想买材料都难。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2124654166412804447",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 162,
+      "reposts": 8,
+      "replies": 16,
+      "views": 27976,
+      "bookmarks": 16
+    },
+    "why": "若属实，这反映的是地方执法检查与市场经营活动之间的紧张，可能影响短期零售和施工供应。",
+    "verify": "单源，内容为网友分享，未对照当地市场监管部门说明，也未确认波及范围，标为待核实。",
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  }
+]
