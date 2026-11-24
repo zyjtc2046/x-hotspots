@@ -1,0 +1,336 @@
+[
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 转述《纽约时报》：美国中央情报局（CIA）和国家情报总监办公室（ODNI）发现网络安全入侵，部分非机密情报信息暴露。@DeItaone 补充称，纽约时报援引美国官员，受影响的是从公开非机密材料中挖掘情报的网络。立场账号 @disclosetv 亦报道了中情局遭入侵的消息。ODNI 回应称关键能力和机密系统未受干扰。攻击来源和具体泄露内容尚未公开。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125318846571524580",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2125315887745950080",
+      "https://x.com/disclosetv/status/2125326935169323075",
+      "https://x.com/Polymarket/status/2125316760580804827"
+    ],
+    "metrics": {
+      "likes": 7439,
+      "reposts": 1058,
+      "replies": 333,
+      "views": 513740,
+      "bookmarks": 930
+    },
+    "why": "美国情报体系核心机构的开源情报分析网遭入侵，虽称未影响机密系统，但发生在联邦机构近期连续出现安全事件之后，可能影响对情报共享与网络安全的评估。",
+    "verify": "对照路透社转述《纽约时报》的报道以及美联社消息：入侵影响开源情报分析网络，暴露部分非机密信息，机密系统据称未受影响；ODNI 回应称“关键能力和机密系统未受干扰”。本轮未检索到中情局官方详细说明，攻击来源和具体泄露内容仍未公开。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "OpenAI 发布预印本称，GPT-6 系列模型具备内在的蛋白质设计能力：无需调用专用生物学模型，仅靠推理和代码即可设计新的蛋白质形状与序列，并已获得湿实验验证。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2125334383490105601",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1092,
+      "reposts": 110,
+      "replies": 95,
+      "views": 78649,
+      "bookmarks": 200
+    },
+    "why": "通用大模型在不调用专用生物学模型的情况下设计新蛋白质，并声称得到湿实验验证，可能改变蛋白质设计工具的分工。",
+    "verify": "对照 OpenAI 官方帖及其预印本文档要点（湿实验验证、不调用专用生物学模型、用推理和代码设计序列与结构）。独立实验室复现情况和同行评审结果本轮未核实。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "BBC 称，华为被判合谋窃取商业秘密等罪名成立，但更重的勒索讹诈（racketeering）罪名不成立。《金融时报》、彭博亦报道：布鲁克林联邦陪审团认定 12 项指控中的 10 项成立，还包括银行欺诈、电汇欺诈和违反制裁；妨碍司法合谋亦不成立。华为表示将上诉。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2125329444042633364",
+    "extra_urls": [
+      "https://x.com/FT/status/2125332745404445167",
+      "https://x.com/business/status/2125339956914553221"
+    ],
+    "metrics": {
+      "likes": 199,
+      "reposts": 81,
+      "replies": 18,
+      "views": 50970,
+      "bookmarks": 31
+    },
+    "why": "这是美国对华为旷日持久刑事指控的陪审团裁决：多项欺诈与窃密罪名成立，更重的勒索讹诈罪不成立，将影响中美科技竞争和制裁执法的后续叙事。",
+    "verify": "对照 BBC 报道，并与美联社、《卫报》、FT、彭博交叉：布鲁克林联邦陪审团认定 12 项中的 10 项成立，勒索讹诈和妨碍司法合谋不成立；华为称将上诉。量刑和其他指控细节未在本轮逐条核对。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "OpenAI 称，两名业余天文学家 Kevin Bond（@canvrno）与 Ethan Byrd（@itsjustemail）分别使用 Codex 和 Astra，在公开数据中独立发现可能指向遥远恒星周围行星的信号。他们强调此类搜寻不必自备望远镜。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2125305606685053416",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1818,
+      "reposts": 156,
+      "replies": 191,
+      "views": 187056,
+      "bookmarks": 319
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "路透社独家报道，微软在 11 月 12–13 日一场持续约 24 小时、被内部称为 Exchange Online 史上影响最大的故障后，宣布进入“Code Red”，以整改重大服务中断的预防和响应。故障波及 Outlook、Teams、Copilot 等 Microsoft 365 服务；公司称与网络攻击或 AI 智能体无关。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125323636110209066",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 215,
+      "reposts": 106,
+      "replies": 26,
+      "views": 97278,
+      "bookmarks": 53
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@_FORAB 称，Anthropic 上市时，CEO Dario Amodei 与其妹 Daniela 先套现约 5.6 亿美元（其本人约 2.8 亿），7 名联合创始人合计套现近 20 亿美元；相较之下，SpaceX 今年 6 月上市是 100% 发行新股，马斯克和老股东一股未卖。套现具体数字待对照招股或监管文件核实。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2125139376221097995",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2269,
+      "reposts": 231,
+      "replies": 287,
+      "views": 276531,
+      "bookmarks": 261
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@Polymarket 称，Anthropic 一份报告发现，员工向老板隐瞒人工智能为自己节省了多少时间，以便“基本只上半天班”。这与 11 月 24 日晚报中 @emollick 转述的同一研究（组织变革价值与员工抵制）相关，本轮按新传播的具体结论收录。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2125324990216278241",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2347,
+      "reposts": 86,
+      "replies": 151,
+      "views": 137053,
+      "bookmarks": 192
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "Google DeepMind 发布播客，讨论机器学习如何帮助揭示大脑如何做决策，并称神经科学曾启发人工智能，现在则用 AI 反过来理解大脑。",
+    "author": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind/status/2125286866496671873",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 533,
+      "reposts": 51,
+      "replies": 57,
+      "views": 32772,
+      "bookmarks": 199
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，贝莱德在香港及亚太推出其首只代币化货币市场基金，专业投资者可用香港持牌稳定币之一 HKDAP 认购。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125112449963573367",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 445,
+      "reposts": 69,
+      "replies": 49,
+      "views": 51101,
+      "bookmarks": 31
+    },
+    "why": "全球最大资管机构在香港用本地持牌稳定币发行代币化货币基金，是传统资金进入受监管链上现金管理的具体落地。",
+    "verify": "对照 @Cointelegraph 报道要点（香港及亚太首只、面向专业投资者、可用持牌稳定币 HKDAP 认购）。未打开贝莱德或香港监管机构原文核对产品条款与规模。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，韩国金融委员会（FSC）公布《数字资产法案》草案：2017 年以来被禁的 ICO 拟再放开；韩元稳定币拟先由银行占多数的联合体发行；交易所主要股东持股拟设 20% 上限。法案将提交国会。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125121131111665904",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 281,
+      "reposts": 43,
+      "replies": 63,
+      "views": 46868,
+      "bookmarks": 31
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@qinbafrank 转述城堡证券宏观策略主管 Frank Flight 的报告，认为当前美股最像 2018 年秋天：周期股和信用市场已在为增长减速定价，分析师仍预计明年盈利强劲增长。帖中还列有其他对照点。",
+    "author": "@qinbafrank",
+    "url": "https://x.com/qinbafrank/status/2125262200780853680",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 118,
+      "reposts": 18,
+      "replies": 25,
+      "views": 19551,
+      "bookmarks": 99
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，XRP Ledger 去中心化交易所第三季度日均成交约 451 万枚 XRP，环比升 26%、同比约 2.8 倍；链上代币化资产达 50 亿美元，RLUSD 供应日均约 9.37 亿美元、升 74%。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125273509870150028",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 373,
+      "reposts": 63,
+      "replies": 37,
+      "views": 30086,
+      "bookmarks": 23
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，11 月 23 日人社部公布《社会保险基金监督条例（征求意见稿）》，征求意见至 12 月 23 日。草案拟规定，省级以上人社部门经负责人批准可查询被检查单位与社保基金相关的银行流水；涉及基金财政专户，还须征得同级财政部门同意。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125144894314537399",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 135,
+      "reposts": 12,
+      "replies": 21,
+      "views": 59432,
+      "bookmarks": 25
+    },
+    "why": "征求意见稿拟扩大社保基金监管中查询银行流水的权限，关系到基金安全和被检查单位的财务隐私边界。",
+    "verify": "对照立场账号 @whyyoutouzhele 对 11 月 23 日人社部《社会保险基金监督条例（征求意见稿）》的转述（意见征集至 12 月 23 日）。未打开人社部官网原文逐条核对。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，11 月 22 日黑龙江一名网友因发视频吐槽家中供暖温度低，在遭到相关人员翻找个人信息、工作单位、联系方式并联系其“远在国外的家人”后，下架原视频并发布长文“致歉信”；有人猜测是否获得赔偿，博主回复“赔偿我二两风啊？”。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125137353924850095",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 289,
+      "reposts": 25,
+      "replies": 12,
+      "views": 52433,
+      "bookmarks": 41
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "@nytchinese 称，中国军方研究人员警告，人工智能可能使美军更容易发现并摧毁中国的核导弹，从而赋予华盛顿一种极具威胁的优势；这种担忧可能导致北京更不愿意限制其核武库。",
+    "author": "@nytchinese",
+    "url": "https://x.com/nytchinese/status/2125152453666423223",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 40,
+      "reposts": 3,
+      "replies": 69,
+      "views": 43877,
+      "bookmarks": 15
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@Polymarket 称，美国卫生官员警告爱荷华州孕妇、儿童和慢性病患者疏散，因一场大规模军事爆破预计会向空气中释放有毒铅颗粒。美国陆军 11 月 24 日公告：为避免不稳定、已降解的叠氮化铅发生失控爆炸，计划于 11 月 25 日约上午 9 点（美国中部时间）在米德尔敦爱荷华陆军弹药厂实施受控爆破；FEMA 建议米德尔敦及西南方向约 5 英里锥形区域（并再向外延伸 1 英里）居民撤离。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2125313160034832752",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2582,
+      "reposts": 373,
+      "replies": 210,
+      "views": 392660,
+      "bookmarks": 331
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@unusual_whales 称，黄仁勋在复职后的全员会上表示，董事会确认“不存在国家安全威胁”后将其请回，并提到自己违反了英伟达行为准则、目前每天接受治疗，同时感谢了过渡期 CEO Kress。其中“不构成国家安全风险”与 11 月 24 日早报已报的董事会表述一致，治疗与行为准则等为窗口内新细节。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2125314733100450056",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1962,
+      "reposts": 63,
+      "replies": 93,
+      "views": 198983,
+      "bookmarks": 130
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，11 月创纪录地有 57% 的美国消费者将物价上涨列为财务状况较一年前恶化的原因，该比例自 3 月以来上升 24 个百分点。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125313022625509703",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 633,
+      "reposts": 64,
+      "replies": 81,
+      "views": 113990,
+      "bookmarks": 54
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@DeItaone 称，城堡证券（Citadel Securities）2026 年前九个月净交易收入已超过 150 亿美元，打破其 2025 年全年纪录。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2125315570375745895",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 260,
+      "reposts": 34,
+      "replies": 39,
+      "views": 101599,
+      "bookmarks": 40
+    }
+  }
+]
