@@ -590,5 +590,228 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "美国商务部周一将新加坡、泰国和马来西亚的七家公司列入实体清单，以限制其获取美国先进芯片。@ChineseWSJ 称，其中包括总部位于新加坡、由阿里巴巴所有的 Apex Enterprise Solutions。@Cointelegraph 转述彭博报道称，阿里巴巴的新加坡子公司与黄仁勋丑闻核心公司 Megaspeed 一道被列入清单，其 AI 雄心因此受挫。午报已报道 Megaspeed 正式列入清单，本窗口的新进展是同一轮行动还扩大到阿里巴巴关联公司等另外多家东南亚企业。",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2125129814386393131",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125099849079013443"
+    ],
+    "metrics": {
+      "likes": 3,
+      "reposts": 0,
+      "replies": 2,
+      "views": 8502,
+      "bookmarks": 1,
+      "quotes": 0
+    },
+    "why": "出口管制已从黄仁勋丑闻核心的 Megaspeed，外溢到阿里巴巴在新加坡的子公司，说明美国对东南亚转口先进算力的收紧不只是针对一家公司。",
+    "verify": "主帖为《华尔街日报》中文账号 @ChineseWSJ，写明七家公司位于新、马、泰，并点名阿里巴巴所有的 Apex Enterprise Solutions。@Cointelegraph 转述彭博，亦称阿里巴巴新加坡子公司与 Megaspeed 一同被列入。X 的 search_news 综述也写到商务部将 Megaspeed International 及其在新马泰的六家关联公司列入实体清单。未核对美国商务部联邦公报原文中的完整公司名单与股权说明。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "联合早报称，美国总统特朗普表示，如果美国没促成英伟达首席执行官黄仁勋复职，中国可能会招揽黄仁勋，甚至邀请他执掌华为；他并称中国国家主席习近平对黄仁勋十分敬佩。BBC 同窗口发文讨论习近平可能从黄仁勋复职中读出的信号。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2125131311849390191",
+    "extra_urls": [
+      "https://x.com/BBCWorld/status/2125129543383912881"
+    ],
+    "metrics": {
+      "likes": 67,
+      "reposts": 6,
+      "replies": 22,
+      "views": 27927,
+      "bookmarks": 8,
+      "quotes": 2
+    },
+    "why": "这把黄仁勋复职从公司治理争议，进一步写成中美在 AI 人才与产业主导权上的表态，也给早报、午报里特朗普“说服董事会”的说法补了一层对华叙事。",
+    "verify": "“招揽其执掌华为、习近平十分敬佩”来自联合早报官方账号 @zaobaosg。本窗口未检索到路透、美联社或 WSJ 原帖复述“执掌华为”这一具体表述；search_news 可见特朗普近日多次谈及与习近平讨论黄仁勋，并有报道指他前后说法不完全一致，但未出现与早报完全相同的华为细节。未核对特朗普采访逐字稿。@BBCWorld 的帖是分析文章标题，不是对上述引语的确认。"
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "沃顿教授 @emollick 归纳 Anthropic 一篇新论文的两个要点：人工智能最大的价值来自改变组织本身；同时存在广泛的员工抵制，部分正是因为第一点。他写道，若变革能拓展员工职责、并让他们分享 AI 收益，可能有助于缓解抵制。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2125098309928812898",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 888,
+      "reposts": 110,
+      "replies": 146,
+      "views": 66140,
+      "bookmarks": 1043,
+      "quotes": 40
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@op7418 称字节豆包个人智能体“小豆”已开启邀请制公测，并说其长处是打通抖音、飞书和手机本地等上下文。同窗口 @vista8 也写到豆包 personal agent 开始内测，与飞书、抖音、汽水音乐等字节系应用整合较好，也有票务、苹果健康等连接器，体验仍有待打磨。",
+    "author": "@op7418",
+    "url": "https://x.com/op7418/status/2125163207304139041",
+    "extra_urls": [
+      "https://x.com/vista8/status/2125144453157626308"
+    ],
+    "metrics": {
+      "likes": 24,
+      "reposts": 2,
+      "replies": 24,
+      "views": 14175,
+      "bookmarks": 15,
+      "quotes": 7
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，11 月 23 日美国比特币、以太坊、Solana 和 XRP 现货 ETF 均为净流出，其中比特币 ETF 净流出约 5.70 亿美元，以太坊约 8496 万美元。@WuBlockchain 亦称美国比特币现货 ETF 当天流出约 5.70 亿美元，已连续第五个交易日净流出；并转述 SoSoValue 的分基金数据。这是早报 IBIT 11 月累计流出之外的最新单日数字。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125114949622022334",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2125096871551279390"
+    ],
+    "metrics": {
+      "likes": 109,
+      "reposts": 13,
+      "replies": 52,
+      "views": 32379,
+      "bookmarks": 7,
+      "quotes": 7
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@unusual_whales 转述彭博称，摩根大通等大型贵金属交易商首次在伦敦交易一种新形式的数字黄金。@Cointelegraph 补充称，摩根大通、汇丰和 StoneX 完成了伦敦首批涉及实物金条零碎所有权的数字黄金交易。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2125169615647170971",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125162685528412410"
+    ],
+    "metrics": {
+      "likes": 461,
+      "reposts": 63,
+      "replies": 84,
+      "views": 81696,
+      "bookmarks": 64,
+      "quotes": 20
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，网传一个由北京旅行社组织的河南旅行团抵达澳大利亚后，约 25 名游客陆续脱团失联，旅行社此前收取的 300 万元保证金也被放弃；相关聊天记录在中文社交平台引发讨论。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125167544554172622",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 484,
+      "reposts": 32,
+      "replies": 58,
+      "views": 105847,
+      "bookmarks": 119,
+      "quotes": 9
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，11 月 23 日多地五金机电及建材市场“关门避检”风波扩大至天津；所附视频显示，天津市南开区五金城、中国北方五金城、新南马路五金城及延长里社区周边五金市场出现大规模商家关门停业。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125122252765008346",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 212,
+      "reposts": 11,
+      "replies": 23,
+      "views": 36387,
+      "bookmarks": 10,
+      "quotes": 1
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@unusual_whales 转述《华尔街日报》称，黄仁勋“向董事会披露了此前已被广泛报道的两段关系之外的更多婚外情”。这与午报期间 Polymarket 上流传、当时未见大媒体确认的类似说法不同，此次有明确的 WSJ 归因，但本窗口仍未取到报纸原帖。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2125109480220471675",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 5169,
+      "reposts": 237,
+      "replies": 262,
+      "views": 376346,
+      "bookmarks": 327,
+      "quotes": 129
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "乌克兰总统泽连斯基称，他举行了一次协调通话：俄军昨夜把打击重点放在日托米尔州的电力分配与输电设施，乌方防空发挥了作用。同窗口 @business 称，泽连斯基表示乌克兰对芬兰湾一艘俄货船的无人机打击负责；路透社还称，俄军对扎波罗热的袭击造成 2 人死亡、40 人受伤，其中包括 4 名儿童。",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2125159968995176659",
+    "extra_urls": [
+      "https://x.com/business/status/2125181413313941807",
+      "https://x.com/Reuters/status/2125182643008602447"
+    ],
+    "metrics": {
+      "likes": 1860,
+      "reposts": 281,
+      "replies": 146,
+      "views": 80897,
+      "bookmarks": 24,
+      "quotes": 11
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "《华尔街日报》独家报道称，知情人士表示，五角大楼正在与通用汽车及其他制造商商谈，协助大规模生产无人机。",
+    "author": "@WSJ",
+    "url": "https://x.com/WSJ/status/2125182412267118955",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 12,
+      "reposts": 4,
+      "replies": 5,
+      "views": 14156,
+      "bookmarks": 4,
+      "quotes": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
