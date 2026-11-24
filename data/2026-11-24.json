@@ -372,5 +372,223 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "OpenAI 宣布推出开源 Linux 运行时 Shirudo：由 Cisco 与 OpenAI 共建，让智能体在不停机的情况下编写动态 eBPF 防护规则，为防守方争取测试和上线补丁的时间。同窗口内 OpenAI 还称，GPT-6 Cyber 一次运行就帮助验证了 948 个可获得本地 root 权限的 Linux 内核漏洞，并生成供审阅的补丁，研究人员已与维护者合作向上游提交修复。",
+    "author": "@OpenAI",
+    "url": "https://x.com/OpenAI/status/2124980590717911527",
+    "extra_urls": [
+      "https://x.com/OpenAI/status/2125007927098699827"
+    ],
+    "metrics": {
+      "likes": 12371,
+      "reposts": 1496,
+      "replies": 482,
+      "views": 1039239,
+      "bookmarks": 7486
+    },
+    "why": "这是本窗口内最明确的官方技术进展：一边给出可落地的防御型智能体运行时，一边用名为 GPT-6 Cyber 的模型大规模验证高危内核漏洞，互动和收藏都很高。",
+    "verify": "两条均来自 @OpenAI 官方账号；Shirudo 称与 @cisco 共建。收藏数 7486，高于点赞数的 30% 且超过 100。本轮未见独立媒体复核 Shirudo 的实际部署范围，也未核对这些内核补丁是否已全部合入上游。",
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "黄仁勋在复职后的第一个工作日回到加州英伟达总部，数百名员工聚集欢呼。@_FORAB 称他现场表示，感谢大家给第二次机会，会成为更好的 CEO，并承认犯了非常严重的错误。@dotey 转述其讲话还提到：今天是上班第一天、电脑还没拿到、希望显卡是 RTX，并再次向员工道歉。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2125014035922026658",
+    "extra_urls": [
+      "https://x.com/dotey/status/2125005196648431731"
+    ],
+    "metrics": {
+      "likes": 261,
+      "reposts": 15,
+      "replies": 44,
+      "views": 39905,
+      "bookmarks": 30
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "OpenAI 应用负责人 @thsottiaux 称，ChatGPT 的回答质量将有一次明显跃升；同时他们还在简化应用、提升速度，并合并聊天与工作（chat & work），认为上线后会明显改善日常使用体验。本窗口未见其宣布重置 Codex 额度。",
+    "author": "@thsottiaux",
+    "url": "https://x.com/thsottiaux/status/2124998553856844186",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 3782,
+      "reposts": 125,
+      "replies": 730,
+      "views": 400269,
+      "bookmarks": 346
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "立场账号 @Cointelegraph 称，美国商品期货交易委员会（CFTC）表示，受监管的交易所和清算所现在可以把比特币、以太坊和支付型稳定币计入其财务资源要求。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125004206134227296",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 360,
+      "reposts": 52,
+      "replies": 52,
+      "views": 34275,
+      "bookmarks": 29
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "立场账号 @KobeissiLetter 称，比特币跌破 6 万美元，24 小时杠杆清算额升至约 8.5 亿美元。@Cointelegraph 随后称，过去一小时清算超过 7000 万美元，其中多头约占 6700 万美元。这与早报里比特币随英伟达反弹至约 6.3–6.38 万美元的走势形成回吐。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125064305372520946",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125066590584709157"
+    ],
+    "metrics": {
+      "likes": 1632,
+      "reposts": 145,
+      "replies": 135,
+      "views": 116410,
+      "bookmarks": 43
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 转述公益博主“山那边的小世界”为云南山区儿童捐赠冬衣的视频：男孩穿黑色棉服、女孩穿粉色棉服；有人建议别买不耐脏的粉色、女孩也可以穿黑色，博主回复“黑色的话，女孩未必能穿到第二次。”",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125008997120163894",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2920,
+      "reposts": 441,
+      "replies": 103,
+      "views": 278846,
+      "bookmarks": 325
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，11 月 23 日，因珠江投资公司和陕西建工集团的从化惠仁医院项目拖欠工资，多名工人前往广州从化区住建局大厅讨薪，现场有女子痛哭。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125016552345100529",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 110,
+      "reposts": 13,
+      "replies": 15,
+      "views": 25025,
+      "bookmarks": 12
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "美国已将新加坡公司 Megaspeed 列入商务部实体清单。@nytchinese 称，该公司正因涉嫌违法向中国走私芯片接受司法部刑事调查，黄仁勋丑闻核心人物黄乐曾担任其高管，政府内部就是否列入清单讨论了数周。@ChineseWSJ 亦报道，政府周一采取行动，阻止该公司及其关联公司购买美国 AI 芯片。早报还只是“计划列入”，本窗口已有多家媒体报道正式落地。",
+    "author": "@nytchinese",
+    "url": "https://x.com/nytchinese/status/2125069398109221011",
+    "extra_urls": [
+      "https://x.com/ChineseWSJ/status/2125054316977279387",
+      "https://x.com/Cointelegraph/status/2125024361832763795"
+    ],
+    "metrics": {
+      "likes": 10,
+      "reposts": 2,
+      "replies": 13,
+      "views": 8514,
+      "bookmarks": 2
+    },
+    "why": "早报里这还只是“拟列入实体清单”的知情人士消息，本窗口纽约时报中文网和华尔街日报中文网已报道商务部正式落单，是黄仁勋丑闻线的实质政策进展。",
+    "verify": "对照了 @nytchinese、@ChineseWSJ 对列入实体清单、黄乐曾任职及司法部调查的表述，@Cointelegraph 亦转述纽时。本轮未见美国商务部官方原文帖，关联公司范围与许可证细则需看正式公告。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "《金融时报》称，曾表示深度介入黄仁勋复职的特朗普，根据最新财务披露，截至 9 月 30 日或持有最多约 37 万股英伟达股票。立场账号 @Cointelegraph 转述金融时报称，复职推动股价大涨后，其持股浮盈或达约 1500 万美元。@ChineseWSJ 另称，国会共和党人严厉批评特朗普促成此事，民主党人表示为明年若掌控国会后的调查做准备，两党都提到国家安全风险。",
+    "author": "@FT",
+    "url": "https://x.com/FT/status/2125023395494461859",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125016858826838225",
+      "https://x.com/ChineseWSJ/status/2125024160824873268"
+    ],
+    "metrics": {
+      "likes": 500,
+      "reposts": 203,
+      "replies": 59,
+      "views": 67373,
+      "bookmarks": 48
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "美联社称，韩国军方表示，数架俄罗斯飞机进入韩国防空识别区，东部一座岛屿因此发布短暂警报；并更正稍早“可能是朝鲜飞机侵入领空”的报道。路透社随后称，在俄罗斯飞机飞近空域后，韩国发布了“避难”警告。",
+    "author": "@AP",
+    "url": "https://x.com/AP/status/2125026200149979225",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2125074478786846973"
+    ],
+    "metrics": {
+      "likes": 260,
+      "reposts": 127,
+      "replies": 13,
+      "views": 71580,
+      "bookmarks": 20
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "《华尔街日报》称，黄乐是一家被怀疑向中国输送先进算力的企业的公开面孔，但在幕后扮演关键角色的，是一名目前已在新加坡获保释的男子。",
+    "author": "@WSJ",
+    "url": "https://x.com/WSJ/status/2125025659449671980",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 98,
+      "reposts": 54,
+      "replies": 9,
+      "views": 39931,
+      "bookmarks": 14
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
