@@ -1,0 +1,493 @@
+[
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "OpenAI CEO Sam Altman 称，公司正与一小群客户测试 Private Inference（私有推理），作为 OpenAI Private Intelligence 的最新产品，强调更强的隐私保护将使前沿模型能用于更多商务场景。",
+    "author": "@sama",
+    "url": "https://x.com/sama/status/2125638790593274259",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2125639196995920044"
+    ],
+    "metrics": {
+      "likes": 5687,
+      "reposts": 291,
+      "replies": 637,
+      "views": 534812,
+      "bookmarks": 1028
+    },
+    "why": "这是 OpenAI 面向企业隐私需求的新产品信号，可能影响对敏感数据场景能否使用前沿模型的判断。",
+    "verify": "对照了 @sama 本人推文（一手来源），@DeItaone 同步转述了同一表态。帖文未说明技术实现、适用模型范围、定价与上线时间，这些尚未核实。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@op7418 展示用谷歌 Neon、LibTV MCP 与 MAGI-2 视频模型做「Code to Video / Video to Code」：既可按视频参考生成动效网页，也可让大模型先生成人物动作视频再交给视频模型参考。",
+    "author": "@op7418",
+    "url": "https://x.com/op7418/status/2125531570622828617",
+    "extra_urls": [
+      "https://x.com/op7418/status/2125531062541635755"
+    ],
+    "metrics": {
+      "likes": 219,
+      "reposts": 33,
+      "replies": 44,
+      "views": 29033,
+      "bookmarks": 295
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@turingou 把 AI 原生公司概括为：智慧是先验数据，想象是模拟环境，执行与 harness 是性格韧性，并称由此想清楚如何创办一家 AI 原生公司。",
+    "author": "@turingou",
+    "url": "https://x.com/turingou/status/2125613809390002430",
+    "extra_urls": [
+      "https://x.com/turingou/status/2125603408732393506"
+    ],
+    "metrics": {
+      "likes": 304,
+      "reposts": 25,
+      "replies": 16,
+      "views": 22594,
+      "bookmarks": 200
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@AYi_AInotes 称，管理数十亿美元的资深基金经理 Baker 在 a16z 现场表示，23 岁年轻人对 AI 的熟练度将永远碾压自己这辈子的上限；直到用了 Grok Bot，才在几秒内复刻过去用 Claude Code 要几小时的工具，并称之为又一个 ChatGPT 时刻。",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2125556540476113324",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 67,
+      "reposts": 24,
+      "replies": 8,
+      "views": 62640,
+      "bookmarks": 60
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@AYi_AInotes 称，在芯片股大跌之际，《大空头》原型 Michael Burry 在 X 上嘲讽称自己早已警告过 CoreWeave、Nebius、英伟达和半导体；该帖同时提到 François Chollet 关于推理利润率的讨论，原文在此被截断。",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2125582874552221914",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 76,
+      "reposts": 14,
+      "replies": 8,
+      "views": 56121,
+      "bookmarks": 97
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，比特币跌至约 57,300 美元，为 2024 年 9 月以来最低，较约 12.6 万美元的历史高点回撤约 54%；单日约 24 亿美元杠杆仓位被清算，加密总市值约 2 万亿美元，创两年低点。同日美国 10 月核心 PCE 同比 3.3%、第三季度 GDP 上修至 4.3%。@qinbafrank 将数据概括为「通胀顽强、消费疲软、收入尚可」。@business 称比特币下跌正迫使大型矿企抛售储备，以覆盖成本并转向 AI 数据中心。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125651983889482036",
+    "extra_urls": [
+      "https://x.com/qinbafrank/status/2125591566089932877",
+      "https://x.com/Cointelegraph/status/2125583536443019715",
+      "https://x.com/business/status/2125681068552454430"
+    ],
+    "metrics": {
+      "likes": 44,
+      "reposts": 6,
+      "replies": 37,
+      "views": 22125,
+      "bookmarks": 3
+    },
+    "why": "价格、清算和宏观数据叠在一起，是观察本轮加密去杠杆与美联储重新定价如何互相加强的关键窗口。",
+    "verify": "对照了 @CoinDesk 行情综述、@Cointelegraph 对核心 PCE 3.3%（预期 3.2%）、PCE 3.8%、第三季度 GDP 4.3%（预期 3.5%）的数据转发，以及 @qinbafrank 的解读。57,300 美元、24 亿美元清算和 2 万亿市值来自 CoinDesk，未逐笔核对链上清算与市值统计口径；矿企抛售是彭博/@business 的分析，不是官方数据。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，富达（Fidelity）已向美国证交会提交 Chainlink（LINK）基金的 S-1 注册声明。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125685876285956544",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 231,
+      "reposts": 28,
+      "replies": 28,
+      "views": 26198,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，乌克兰议会在多年法律灰色地带后将加密货币合法化：引入许可制度，对年度净利润征收 18% 所得税，并对既有持仓在 2028 年前给予 5% 优惠税率。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125595173170139195",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 86,
+      "reposts": 18,
+      "replies": 19,
+      "views": 24788,
+      "bookmarks": 8
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，Aave App 在早鸟阶段吸储约 6,300 万美元后正式向公众开放，面向日常用户提供最高约 7.25% 年化的稳定币储蓄，并在美国、英国和欧洲经济区连接银行账户，无需自行配置加密钱包。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125636060344725907",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 130,
+      "reposts": 16,
+      "replies": 20,
+      "views": 22346,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，瑞士将自 2028 年起通过 OECD 加密资产报告框架（CARF），向包括所有欧盟成员国、英国和主要 G20 经济体在内的 57 个司法管辖区自动共享加密税收数据。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125602757402935595",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 53,
+      "reposts": 13,
+      "replies": 24,
+      "views": 22367,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，Tether 宣布投资阿根廷金融科技公司 Lemon，以在拉美扩大 USDT 和 Tether Gold（XAUT）在日常支付、储蓄和跨境交易中的使用。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125665828171305381",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 89,
+      "reposts": 15,
+      "replies": 18,
+      "views": 24922,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@CoinDesk 称，韩国交易所 Bithumb 披露，10 月数据泄露比原先公布的更严重：居民登记号、护照信息、身份证件副本、银行账户和加密钱包地址均已暴露，且未经授权的访问在被发现前持续超过两周。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125610236425691366",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 47,
+      "reposts": 6,
+      "replies": 27,
+      "views": 21109,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "美国贸易代表办公室 11 月 25 日公布针对制造业结构性产能过剩的 301 调查结果，认定中国、欧盟、越南、台湾、印度等 14 个经济体的做法不合理并损害美国商业，提出加征关税的方案。@VOAChinese 称拟议税率中国最高 20%、台湾 15%、越南 35%、印度 25%；路透社和《南华早报》亦报道了这项宣布。这是征求意见阶段的提案，并非已生效税率。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2125671582777639199",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2125689763617275962",
+      "https://x.com/SCMPNews/status/2125607858230153238",
+      "https://x.com/Cointelegraph/status/2125597496638329173"
+    ],
+    "metrics": {
+      "likes": 23,
+      "reposts": 0,
+      "replies": 0,
+      "views": 5339,
+      "bookmarks": 0
+    },
+    "why": "这是美方在特朗普与习近平会晤后，把产能过剩调查转化为具体关税提案，直接关系到对华和周边经济体的贸易条件。",
+    "verify": "对照了美国贸易代表办公室 11 月 25 日新闻稿：14 个经济体包括中国、欧盟、新加坡、瑞士、印尼、马来西亚、柬埔寨、泰国、韩国、越南、台湾、孟加拉、日本和印度；对墨西哥、挪威暂未作决定。中国拟议最高 20%（部分 Annex A 商品最高 10%，Annex B 有豁免），若认定中方未解决问题可考虑最高 40%；越南最高 35%，若达成回应性贸易协议可为 20%；印度最高 25%，达成协议可为 17%；台湾最高 15%，若磋商与承诺不理想可考虑 25%。@VOAChinese 所报四档与 USTR 头条税率相符；@Cointelegraph 帖文里越南出现 20%，对应的是「达成协议后的替代税率」，两说并不矛盾。提案仍须经过公示和听证，最终税率尚未落地。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，一名网友 11 月 23 日发帖说，自己在小红书评论区夸过翻红的韩国女团、救助猫狗的女孩和劝阻吸烟的女孩后，账号被限流 14 天，过往评论被永久隐藏，给出的理由之一是「过度放大个人独立价值」。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125590336705884557",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 169,
+      "reposts": 7,
+      "replies": 23,
+      "views": 34548,
+      "bookmarks": 38
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，四川宜宾市翠屏区棠湖学校有学生投诉：课间说四川话被老师拍照留证，并被要求参加「德育小课堂」、写 500 字检讨；当地教体局随后责令废止相关做法。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125615493591515209",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 87,
+      "reposts": 5,
+      "replies": 7,
+      "views": 22847,
+      "bookmarks": 12
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "@VOAChinese 称，台湾单口喜剧演员黄逸豪在舞台上把自己遭车辆撞击的经历变成笑料，并调侃「为什么我被车撞，黄仁勋却有美女间谍」；报道称他如今登台已有便衣警察在场保护。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2125616846527189274",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 89,
+      "reposts": 10,
+      "replies": 7,
+      "views": 17393,
+      "bookmarks": 13
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "@bbcchinese 称，台湾「九合一」地方公职人员选举进入倒数七天，各阵营冲刺选前「黄金周末」：争取连任的台北市长蒋万安与民众党创党主席柯文哲同台，民进党台北市长候选人沈伯洋则举办「城市行动展」嘉年华。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2125592861689495808",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 18,
+      "reposts": 0,
+      "replies": 0,
+      "views": 23353,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "《纽约时报》突发报道：法官支持纽约市长 Zohran Mamdani，驳回房东要求撤销租金稳定公寓租金冻结的诉讼。@Polymarket 称该冻结涉及近 100 万套公寓。",
+    "author": "@nytimes",
+    "url": "https://x.com/nytimes/status/2125670045250388341",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2125677608905887890",
+      "https://x.com/business/status/2125694799344722234"
+    ],
+    "metrics": {
+      "likes": 2096,
+      "reposts": 362,
+      "replies": 50,
+      "views": 147164,
+      "bookmarks": 81
+    },
+    "why": "这是对纽约租金管制政策的司法确认，关系到大量租户与房东的利益，也是观察 Mamdani 上任后施政阻力的一个早期标尺。",
+    "verify": "对照了 @nytimes 突发报道和彭博/@business 的转述：州法官驳回房东诉讼、冻结措施得以维持。近 100 万套这一数字来自 @Polymarket 而非《纽约时报》推文本身，未核到判决书原文中的覆盖范围。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@DeItaone 称，美国 10 月核心 PCE 同比升至 3.3%，高于 3.2% 的预期和 9 月的 3.1%；预测市场显示 12 月加息 25 个基点的概率约 93%、维持利率约 4%。分项上，个人收入增长 0.7%（预期 0.4%），个人支出增长 0.3%（预期 0.4%），实际支出为 0。@KobeissiLetter 称道指抹去约 1,100 点跌幅后收涨。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2125584140900683877",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2125583280409817288",
+      "https://x.com/DeItaone/status/2125583706970628374",
+      "https://x.com/KobeissiLetter/status/2125697370008555911",
+      "https://x.com/Cointelegraph/status/2125583536443019715"
+    ],
+    "metrics": {
+      "likes": 794,
+      "reposts": 152,
+      "replies": 61,
+      "views": 192636,
+      "bookmarks": 61
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@DeItaone 称，标普全球将英伟达 AA 信用评级列入 CreditWatch Negative（负面观察），理由是管理层与治理风险上升，并提及黄仁勋离职后又复职。路透社随后报道了同一决定。彭博称，副总统 JD Vance 为特朗普政府推动黄仁勋复职辩护，并称黄仁勋未受到联邦调查。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2125661310369366182",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2125693561861484847",
+      "https://x.com/business/status/2125695102844613012"
+    ],
+    "metrics": {
+      "likes": 480,
+      "reposts": 96,
+      "replies": 56,
+      "views": 127164,
+      "bookmarks": 56
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "美联社援引埃及卫生部称，开罗环路发生大火，造成至少 30 人死亡。立场账号 @disclosetv 称是一辆燃油罐车翻车起火，并称另有 15 人受伤。",
+    "author": "@AP",
+    "url": "https://x.com/AP/status/2125676095303192841",
+    "extra_urls": [
+      "https://x.com/disclosetv/status/2125675457287008361"
+    ],
+    "metrics": {
+      "likes": 117,
+      "reposts": 50,
+      "replies": 6,
+      "views": 48151,
+      "bookmarks": 9
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "路透社称，伊朗表示霍尔木兹海峡有船只触雷，并警告过往船舶须协调通行。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125683477169201571",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 15,
+      "reposts": 8,
+      "replies": 14,
+      "views": 42177,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，金价已低于 200 日均线约 20%，为 2013 年 6 月以来相对该均线的最大负偏离；而这与今年 1 月一度高出 200 日均线约 45% 形成急剧反转。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125686323818180737",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 972,
+      "reposts": 108,
+      "replies": 79,
+      "views": 119244,
+      "bookmarks": 154
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@unusual_whales 称，澳大利亚通过一项法律，要求互联网公司主动清除有害内容和功能，否则最高可面临全球营收 5% 的罚款。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2125680169062936603",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 269,
+      "reposts": 24,
+      "replies": 65,
+      "views": 102148,
+      "bookmarks": 35
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "路透社援引六名消息人士称，美国政府饥荒监测机构逾半数实地工作人员将在今年年底因缺乏资金失业，使其更难应对因厄尔尼诺和援助削减而上升的饥荒风险。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125685624682496453",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 23,
+      "reposts": 16,
+      "replies": 14,
+      "views": 30667,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察"
+    ]
+  }
+]

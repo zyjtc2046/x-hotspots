@@ -1,0 +1,7 @@
+{
+  "window": "北京时间 2026-11-25 05:30 — 2026-11-26 05:30（UTC 2026-11-24T21:30Z — 2026-11-25T21:30Z；接口将 end_time 调整至约 21:27Z）",
+  "queries": 18,
+  "ok": 18,
+  "failed": [],
+  "note": "search_posts_all 共 18 次（大号组合 8 + 中英文关键词 8 + 机动 2）全部成功，无需因失败重试；另用 search_news 查询 4 次作事件线索，不计入 20 次上限。无失败或限流。X 搜索接口会去掉 min_likes 等互动过滤，关键词英文结果多为低互动账号。大号查询虽指定 relevancy，国际媒体主查询仍明显偏时间倒序，几乎只覆盖窗口末约 45 分钟；机动把 end_time 提前到 20:44Z 后，也只向前延伸到约 19:50Z。加密大号第一组约覆盖最后 2 小时。关键词 8 次时间跨度覆盖更完整。本窗口大号组合未搜到或覆盖不足的名单账号包括：OpenAI、AnthropicAI、_akhaliq、emollick、karpathy、vista8、oran_ge、FinanceYF5、lookonchain、VitalikButerin、cz_binance、evilcos、NewsCaixin、RFA_Chinese、Byron_Wan、ChineseWSJ、nytchinese、realDonaldTrump、elonmusk、ZelenskyyUa（其中 WuBlockchain、DeItaone 出现在机动查询中）。已与 11 月 25 日早报、午报、晚报去重（陈吉宁被查、神舟二十四号、香港债务代币化平台、比特币 ETF 11 月 24 日流出、黄仁勋复职与赦免传闻、华为商业秘密案判决、中情局/财政部入侵、爱荷华引爆预警等不重复）。同一作者最多 2 条。"
+}
