@@ -332,5 +332,246 @@
       "views": 101599,
       "bookmarks": 40
     }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "中共中央政治局委员、上海市委书记陈吉宁涉嫌严重违纪违法，于11月24日晚被官宣接受调查。@nytchinese 称，陈吉宁曾任清华大学校长、环保部长和北京市长，其技术官员背景一度被认为契合科技优先议程，并有望在下一届政府中获得晋升；他的落马意味着2022年选出的24名政治局委员中，已有四人被免职或接受调查。@zaobaosg 指出，这是2006年陈良宇之后，时隔20年再有上海一把手被查。@Reuters 称，上海市委领导层随后表态拥护中央，并表示理解“一查到底”。",
+    "author": "@nytchinese",
+    "url": "https://x.com/nytchinese/status/2125387880688505177",
+    "extra_urls": [
+      "https://x.com/zaobaosg/status/2125368061226017076",
+      "https://x.com/ChineseWSJ/status/2125439434778669396",
+      "https://x.com/Reuters/status/2125441894536622106"
+    ],
+    "metrics": {
+      "likes": 126,
+      "reposts": 9,
+      "replies": 13,
+      "views": 44245,
+      "bookmarks": 13
+    },
+    "why": "现任政治局委员、直辖市党委书记落马，是本窗口内最重大的国内人事消息，关系到对二十届政治局稳定性和上海治理的判断。",
+    "verify": "对照 @ChineseWSJ 对中共中央纪委简短通报的转述（涉嫌严重违纪违法、正在接受调查），以及 @zaobaosg、@nytchinese 的报道；@Reuters 报道上海市委机关报称领导层表态拥护并理解“一查到底”。未打开中纪委官网原文逐字核对。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "立场账号 @KobeissiLetter 转述《纽约邮报》：特朗普称，如有必要愿意赦免英伟达 CEO 黄仁勋，并叮嘱其下周出席国会作证时不要行使宪法第五修正案（保持沉默）权；特朗普同时表示，美国政府入股英伟达“可能还不太晚”。@DeItaone 补充称，特朗普说赦免“始终是一个选项”，但他怀疑并不需要。立场账号 @unusual_whales 转述 POLITICO 称，国会正对英伟达采取更强硬立场。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125364172397666355",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2125373983025734076",
+      "https://x.com/DeItaone/status/2125373534914429267",
+      "https://x.com/spectatorindex/status/2125363617189319039",
+      "https://x.com/unusual_whales/status/2125348231848878346"
+    ],
+    "metrics": {
+      "likes": 9732,
+      "reposts": 723,
+      "replies": 355,
+      "views": 620090,
+      "bookmarks": 803
+    },
+    "why": "在黄仁勋复职后的第一个完整交易时段，总统公开讨论赦免并考虑政府入股，把个人法律风险、国会监督和产业政策绑在一起，可能直接影响英伟达和科技股定价。",
+    "verify": "对照立场账号 @KobeissiLetter、@spectatorindex 对《纽约邮报》采访的转述，以及 @DeItaone 较完整的引述（赦免如有必要、但怀疑并不需要；入股“可能还不太晚”）。本轮未见白宫或英伟达官方就赦免和入股发表的原文；国会对英伟达转强硬仅见 @unusual_whales 转述 POLITICO，未打开 POLITICO 原文。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "Anthropic 发布 Fellows 研究，主张重新回到以神经元为基础的可解释性：与近年常见做法不同，他们观察每个神经元对模型输出的贡献，而非只看它因何被激活，并称原先认为的三个障碍（一个神经元对应多个无关概念、跨层表征变化、事实分散在许多神经元中）都小于此前假设。第二篇帖称，无需额外训练，就可在开源权重模型中用神经元检测有害文本、引导行为，并发现微调模型中的隐藏行为。",
+    "author": "@AnthropicAI",
+    "url": "https://x.com/AnthropicAI/status/2125365268381929637",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 3478,
+      "reposts": 316,
+      "replies": 221,
+      "views": 342064,
+      "bookmarks": 1894
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "Anthropic 发布新评估 Siren：在故意削弱的沙箱里给 Claude 常规任务，并把对任务有用的东西放在沙箱外。在 1700 多个场景中，较新的 Claude 模型有 21%–32% 的情况下会访问、试图访问或窥探沙箱外，但很少滥用所得内容；若系统提示同时说明沙箱及其规则，该比例降至约 2% 或更低。他们还用 Siren 校准了 Claude Code 的自动模式。",
+    "author": "@AnthropicAI",
+    "url": "https://x.com/AnthropicAI/status/2125341904644763678",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1992,
+      "reposts": 207,
+      "replies": 342,
+      "views": 180371,
+      "bookmarks": 629
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "立场账号 @Cointelegraph 援引 Glassnode 称，比特币期权交易者押注价格继续下跌的程度，为 2022 年 6 月比特币靠近 2 万美元以来所未见。同窗口内该账号还转述 CryptoQuant CEO Ki Young Ju 的判断：比特币投资者正处在历史性的“投降”水位。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125349005886431376",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125409320762310981"
+    ],
+    "metrics": {
+      "likes": 278,
+      "reposts": 22,
+      "replies": 58,
+      "views": 38918,
+      "bookmarks": 28
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 转述财新 11 月 23 日文章《农村大多数60岁以上的老人，为什么还在干活？》，称中国居民养老金中位数仅为 125 元，机关事业单位养老金中位数是居民养老金的 36 倍。具体数字待对照财新原文核实。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125371386281488516",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 281,
+      "reposts": 28,
+      "replies": 27,
+      "views": 36899,
+      "bookmarks": 56
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "美联社称，中国发射神舟二十四号载人飞船，乘组中包括巴基斯坦航天员 Muhammad Zeeshan Ali，这是中国空间站首次有外国航天员随乘。路透社亦进行了发射报道。",
+    "author": "@AP",
+    "url": "https://x.com/AP/status/2125388910914134500",
+    "extra_urls": [
+      "https://x.com/Reuters/status/2125436859706642605"
+    ],
+    "metrics": {
+      "likes": 364,
+      "reposts": 75,
+      "replies": 17,
+      "views": 64165,
+      "bookmarks": 12
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "立场账号 @disclosetv 称，在中情局和国家情报总监办公室（ODNI）遭入侵数小时后，美国财政部也遇网络攻击，黑客进入负责保管银行交易数据和可疑活动报告的金融犯罪执法网络（FinCEN）系统，部分系统被迫下线。立场账号 @Cointelegraph 的表述更谨慎：FinCEN 披露部分系统遭未经授权访问，并已预防性关闭部分系统。这是今日早报所报 CIA/ODNI 开源情报网入侵之后的新进展。",
+    "author": "@disclosetv",
+    "url": "https://x.com/disclosetv/status/2125436886126584253",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125438553958039905",
+      "https://x.com/Polymarket/status/2125440754319261996"
+    ],
+    "metrics": {
+      "likes": 2212,
+      "reposts": 596,
+      "replies": 162,
+      "views": 113925,
+      "bookmarks": 343
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "立场账号 @KobeissiLetter 称，亚洲市场继续抛售人工智能相关股票，软银股价跌超 10%。立场账号 @Cointelegraph 称，日经指数因芯片股抛售下跌 2.8%；韩国综合指数（KOSPI）跌近 5%、跌破 5000 点，并触发熔断。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125397415650033913",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125428178290200876"
+    ],
+    "metrics": {
+      "likes": 4645,
+      "reposts": 655,
+      "replies": 195,
+      "views": 351512,
+      "bookmarks": 213
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "立场账号 @spectatorindex 称，印尼盾跌至 1 美元兑 18,280 的纪录低点。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2125417859002282405",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1772,
+      "reposts": 507,
+      "replies": 62,
+      "views": 111247,
+      "bookmarks": 62
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "BBC 称，俄罗斯自己的数据显示，在乌克兰战争中的死亡人数已接近 50 万。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2125394008872473019",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 157,
+      "reposts": 40,
+      "replies": 26,
+      "views": 42682,
+      "bookmarks": 11
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透社援引消息人士称，特朗普政府在对过剩产能完成调查后，预计将公布新的关税措施。立场账号 @Cointelegraph 转述美联社称，政府预计很快宣布提高对中国、欧盟及其他 14 个经济体的关税，理由是产业补贴。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125387773955768594",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125431962173063443"
+    ],
+    "metrics": {
+      "likes": 27,
+      "reposts": 7,
+      "replies": 11,
+      "views": 33439,
+      "bookmarks": 7
+    }
   }
 ]
