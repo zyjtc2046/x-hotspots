@@ -573,5 +573,192 @@
       "views": 33439,
       "bookmarks": 7
     }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "立场账号 @KobeissiLetter 称，在亚洲科技股抛售后，英伟达美股盘前跌超 5%；立场账号 @spectatorindex 称盘前跌 5.5%。@DeItaone 表述更完整：周三盘前跌逾 4%，周二已下跌 5.9%，黄仁勋复职带来的反弹正在消退。这是今日午报所报亚洲 AI 股抛售之后，向美股盘前的传导。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125519423142322382",
+    "extra_urls": [
+      "https://x.com/spectatorindex/status/2125527156856136111",
+      "https://x.com/DeItaone/status/2125551915639402924"
+    ],
+    "metrics": {
+      "likes": 2359,
+      "reposts": 239,
+      "replies": 165,
+      "views": 167413,
+      "bookmarks": 77
+    },
+    "why": "午报已报亚洲 AI 相关股票大跌，现进一步传到美股盘前，英伟达吐回复职反弹的部分涨幅，可能影响对人工智能估值和科技股定价的判断。",
+    "verify": "对照立场账号 @KobeissiLetter、@spectatorindex 的盘前跌幅表述，以及 @DeItaone 较完整的引述（盘前跌逾 4%，周二已跌 5.9%）。X 新闻聚合亦称周二收于约 155.38 美元、跌 5.86%，盘前约 147–148 美元。美股常规交易当时尚未开盘，收盘结果待确认。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@MaxForAI 称，OpenAI 宣布解决了困扰计算机科学界半个多世纪的问题：矩阵乘法的最优复杂度指数为 2.25。X 新闻聚合称，OpenAI 于 11 月 24 日发布预印本，将 10 月的上界与新的下界合并，证明在任意域上平方矩阵乘法的指数恰好为 9/4（即 2.25）。",
+    "author": "@MaxForAI",
+    "url": "https://x.com/MaxForAI/status/2125469168850120756",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 211,
+      "reposts": 27,
+      "replies": 12,
+      "views": 24899,
+      "bookmarks": 66
+    },
+    "why": "矩阵乘法是科学计算和大模型训练、推理的基础运算；若最优指数被上下界同时钉死在 2.25，将改写对这一问题极限的理解。",
+    "verify": "对照 @MaxForAI 的转述，以及 X 新闻聚合对 11 月 24 日预印本的要点（上界与下界合并、恰好为 9/4=2.25；Sebastien Bubeck 称下界尤其出人意料）。本轮大号检索未找到 OpenAI 官方账号在本窗口内的原帖，独立数学家复核与同行评议情况未核实。"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "立场账号 @Cointelegraph 称，美国现货比特币 ETF 在 11 月 24 日净流出 2.3156 亿美元，11 月累计流出 49.4 亿美元，为 2024 年 1 月上市以来最大单月流出。@DeItaone 称，比特币跌破 5.9 万美元至 58,862 美元，11 月累计约跌 23%，或为 2022 年 6 月以来最差单月。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125492363275436122",
+    "extra_urls": [
+      "https://x.com/DeItaone/status/2125551720788787507"
+    ],
+    "metrics": {
+      "likes": 196,
+      "reposts": 23,
+      "replies": 83,
+      "views": 30915,
+      "bookmarks": 3
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "立场账号 @Cointelegraph 称，香港金融管理局推出 CMU 数字资产平台，用于促进债务证券的发行、结算与代币化。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125525068595732635",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 95,
+      "reposts": 17,
+      "replies": 36,
+      "views": 26844,
+      "bookmarks": 5
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 转述，BBC 在 APEC 峰会期间采访一名男子谈经济现状，对方称工厂迁走、工人失业，照这个形势政府会越来越富、普通人会越来越穷。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125524896176292198",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 559,
+      "reposts": 53,
+      "replies": 29,
+      "views": 54289,
+      "bookmarks": 102
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "@zaobaosg 称，中国公安部 11 月 25 日披露，一名因涉嫌非法吸收逾 150 亿元人民币公众存款而被通缉的中国公民，已从俄罗斯被引渡回国。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2125478977875644567",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 23,
+      "reposts": 1,
+      "replies": 2,
+      "views": 30231,
+      "bookmarks": 1
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，陕西子洲县应急管理局 11 月 24 日通报：11 月 21 日晚，当地一天然气井在起钻过程中突发溢流井喷并着火，致 2 人死亡、1 人失联。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125484633370304793",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 84,
+      "reposts": 4,
+      "replies": 13,
+      "views": 22752,
+      "bookmarks": 7
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "立场账号 @visegrad24 称，乌克兰远程无人机袭击俄罗斯萨马拉州的塞兹兰（Syzran）炼油厂和古比雪夫（Kuibyshev）炼油厂并引发火灾，距前线约 800 公里。X 新闻聚合称，11 月 25 日凌晨的袭击涉及该州三座炼油厂，其中包括年产能约 850 万吨的塞兹兰设施，处理装置和储罐受损，并有人员死亡和局部停电。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2125495883806413049",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 764,
+      "reposts": 125,
+      "replies": 15,
+      "views": 26461,
+      "bookmarks": 17
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@Polymarket 称，共和党联邦参议员 Dan Sullivan 正式承认在阿拉斯加败给民主党人 Mary Peltola。X 新闻聚合称，阿拉斯加已于周一确认 11 月 3 日选举结果，Peltola 得票率约 50.14%、领先逾 12,500 票，Sullivan 随后承认败选。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2125453518039629880",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 359,
+      "reposts": 23,
+      "replies": 26,
+      "views": 35836,
+      "bookmarks": 8
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "路透社独家报道称，与黄仁勋短暂离职事件中的中国商人 Alice Huang 有关联的公司，以用于中国大型人工智能数据中心的强力计算设备作为抵押，筹集了融资。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125494706935148714",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 42,
+      "reposts": 15,
+      "replies": 8,
+      "views": 30638,
+      "bookmarks": 9
+    }
   }
 ]
