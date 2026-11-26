@@ -489,5 +489,237 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "OpenAI 的 @thsottiaux（Tibo）称，GPT-6.2 上线时出现计费错误，误给大多数用户的 GPT-6.2 Astra 和 Sol 用量打了折扣；现已修复，同样的工作会占用更多套餐额度，与上周相比会快约 40% 触顶。@op7418 转述称，被误增的额度已收回，并送了一次重置。",
+    "author": "@thsottiaux",
+    "url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "extra_urls": [
+      "https://x.com/op7418/status/2125790584501878963"
+    ],
+    "metrics": {
+      "likes": 6053,
+      "reposts": 425,
+      "replies": 2607,
+      "views": 702355,
+      "bookmarks": 716
+    },
+    "why": "这是官方承认的计费错误，直接改变 GPT-6.2 用户的实际可用额度，也解释了近期关于额度变紧、出现重置的讨论。",
+    "verify": "对照了 @thsottiaux 本人说明（一手来源）。@op7418 关于「送了一次重置」的转述来自对同一事件的跟帖，重置范围和适用套餐未在 Tibo 原帖中写明。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "《华盛顿邮报》报道，在黄仁勋周一只重新出任英伟达 CEO 之前的周末，美国国防部长 Pete Hegseth 与副部长 Steve Feinberg 讨论过动用 1950 年《国防生产法》（Defense Production Act），作为向英伟达施压、促使其恢复黄仁勋职位的手段。@Polymarket 将此概括为考虑动用「非常战时权力」。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2125734260963475605",
+    "extra_urls": [
+      "https://x.com/coinbureau/status/2125728065317966129"
+    ],
+    "metrics": {
+      "likes": 5906,
+      "reposts": 459,
+      "replies": 295,
+      "views": 471036,
+      "bookmarks": 962
+    },
+    "why": "这显示美国国防层曾考虑用产业动员法律干预一家私营科技公司的人事，是观察黄仁勋复职事件中政府角色的实质新进展。",
+    "verify": "对照了 X 新闻综述对《华盛顿邮报》报道的转述，以及 @coinbureau 的要点：Hegseth 与 Feinberg 在黄仁勋周一复职前讨论使用《国防生产法》。本轮未打开 WaPo 原文；讨论是否进入正式程序、英伟达董事会是否实际受到这一压力，仍待原文核对。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "@karpathy 展示用 Claude Opus 5.5 根据美国真实数据填充一幅类似《文明》的游戏地图：模型下载并解析了大量公开数据，耗时约 7 小时、写出约 4.5 万行代码后可以运行，数据源包括人口普查、BEA、BLS、EIA、NOAA、USGS、国防部、国家公园局、FAA、FEMA 等 31 个来源。",
+    "author": "@karpathy",
+    "url": "https://x.com/karpathy/status/2125779541952246039",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 5746,
+      "reposts": 466,
+      "replies": 441,
+      "views": 284046,
+      "bookmarks": 2898
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "1Password 披露安全事件：攻击者利用一名员工被盗的公司 GitHub 账号，向后端系统注入恶意代码，并窃取部分客户的姓名、邮箱和登录等元数据。该公司称，零知识架构使密码库本身未被访问。@cz_binance 建议 1Password 用户修改所有密码。",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2125775937405137135",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2125705838203462067",
+      "https://x.com/WuBlockchain/status/2125801795918364948"
+    ],
+    "metrics": {
+      "likes": 1600,
+      "reposts": 179,
+      "replies": 141,
+      "views": 331821,
+      "bookmarks": 321
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 援引 CryptoQuant 数据称，目前有超过 1118 万枚比特币处于浮亏状态。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125726446249234491",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 167,
+      "reposts": 22,
+      "replies": 49,
+      "views": 29490,
+      "bookmarks": 18
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，参议员 Elizabeth Warren 等民主党人敦促美国证交会撤回拟议的「加密资产监管」（Regulation Crypto Assets）规则，并取消对代币化证券平台的豁免，理由是两者都会削弱投资者保护。同日称，有望出任下届众议院金融服务委员会主席的 Maxine Waters 表示，委员会的首个加密法案必须制止「特朗普的加密腐败」，并计划在民主党 1 月掌控众议院后调查 TRUMP 迷因币。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125771733567168963",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125779255791353868"
+    ],
+    "metrics": {
+      "likes": 94,
+      "reposts": 14,
+      "replies": 44,
+      "views": 28495,
+      "bookmarks": 8
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "彭博称，新加坡不同意美方关于该国政策助长制造业产能过剩的认定，将敦促华盛顿重新考虑对其出口最高 20% 的拟议关税。彭博另称，中国已释放信号：若新关税仍落在此前达成的贸易协议范围内，中方不太可能报复，但更高税率的威胁表明美方仍想保留对北京的杠杆。这是今日早报所报美国 301 产能过剩关税提案之后的新回应。",
+    "author": "@business",
+    "url": "https://x.com/business/status/2125797981395861696",
+    "extra_urls": [
+      "https://x.com/business/status/2125800493721010494"
+    ],
+    "metrics": {
+      "likes": 11,
+      "reposts": 7,
+      "replies": 4,
+      "views": 17334,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "@nytchinese 称，范德堡大学研究人员发现，一场由人工智能驱动的协同社交媒体行动似乎正试图影响台湾本月的选举；研究人员开发了检测工具，识别与中国政府立场一致的人工智能生成帖文，并认为这表明中国已利用人工智能改进信息战手段。",
+    "author": "@nytchinese",
+    "url": "https://x.com/nytchinese/status/2125783097530536148",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 13,
+      "reposts": 4,
+      "replies": 10,
+      "views": 6417,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，一名家长因在网上转发视频遭到民警上门；11 月 24 日的录音里，民警先说「我不要求你删视频」，接着却要求先删掉「牵扯到我们」的内容，并扬言「我今天就让你看看言论自由不自由」。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125726229479502154",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 931,
+      "reposts": 82,
+      "replies": 49,
+      "views": 92719,
+      "bookmarks": 138
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 称，印尼盾跌至 1 美元兑 18,350 的纪录低点。此前昨日报道曾报 18,280 的纪录低点，这是进一步走弱。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2125750818590847057",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 2196,
+      "reposts": 841,
+      "replies": 87,
+      "views": 135778,
+      "bookmarks": 65
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，美国 10 月 M2 货币供应增加 1190 亿美元，升至创纪录的 23.53 万亿美元；同比增速升至 5.9%，为 2022 年 5 月以来最高，也是连续第 32 个月同比增长。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125749523452510647",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1411,
+      "reposts": 228,
+      "replies": 139,
+      "views": 167549,
+      "bookmarks": 221
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透社援引朝中社称，朝鲜领导人金正恩在视察相关设施时，敦促更广泛地部署战术核武器。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2125753960690557286",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 32,
+      "reposts": 15,
+      "replies": 10,
+      "views": 46147,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
