@@ -1,0 +1,470 @@
+[
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "香港大埔宏福苑大火一周年，前居民重返现场哀悼；这场火灾造成168人遇难、数千人无家可归。立场账号称，周年前夕有天主教堂接到警方查询，多个纪念活动遭到警察骚扰。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2125977596051456189",
+    "extra_urls": [
+      "https://x.com/whyyoutouzhele/status/2125982919382778290"
+    ],
+    "metrics": {
+      "likes": 10,
+      "reposts": 1,
+      "replies": 3,
+      "views": 5719,
+      "bookmarks": 1
+    },
+    "why": "这是香港史上伤亡最重的火灾之一满一年，官方善后与民间纪念是否受到限制，是观察香港社会空间的直接窗口。",
+    "verify": "对照了 @VOAChinese 关于前居民重返宏福苑、168人遇难的报道，以及立场账号 @whyyoutouzhele 关于周年前夕两间天主教堂接获警方查询、纪念活动遇阻的转述；遇难人数与一周年日期两家一致。警方是否“骚扰”纪念活动、以及习近平批示原文，未逐条核对港府或官方通告。",
+    "tags": [
+      "价值观察",
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "《华盛顿邮报》报道，记者在深圳华强北打听美国限制对华出口的英伟达设备，商家给一台服务器开价约2000万元，约为美国同类设备的5倍。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125998022396149838",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 263,
+      "reposts": 23,
+      "replies": 30,
+      "views": 55840,
+      "bookmarks": 47
+    },
+    "why": "这是出口管制下，中国市场获取高端英伟达算力的价格与渠道的一线观察，直接关系到中美科技管制的实际效果。",
+    "verify": "帖文转述《华盛顿邮报》11月25日报道。开价约2000万元、约为美国售价5倍等细节来自该报道的转述，未打开华邮原文逐条核对具体型号、是询价还是成交、是否含配套。",
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "澎湃新闻报道，陕西雁塔监狱服刑人员魏某星被束缚床捆绑48天后死亡；两名前监区长涉嫌虐待被监管人一案，已于10月28日在西安中院重审二审开庭，尚未宣判。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125957748802134154",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 216,
+      "reposts": 33,
+      "replies": 17,
+      "views": 42587,
+      "bookmarks": 36
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "《华尔街日报》中文梳理“北京学家”如何从座次排位、葬礼花圈名单等官方叙事细节中捕捉线索，试图预判可能陷入政治危局的高层官员。",
+    "author": "@ChineseWSJ",
+    "url": "https://x.com/ChineseWSJ/status/2125949026273050965",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 36,
+      "reposts": 8,
+      "replies": 9,
+      "views": 36491,
+      "bookmarks": 10
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "中国商务部对美方以“产能过剩”为由拟对包括中国在内的14个经济体加征301关税表示坚决反对，称保留采取必要措施的权利，同时敦促美方加快落实600亿美元关税减让安排。",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2125955246199390419",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 10,
+      "reposts": 4,
+      "replies": 4,
+      "views": 7146,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "彭博等媒体报道，中国人工智能公司 DeepSeek（深度求索）完成最新一轮融资后，创始人梁文锋身家增长约45%，达到约550亿美元。",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2125976798953447669",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 30,
+      "reposts": 2,
+      "replies": 9,
+      "views": 10246,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "《The Information》独家报道：中国人工智能公司正探索把数据中心租约转给非中方第三方、再回租算力等方式，以维持对英伟达芯片的远程使用。",
+    "author": "@theinformation",
+    "url": "https://x.com/theinformation/status/2126028258906874031",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 19,
+      "reposts": 36,
+      "replies": 40,
+      "views": 4033,
+      "bookmarks": 0
+    },
+    "why": "这关系到出口管制后中国公司获取英伟达算力的绕道方式，是中美算力博弈的最新一线线索。",
+    "verify": "对照了 @theinformation 独家帖文本身的表述（转租约、再回租算力）。具体涉及哪些公司、第三方身份以及是否已落地，需看付费全文，本次未打开原文核实。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "路透社援引知情人士称，智谱（Zhipu AI）下一代旗舰模型开发进度已落后于原定计划；月之暗面则表示，若无法继续获得海外算力，重大版本发布间隔可能从六个月拉长至一年甚至更久。",
+    "author": "@RFI_Cn",
+    "url": "https://x.com/RFI_Cn/status/2125909210164818347",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 87,
+      "reposts": 13,
+      "replies": 10,
+      "views": 14856,
+      "bookmarks": 17
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "路透转述彭博报道：SAP 考虑在人工智能相关重组中至少裁员1万人。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2126052154989269174",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 84,
+      "reposts": 30,
+      "replies": 12,
+      "views": 52484,
+      "bookmarks": 14
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "美国联邦通信委员会（FCC）批准 SpaceX 最多发射100万颗卫星，用于建设名为 Starmind 的太空数据中心星座；报道称这是美国首次批准在太空部署数据中心星座。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2125968919777231067",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 26,
+      "reposts": 5,
+      "replies": 4,
+      "views": 6591,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@emollick 观察：微软一方面处于人工智能前沿，其 AI 业务负责人警告正在跨越的阈值；另一方面，组织里仍有人把 AI 视为“和任何其他技术一样的普通技术”。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2125831416491692310",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 470,
+      "reposts": 13,
+      "replies": 116,
+      "views": 37544,
+      "bookmarks": 67
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@_akhaliq 分享论文《High-Fidelity Image Matting with Pixel-Space Diffusion Transformers》，用像素空间扩散 Transformer 做高保真图像抠图。",
+    "author": "@_akhaliq",
+    "url": "https://x.com/_akhaliq/status/2125858027287036149",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 385,
+      "reposts": 29,
+      "replies": 21,
+      "views": 28651,
+      "bookmarks": 397
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "有帖转述称，八部门提出稳妥有序推动云计算、大模型等人工智能相关服务出海，并在防范技术外流前提下整合硬件制造商、算力商和基础设施运营商，开拓海外市场。",
+    "author": "@tuolaji2024",
+    "url": "https://x.com/tuolaji2024/status/2125774457851834667",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 46,
+      "reposts": 4,
+      "replies": 17,
+      "views": 22373,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk 称，Stellar 单日新增代币化基金价值约8040万美元，超过 XRP 链上的约3630万美元；其他区块链当天均不足400万美元。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125985383490199593",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 886,
+      "reposts": 109,
+      "replies": 55,
+      "views": 49092,
+      "bookmarks": 47
+    },
+    "why": "代币化基金是传统资产上链的关键指标，单日体量大幅领先说明资金正在向少数公链集中。",
+    "verify": "对照了 @CoinDesk 市场报道的数字（Stellar 约8040万美元、XRP 约3630万美元、其他链不足400万美元）。原始链上数据与统计口径未另开数据源交叉核对。"
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk 援引消息人士独家报道，总部位于香港的加密做市商 Auros Global 将停止运营；公司尚未回应置评请求，关闭原因与时间表也未说明。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2125918263414550889",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 148,
+      "reposts": 20,
+      "replies": 42,
+      "views": 53030,
+      "bookmarks": 30
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Bitcoin Core 贡献者披露，钱包重播机制存在已知隐私缺陷：在受控模拟中可100%把比特币地址与对应节点关联；吴说区块链称攻击成本可低至约0.35美元。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126026172777775463",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2126012263601787189"
+    ],
+    "metrics": {
+      "likes": 125,
+      "reposts": 18,
+      "replies": 34,
+      "views": 36055,
+      "bookmarks": 34
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 援引路透社：区块链研究员称，朝鲜黑客已通过 THORChain 转移从币安盗取的超过6亿美元加密货币。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126063621318832330",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 33,
+      "reposts": 7,
+      "replies": 13,
+      "views": 15803,
+      "bookmarks": 3
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@evilcos 分析 1Password 安全事件：即便黑客拿到加密后的保险库文件，离线解密仍需同时具备保险库密文和账户主密码等要素，单独拿到密文几乎无法使用。",
+    "author": "@evilcos",
+    "url": "https://x.com/evilcos/status/2125932035353256141",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 138,
+      "reposts": 23,
+      "replies": 10,
+      "views": 24233,
+      "bookmarks": 123
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "乌克兰总统泽连斯基称，在会见匈牙利总理后，匈乌关系实质上出现“重置”；匈方已加入寻回被俄罗斯带走的乌克兰儿童的国际联盟。",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2126052653247389931",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1674,
+      "reposts": 310,
+      "replies": 95,
+      "views": 54271,
+      "bookmarks": 24
+    },
+    "why": "匈牙利长期是欧盟内对乌援助的主要保留方，若关系“重置”并加入寻回被带走儿童的联盟，意味着欧洲对乌协调出现新的外交信号。",
+    "verify": "对照了乌克兰总统官方账号 @ZelenskyyUa 本人声明，确认其会见匈牙利总理、自称关系重置、以及匈方加入寻回儿童联盟。匈方官方是否使用“重置”一词、联盟的具体名单与法律效力，未见匈牙利政府声明核对。"
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，美元指数过去9个月上涨约7%，为2022年11月以来最强的9个月滚动表现，也是2015年10月以来次强。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126050442513961064",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 539,
+      "reposts": 63,
+      "replies": 105,
+      "views": 92091,
+      "bookmarks": 62
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "美国总统特朗普与北约秘书长吕特于周三晚在海湖庄园会晤，讨论俄乌战争、伊朗相关军事行动及国防开支，并发表联合声明。",
+    "author": "@CBSNews",
+    "url": "https://x.com/CBSNews/status/2126019207468876043",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 39,
+      "reposts": 10,
+      "replies": 14,
+      "views": 14070,
+      "bookmarks": 4
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "彭博报道，土耳其央行暂停一周期回购拍卖，可能推高银行融资成本；背景是外汇储备大幅下降。",
+    "author": "@business",
+    "url": "https://x.com/business/status/2126044601953706414",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 214,
+      "reposts": 59,
+      "replies": 31,
+      "views": 28789,
+      "bookmarks": 13
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "欧联杯在格鲁吉亚巴统进行的贝西克塔斯对阵以色列哈波尔·贝尔谢瓦的比赛中断约30分钟：土耳其球迷在警方进入看台收缴巴勒斯坦旗帜后，与格鲁吉亚警察发生冲突。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2126055965791543481",
+    "extra_urls": [
+      "https://x.com/visegrad24/status/2126057829262119370"
+    ],
+    "metrics": {
+      "likes": 381,
+      "reposts": 72,
+      "replies": 65,
+      "views": 33259,
+      "bookmarks": 29
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 统计称，今年初至今大米上涨约95%，橡胶、菜籽、棉花约30%左右，大豆约20%，茶叶、羊毛、小麦亦上涨。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2126053583284306078",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 220,
+      "reposts": 28,
+      "replies": 11,
+      "views": 63181,
+      "bookmarks": 24
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "立场账号称，南苏丹首都朱巴西南约26公里的 Gorom 难民营一场教堂礼拜遭来自苏丹的伊斯兰武装袭击，数十名基督徒受伤。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2126058415893991852",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 98,
+      "reposts": 30,
+      "replies": 6,
+      "views": 13142,
+      "bookmarks": 6
+    },
+    "tags": [
+      "立场账号",
+      "待核实",
+      "价值观察"
+    ]
+  }
+]
