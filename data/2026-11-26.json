@@ -721,5 +721,203 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "OpenAI 的 @thsottiaux（Tibo）宣布 “Banked reset is online”。这是继今日午报所报 GPT-6.2 上线计费错误、并送出一次性重置之后，关于可储蓄重置额度正式上线的新动态。原帖只有这一句，未说明适用产品、规则、额度如何累计与使用。",
+    "author": "@thsottiaux",
+    "url": "https://x.com/thsottiaux/status/2125853628250599730",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 4710,
+      "reposts": 142,
+      "replies": 1020,
+      "views": 367675,
+      "bookmarks": 91
+    },
+    "why": "这是 Codex/ChatGPT 用量机制的产品更新，直接影响用户如何安排重置额度；互动量也是本窗口最高之一。",
+    "verify": "对照了 @thsottiaux 本人原帖（一手来源），热度很高，但帖文未解释 Banked reset 的具体规则、是否覆盖 Codex 或 GPT-6.2，也未给出官方帮助文档，细节尚未核实。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@nytchinese 称，美国人工智能企业的支出大约是中国同行的五到六倍，但带来的收入要高得多；中国六家领先人工智能企业的总收入大约仅为 OpenAI 和 Anthropic 合并收入的十分之一。一份泄露的梁文锋与投资者电话会议记录显示，他表示 DeepSeek 需要四倍数量的华为 950 芯片，才能匹配单颗英伟达 GB300 芯片的性能。",
+    "author": "@nytchinese",
+    "url": "https://x.com/nytchinese/status/2125855826971926579",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 117,
+      "reposts": 17,
+      "replies": 30,
+      "views": 27637,
+      "bookmarks": 32
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@VitalikButerin 发文浅谈开源芯片设计。@Cointelegraph 将其概括为新口号 “Not your silicon, not your keys”，称其主张开源硬件以提升安全性和可验证性。",
+    "author": "@VitalikButerin",
+    "url": "https://x.com/VitalikButerin/status/2125826087129358766",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125892655997390969"
+    ],
+    "metrics": {
+      "likes": 1331,
+      "reposts": 135,
+      "replies": 151,
+      "views": 146291,
+      "bookmarks": 831
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，11 月 25 日比特币和以太坊现货 ETF 出现净流出，XRP 为净流入：BTC -4.5312 亿美元，ETH -6851 万美元，XRP +407 万美元。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125867322287984971",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 285,
+      "reposts": 50,
+      "replies": 34,
+      "views": 30207,
+      "bookmarks": 10
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 称，瑞士首只比特币现货 ETF 在 SIX 瑞士交易所上市，基金在瑞士银行以冷存储直接持有比特币，并以瑞郎和美元交易。@CoinDesk 称其交易代码为 BBIT，并称这是今年早些时候 Jacobi 基金清算后，欧洲目前唯一的比特币现货 ETF。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125900267585466874",
+    "extra_urls": [
+      "https://x.com/CoinDesk/status/2125908934401708095"
+    ],
+    "metrics": {
+      "likes": 105,
+      "reposts": 20,
+      "replies": 46,
+      "views": 24930,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 援引路透社称，渣打银行旗下加密托管公司 Zodia Custody 发生安全事件，导致客户和员工的姓名、邮箱地址暴露。@WuBlockchain 同步转述了同一报道。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2125907699221074228",
+    "extra_urls": [
+      "https://x.com/WuBlockchain/status/2125908030500028805"
+    ],
+    "metrics": {
+      "likes": 56,
+      "reposts": 10,
+      "replies": 17,
+      "views": 20740,
+      "bookmarks": 0
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "@KELMAND1 转发通报：中央宣传部原副部长、原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍。通报称其对抗组织审查，违规收受礼品礼金、接受宴请和旅游安排，在职工录用中为他人谋利，并利用职务为他人在影视作品审批及销售、广告经营权获取、旅游项目开发等方面谋利，非法收受巨额财物，涉嫌受贿，已移送检察机关依法审查起诉。",
+    "author": "@KELMAND1",
+    "url": "https://x.com/KELMAND1/status/2125899703850299469",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 33,
+      "reposts": 4,
+      "replies": 7,
+      "views": 4800,
+      "bookmarks": 4
+    },
+    "why": "这是主管宣传和新闻出版系统的原高级官员被开除党籍并移送司法，属于可核验的官方人事与反腐通报。",
+    "verify": "对照了 @KELMAND1 转发的通报全文，并与新华网、中央纪委国家监委网站 11 月 26 日 18:01（北京时间）发布的同一通报核对，处分决定与移送司法的表述一致。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号 @whyyoutouzhele 称，11 月 25 日在《环球时报》等官媒批评 BBC 关于深圳的报道使用“阴间滤镜”、选择性呈现后，抖音上一篇题为《它夸深圳的时候，画面可一点不“阴间”》的长文走红，点赞一度超过 5 万；目前该文已被删除。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2125852051825361346",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 607,
+      "reposts": 24,
+      "replies": 26,
+      "views": 85134,
+      "bookmarks": 85
+    },
+    "tags": [
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 援引《金融时报》称，英伟达已暂停向马来西亚、新加坡、泰国和印度尼西亚发运芯片。@Cointelegraph 称，这是美国收紧对华芯片出口管制后，英伟达要求合作伙伴停止向上述四国发运服务器。@zaobaosg 亦报道了同一消息。后续《海峡时报》等称，戴尔、超微等制造合作伙伴已通知四国买家无法发货；新规上周生效，向这些国家出口先进芯片需许可证，旨在阻断中国企业迂回获取先进算力；停运是否只是过渡安排尚不明确，英伟达等未在常规工时外立即置评。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2125849749781905624",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2125828313851593160",
+      "https://x.com/zaobaosg/status/2125843559374790949"
+    ],
+    "metrics": {
+      "likes": 6490,
+      "reposts": 1239,
+      "replies": 125,
+      "views": 456708,
+      "bookmarks": 548
+    },
+    "why": "这是美国出口管制从直接限制对华销售，延伸到东南亚转运通道的新动作，可能冲击区域数据中心供货，也关系到中国获取先进 AI 算力的路径。",
+    "verify": "对照了 @spectatorindex、@Cointelegraph 和 @zaobaosg 的转述，并与《金融时报》《海峡时报》、The Verge 的报道核对：共同来源是 FT，援引三名知情人士；英伟达、戴尔、超微当时未立即置评，是否为临时停运仍待官方说明。"
+  },
+  {
+    "date": "2026-11-26",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，马斯克表示 SpaceX 将匹配他向美国每个孩子捐赠的 1 股。@spectatorindex 称，马斯克承诺向美国每个孩子赠送两股 SpaceX。路透社、《卫报》、CNBC 等后续报道：SpaceX 将向每个当前有效的 Trump Account 发放 1 股新发行的 A 类普通股，马斯克再个人配捐 1 股；按周三收盘价约 127.44 美元计算，总额接近 180 亿美元。白宫上月称已开立近 7000 万个此类账户。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2125867873218470307",
+    "extra_urls": [
+      "https://x.com/spectatorindex/status/2125873544454443152"
+    ],
+    "metrics": {
+      "likes": 1309,
+      "reposts": 81,
+      "replies": 83,
+      "views": 128713,
+      "bookmarks": 56
+    },
+    "why": "这是规模很大的股权赠与，把私人航天公司股份与美国儿童账户计划绑在一起，也是观察马斯克、SpaceX 与特朗普政府关系的新信号。",
+    "verify": "对照了 @KobeissiLetter 和 @spectatorindex 的简述，并与路透社、《卫报》、CNBC 的报道核对：两股分别来自公司和马斯克本人；180 亿美元和 127.44 美元收盘价、近 7000 万账户来自这些媒体，而非原帖本身。赠股到账时间和是否覆盖所有儿童（仅限有效 Trump Account）以官方说明为准。"
   }
 ]
