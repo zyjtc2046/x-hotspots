@@ -3,5 +3,14 @@
   "queries": 18,
   "ok": 18,
   "failed": [],
-  "note": "18 次均为 search_posts_all（大号组合 8、关键词 8、机动 2），全部成功，无失败或限流。另用 search_news 检索当日事件 4 次。机动补查 @nytcinese，窗口内无原创帖。"
+  "note": "18 次均为 search_posts_all（大号组合 8、关键词 8、机动 2），全部成功，无失败或限流。另用 search_news 检索当日事件 4 次。机动补查 @nytcinese，窗口内无原创帖。",
+  "editions": {
+    "午报": {
+      "window": "北京时间 2026-11-27 05:30 — 2026-11-27 12:30（UTC 2026-11-26T21:30Z — 2026-11-27T04:30Z）",
+      "queries": 12,
+      "ok": 12,
+      "failed": [],
+      "note": "轻量午报；英文AI大号1（全窗口）+中文AI大号1（全窗口）+币圈/市场/国际媒体/国内大号各按前后半段（05:30—09:00、09:00—12:30）各1次共8+中英文关键词各1，search_posts_all×12（大号按时间、关键词按相关度，排除回复和转发）全部成功，无重试。另用 search_news 查询 7 次、并用公开网页检索核验 IBM H-1B、阿根廷央行改革、币安解禁提币和 Abraxas 链上提取，不计入 12 次上限。关键词检索返回的多为低互动账号，达标帖很少。英文AI组6条且有下一页、约覆盖 05:30—11:32，11:32—12:30 覆盖不足；作者为 dotey、emollick、theinformation；OpenAI、sama、AnthropicAI、GoogleDeepMind、TechCrunch、karpathy、thsottiaux、_akhaliq 本时段未搜到帖。中文AI组25条且有下一页、约 06:44—12:05，05:30—06:44、12:05—12:30 覆盖不足；作者为 AYi_AInotes、AlchainHust、FinanceYF5、MaxForAI、lxfater、op7418、oran_ge、vista8、xiaohu；turingou 本时段未出现。币圈前段14条且有下一页、约 05:32—08:42；作者为 BTCdayu、Cointelegraph、EmberCN、PhyrexNi、WuBlockchain、whale_alert；CoinDesk、evilcos、lookonchain、cz_binance、VitalikButerin、qinbafrank 前段未出现。后段24条且有下一页、约 09:00—12:00，12:00—12:30 不足；作者为 BTCdayu、Cointelegraph、EmberCN、WuBlockchain、cz_binance、lookonchain、qinbafrank；CoinDesk、evilcos、PhyrexNi、VitalikButerin、whale_alert 后段未出现。市场前段16条且有下一页、约 05:47—08:59；作者为 DeItaone、KobeissiLetter、Polymarket、unusual_whales；spectatorindex 前段未出现。后段9条且有下一页、约 09:01—12:05；作者为 KobeissiLetter、Polymarket、spectatorindex、unusual_whales；DeItaone 后段未出现。国际媒体前段25条且有下一页、约 07:35—08:50，05:30—07:35 覆盖不足，作者为 AP、BBCWorld、FT、Reuters、WSJ、business；nytimes、visegrad24、disclosetv、ZelenskyyUa 前段未出现或覆盖有限。后段25条且有下一页、约 11:00—12:20，09:00—11:00、12:20—12:30 覆盖不足，作者为 FT、Reuters、WSJ、business；AP、BBCWorld、nytimes、visegrad24、disclosetv、ZelenskyyUa 后段未出现或覆盖有限。国内前段25条且有下一页、约 07:02—08:47，05:30—07:02 不足；作者为 Byron_Wan、ChineseWSJ、SCMPNews、VOAChinese、bbcchinese、dw_chinese、nytchinese、whyyoutouzhele、zaobaosg；_FORAB、RFA_Chinese、NewsCaixin、KELMAND1 前段未出现。后段25条且有下一页、约 10:40—12:29，09:00—10:40 不足；作者为 ChineseWSJ、KELMAND1、SCMPNews、VOAChinese、_FORAB、bbcchinese、nytchinese、whyyoutouzhele、zaobaosg；Byron_Wan、dw_chinese、RFA_Chinese、NewsCaixin 后段未出现或覆盖有限。热度公式与早报相同（赞+2×转+3×引用+1.5×回复+收藏+浏览/200），门槛约早报一半（立场/价值观察/窗口内大媒体快讯放宽）。已和今日早报及昨日晚报去重（宏福苑大火一周年、华强北英伟达报价、雁塔监狱、北京学家、商务部反对301关税、DeepSeek融资与梁文锋身家、The Information 转租算力、智谱/月之暗面进度、SAP 裁员、SpaceX Starmind、emollick 微软观察、akhaliq 抠图论文、八部门出海转述、Stellar 代币化基金、Auros 停运、Bitcoin Core 隐私缺陷、朝鲜黑客经 THORChain 转移币安赃款、1Password 分析、泽连斯基称匈乌关系重置、美元指数、特朗普与吕特会晤、土耳其央行暂停回购、贝西克塔斯比赛中断、大米等大宗涨价、南苏丹教堂袭击、英伟达暂停向马来西亚/新加坡/泰国/印尼发运先进芯片、马斯克向美国儿童赠送两股 SpaceX 等不重复）。IFP 关于中国约 24% 算力在海外、其中四分之三在东南亚的估计，作为早报转租算力与昨日晚报东南亚停运之后的新数据保留。Polymarket 多条高互动「突发」（五角大楼 UFO 地堡、中情局水刑人数、伊朗定量供电、特朗普称美国控制近 50% 世界石油供应等）未见路透、WSJ、纽时等交叉确认，未单列。同作者最多 2 条。"
+    }
+  }
 }

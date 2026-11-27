@@ -466,5 +466,239 @@
       "待核实",
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "IBM 咨询部门多数岗位将停止为员工赞助美国签证和绿卡。据报道，受影响的美国员工须在约三周内决定接受海外调岗或离职，拒绝调岗者可获三个月遣散费，最后工作日为 2026 年 12 月 31 日。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126154081597075775",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 4209,
+      "reposts": 0,
+      "replies": 115,
+      "views": 170464,
+      "bookmarks": 250
+    },
+    "why": "咨询是 IBM 最大业务板块，把去留截止日期落到今年年底，是美国收紧高技能移民后，大型科技公司用工政策真正落地的一线信号。",
+    "verify": "对照了 @Polymarket 的转述，以及彭博 11 月 10 日首报 IBM Consulting 将停止为多数岗位赞助签证和绿卡、Rest of World 与《经济时报》等后续报道：美国员工被要求在约三周内决定是否接受海外调岗，拒绝者可获三个月遣散费，最后工作日为 12 月 31 日。IBM 发言人确认咨询部门多数相关岗位将停止赞助，但未公布受影响人数；该决定不意味着 IBM 在所有业务停办签证赞助。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "阿根廷国会最终通过央行组织法改革：禁止央行通过印钞或放贷为政府支出融资，并将其首要使命定为维护货币价值。这是米莱经济改革的关键立法之一。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126113272965558735",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 11948,
+      "reposts": 0,
+      "replies": 167,
+      "views": 360509,
+      "bookmarks": 478
+    },
+    "why": "从法律上切断“印钞补财政”，是阿根廷试图结束长期通胀循环的制度性一步，直接影响比索稳定和政府融资方式。",
+    "verify": "对照了 @Polymarket 的表述，以及美联社、彭博、半岛电视台等报道：阿根廷众议院 11 月 26 日以 141 票赞成、0 票反对、99 票弃权通过该改革，禁止向中央政府、各省、布宜诺斯艾利斯或市政提供贷款，包括临时垫款或在一级市场购买公债。参议院修改此前已获批准，本次为国会最终通过。"
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "腾讯开源新一代投机解码技术 DFly2，目前支持 DeepSeek-V4.1-Flash、GLM-5.3-Flash 和腾讯自家的 Hy4 flash。官方称，DeepSeek-V4.1-Flash 在 64K 长上下文场景下，服务吞吐量最高可提升 81%。",
+    "author": "@MaxForAI",
+    "url": "https://x.com/MaxForAI/status/2126092567473512513",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 52,
+      "reposts": 0,
+      "replies": 6,
+      "views": 6689,
+      "bookmarks": 51
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "德国之声中文援引智库 IFP 估计：2026 年中国总体算力约有 24% 在海外数据中心完成，其中四分之三位于东南亚；在美国加紧限制先进芯片对华获取后，这一依赖海外算力的模式正受到冲击。",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2126096162457292960",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 52,
+      "reposts": 0,
+      "replies": 8,
+      "views": 13671,
+      "bookmarks": 7
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "英国央行行长安德鲁·贝利（Andrew Bailey）警告，尚未发布的人工智能模型在数学上出现出人意料的进展，引发它们可能削弱保护金融数据与系统之加密技术的担忧；他表示开发者因能力提升过快而对发布持谨慎态度。央行并敦促金融机构摸清加密使用情况，制定优先升级计划。",
+    "author": "@FT",
+    "url": "https://x.com/FT/status/2126112429226549748",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 31,
+      "reposts": 0,
+      "replies": 1,
+      "views": 11650,
+      "bookmarks": 7
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "@lookonchain 称，资管/对冲基金 Abraxas Capital 再购入 1,700 枚比特币（约 1.03 亿美元）；过去一周累计约 21,520 枚（约 12.85 亿美元），均价约 59,739 美元。@EmberCN 的链上记录更准确地说是：该基金近 6 天从 Binance 和 Kraken 向链上钱包提取了约 21,521 枚比特币。",
+    "author": "@lookonchain",
+    "url": "https://x.com/lookonchain/status/2126122724439490995",
+    "extra_urls": [
+      "https://x.com/EmberCN/status/2126114290587533519"
+    ],
+    "metrics": {
+      "likes": 511,
+      "reposts": 0,
+      "replies": 80,
+      "views": 48958,
+      "bookmarks": 46
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，币安在安全事件后已全面解除提币暂停，几乎所有网络的提币已恢复。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126091153506210298",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 190,
+      "reposts": 0,
+      "replies": 41,
+      "views": 29860,
+      "bookmarks": 2
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "美国之音中文报道，日本维新会参议员石平 11 月 26 日在参议院质询时，就高市早苗首相 11 月 18 日抵达深圳宝安机场时专机舱门与舷梯约 40 厘米落差一事，向中国政府表示“强烈抗议”。《纽约时报》中文称，亦有评论认为高市在深圳出席 APEC 期间受到冷遇，迎接官员级别较低。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2126102081140637997",
+    "extra_urls": [
+      "https://x.com/nytchinese/status/2126107369302266326"
+    ],
+    "metrics": {
+      "likes": 436,
+      "reposts": 0,
+      "replies": 147,
+      "views": 62230,
+      "bookmarks": 44
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号称，央视新闻 11 月 25 日报道为巴基斯坦航天员准备了符合清真规范、超过 100 个品类的专属航天食品库后，11 月 26 日不少网友批评宣传口“崇洋媚外”“讨好外国人”，认为与日常排外叙事相矛盾。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126113776353058919",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 551,
+      "reposts": 0,
+      "replies": 46,
+      "views": 116570,
+      "bookmarks": 58
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "路透社报道，乌克兰总统泽连斯基称，俄罗斯正准备在未来数日发动新一轮大规模袭击。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2126108799010238744",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 173,
+      "reposts": 0,
+      "replies": 55,
+      "views": 75000,
+      "bookmarks": 9
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，感恩节行情升温：纳斯达克 100 期货上涨约 2.5%，标普 500 期货升破 7,300 点、为 11 月 19 日以来首次，较上周五低点回升约 6%；金价升破每盎司 3,600 美元，白银涨逾 5%。路透社证实，特朗普称对周三股市急跌一度“有点担心”，随后市场回升。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126147641423937581",
+    "extra_urls": [
+      "https://x.com/KobeissiLetter/status/2126165560002015515",
+      "https://x.com/KobeissiLetter/status/2126153788407136277",
+      "https://x.com/Reuters/status/2126149173560983862"
+    ],
+    "metrics": {
+      "likes": 2888,
+      "reposts": 0,
+      "replies": 128,
+      "views": 192557,
+      "bookmarks": 77
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@unusual_whales 援引《金融时报》称，欧盟计划设立规模最高约 500 亿欧元的主权科技股权基金（Sovereign Tech Equity Fund），投资人工智能和量子计算企业，以减少对美中技术的依赖，并做更大规模、更高风险、更长期的投资。公开报道称，欧盟委员会已于 11 月 25 日公布相关量子法案与基金构想。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2126103961975365708",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 617,
+      "reposts": 0,
+      "replies": 139,
+      "views": 145534,
+      "bookmarks": 58
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
