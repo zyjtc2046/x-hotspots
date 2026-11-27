@@ -1,0 +1,526 @@
+[
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "《金融时报》报道，OpenAI 已对苹果提起反诉，指控其窃取商业秘密。@spectatorindex 转述同一报道，称指控为“stealing trade secrets”。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2126404121595179063",
+    "extra_urls": [
+      "https://x.com/FT/status/2126384456718020907"
+    ],
+    "metrics": {
+      "likes": 754,
+      "reposts": 86,
+      "replies": 35,
+      "views": 99775,
+      "bookmarks": 46
+    },
+    "why": "两家科技巨头由合作转向对簿公堂，可能影响 iOS 上的 AI 分发格局与行业竞争规则。",
+    "verify": "对照了《金融时报》官方账号@FT 同题发帖，确认其标题为 OpenAI countersues Apple for stealing trade secrets；未阅读付费全文，诉讼请求、证据细节和苹果方面回应尚未核实。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@emollick 认为，如今已能以便宜的成本、用任何语言向任何持有手机的人提供接近优质个性化人工帮助的服务，教育和医疗等领域的部分难题或因此变得可解，但他觉得这方面的雄心还不够。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2126142028060795261",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 995,
+      "reposts": 74,
+      "replies": 305,
+      "views": 59891,
+      "bookmarks": 235
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@emollick 观察：眼下要用 AI 做出真正新的发现，仍需要一定的专业判断力，否则很容易得到看似漂亮、却经不起核查或缺乏语境的结果；他同时表示这种情况可能不会一直持续。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2126345004746707119",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 399,
+      "reposts": 28,
+      "replies": 156,
+      "views": 24765,
+      "bookmarks": 62
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@op7418 推荐阅读《黑神话》制作人冯骥在公众号刊发的文章《后 AI 时代最重要的问题》，文中探讨后 AI 时代可能的分配方式。",
+    "author": "@op7418",
+    "url": "https://x.com/op7418/status/2126306059648462936",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 469,
+      "reposts": 36,
+      "replies": 66,
+      "views": 65214,
+      "bookmarks": 216
+    },
+    "tags": [
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "《The Information》报道，OpenAI 正在开发名为 Athena 的数据工具，旨在提高其 AI agent 的准确性，以争取企业在供应链管理和财务自动化等方面的订单。",
+    "author": "@theinformation",
+    "url": "https://x.com/theinformation/status/2126315219940986922",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 33,
+      "reposts": 1,
+      "replies": 8,
+      "views": 7222,
+      "bookmarks": 5
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@Polymarket 称，Meta 员工透露，公司在用 AI 取代人工审核员后，内容审核系统已变得“一团糟”。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126404695002644768",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 841,
+      "reposts": 96,
+      "replies": 59,
+      "views": 47059,
+      "bookmarks": 73
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "AI",
+    "summary": "@AYi_AInotes 转述 DeepMind CEO Demis Hassabis 的说法：能打赢人类游戏、考过专业测试的 AI 仍不算 AGI，真正的通用智能应能让 AlphaGo 的后代从零发明围棋；他还提到把模型知识截止点锁在 1901 年、看其能否做出类似爱因斯坦 1905 年工作的“爱因斯坦测试”。原帖后文被截断，完整表述见链接。",
+    "author": "@AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes/status/2126290817312575889",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 52,
+      "reposts": 11,
+      "replies": 6,
+      "views": 21039,
+      "bookmarks": 34
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，马来西亚已批准该国首只现货比特币 ETF，据称为全球首只符合伊斯兰教法（Shariah）的比特币现货 ETF，定于 12 月 2 日亮相。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126370750412071199",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 181,
+      "reposts": 26,
+      "replies": 50,
+      "views": 31178,
+      "bookmarks": 20
+    },
+    "why": "若属实，这是伊斯兰金融市场首次接纳比特币现货 ETF，可能打开新的合规资金入口。",
+    "verify": "目前只看到 Cointelegraph 的宣布帖，尚未对照马来西亚证监会或交易所的官方公告，上市代码、发行人与托管安排未核实。"
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk 称，XRP Ledger 原生借贷协议再差一票验证者同意即可激活；Single Asset Vaults 已获得所需的 29 票，可能于 12 月 9 日上线，借贷系统目前为 28 票、还差一票。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2126264112040558944",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 555,
+      "reposts": 86,
+      "replies": 48,
+      "views": 43037,
+      "bookmarks": 21
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，中国已发布基于区块链的数字身份新规，将于 2027 年 3 月 1 日生效，允许跨平台身份核验，同时限制个人数据收集。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126380557579743506",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 116,
+      "reposts": 33,
+      "replies": 30,
+      "views": 31736,
+      "bookmarks": 19
+    },
+    "tags": [
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "CoinDesk 称，日本银行警告，稳定币需受到严格监管并审慎与央行货币衔接，否则可能造成金融体系碎片化；央行已启动分布式账本技术沙盒，测试跨境支付和代币化日本国债结算。",
+    "author": "@CoinDesk",
+    "url": "https://x.com/CoinDesk/status/2126327956259639386",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 156,
+      "reposts": 25,
+      "replies": 51,
+      "views": 27680,
+      "bookmarks": 12
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@lookonchain 称，交易者 Aguila Trades 在市场下跌时平掉全部 2,440 枚比特币多头（约 1.5 亿美元），亏损超过 350 万美元。",
+    "author": "@lookonchain",
+    "url": "https://x.com/lookonchain/status/2126342896865730916",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 282,
+      "reposts": 14,
+      "replies": 67,
+      "views": 51710,
+      "bookmarks": 11
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "Crypto",
+    "summary": "@lookonchain 更新称，11 月 27 日比特币 ETF 单日净流出 323 枚（约 1981 万美元），近 7 日净流出 31,890 枚（约 19.6 亿美元）；以太坊 ETF 单日净流入 23 枚，近 7 日净流出 171,634 枚（约 2.95 亿美元）。",
+    "author": "@lookonchain",
+    "url": "https://x.com/lookonchain/status/2126339781525401836",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 100,
+      "reposts": 10,
+      "replies": 26,
+      "views": 40423,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "美国之音中文报道，香港宏福苑大火一周年之际，11 月 26 日晚香港民安队人员以腾出空间为由移走市民为 168 名遇难者献上的鲜花，现场民众不满并与工作人员交涉，随后接力取回花束重新摆放。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2126339234210496643",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 262,
+      "reposts": 46,
+      "replies": 20,
+      "views": 34413,
+      "bookmarks": 40
+    },
+    "why": "这是昨日所报周年哀悼的后续：公共悼念空间如何被管理，本身已成为现场冲突点。",
+    "verify": "对照了美国之音中文的报道帖，时间、地点和“民安队移花、市民取回重放”的经过与该报道一致；未找到港府或民安队的官方说明，移花是否另有安全或场地安排尚未核实。"
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "台湾九合一选举于北京时间今日（11 月 28 日）举行。自由亚洲电台报道，台北市长选前之夜，寻求连任的蒋万安举行大型造势，卢秀燕、韩国瑜到场站台；沈伯洋改为线上直播，赖清德到场，其家人也首次公开现身。美国之音中文称，选举最后冲刺之际，解放军军机军舰持续在周边演训。",
+    "author": "@RFA_Chinese",
+    "url": "https://x.com/RFA_Chinese/status/2126315620845445143",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2126361869657256310"
+    ],
+    "metrics": {
+      "likes": 47,
+      "reposts": 5,
+      "replies": 8,
+      "views": 24146,
+      "bookmarks": 7
+    },
+    "why": "台北市长等地方选举结果将在今日陆续揭晓，选前造势与解放军周边演训叠加，是观察两岸气氛的窗口。",
+    "verify": "选前之夜行程对照了自由亚洲电台报道；解放军周边演训来自美国之音中文另一则帖文，未对照台湾国防部门或解放军官方通报，演训规模与是否较往常升级尚未核实。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "@_FORAB 提到美团老员工最新万字长文《困在团里》，并称近半年阿里（钉内）、字节（薯内）等大厂也出现多篇员工长文。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2126215294758879277",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 121,
+      "reposts": 9,
+      "replies": 23,
+      "views": 33658,
+      "bookmarks": 75
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "@_FORAB 称，在马化腾提出“危机淘汰论”后，腾讯游戏部门 IEG 部分员工发文抱怨：作为公司主要盈利来源，却感觉在给 AI 业务输血，赚钱最多、地位却最低，还被指跟不上时代。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2126166937344590014",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 177,
+      "reposts": 8,
+      "replies": 39,
+      "views": 63592,
+      "bookmarks": 46
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "德国之声中文转述台湾中央警察大学学者王智盛的分析：2027 年中共二十一大换届在即，曾被视为有望晋升的陈吉宁落马，显示反腐已从派系、军方延伸到外界眼中的潜在接班人；该学者认为，这可能意味着习近平不仅要在二十一大延任，还想在二十二大继续掌权。",
+    "author": "@dw_chinese",
+    "url": "https://x.com/dw_chinese/status/2126335236434735170",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 33,
+      "reposts": 8,
+      "replies": 5,
+      "views": 12305,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号@KELMAND1 称，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上表示，中央企业对业务重叠、产能过剩、低价竞争的板块要坚决合并精简。",
+    "author": "@KELMAND1",
+    "url": "https://x.com/KELMAND1/status/2126237307045105738",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 59,
+      "reposts": 5,
+      "replies": 5,
+      "views": 7046,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察",
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号称，11 月 26 日晚白纸运动四周年，一名 COS 成“小丑习近平”的男子在纽约中国领事馆前举起写有「乌鲁木齐中路」的路牌。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126381832849764756",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 342,
+      "reposts": 20,
+      "replies": 11,
+      "views": 18163,
+      "bookmarks": 20
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国内形势",
+    "summary": "立场账号@KELMAND1 转述国家统计局数据：中国 10 月规模以上工业企业利润同比增长 20.1%；1–10 月规模以上工业企业利润总额 6.73736 万亿元，同比增长 16%（前值 15.50%）。",
+    "author": "@KELMAND1",
+    "url": "https://x.com/KELMAND1/status/2126164775117959302",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 53,
+      "reposts": 3,
+      "replies": 1,
+      "views": 4743,
+      "bookmarks": 6
+    },
+    "tags": [
+      "价值观察",
+      "立场账号",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@Polymarket 称，得克萨斯州已解除对 1,800 多个数据中心项目的冻结。@_FORAB 稍早还分享航拍，称 SpaceX 在得州一处约 8 月底划出的地块上已于近三个月内竖起多栋厂房，并按约 750 兆瓦发电规模推算可支撑约 600 兆瓦 IT 算力。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126418927349887487",
+    "extra_urls": [
+      "https://x.com/_FORAB/status/2126153831373574571"
+    ],
+    "metrics": {
+      "likes": 998,
+      "reposts": 113,
+      "replies": 53,
+      "views": 40540,
+      "bookmarks": 52
+    },
+    "why": "若解禁属实，将直接影响美国 AI 电力与数据中心供给，是算力扩张的关键卡点之一。",
+    "verify": "目前只看到 @Polymarket 的快讯，尚未对照得州政府或电网监管机构的官方文件，解禁范围、附加条件和生效时间未核实。@_FORAB 所提 SpaceX 工地是相关背景，并非同一则政策宣布。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 援引路透社称，美国曾鼓励委内瑞拉和伊拉克退出欧佩克（OPEC）。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2126401228729110780",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 759,
+      "reposts": 102,
+      "replies": 18,
+      "views": 100261,
+      "bookmarks": 35
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，美国银行信贷条件在收紧：据美联储经济状况调查，第八联邦储备区银行业和放贷机构负责人中，净 30% 报告本季贷款需求下降，并称这标志着明显恶化。原帖后文在配图中，未完整抓取。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126401401831985156",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 425,
+      "reposts": 58,
+      "replies": 72,
+      "views": 91948,
+      "bookmarks": 71
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，中国前 10 个月非货币黄金进口升至创纪录的 2,090 亿美元，约占同期进口总额的 8%；相比之下，2025 年全年黄金进口为 965 亿美元。十月单月数据在原帖配图中，未完整抓取。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126417919219286283",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 354,
+      "reposts": 45,
+      "replies": 46,
+      "views": 68665,
+      "bookmarks": 40
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "乌克兰总统泽连斯基称，已与意大利总理梅洛尼通话，讨论当前问题；他确认“近期在利比亚的行动”事先未与欧洲伙伴协调。原帖后文被截断。联合早报中文账号称，泽连斯基对美国表达强烈失望，指责华盛顿延迟交付关键反导拦截弹正令乌方付出生命代价，并在和谈中对俄施压不足。",
+    "author": "@ZelenskyyUa",
+    "url": "https://x.com/ZelenskyyUa/status/2126378091274527008",
+    "extra_urls": [
+      "https://x.com/zaobaosg/status/2126315417186501059"
+    ],
+    "metrics": {
+      "likes": 3623,
+      "reposts": 463,
+      "replies": 452,
+      "views": 200635,
+      "bookmarks": 110
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "路透社独家报道援引消息人士称，一支原定前往利比亚的俄罗斯军事船队，在 11 月 22 日一艘军舰被击沉后已掉头。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2126415827125633375",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 27,
+      "reposts": 7,
+      "replies": 6,
+      "views": 26269,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "早报",
+    "category": "国际形势",
+    "summary": "立场账号@visegrad24 发布西班牙极右翼 Vox 党在周日大选前的最后一场集会，并称 Vox 可能与中右翼人民党（PP）组成联合政府，以取代首相桑切斯。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2126418887638139356",
+    "extra_urls": [
+      "https://x.com/FT/status/2126360721474691221"
+    ],
+    "metrics": {
+      "likes": 361,
+      "reposts": 57,
+      "replies": 8,
+      "views": 16332,
+      "bookmarks": 16
+    },
+    "tags": [
+      "立场账号"
+    ]
+  }
+]

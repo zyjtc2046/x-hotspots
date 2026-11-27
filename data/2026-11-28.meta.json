@@ -1,0 +1,7 @@
+{
+  "window": "2026-11-27 05:27–2026-11-28 05:30（北京时间）",
+  "queries": 18,
+  "ok": 18,
+  "failed": [],
+  "note": "国内第二组大号查询误将 nytchinese 写成 nytcchinese，已用机动查询补查，该账号窗口内无原帖返回。因单次最多 25 条，部分低频大号被高产账号挤出，已用第二次机动查询补拉 _FORAB、NewsCaixin、KELMAND1、ZelenskyyUa、FT、AP、nytimes、lookonchain、WuBlockchain、OpenAI、VitalikButerin。另用 search_news 辅助核对当日事件，不计入上述 18 次。无查询失败或限流。"
+}
