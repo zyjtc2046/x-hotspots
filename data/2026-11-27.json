@@ -700,5 +700,215 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 援引路透社称，美国空军旗舰云计算平台 Cloud One 遭黑客入侵，可能危及敏感的战术、人员与后勤数据。该平台被定位为空军信息技术的“一站式”入口，也是美军最大的云平台之一。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126275511076708534",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 283,
+      "reposts": 56,
+      "replies": 39,
+      "views": 42758,
+      "bookmarks": 36
+    },
+    "why": "这是美军核心云基础设施的安全事件，一旦战术、人员和后勤数据暴露，影响会超出单一军种的信息技术部门。",
+    "verify": "对照了 @KobeissiLetter 对路透社的转述，以及 X 新闻聚合的相关综合：空军团队在上月一次例行升级中发现入侵，攻击者利用软件漏洞进入 Cloud One 控制平面；该平台用于飞机状态、后勤、防空数据与弹药追踪等，覆盖200余个基地。已暂停迁移、阻止更新、收回管理员权限，并由美国网络司令部复查。损害范围、攻击者身份和路透原文细节，本次未打开原文核对。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "@_FORAB 称，国务院常务会议明确提出要加力发挥“国家队”稳市作用；下午监管部门计划更严格限制控股股东、实控人减持套现。@ChineseWSJ 称，国务院周五强调有必要完善稳市机制，亚洲市场跟随美国股指期货走高，上证综指涨3.2%，创业板指数飙升10%。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2126191717544267841",
+    "extra_urls": [
+      "https://x.com/ChineseWSJ/status/2126217042084626769"
+    ],
+    "metrics": {
+      "likes": 195,
+      "reposts": 7,
+      "replies": 58,
+      "views": 76526,
+      "bookmarks": 28
+    },
+    "why": "政策明确托市后出现大幅反弹，是观察国内资本市场政策取向和资金情绪的直接窗口。",
+    "verify": "对照了 @_FORAB 的市场解读和 @ChineseWSJ 对国务院表态及指数涨幅的报道。X 新闻聚合称，李强主持的国务院会议释放国家队与稳市信号后，上证综指约涨3.73%、科创50涨逾15%、创业板约涨11.61%。指数数字与 @ChineseWSJ 不完全一致，可能因截稿时点不同。@_FORAB 所称“更严格卡住控股股东减持”，未见 @ChineseWSJ 同步证实，具体措施以监管部门后续文件为准。",
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@unusual_whales 援引《纽约时报》称，华为芯片预计今年只能提供英伟达人工智能算力的不到4%，且华为不太可能在2030年前后赶上英伟达目前的产出水平。",
+    "author": "@unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2126269153078304914",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 167,
+      "reposts": 20,
+      "replies": 35,
+      "views": 51044,
+      "bookmarks": 17
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@Cointelegraph 援引《日本经济新闻》称，日本最大发电企业 JERA 正与 Anthropic、Meta 及其他美国科技巨头洽谈，计划在东京地区其电厂附近建设数据中心。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126201913171407151",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 104,
+      "reposts": 16,
+      "replies": 36,
+      "views": 31366,
+      "bookmarks": 8
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "@Cointelegraph 援引路透社称，中国、日本、韩国已与东盟国家同意成立工作组，以连接跨境支付系统并对齐数字资产规则。公开报道称，中日韩与11个东盟国家于11月25日至26日在京都举行东盟+3财长和央行副手会议，讨论互联支付与数字资产监管协调。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126171704195989758",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 887,
+      "reposts": 204,
+      "replies": 78,
+      "views": 60947,
+      "bookmarks": 87
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号称，习近平与特朗普深圳会晤6天后，美国贸易代表办公室于11月25日公布对华关税提案：若认为双方谈判未能充分解决制造业产能过剩问题，将考虑对所有输美中国商品征收最高40%的关税。美方列出补贴、扶持国企、强制技术转让和劳动保障不足等九项它认为助长产能过剩的做法。这与今早所报中国商务部反对美方对14个经济体拟加征301关税，是同一调查的后续税率细节。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126259738782339355",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 81,
+      "reposts": 5,
+      "replies": 14,
+      "views": 18220,
+      "bookmarks": 8
+    },
+    "tags": [
+      "立场账号",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 称，法国经济在2026年第三季度收缩0.2%。公开报道援引法国国家统计机构 INSEE 称，最终数据为环比下降0.2%，主要受出口和投资下滑拖累。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2126223688358097009",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1609,
+      "reposts": 208,
+      "replies": 48,
+      "views": 124564,
+      "bookmarks": 49
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@Polymarket 称，挪威航空公司 Norse Atlantic 在面临潜在破产之际，已暂停全球所有航班。公开报道称，该公司在11月25日警示资金紧张后，于11月26日停飞；机队为12架波音787-9，若无法迅速获得融资或被收购，董事会拟申请破产。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126234320532549685",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 896,
+      "reposts": 134,
+      "replies": 43,
+      "views": 40745,
+      "bookmarks": 47
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@zaobaosg 称，荷兰政府表示将抵制美国进一步限制该国光刻机巨企阿斯麦（ASML）对华销售的计划，并称美国拟议条规对这家欧洲市值最高的公司构成威胁。公开报道称，荷兰贸易大臣表示不会简单接受美方指令。",
+    "author": "@zaobaosg",
+    "url": "https://x.com/zaobaosg/status/2126194645994438773",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 15,
+      "reposts": 2,
+      "replies": 5,
+      "views": 14512,
+      "bookmarks": 1
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@bbcchinese 转述 BBC Verify：台湾地方选举前夕，政治人物成为网络攻势目标，社交平台上流传利用人工智能制作的不实及误导性影片；分析指出，一个与中国有关联的网络已制作数百部针对台湾执政党的假影片。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2126196431493136805",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 108,
+      "reposts": 27,
+      "replies": 37,
+      "views": 24108,
+      "bookmarks": 9
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "路透社报道，欧盟委员会主席冯德莱恩表示，她对欧盟领导人广泛支持一项拟议中约490亿美元的对乌克兰贷款“感到高兴”。",
+    "author": "@Reuters",
+    "url": "https://x.com/Reuters/status/2126219472654721183",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 153,
+      "reposts": 35,
+      "replies": 60,
+      "views": 37649,
+      "bookmarks": 7
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
