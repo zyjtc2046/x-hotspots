@@ -522,5 +522,236 @@
     "tags": [
       "立场账号"
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "美国货币监理署于 11 月 27 日关闭印第安纳州埃文斯维尔的 United Fidelity Bank（联邦储蓄银行），指定 FDIC 为接管人；北卡罗来纳州 First-Citizens Bank & Trust 承接其绝大部分存款与资产。截至 9 月 30 日，该行资产约 59 亿美元、存款约 54 亿美元，FDIC 估计此次倒闭将给存款保险基金造成约 18.3 亿美元损失。@Polymarket 称这是两年多来美国最大的银行倒闭。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126531025568215040",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 416,
+      "reposts": 143,
+      "replies": 37,
+      "views": 17196,
+      "bookmarks": 43
+    },
+    "why": "这是 2024 年以来美国规模最大的银行倒闭案之一，涉及约 59 亿美元资产，直接关系到区域银行风险和存款保险基金的负担。",
+    "verify": "对照了美国联邦存款保险公司（FDIC）2026 年 11 月 27 日新闻稿：货币监理署关闭 United Fidelity Bank, fsb，指定 FDIC 为接管人，First-Citizens 承接绝大部分存款和资产；22 家分行分布在印第安纳、伊利诺伊、佛罗里达、科罗拉多和美属维尔京群岛。储户资金仍受保险保护，可通过支票、ATM 和借记卡取用。FDIC 估计将给存款保险基金造成约 18.3 亿美元损失。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "计算机科学家斯科特·阿罗森称，他掌握具体信息：人工智能实验室即将发布理论密码分析方面的重大突破，但该结果不会对目前已部署的密码系统构成迫在眉睫的危险。@Polymarket 将其转述为实验室准备发布“理论密码分析重大突破”。@AYi_AInotes 还提到，阿罗森早前曾据多方来源表示，OpenAI 或 Anthropic 可能握有密码学“重磅”进展；@emollick 评论称，无论密码学方面正在发生什么，抽象领域的 AI 进展或将更多触及人们未曾意识到相关的关键技术。",
+    "author": "@Polymarket",
+    "url": "https://x.com/Polymarket/status/2126443258159255811",
+    "extra_urls": [
+      "https://x.com/AYi_AInotes/status/2126481622644019263",
+      "https://x.com/emollick/status/2126514496781025710"
+    ],
+    "metrics": {
+      "likes": 3356,
+      "reposts": 255,
+      "replies": 136,
+      "views": 254010,
+      "bookmarks": 441
+    },
+    "why": "若顶级实验室即将公布理论密码分析突破，即使不立即威胁现网加密，也可能改变对 AI 数学能力、以及后量子迁移节奏的评估。",
+    "verify": "对照了阿罗森 11 月 27 日在其博客中的表述：他有“具体信息”称实验室即将发布理论密码分析的重大突破，但“不会对目前已部署的密码系统构成迫在眉睫的危险”，且不能公开更多细节；他未点名实验室，也未说明具体数学问题或发布时间。更早关于“多项式时间分解（Factoring in P）”等传闻，他表示并没有同等具体、可付诸行动的信息。OpenAI、Anthropic 尚未公开确认任何相关结果。@Polymarket 的转述比原话更绝对。",
+    "tags": [
+      "今日优先看",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "@_FORAB 称，为《纽约时报》撰写 Anthropic 正面报道的撰稿人 Jasmine Sun，曾领取 Anthropic 股东方面提供的约 5 万美元津贴：她在 2026 年 1–7 月担任该机构驻站记者，月薪 8,000 美元外加 2,000 美元差旅；时报 11 月 17 日聘用她，次日正值 Anthropic 上市并刊出相关文章。公开报道指津贴来自 Omidyar Network，该机构 2024 年曾购入 Anthropic 股份。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2126476476505817489",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 602,
+      "reposts": 93,
+      "replies": 60,
+      "views": 52535,
+      "bookmarks": 76
+    },
+    "tags": [
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "AI",
+    "summary": "@oran_ge 认为，AI 在大多数公司里的实际场景是让员工以 10 倍效率做一件根本不该做的事；执行变得极易之后，更应先讨论什么值得做，否则真正困难的决策会被逃避。",
+    "author": "@oran_ge",
+    "url": "https://x.com/oran_ge/status/2126478234728665508",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 126,
+      "reposts": 7,
+      "replies": 48,
+      "views": 10287,
+      "bookmarks": 16
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，比特币与传统市场走势背离，跌破 59,000 美元，同期股市与金价上涨；分析认为连续四周高于平均水平的卖出量，可能意味着比特币接近卖方投降。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126466162594582707",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 115,
+      "reposts": 22,
+      "replies": 63,
+      "views": 26901,
+      "bookmarks": 9
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "Crypto",
+    "summary": "Cointelegraph 称，Cash App 母公司 Block 已原则上同意支付约 4.425 亿美元，以和解一项覆盖 2020–2024 年的联邦证券集体诉讼，依据是一份 SEC 8-K 文件；该和解仍需法院批准。",
+    "author": "@Cointelegraph",
+    "url": "https://x.com/Cointelegraph/status/2126435965271003188",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 90,
+      "reposts": 8,
+      "replies": 25,
+      "views": 30644,
+      "bookmarks": 7
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "台湾“九合一”选举于今日投票。BBC 中文称，约 1,965 万选民将票选县市长、地方议员、乡镇村里长等近 1.11 万名公职，并同步公投决定日后能源政策。@Polymarket 称公投议题涉及是否废除“非核家园”政策、重启核电，背景是人工智能与半导体产业推高用电需求。民进党台北市长候选人沈伯洋已与家人前往金华国中投票所投票，将主要挑战寻求连任的国民党籍蒋万安。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2126473321764004181",
+    "extra_urls": [
+      "https://x.com/Polymarket/status/2126462296977195428",
+      "https://x.com/bbcchinese/status/2126507863552168347"
+    ],
+    "metrics": {
+      "likes": 41,
+      "reposts": 4,
+      "replies": 6,
+      "views": 16113,
+      "bookmarks": 1
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号称，11 月 27 日互联网流传一份“严禁被引用做素材”的书单；网友称可能因出版产品面向青少年而一刀切，并要求对外国作品核查作者及是否涉及政治敏感话题。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126473651507642803",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 502,
+      "reposts": 64,
+      "replies": 52,
+      "views": 98195,
+      "bookmarks": 235
+    },
+    "tags": [
+      "立场账号",
+      "待核实",
+      "值得收藏"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "立场账号称，11 月 27 日广电总局禁止电视开机广告的新规正式施行，央视新闻宣布“今天起，电视不得播放开机广告”，但有网友实测开机仍需看 15 秒广告。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126488750750396724",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 170,
+      "reposts": 11,
+      "replies": 21,
+      "views": 37139,
+      "bookmarks": 15
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国内形势",
+    "summary": "美国之音中文报道，去年 8 月通过远程控制投影机在重庆大楼投射反共标语的异议人士戚洪，11 月 25 日在伦敦获得英国言论自由组织《审查指数》（Index on Censorship）颁发的年度言论自由奖倡议奖。他表示，个人声音或许微弱，但“一个声音可以给另一个人勇气”。",
+    "author": "@VOAChinese",
+    "url": "https://x.com/VOAChinese/status/2126490005669388688",
+    "extra_urls": [
+      "https://x.com/VOAChinese/status/2126467302589902885"
+    ],
+    "metrics": {
+      "likes": 142,
+      "reposts": 22,
+      "replies": 30,
+      "views": 17410,
+      "bookmarks": 20
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@DeItaone 援引《华尔街日报》称，花旗集团伦敦业务少计了 350 亿美元风险加权资产，并因此出现人事调整；报道称该行向一家英国主要子公司注资约 30 亿美元以应对这一差错。公开报道指问题源于未经批准的内部模型，银行方面称发现问题后已在今夏处理，且该子公司资本此前也未跌破监管最低要求。",
+    "author": "@DeItaone",
+    "url": "https://x.com/DeItaone/status/2126477574821872056",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 495,
+      "reposts": 85,
+      "replies": 74,
+      "views": 131315,
+      "bookmarks": 59
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "午报",
+    "category": "国际形势",
+    "summary": "@KobeissiLetter 称，投机投资者在过去 6 周将纳斯达克 100 期货仓位减少了相当于总持仓量 17% 的规模，是 2022 年熊市以来最大的 6 周减持，并称这与此前一轮 6 周增持形成急剧逆转。原帖后文被截断。",
+    "author": "@KobeissiLetter",
+    "url": "https://x.com/KobeissiLetter/status/2126434072331534650",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1075,
+      "reposts": 114,
+      "replies": 126,
+      "views": 183651,
+      "bookmarks": 183
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
