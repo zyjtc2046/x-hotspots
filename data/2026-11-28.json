@@ -753,5 +753,227 @@
     "tags": [
       "价值观察"
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "台湾“九合一”选举投票已于当地时间 16:00 结束并进入开票。BBC 中文称，开票不到两小时，金门县和连江县两名国民党县长候选人已自行宣布当选；在竞争激烈的台北市，多家当地媒体显示寻求连任的国民党籍市长蒋万安暂时领先民进党的沈伯洋。立场账号称蒋万安一度领先约 7 个百分点。核电公投票将在地方选举票之后开出，本轮窗口结束时开票仍在进行。",
+    "author": "@bbcchinese",
+    "url": "https://x.com/bbcchinese/status/2126623986033311779",
+    "extra_urls": [
+      "https://x.com/bbcchinese/status/2126601596243185802",
+      "https://x.com/whyyoutouzhele/status/2126628257650884695"
+    ],
+    "metrics": {
+      "likes": 19,
+      "reposts": 3,
+      "replies": 1,
+      "views": 11906,
+      "bookmarks": 0
+    },
+    "why": "这是午报所报“投票开始”之后的实质进展。开票走势关系到国民党能否守住台北、六都格局以及核电公投，也被外界视为对赖清德执政的一次期中检验。",
+    "verify": "对照了 BBC 中文关于投票结束与开票进展的两则帖子，以及公开开票页：截至北京时间约 19:26，开票尚未结束；台北市已开约三分之二投开票所，蒋万安得票率约 53.8%、沈伯洋约 45.6%。金门、连江由国民党候选人自行宣布当选，正式当选须以中选会公告为准。核电公投结果在本窗口内尚未从上述来源确认。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@spectatorindex 突发称，也门沿海有船只遭劫持。英国海事贸易行动机构（UKMTO）通报，11 月 28 日 06:30 UTC（北京时间 14:30），一艘货船在也门巴尔哈夫西南约 64 海里处遭武装人员登船并控制。",
+    "author": "@spectatorindex",
+    "url": "https://x.com/spectatorindex/status/2126586332097171936",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1497,
+      "reposts": 193,
+      "replies": 46,
+      "views": 119017,
+      "bookmarks": 42
+    },
+    "why": "亚丁湾再发货船劫持，正值红海—亚丁湾航道长期紧张之际，可能推高航运风险与保险成本，并影响能源与贸易运输预期。",
+    "verify": "对照了 UKMTO 第 225-26 号警告，以及路透社经《阿拉伯新闻》转述的同一通报：船长报告武装未授权人员已控制船只，位置约 12°55′N 048°04′E；当局已接报，建议附近船只谨慎航行。船名、船籍和袭击者身份在上述来源中均未公布，本次也未看到路透社官方 X 账号同步发帖。",
+    "tags": [
+      "今日优先看"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@dotey 介绍 Anthropic 联合创始人 Jack Clark 的观点：AI 加快科学研究之后，人类需要投入更多精力去理解机器做出的科学成果，这可能催生一门新学问，他称之为“机器诠释学”（Machine Hermeneutics）。该帖并附上 Clark 在周报 Import AI 第 482 期中一篇设定在 2033 年的虚构小说。",
+    "author": "@dotey",
+    "url": "https://x.com/dotey/status/2126556168357109903",
+    "extra_urls": [
+      "https://x.com/AYi_AInotes/status/2126571654868349144"
+    ],
+    "metrics": {
+      "likes": 109,
+      "reposts": 14,
+      "replies": 80,
+      "views": 14776,
+      "bookmarks": 84
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "AI",
+    "summary": "@emollick 提醒：AI 模型在“谈论 AI 自身”的演示里往往令人惊艳，例如做音乐视频、幻灯片或自我解说，作品既有创意又让人不安；但若要求它们为普通、非 AI 的主题做同样的事，表现会差一截。原帖后文被截断。",
+    "author": "@emollick",
+    "url": "https://x.com/emollick/status/2126564206702899646",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 152,
+      "reposts": 3,
+      "replies": 102,
+      "views": 14882,
+      "bookmarks": 18
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "特朗普家族关联的 World Liberty Financial 治理代币 WLFI 日内大幅下跌。Cointelegraph 称其 24 小时跌幅一度达 45%、报约 0.02289 美元；吴说区块链称盘中最低约 0.0158 美元、24 小时跌超 59%。@lookonchain 称其稳定币 USD1 短暂脱锚至 0.94 美元，Jump Crypto 在交易所折价买入并经 BitGo 按 1 美元赎回。@_FORAB 称导火索是项目战略储备钱包在未发公告的情况下卖出约 1.21 万枚以太坊。",
+    "author": "@_FORAB",
+    "url": "https://x.com/_FORAB/status/2126577571433431492",
+    "extra_urls": [
+      "https://x.com/Cointelegraph/status/2126550720837042643",
+      "https://x.com/lookonchain/status/2126579948244869339",
+      "https://x.com/WuBlockchain/status/2126560570967228818"
+    ],
+    "metrics": {
+      "likes": 176,
+      "reposts": 23,
+      "replies": 43,
+      "views": 70202,
+      "bookmarks": 45
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "Crypto",
+    "summary": "币安创始人 @cz_binance 称，使用受影响 iOS 版本（18.4–18.7）的用户，将在 Trust Wallet、CoinMarketCap、PancakeSwap、BNB Chain、Binance Wallet 等生态应用和网站上看到安全警告，并呼吁其他加密应用采取同样措施。公开报道指，相关警告与针对旧版 iOS 的 DarkSword 等漏洞利用有关。",
+    "author": "@cz_binance",
+    "url": "https://x.com/cz_binance/status/2126567714625880064",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 1095,
+      "reposts": 131,
+      "replies": 77,
+      "views": 301822,
+      "bookmarks": 100
+    },
+    "tags": [
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号称，11 月 24 日上海市委书记陈吉宁被查当天，中国人民大学教授毛寿龙在微信发文，将陈吉宁落马形容为“一个晋升模式（技术官僚）的坠落”；次日微信提示“此内容因违规无法查看”。文中还讨论官员升迁越到高位，越难以用政绩换取政治信任。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126556702380077131",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 284,
+      "reposts": 21,
+      "replies": 29,
+      "views": 91287,
+      "bookmarks": 94
+    },
+    "tags": [
+      "立场账号",
+      "价值观察",
+      "待核实"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国内形势",
+    "summary": "立场账号转述《解放军报》11 月 23 日报道：东部战区海军某驱逐舰支队邀请空军和火箭军参加海上演练时，空军航线未与海军防空安排对齐，战机两次进场均被友军模拟击落；火箭军也因不熟悉海上移动目标耽误了打击时机。复盘中有人提到平时跨军种合练太少。",
+    "author": "@whyyoutouzhele",
+    "url": "https://x.com/whyyoutouzhele/status/2126571799605309693",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 232,
+      "reposts": 19,
+      "replies": 24,
+      "views": 56446,
+      "bookmarks": 58
+    },
+    "tags": [
+      "立场账号",
+      "价值观察"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "立场账号 @visegrad24 称，乌克兰无人机群袭击了俄罗斯罗斯托夫州的新沙赫京斯克（Novoshakhtinsk）炼油厂，并称该厂是俄南部主要燃料供应商之一。",
+    "author": "@visegrad24",
+    "url": "https://x.com/visegrad24/status/2126586307715486063",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 637,
+      "reposts": 96,
+      "replies": 9,
+      "views": 21727,
+      "bookmarks": 15
+    },
+    "tags": [
+      "立场账号"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@BBCWorld 援引无国界医生（MSF）称，以色列袭击加沙一处医疗诊所，造成两名工作人员死亡。",
+    "author": "@BBCWorld",
+    "url": "https://x.com/BBCWorld/status/2126582213638607158",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 294,
+      "reposts": 118,
+      "replies": 137,
+      "views": 119602,
+      "bookmarks": 22
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "edition": "晚报",
+    "category": "国际形势",
+    "summary": "@business 称，挪威规模约 2.2 万亿美元的主权财富基金将在下周特斯拉年会上，投票反对埃隆·马斯克的 2025 年薪酬方案。",
+    "author": "@business",
+    "url": "https://x.com/business/status/2126625931309543678",
+    "extra_urls": [],
+    "metrics": {
+      "likes": 111,
+      "reposts": 20,
+      "replies": 14,
+      "views": 20661,
+      "bookmarks": 13
+    },
+    "tags": [
+      "价值观察"
+    ]
   }
 ]
